@@ -6204,7 +6204,40 @@
 	  "tags": [
         "scam"
       ]
-    }
+    },
+	{
+      "chainId": 1,
+      "address": "0x8d856820533a8282cdd327895d1dc82fad3d31d4",
+      "symbol": "STFI",
+      "name": "StartFiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xb9a5dc2e20effe04d6f45a55a3434cd1e3b14a32",
+      "symbol": "HERO",
+      "name": "StepHero",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x9bde3934e2c24fd92a49b98bb430da257d80ecc7",
+      "symbol": "RYOSHI",
+      "name": "Ryoshis Vision",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png", 
+	  "tags": [
+        "scam"
+      ]
+    }	
   ],
   "version": {
     "major": 1,
