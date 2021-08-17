@@ -6237,7 +6237,19 @@
 	  "tags": [
         "scam"
       ]
-    }	
+    },
+	{
+      "chainId": 1,
+      "address": "0xcb0DFd253F1e7431B896F8492d96B2094C797a50",
+      "symbol": "APUP",
+      "name": "Astropup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png", 
+	  "tags": [
+        "scam"
+      ]
+    }
+	
   ],
   "version": {
     "major": 1,
