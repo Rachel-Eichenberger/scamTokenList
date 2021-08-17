@@ -5,4 +5,4 @@ This List contains tokens that are either unsellable or don't allow pulling of L
 
 
 Currently pinned via pinata at
-https://gateway.pinata.cloud/ipfs/QmeFXyVmLL69RtpqsRNwUR1o7an4SSoHbgqqqrZnqsxNom/ScamTokenList.json
+https://gateway.pinata.cloud/ipfs/QmYZycQS82CvrNg7BbV5feifFgLNrW2fSj4Mj4r56esjHy/ScamTokenList.json
