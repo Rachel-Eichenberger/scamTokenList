@@ -4,7 +4,10 @@ A compilation of known scam tokens
 This List contains tokens that are either unsellable or don't allow pulling of Liquidity due to bug (and owners don't provide means to remove)
 
 
-Currently you can import via ens name ->  scamtokenlist.eth
+Currently you can import via github direct link ->  https://raw.githubusercontent.com/Rachel-Eichenberger/scamTokenList/main/ScamTokenList.json
+
+I own
+scamtokenlist.eth
 Will be updated as often as possible based on gas
 If you want to donate you can donate to the ens address
 This will go to cover more updates as gas isn't cheap :)
