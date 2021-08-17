@@ -11,4 +11,4 @@ This will go to cover more updates as gas isn't cheap :)
 
 
 constantly updated hash
-https://gateway.pinata.cloud/ipfs/QmdrA7bvzMR5diB7ufAjPAKMs8BcvPBsKgPE1dbpygDZx8
+https://gateway.pinata.cloud/ipfs/QmTf99aqUoZASWHbqYcj1NbhNhh78FBUemQ8sGZF5L6AsG
