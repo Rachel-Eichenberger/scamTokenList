@@ -6259,11 +6259,66 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x6Bf55fc23A404e8D499C3cb528eA2A41C7355960",
+      "symbol": "TRADE",
+      "name": "Polytrade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xA1B788D1A06071c13eB4e387113C210aC0fa3876",
+      "symbol": "ROCKET",
+      "name": "RocketOffic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x85CE92a0B2d5C19Bbf07d795Bc04927D47299f67",
+      "symbol": "BOMBO",
+      "name": "BomboPUMP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x1DE89887a10E3ab43a184826d7A120be11281623",
+      "symbol": "SPHRI",
+      "name": "Spherium Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x1Af718b9ed6E9E5aA40CBf80B411B4C927836A34",
+      "symbol": "INNV",
+      "name": "InnvoToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 2
   }
