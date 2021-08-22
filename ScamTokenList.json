@@ -6358,11 +6358,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xAc7B68f06644d1D0bb27478E54bCD8b875952161",
+      "symbol": "TSLA",
+      "name": "TSLA BOT Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 2
   }
