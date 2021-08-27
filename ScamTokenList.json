@@ -6369,6 +6369,50 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x7514d51DbAfB0Bd05546eB676e98D4374AC66AD2",
+      "symbol": "FLS",
+      "name": "Flight Swap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xe8D286F0E41660BA0227e60a952924B822A8B990",
+      "symbol": "STR",
+      "name": "Solster",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x9Dc7b78e098AbdB85c8AA026ff27F969DE44EDFf",
+      "symbol": "CSWAP",
+      "name": "CrossSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x0Cf838b4D4E27c0982E759A30860218466D39c03",
+      "symbol": "EPIK",
+      "name": "Epik Prime",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
