@@ -6414,6 +6414,18 @@
         "scam"
       ]
     }
+	,
+	{
+      "chainId": 1,
+      "address": "0xC066723D9975722990d5aE614F944EBD31ec67a7",
+      "symbol": "BEPs",
+      "name": "BlackEyedPeas",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    }
 	
   ],
   "version": {
