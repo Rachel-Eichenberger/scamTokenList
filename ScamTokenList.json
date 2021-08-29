@@ -6413,8 +6413,7 @@
 	  "tags": [
         "scam"
       ]
-    }
-	,
+    },
 	{
       "chainId": 1,
       "address": "0xC066723D9975722990d5aE614F944EBD31ec67a7",
@@ -6425,11 +6424,33 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x966B80bC2A11Ac845BA60108A6759935390e9294",
+      "symbol": "TALK",
+      "name": "Talken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xa42D2cf57b21328E7494B8ba33cc2Eb0ffA395Eb",
+      "symbol": "ON1Fo",
+      "name": "K4M 1 3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 6,
+    "major": 8,
     "minor": 0,
     "patch": 2
   }
