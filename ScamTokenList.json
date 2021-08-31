@@ -6446,6 +6446,50 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x86f2b0105ea819e11546713207405473c186cb91",
+      "symbol": "MFLOO",
+      "name": "Mutant AYCF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xd52f3c8434899dd458e283ac048fd75483061065",
+      "symbol": "BACON",
+      "name": "BaconDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xe41bcd128796e0e6463766674fef95f0eb6d7e7c",
+      "symbol": "POLI",
+      "name": "Polinate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x61932fbd9fd8f998bc901ac0a08e04ee8e0387e0",
+      "symbol": "BAYCN",
+      "name": "Bored AYCNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
