@@ -6534,11 +6534,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xE0d87605D37bE036a1d9E2B404FCf68113D69C95",
+      "symbol": "PUNKN",
+      "name": "PunksNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 2
   }
