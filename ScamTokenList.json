@@ -6549,8 +6549,19 @@
 	{
       "chainId": 1,
       "address": "0x2c720daB5968c7cB72De2ccC05248EC938cD398E",
-      "symbol": "Open Desert",
-      "name": "OPNDT",
+      "symbol": "OPNDT",
+      "name": "Open Desert",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x3e2275A5C792106C80E5Fc079b98881C9d2e002b",
+      "symbol": "RM",
+      "name": "Rarity Manifested",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
 	  "tags": [
@@ -6560,8 +6571,8 @@
 	
   ],
   "version": {
-    "major": 12,
+    "major": 11,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
