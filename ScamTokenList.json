@@ -6578,11 +6578,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xaEB29C7b70cEaB600013680850C6533b577108e7",
+      "symbol": "IMX",
+      "name": "Immutable",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 0,
     "patch": 3
   }
