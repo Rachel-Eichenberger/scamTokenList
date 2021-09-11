@@ -6688,11 +6688,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xe846c6fCf817734CA4527B28CCB4aEa2b6663c79",
+      "symbol": "WGGCI",
+      "name": "Wagmigotchi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 0,
     "patch": 5
   }
