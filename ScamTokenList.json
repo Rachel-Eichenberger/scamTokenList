@@ -6625,6 +6625,17 @@
     },
 	{
       "chainId": 1,
+      "address": "0x2dCAcbAD61440aBe782eC5513E8E270bAA923f16",
+      "symbol": "XP",
+      "name": "PolkaFantasy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
       "address": "0x265243BdB322b9A3F3e32AB5b6C50E88dA6E6936",
       "symbol": "DES",
       "name": "DeSpace",
@@ -6681,8 +6692,8 @@
 	
   ],
   "version": {
-    "major": 14,
+    "major": 15,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
