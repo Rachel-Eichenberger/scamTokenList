@@ -6589,11 +6589,99 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xec62Dbd2B4799BEEF76789981b8857D986D90e1B",
+      "symbol": "VENT",
+      "name": "Vent",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xda7B20E0E533cdd09706a8A3833a711538d5FEb0",
+      "symbol": "STF",
+      "name": "Structure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x740fA34Da87C5EcDdE58902e2D2Bd97d83789AFF",
+      "symbol": "XP",
+      "name": "PolkaFantasy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x265243BdB322b9A3F3e32AB5b6C50E88dA6E6936",
+      "symbol": "DES",
+      "name": "DeSpace",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x2049a5A868492a5bd50935F8a17DED9e80ddfF4F",
+      "symbol": "BTRST",
+      "name": "Braintrust",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xC90798aFc96b036c9D2CFFcAB42C4856D157cD31",
+      "symbol": "TREEB",
+      "name": "Treeb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x6a1973044C0c83923D728E834Af5615A3bC02970",
+      "symbol": "ADAPAD",
+      "name": "ADAPad",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xc81dfC762149754b6814880331d952094081687B",
+      "symbol": "STX",
+      "name": "Sultrix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 0,
     "patch": 3
   }
