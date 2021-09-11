@@ -6699,11 +6699,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x2E685fD48ecB0b4EE7aA3e4Ba0FBd31bE73A5283",
+      "symbol": "MGC",
+      "name": "Magic Game Club",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 0,
     "patch": 5
   }
