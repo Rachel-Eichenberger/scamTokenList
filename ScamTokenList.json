@@ -6721,11 +6721,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x75B679bB4dDc8c77ffc5B33F1D139dC9d8f9f51f",
+      "symbol": "ARB",
+      "name": "Arbitrum.io",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 18,
+    "major": 19,
     "minor": 0,
     "patch": 5
   }
