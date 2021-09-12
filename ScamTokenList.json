@@ -6710,11 +6710,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x6160C79BAAa6b5F873edb59AA422343539bb8ed3",
+      "symbol": "MTRX",
+      "name": "MatrixSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 17,
+    "major": 18,
     "minor": 0,
     "patch": 5
   }
