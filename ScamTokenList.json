@@ -6732,11 +6732,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x82dfDB2ec1aa6003Ed4aCBa663403D7c2127Ff67",
+      "symbol": "AKSWA",
+      "name": "AkSwap steals other tokens",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 19,
+    "major": 20,
     "minor": 0,
     "patch": 5
   }
