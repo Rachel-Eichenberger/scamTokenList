@@ -6743,11 +6743,33 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x5A622D32E308839970848135DE36E7Cb2DB8399f",
+      "symbol": "IDTT",
+      "name": "Identity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x3081dD18CD5e60388eda3B8Eb934528b4eddd88C",
+      "symbol": "XTM",
+      "name": "Torum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 20,
+    "major": 21,
     "minor": 0,
     "patch": 5
   }
