@@ -6820,12 +6820,1431 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x0516cbB0bdeA3A8c782D3eC6388283e2860Fdc8B",
+      "symbol": "YDBTCMAR21",
+      "name": "Yield Dollar renBTC Mar 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fC6Ab5E2b4EBb09C37807F988B22b38f3e1C228",
+      "symbol": "sRUNE",
+      "name": "Synth sRUNE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "symbol": "oWETH360Put103020",
+      "name": "Opyn WETH Put 360 103020",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6CC40968403a70EFB967Bd090E3eA65b50b013BB",
+      "symbol": "oETHCall1400thshare",
+      "name": "Opyn ETH Call 1400th share 092520",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc30C378B2Fc7Dbc02572c85AfF9Ab909a72DA916",
+      "symbol": "sCHF",
+      "name": "Synth sCHF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77Cf1A5C2B2E2B2442AcdBe53D1f6fd95419E597",
+      "symbol": "mAMZN",
+      "name": "Wrapped Mirror AMZN Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71102805056B2384156C547d53da39b6Aa78b7A8",
+      "symbol": "mFB",
+      "name": "Wrapped Mirror FB Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x389999216860AB8E0175387A0c90E5c52522C945",
+      "symbol": "iREN",
+      "name": "Synth iREN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77Cf1A5C2B2E2B2442AcdBe53D1f6fd95419E597",
+      "symbol": "UMAc350421",
+      "name": "UMA 35 Call 30 Apr 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7f39334347602504660dafefaAFF1776C98Eaf1",
+      "symbol": "mQQQ",
+      "name": "Wrapped Mirror QQQ Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4a824503a06531B48b3A07601D2502a4Dd8d65d",
+      "symbol": "iDEFI",
+      "name": "Synth iDEFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc36DF91895309A866cC6dC25606f78A018acAd1b",
+      "symbol": "oWETH370Put091120",
+      "name": "Opyn WETH Put 370 091120",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x642e6Af86625230C9D9Be643A18b50BB5D2499E8",
+      "symbol": "sDOT",
+      "name": "Synth sDOT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bd17fe7906730cd2b330d61fddd254171bc160e",
+      "symbol": "iAAVE",
+      "name": "Synth iAAVE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x651255b45249f474ea03b85acfff07375edd340e",
+      "symbol": "uUSDrBTCOCT",
+      "name": "uUSDrBTC Synthetic Token Expiring 1 Oct",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00e25f0fd5d6a36c252398ca14f3f29128cf5bf9",
+      "symbol": "mTSLA",
+      "name": "Wrapped Mirror TSLA Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed744b062d8ebff0db3ae129ec06c5b29fb5b93e",
+      "symbol": "sETC",
+      "name": "Synth sETC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03dd1a67ef52107dd86b590ec62aaf5048973647",
+      "symbol": "sFTSE",
+      "name": "Synth sFTSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5ed555b94f1cd38ef6aace883f5c2be2908cd8a",
+      "symbol": "ZeldaWhirlwindCash",
+      "name": "Zelda Whirlwind Cash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x232df8924d82434a4ade19c6c53bc5064d92ff19",
+      "symbol": "sXAU",
+      "name": "Synth sXAU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ed633f9ebcfd9a1b575736934cbae26bcace6b5",
+      "symbol": "sKRW",
+      "name": "Synth sKRW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x952374fb2f8f8c63e5d9a43252e62f7efc1f4429",
+      "symbol": "iXRP",
+      "name": "Synth iXRP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0a928feb1af99928243279e1b600814baeb5f8e",
+      "symbol": "TVLALLAPRIL15",
+      "name": "DEFIPULSETOTALTVL Synthetic Token Ex",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d461833f7ebd737d4fc75bdcce3ca07a2f6da55",
+      "symbol": "iLINK",
+      "name": "Synth iLINK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cd24fd2c0ec4d02a2982e4c8021403815e148e7",
+      "symbol": "sXTZ",
+      "name": "Synth sXTZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaed6dcac4d6630393c5a85f3fe180dc5743d79d1",
+      "symbol": "sUNI",
+      "name": "Synth sUNI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78bf8ef3a3d1dc978935ee4ae8b43247548c3946",
+      "symbol": "yUMA21",
+      "name": "Yield Dollar UMA 21",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2c3fd723ff7d9b2585eae939547caf2a0fd771a",
+      "symbol": "mUSO",
+      "name": "Wrapped Mirror USO Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x083a077d6db05f856be4a8dc3eaf2628721e9830",
+      "symbol": "oWETH380Put091820",
+      "name": "Opyn WETH Put 380 091820",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda8a938fa494348aeefcc57a4b1927ebfc9c91f9",
+      "symbol": "iCEX",
+      "name": "Synth iCEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09ade3ab80b9f885eca960e8001a430d8021b591",
+      "symbol": "iUNI",
+      "name": "Synth iUNI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5356e01188e245668629cd7241bdb6f864e90ea6",
+      "symbol": "oETH200Put082820",
+      "name": "Opyn ETH Put 200 082820",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8b4bb58e01b6f0817d47bf1035b092dc28683ba",
+      "symbol": "uGASJAN21",
+      "name": "uGASJAN21 Token Expiring 31 Jan 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9ab8df17e3f712ab185dc630572ed06fd33ad82",
+      "symbol": "mMSFT",
+      "name": "Wrapped Mirror MSFT Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57d8034bb0c3d711ab94ddc9779541e5b80e3809",
+      "symbol": "oYFI25000Put100220",
+      "name": "Opyn YFI Put 25000 100220",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29a676577bd8ac134fa2379b8eeb2e7ce54d6068",
+      "symbol": "iDOT",
+      "name": "Synth iDOT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92d75eab138f1c587f841d64937fcdddcbbc86aa",
+      "symbol": "XAUt",
+      "name": "Gold Tether",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe3fbd14dc899fe457323fb6e4473cf3ab04e3c0",
+      "symbol": "iXMR",
+      "name": "Synth iXMR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa83feedfc28432971780dc7d05d1d71a10061b70",
+      "symbol": "pxUSDMAR2022",
+      "name": " pxUSD Synthetic USD Expiring 31 Mar 20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11fef700a4801639871372d75d039755ddd0dc20",
+      "symbol": "YDBTCJUN21",
+      "name": "Yield Dollar renBTC Jun 2021",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf31cdd92aeb9fb5c24bb3107ab4361d9d06341c6",
+      "symbol": "uGASMAR21",
+      "name": "uGASMAR21 Token Expiring 31 Mar 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1fb7478150c35f0230f26e2e3a935c2b29a6e70",
+      "symbol": "ALTDOMMAR2021",
+      "name": "Altcoin Dominance Token 31 March 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e00085666cad372139514c97c872d36cc71f0a5",
+      "symbol": "pxGOLDMAR2022",
+      "name": "pxGOLD Synthetic Gold Expiring 31 Mar 2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea188136af8ace81077344d7bc4b5c3d1386c999",
+      "symbol": "sXMR",
+      "name": "Synth sXMR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb42f39858a989b614f69db5a4c751978c5002837",
+      "symbol": "oWETH400Put090420",
+      "name": "Opyn WETH Put 400 090420",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcfad4a55d20aec0a2a30869c357dcae8c7bbb0b4",
+      "symbol": "mBABA",
+      "name": "Wrapped Mirror BABA Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x185314d2cc56e5609958780f2d7ce40efbbddd16",
+      "symbol": "uCNYUSDAPR",
+      "name": "uForex CNYUSD Synthetic Token April 202",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb46bd6f438554ea26e08a33767d496f82adac3ec",
+      "symbol": "iYFI",
+      "name": "Synth iYFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd42961b864d4e95aa3d93ab1db61cf1f81c5d6c7",
+      "symbol": "mGOOGL",
+      "name": "Wrapped Mirror GOOGL Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82b92feb4ead0be7006ac7d29c3e3554ffa7aa52",
+      "symbol": "pxGOLDMAY2021",
+      "name": "pxGOLD Synthetic GOLD Expiring 31 May 2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8148ce0a8600185a2e3326c6448627f51f1a38bb",
+      "symbol": "sNFLX",
+      "name": "Synth sNFLX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33048ab4ee1a824851a822458a2aa3218652f6d7",
+      "symbol": "sETH",
+      "name": "Synth sETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7511ce38aede51a85dde235d81de1ae57f11a007",
+      "symbol": "ZeldaReinforcedCash",
+      "name": "Zelda Reinforced Cash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa18f1a88a1d2dfa26ab2e3b47f694463d6cd25d7",
+      "symbol": "sBNB",
+      "name": "Synth sBNB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x405abb86a3ac4a890636065c50398bb092991062",
+      "symbol": "iCOMP",
+      "name": "Synth iCOMP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x157e214d15da669bc4b5a90fb4e55a9b98139474",
+      "symbol": "ZeldaSpringNutsCash",
+      "name": "Zelda Spring Nuts Cash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a1b3b2bfb687a26328e623441edaea69df3def5",
+      "symbol": "MiniMarioSpringCash",
+      "name": "Mini Mario Spring Cash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e12f1620f4782134ec1ae6982d86d0bb7e4090e",
+      "symbol": "sXAG",
+      "name": "Synth sXAG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74b63ab0060396ca749af24b302e739b9ec62cf0",
+      "symbol": "BTCDOMMAR2021",
+      "name": "Bitcoin Dominance Token 31 March 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c58d735f665c695bf97090e062573b91c4a8b8b",
+      "symbol": "sOIL",
+      "name": "Synth sOIL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x499099aff5117b31207a6fd75d4ca1888d3d76be",
+      "symbol": "sMSFT",
+      "name": "Synth sMSFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a514bf3f9db533f5c91fd8726330b9d93c5694a",
+      "symbol": "sAAPL",
+      "name": "Synth sAAPL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb330eb3c9453097d754e99d28c2ea5ace1cc83b7",
+      "symbol": "sNIKKEI",
+      "name": "Synth sNIKKEI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d6e8e15be65efa71734cf9d5d83b2da95f1c918",
+      "symbol": "iLTC",
+      "name": "Synth iLTC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x244473c2d56837882edb805f3fc1d18c1866d74f",
+      "symbol": "MiniMarioSummerCash",
+      "name": "Mini Mario Summer Cash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbcefe24478632e5af4c35f58d4095c6fc3510efa",
+      "symbol": "yUSDSEP20",
+      "name": "yUSD Synthetic Token Expiring 1 Septemb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf185b7babc203bab6ab9c6aff714f572e0ebc03f",
+      "symbol": "uGASFEB21",
+      "name": "uGASFEB21 Token Expiring 28 Feb 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd042ef815e12d3564ecbb37117d1ea00c0905e36",
+      "symbol": "MarioCashJAN2021",
+      "name": "Mario Cash Synthetic Token Expiring 15 ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31de994710629896b41e7415c89bd5ba0849f15b",
+      "symbol": "sEOS",
+      "name": "Synth sEOS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7a580e12e659b395cd7759656f418b4f96da1bf",
+      "symbol": "CARUSDCMAR21",
+      "name": "Compound Annualized Rate Future Expirin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccfb46c0bc86093459dcbf819e17e60e0f386111",
+      "symbol": "iADA",
+      "name": "Synth iADA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf547fdbe78e52dc9dae647f4c01ec269bba05c3",
+      "symbol": "ocUSDC",
+      "name": "Opyn cUSDC Insurance",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7c71f7088720836c6ecc54b6073aff4508082ed",
+      "symbol": "iXTZ",
+      "name": "Synth iXTZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2831d7e74fbe73d3d41775d8037d764e32e56f3",
+      "symbol": "YDETHMAR21",
+      "name": "Yield Dollar WETH Mar 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7694fdeb8d2a21c70f7ac7ed31d15e0b25070066",
+      "symbol": "sTSLA",
+      "name": "Synth sTSLA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x486554b45c3fce6e823957a5b198ff51bdb00a10",
+      "symbol": "oCRV3Put092520",
+      "name": "Opyn CRV Put 3 092520",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33bc772e6c6f95f8c436f0c666fbdf315ebd88f9",
+      "symbol": "GRUMPY",
+      "name": "Grumpy Cat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x482554a9f6837dc4e56b7fe64cb5b0e1665b1054",
+      "symbol": "sGBP",
+      "name": "Synth sGBP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55fef6f4f561a781e59a9246f5658604397f0571",
+      "symbol": "ocDai",
+      "name": "Opyn cDai Insurance",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb96f0e9bb32760091eb2d6b0a5ca0d2c7b5644b1",
+      "symbol": "sYFI",
+      "name": "Synth sYFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdaa3a46aaf25c504379ce58c272ad782e4110dde",
+      "symbol": "sAMZN",
+      "name": "Synth sAMZN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a0fd1c5d686b678060543090078a41151ace871",
+      "symbol": "sCOIN",
+      "name": "Synth sCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e542747d716dd531b9fca013616143337c25a21",
+      "symbol": "mSLV",
+      "name": "Wrapped Mirror SLV Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x539ede26b812e40aebadab83b8615343bcfa1b7a",
+      "symbol": "iOIL",
+      "name": "Synth iOIL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc93d7496b9c252864f8f80ebc7106e3bda78e8e2",
+      "symbol": "iETH",
+      "name": "Synth iETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c6291e630a541734970a14970d2fc1d90cfedb7",
+      "symbol": "iBNB",
+      "name": "Synth iBNB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5869eb50c9bfd3934fb02ab610edd579e517fba3",
+      "symbol": "yUSDOCT20",
+      "name": "yUSD Synthetic Token Expiring 1 October",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52d57454e6a87ef0675bdad75a4bafbae52e99b3",
+      "symbol": "sLTC",
+      "name": "Synth sLTC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x337a8ab0bde15edddfcda432e422bd9c00fae8e6",
+      "symbol": "iTRX",
+      "name": "Synth iTRX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x823a4b356366201021e1190db40bc4941bcc855a",
+      "symbol": "sGOOG",
+      "name": "Synth sGOOG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa057969f01b3678343db25a6a1e7af4ab8bcfcba",
+      "symbol": "iDASH",
+      "name": "Synth iDASH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc626c18ea9bad7cf174f49e7f9440f5dd9cad8e0",
+      "symbol": "sREN",
+      "name": "Synth sREN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfeab57ec784b20d82049f0419c168a9764a39da2",
+      "symbol": "sCRV",
+      "name": "Synth sCRV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb72e8ac17882ae9e2bb1f43f061298fa7f5ef5ea",
+      "symbol": "iBTC",
+      "name": "Synth iBTC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0868055f30dc47a873176dea746b9d27a71e4ec1",
+      "symbol": "sEUR",
+      "name": "Synth sEUR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7385846e19f06f2c2e83807d0948029a23688ce",
+      "symbol": "oETH180Put092520",
+      "name": "Opyn ETH Put 180 092520",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x842f85bf6f5ababee18870741b4334985d610192",
+      "symbol": "sCOMP",
+      "name": "Synth sCOMP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5418a69e72a5afad9a73f8defc21036157e2f72b",
+      "symbol": "sAUD",
+      "name": "Synth sAUD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9f46bd0fbc5d44a3551f8255513f1602e28aac8",
+      "symbol": "iEOS",
+      "name": "Synth iEOS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94a2b093a9ed8750bf5d4977f6fa700e2ac81de2",
+      "symbol": "sJPY",
+      "name": "Synth sJPY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9b5bea373074b869b721c1cb38cc837f1b061b5",
+      "symbol": "sXRP",
+      "name": "Synth sXRP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x813aa37090147c7c0f26d583ff8e0715d00a1c0b",
+      "symbol": "ZeldaSummerNutsCash",
+      "name": "Zelda Summer Nuts Cash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15f73d7c819feb9cbb7906391204ce57bf94ff25",
+      "symbol": "uGASJUN21",
+      "name": "uGASJUN21 Token Expiring 30 Jun 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4b12a2c7877a4b6cfe0557cf13d3d3a4f5c9380",
+      "symbol": "sLINK",
+      "name": "Synth sLINK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e69fc0c95a9dd3baba6a2fcf485f8f4b7c3f4cc",
+      "symbol": "oWETH360Put122520",
+      "name": "Opyn WETH Put 360 122520",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5bda02e287b0ba2ede19929d032cf963db22c1a",
+      "symbol": "s1INCH",
+      "name": "Synth s1INCH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00192f5929eb4a3fccd9150da87b2f1aa69f43c",
+      "symbol": "YDETHJUN21",
+      "name": "Yield Dollar WETH Jun 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57055b191e84bf4b42da727379185ec82b90f0f8",
+      "symbol": "ZeldaElasticCash",
+      "name": "Zelda Elastic Cash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x982c04a2a89e1b5a86b68fbe5e5e29b51759de28",
+      "symbol": "uUSDwETHDEC",
+      "name": "uUSDwETH Synthetic Token Expiring 31 De",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x772260b8b04f4278e0b972f77ef37055d7f7ccca",
+      "symbol": "oYFI8500Put091820",
+      "name": "Opyn YFI Put 8500 091820 ",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33fe54ed600c93a60be739b2a4e1f604332a4890",
+      "symbol": "sAAVE",
+      "name": "Synth sAAVE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb08ab0f0ea7536c66e665ca665572da289734851",
+      "symbol": "uEURUSDAPR",
+      "name": "uForex EURUSD Synthetic Token April 202",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38ea36429a21a2c3fdcacdbaa9bb1062a2640d28",
+      "symbol": "iETC",
+      "name": "Synth iETC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75117afb279079aa5725334e1fdfae5ecb0c814b",
+      "symbol": "oBAL22Put100220",
+      "name": "Opyn BAL Put 22 100220",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcde79bfbb3743dabc17325bfaf111ccc85646728",
+      "symbol": "sDEFI",
+      "name": "Synth sDEFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ded2420cfb2d5061b1144a73df04744cbfe4803",
+      "symbol": "sADA",
+      "name": "Synth sADA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbfaacf4e01882dff55ba7ac745ae7e6042b822d6",
+      "symbol": "YDETHDEC21",
+      "name": "Yield Dollar WETH Dec 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06574cb369069b4abc1f2bf7e9bbf19b80c9cda6",
+      "symbol": "oCOMP150Put092520",
+      "name": "Opyn COMP Put 150 092520",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2a53374dc86962e8773b92a077b0c1fcc02a943",
+      "symbol": "sCEX",
+      "name": "Synth sCEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1a1809fad2cb53b157454129466aca6d21bf4e8",
+      "symbol": "uSTONKSAPR21",
+      "name": "uSTONKS Index Token April 2021",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79f4fb9de652dd6a3ace7d25bb085072c727b373",
+      "symbol": "uUSDrBTCDEC",
+      "name": "uUSDrBTC Synthetic Token Expiring 31 De",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8007b46aab6695346c89be8b377276662cbd6c3",
+      "symbol": "sTRX",
+      "name": "Synth sTRX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf645fceaef0b30246224ebb637c113093b8eaa89",
+      "symbol": "sFB",
+      "name": "Synth sFB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5f5f1a85937d98ee538f2aaf3915e60ed9e06ba",
+      "symbol": "mVIXY",
+      "name": "Wrapped Mirror VIXY Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f3e8d76bb858e8340d30033ebdd486f4fb994e6",
+      "symbol": "pxUSDMAR2021",
+      "name": "pxUSD Synthetic USD Expiring 1 April 20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc54771f43e4370d196fb47914e929c36e493af2",
+      "symbol": "oETH500Call103020",
+      "name": "Opyn ETH Call 500 103020",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d79b0e755b999c52c694112e75c60dbbacf773a",
+      "symbol": "apeUSDUMADEC21",
+      "name": "apeUSDUMA Synthetic USD Dec 2021",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x358688993490161b8d473d751816578eb15a1b57",
+      "symbol": "sBTC",
+      "name": "Synth sBTC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94a20da12fe745ca05e83b17b76d44f822ef0aeb",
+      "symbol": "sDASH",
+      "name": "Synth sDASH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 24,
+    "major": 26,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   }
 }
