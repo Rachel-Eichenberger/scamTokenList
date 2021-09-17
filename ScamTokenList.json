@@ -6776,11 +6776,22 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x26a79Bd709A7eF5E5F747B8d8f83326EA044d8cC",
+      "symbol": "BSOCI",
+      "name": "Bank Social",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 22,
+    "major": 23,
     "minor": 0,
     "patch": 5
   }
