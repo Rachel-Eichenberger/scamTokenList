@@ -6787,11 +6787,44 @@
 	  "tags": [
         "scam"
       ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x5C4e88CA6E4C7df37a9Ebc5650EEc6CeeDBAaFb5",
+      "symbol": "DISCO",
+      "name": "Discord",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0x14Ef7a1878B97183F762eab1B6119D029834012b",
+      "symbol": "BSE",
+      "name": "Blackstone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
+    },
+	{
+      "chainId": 1,
+      "address": "0xf71b8e61273A2d0ec2d34a15fAAD63E8D442Cd36",
+      "symbol": "ANIMO",
+      "name": "Animoca Brands",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
+	  "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 23,
+    "major": 24,
     "minor": 0,
     "patch": 5
   }
