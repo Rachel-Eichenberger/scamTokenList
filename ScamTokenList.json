@@ -8250,11 +8250,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1048365C4476d28A5C7e749A7D09DE4D309d3A7",
+      "symbol": "TOWN",
+      "name": "TownCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 27,
+    "major": 28,
     "minor": 0,
     "patch": 6
   }
