@@ -8239,11 +8239,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb51fa94cF6Ed0aB0Ae9063b9E80D323C50668B3d",
+      "symbol": "MIA",
+      "name": "MiamiCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 26,
+    "major": 27,
     "minor": 0,
     "patch": 6
   }
