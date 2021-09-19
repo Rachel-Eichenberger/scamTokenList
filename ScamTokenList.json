@@ -8261,11 +8261,44 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x858019197ee97B9035414e400bD9c14CEBc34685",
+      "symbol": "DGPUN",
+      "name": "Doge Punk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfbc81D9756C179Ad3Bb316E262AbE5d4f5e587AB",
+      "symbol": "CHIVO",
+      "name": "Chivo Wallet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dB6981383C1897764dEa2c9cDC4fb85593a42a8",
+      "symbol": "STR",
+      "name": "Solster",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 28,
+    "major": 29,
     "minor": 0,
     "patch": 6
   }
