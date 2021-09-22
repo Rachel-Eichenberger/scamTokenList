@@ -6790,17 +6790,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x232df8924d82434a4ade19c6c53bc5064d92ff19",
-      "symbol": "sXAU",
-      "name": "Synth sXAU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb51fa94cF6Ed0aB0Ae9063b9E80D323C50668B3d",
       "symbol": "MIA",
       "name": "MiamiCoin",
@@ -6890,8 +6879,8 @@
 	
   ],
   "version": {
-    "major": 33,
-    "minor": 1,
-    "patch": 7
+    "major": 34,
+    "minor": 4,
+    "patch": 8
   }
 }
