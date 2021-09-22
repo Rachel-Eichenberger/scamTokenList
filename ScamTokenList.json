@@ -8294,11 +8294,33 @@
       "tags": [
         "scam"
       ]
+    ,
+    {
+      "chainId": 1,
+      "address": "0x16b3Dd2970AD3F19C6068C65777530830d33773E",
+      "symbol": "SFA",
+      "name": "SFAr io",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    ,
+    {
+      "chainId": 1,
+      "address": "0xba3f56776D805AEeB4344748f946407331A9D579",
+      "symbol": "BOBA",
+      "name": "Boba Network",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 29,
+    "major": 30,
     "minor": 0,
     "patch": 6
   }
