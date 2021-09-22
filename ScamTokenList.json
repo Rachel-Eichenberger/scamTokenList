@@ -6875,11 +6875,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x639CcDC586541013632969c4C1671d56AE16119f",
+      "symbol": "MARS4",
+      "name": "MARS4",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 34,
+    "major": 35,
     "minor": 4,
     "patch": 8
   }
