@@ -6886,11 +6886,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4A9feE696732b673ffE03d58F3D94Ef03fdAff3",
+      "symbol": "TUBATA",
+      "name": "Tube Bata",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 35,
+    "major": 36,
     "minor": 4,
     "patch": 8
   }
