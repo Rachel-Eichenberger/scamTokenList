@@ -6897,11 +6897,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5004F59991Bfd9Ee23A23159bd0883B23D39284c",
+      "symbol": "BLT",
+      "name": "Blocto Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x341fE0DcD9BC5b90270564695CD0D98500a9FdB3",
+      "symbol": "DESO",
+      "name": "Bitclout com",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 36,
+    "major": 37,
     "minor": 4,
     "patch": 8
   }
