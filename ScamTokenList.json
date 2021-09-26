@@ -6919,11 +6919,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0834208c3A979B5FeBEb1A555B1b39e1cfEac1a",
+      "symbol": "RADN",
+      "name": "Radian Network",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 37,
+    "major": 38,
     "minor": 4,
     "patch": 8
   }
