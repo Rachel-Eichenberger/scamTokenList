@@ -6930,11 +6930,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe97D4208f3b6c70c5701cf0AE99b3A6D50D2740A",
+      "symbol": "SDS",
+      "name": "SupDuckds NFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 38,
+    "major": 39,
     "minor": 4,
     "patch": 8
   }
