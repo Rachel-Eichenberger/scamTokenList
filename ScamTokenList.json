@@ -6941,11 +6941,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97C041ac152D7CCb4d21CB2ee87E504Ddd148C34",
+      "symbol": "ARW",
+      "name": "Arweave org",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1AFB46F7d1E235fC2d4A10fFFE03D91a0d6e4E7",
+      "symbol": "DIVER",
+      "name": "DivergenceProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 39,
+    "major": 40,
     "minor": 4,
     "patch": 8
   }
