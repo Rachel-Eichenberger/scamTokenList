@@ -6963,12 +6963,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9EA89985ddA1Bbc8CB45f7c04B84DF78Ed71af8C",
+      "symbol": "GOXX",
+      "name": "Hamster GOXX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc88597Dd7AAF23c467A850E16fc1C37b241D5761",
+      "symbol": "ORION",
+      "name": "Orion Money Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 40,
-    "minor": 4,
+    "major": 41,
+    "minor": 5,
     "patch": 8
   }
 }
