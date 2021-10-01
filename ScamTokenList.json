@@ -6985,12 +6985,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3Cf25245305a62C52da8819F346b4b2E23d282f",
+      "symbol": "DARK",
+      "name": "Dark Frontiers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 5,
+    "minor": 6,
     "patch": 8
   }
 }
