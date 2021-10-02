@@ -6996,12 +6996,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD97c59D61E362C559dbc6b00629D770e688e1E0A",
+      "symbol": "SGB",
+      "name": "Songbird",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 6,
+    "minor": 7,
     "patch": 8
   }
 }
