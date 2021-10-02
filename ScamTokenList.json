@@ -7007,12 +7007,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA11Af803AC1F7b6638f734A4D001c392C48B162a",
+      "symbol": "ZVS",
+      "name": "ZevsToken com",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 7,
+    "minor": 8,
     "patch": 8
   }
 }
