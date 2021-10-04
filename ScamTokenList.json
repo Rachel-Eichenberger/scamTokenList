@@ -7051,12 +7051,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc92eaE97DBec8C2a487e83910d710e68B713b7e3",
+      "symbol": "GAS",
+      "name": "GalacticApeS com",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 11,
+    "minor": 12,
     "patch": 8
   }
 }
