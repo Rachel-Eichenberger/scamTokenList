@@ -7029,12 +7029,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6Ed275BBcb1429B6A665Aa1bEEa85D600d21f56",
+      "symbol": "ETHPA",
+      "name": "EthParty io",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 9,
+    "minor": 10,
     "patch": 8
   }
 }
