@@ -7040,12 +7040,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB149F4cC8330ebBdE4e9e3176a2951a3035BF1a",
+      "symbol": "HOKAG",
+      "name": " Hokage Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 10,
+    "minor": 11,
     "patch": 8
   }
 }
