@@ -7062,12 +7062,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49D65F3A6557425Dc3c99dFccb9fd6Df6908c438",
+      "symbol": "PORTA",
+      "name": "PortalDelfi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 12,
+    "minor": 13,
     "patch": 8
   }
 }
