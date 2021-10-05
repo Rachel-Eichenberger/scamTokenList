@@ -7073,12 +7073,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01454cdC3FAb2a026CC7d1CB2aEa9B909D5bA0EE",
+      "symbol": "DAPY",
+      "name": "DeAPY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 13,
+    "minor": 14,
     "patch": 8
   }
 }
