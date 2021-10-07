@@ -7084,12 +7084,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF19335B8e7cBA10ae2e54951d4547DfF75d7956",
+      "symbol": "KST",
+      "name": "KSM Starter Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 14,
+    "minor": 15,
     "patch": 8
   }
 }
