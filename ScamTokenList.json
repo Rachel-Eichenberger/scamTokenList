@@ -36,17 +36,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-      "symbol": "SHIB",
-      "name": "SHIBA INU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
-	  "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6CC40968403a70EFB967Bd090E3eA65b50b013BB",
       "symbol": "O3",
       "name": "O3 Swap",
@@ -7110,8 +7099,8 @@
 	
   ],
   "version": {
-    "major": 41,
+    "major": 42,
     "minor": 16,
-    "patch": 8
+    "patch": 9
   }
 }
