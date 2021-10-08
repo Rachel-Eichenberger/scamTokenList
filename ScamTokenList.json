@@ -7095,12 +7095,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBc17729fDf562723f0267F79FF25aDE441056d87",
+      "symbol": "KST",
+      "name": "KSM Fake",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 41,
-    "minor": 15,
+    "minor": 16,
     "patch": 8
   }
 }
