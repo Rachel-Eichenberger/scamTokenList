@@ -7128,12 +7128,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF2fA0387AB103598631dfb99a4893457319D1BcC",
+      "symbol": "DLINK",
+      "name": "DogLink Farm",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 42,
-    "minor": 18,
+    "minor": 19,
     "patch": 9
   }
 }
