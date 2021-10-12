@@ -7139,12 +7139,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x711535965dc971dD21d281F20b50b796986C0448",
+      "symbol": "SHIBOSHIS",
+      "name": "SHIBOSHIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 42,
-    "minor": 19,
+    "minor": 20,
     "patch": 9
   }
 }
