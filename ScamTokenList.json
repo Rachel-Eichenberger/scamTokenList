@@ -7150,12 +7150,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf0D3a0e857e019e748d363B4FdCd424928CAb19",
+      "symbol": "FOX",
+      "name": "CryptoFoxes NFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63B02De51c16783f2F187B4Ac94d31961A0426F8",
+      "symbol": "STRP",
+      "name": "Strips Finance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 42,
-    "minor": 20,
+    "minor": 21,
     "patch": 9
   }
 }
