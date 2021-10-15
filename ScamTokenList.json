@@ -7172,12 +7172,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFD5C856C4cE384b604e467C7474763302776485e",
+      "symbol": "CBNFT",
+      "name": "Coinbase NFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 42,
-    "minor": 21,
+    "minor": 22,
     "patch": 9
   }
 }
