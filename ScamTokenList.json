@@ -7194,12 +7194,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3D29FA60F4Ff8E62bfBb9fF41Ad28b2c3cdb43Ce",
+      "symbol": "BONE",
+      "name": "Inu Verse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 42,
-    "minor": 23,
+    "minor": 24,
     "patch": 9
   }
 }
