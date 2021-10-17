@@ -7197,6 +7197,17 @@
     },
     {
       "chainId": 1,
+      "address": "0x65d811809FbFB5447A27F049687cC02d14984EF1",
+      "symbol": "PikaI",
+      "name": "Pikachu Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0x3D29FA60F4Ff8E62bfBb9fF41Ad28b2c3cdb43Ce",
       "symbol": "BONE",
       "name": "Inu Verse",
@@ -7210,7 +7221,7 @@
   ],
   "version": {
     "major": 42,
-    "minor": 24,
+    "minor": 25,
     "patch": 9
   }
 }
