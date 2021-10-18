@@ -7227,12 +7227,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC34c6C57C57cE8c03DEd2093E0e974163dE6b0d",
+      "symbol": "Kishimoto",
+      "name": "Kishimoto Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 42,
-    "minor": 26,
+    "minor": 27,
     "patch": 9
   }
 }
