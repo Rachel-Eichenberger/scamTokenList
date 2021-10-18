@@ -7238,12 +7238,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbC834D0dc0C3A8b31F0eb628805Bf3CceaCfc364",
+      "symbol": "SHIBABUNNY",
+      "name": "SHIBABUNNY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 42,
-    "minor": 27,
+    "minor": 28,
     "patch": 9
   }
 }
