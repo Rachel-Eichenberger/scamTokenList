@@ -7249,12 +7249,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40ff67662ac272037E630641D986C6e38F59006D",
+      "symbol": "RRab",
+      "name": "Rocket Rabbit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 42,
-    "minor": 28,
+    "minor": 29,
     "patch": 9
   }
 }
