@@ -6031,17 +6031,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
-      "symbol": "KISHU",
-      "name": "Kishu Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png", 
-	  "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF029444C8D2CC7A2a5836e3f9C8bc5d46b19FaEd",
       "symbol": "VPP",
       "name": "Virtue Poker",
@@ -7264,8 +7253,8 @@
 	
   ],
   "version": {
-    "major": 42,
-    "minor": 29,
+    "major": 43,
+    "minor": 30,
     "patch": 9
   }
 }
