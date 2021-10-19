@@ -7249,12 +7249,45 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD86f80C9EC8B3b834D7024e00272c4986679564B",
+      "symbol": "FLY",
+      "name": "NFT Cryptoflyz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAC3cCdb8CE63F07d2a52cDa3749B628015f9893c",
+      "symbol": "UNIY",
+      "name": "UNIY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBed643eCe8Fe3B2c75095f35bC6453fd2b6Ea8c2",
+      "symbol": "MUSKBUNNY",
+      "name": "MUSKBUNNY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 43,
-    "minor": 30,
+    "minor": 31,
     "patch": 9
   }
 }
