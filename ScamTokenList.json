@@ -7282,12 +7282,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb8EF859F8df233E3975745934E473a2f9250944",
+      "symbol": "REKT",
+      "name": "REKT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 43,
-    "minor": 31,
+    "minor": 32,
     "patch": 9
   }
 }
