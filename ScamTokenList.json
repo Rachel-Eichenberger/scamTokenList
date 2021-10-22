@@ -7293,12 +7293,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4AecfB80a9FF45735cEB1b12b60514A6468C3E23",
+      "symbol": "JAKE",
+      "name": "JAKETHEDOG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 43,
-    "minor": 32,
+    "minor": 33,
     "patch": 9
   }
 }
