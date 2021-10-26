@@ -7304,12 +7304,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7372661daC46B7e36F74E14033eEe21Ae5C4c78",
+      "symbol": "NAUSI",
+      "name": "NAUSICAA INU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 43,
-    "minor": 33,
+    "minor": 34,
     "patch": 9
   }
 }
