@@ -7308,7 +7308,7 @@
     {
       "chainId": 1,
       "address": "0x9F9fD5872beB21392f286afC6Eb3a0F8154384fC",
-      "symbol": "FLOKI GOLD",
+      "symbol": "FLOKIG",
       "name": "FLOKI GOLD",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -7332,6 +7332,6 @@
   "version": {
     "major": 44,
     "minor": 35,
-    "patch": 10
+    "patch": 11
   }
 }
