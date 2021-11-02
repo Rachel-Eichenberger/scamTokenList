@@ -7348,12 +7348,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeDA0785EBbbA90BF1aC4A1Cc07fBF9c9452c0dB8",
+      "symbol": "ENS",
+      "name": "ENS DAO TOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 45,
-    "minor": 37,
+    "minor": 38,
     "patch": 11
   }
 }
