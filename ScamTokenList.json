@@ -7326,12 +7326,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7546E55b3B2039f50436BAEedC875770a297c477",
+      "symbol": "SHIBBFF",
+      "name": "SHIBBFF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdB792B1D8869A7CFc34916d6c845Ff05A7C9b789",
+      "symbol": "CCBCH",
+      "name": "CCBCH",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 45,
-    "minor": 36,
+    "minor": 37,
     "patch": 11
   }
 }
