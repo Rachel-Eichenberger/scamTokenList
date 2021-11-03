@@ -7381,7 +7381,7 @@
       "tags": [
         "scam"
       ]
-    ,
+    },
     {
       "chainId": 1,
       "address": "0xED33Ac0784b49253DD0a8522686f65fB8b0f3c02",
@@ -7392,7 +7392,7 @@
       "tags": [
         "scam"
       ]
-    ,
+    },
     {
       "chainId": 1,
       "address": "0x9259a8BB6dB7A6646e772E34D80f94d42819D7e4",
@@ -7407,7 +7407,7 @@
 	
   ],
   "version": {
-    "major": 45,
+    "major": 46,
     "minor": 41,
     "patch": 11
   }
