@@ -7385,7 +7385,7 @@
     {
       "chainId": 1,
       "address": "0xED33Ac0784b49253DD0a8522686f65fB8b0f3c02",
-      "symbol": "Terraforming Mars Key	TERAKEY",
+      "symbol": "TERAKEY",
       "name": "Terraforming Mars Key",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -7407,7 +7407,7 @@
 	
   ],
   "version": {
-    "major": 46,
+    "major": 47,
     "minor": 41,
     "patch": 11
   }
