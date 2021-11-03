@@ -7359,12 +7359,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85aC31496B6f127911276D1434E3F3BB2498e148",
+      "symbol": "BShiba",
+      "name": "Based Shiba Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 45,
-    "minor": 38,
+    "minor": 39,
     "patch": 11
   }
 }
