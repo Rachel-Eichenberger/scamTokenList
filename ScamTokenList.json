@@ -7370,12 +7370,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15Fb5C5b8a20a9FdF844d5739828B5BE304C6cC1",
+      "symbol": "TERA",
+      "name": "Terraforming Mars",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 45,
-    "minor": 39,
+    "minor": 40,
     "patch": 11
   }
 }
