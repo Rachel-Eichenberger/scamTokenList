@@ -7425,12 +7425,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1341A2257fa7b770420Ef70616f888056f90926c",
+      "symbol": "ZOOT",
+      "name": "Zoo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 44,
+    "minor": 45,
     "patch": 11
   }
 }
