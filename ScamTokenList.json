@@ -7403,12 +7403,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf0c6B08aEA588EE5BD56a01C9Ec76d74CA38936",
+      "symbol": "DINGERGF",
+      "name": "Dinger GF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 42,
+    "minor": 43,
     "patch": 11
   }
 }
