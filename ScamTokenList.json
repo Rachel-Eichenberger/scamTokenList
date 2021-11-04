@@ -7414,12 +7414,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaafeFabaBc71Cc754DF07F291195339f07eB732C",
+      "symbol": "META",
+      "name": "Facebook",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 43,
+    "minor": 44,
     "patch": 11
   }
 }
