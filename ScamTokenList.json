@@ -7436,12 +7436,45 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x479Eb66c07d3fb5A27e34faF03D25da4A3531427",
+      "symbol": "DINGELON",
+      "name": "Dinger Elon Mars",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8B7D96B5B9861BA80373678Bee0d6AeBeE3E957",
+      "symbol": "SASUKE",
+      "name": "Sasuke Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65E6B60Ea01668634D68D0513Fe814679F925BaD",
+      "symbol": "PIXEL",
+      "name": "PixelVerse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 45,
+    "minor": 46,
     "patch": 11
   }
 }
