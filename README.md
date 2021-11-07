@@ -6,12 +6,3 @@ This List contains tokens that are either unsellable or don't allow pulling of L
 
 Currently you can import via github direct link ->  https://raw.githubusercontent.com/Rachel-Eichenberger/scamTokenList/main/ScamTokenList.json
 
-I own
-scamtokenlist.eth
-Will be updated as often as possible based on gas
-If you want to donate you can donate to the ens address
-This will go to cover more updates as gas isn't cheap :)
-
-
-constantly updated hash
-https://gateway.pinata.cloud/ipfs/QmTf99aqUoZASWHbqYcj1NbhNhh78FBUemQ8sGZF5L6AsG
