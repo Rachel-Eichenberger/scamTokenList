@@ -7491,12 +7491,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10da8551e695b3A58181F8Ff9E6cab52C7eE1f19",
+      "symbol": "SLAYER",
+      "name": "Demon Slayer Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 47,
+    "minor": 48,
     "patch": 11
   }
 }
