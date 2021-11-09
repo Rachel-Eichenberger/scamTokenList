@@ -7513,12 +7513,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEbDa26755765e416ae13007F379F05030f02F8d1",
+      "symbol": "BLACKPANTHER",
+      "name": "BLACKPANTHER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBFA7bc64108B061E88521817CB49a1a15f4258d4",
+      "symbol": "GRIMMJOW",
+      "name": "Grimmjow",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 49,
+    "minor": 50,
     "patch": 11
   }
 }
