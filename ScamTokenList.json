@@ -7535,12 +7535,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65f93FA32C1D2b7F29ff5f3a3B4BE0fB9991084d",
+      "symbol": "GALAXY",
+      "name": "Clash Of Stars",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 50,
+    "minor": 51,
     "patch": 11
   }
 }
