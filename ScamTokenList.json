@@ -7546,12 +7546,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF28b300148CE0557e047a34F9687cCE2E5b1A2C",
+      "symbol": "MoonInu",
+      "name": "Moon Inu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4592bdD6E8b2f46a838F9764be8365955c271c8A",
+      "symbol": "AnonInu",
+      "name": "Anon Inu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 51,
+    "minor": 52,
     "patch": 11
   }
 }
