@@ -7590,12 +7590,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15bB9A8A03991783D7EADA5F4192852196A5bf88",
+      "symbol": "Moomin",
+      "name": "Moomin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 51,
-    "minor": 56,
+    "minor": 57,
     "patch": 14
   }
 }
