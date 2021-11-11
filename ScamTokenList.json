@@ -7568,12 +7568,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8Fa0A308af156101FbE7b213b664F5Dea7701e3",
+      "symbol": "TOYSTORY",
+      "name": "TOYSTORY",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fA229491a478206AD66EB29472E588010e143Af",
+      "symbol": "GD",
+      "name": "Good Dawn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 48,
-    "minor": 52,
+    "minor": 53,
     "patch": 11
   }
 }
