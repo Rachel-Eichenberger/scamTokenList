@@ -7474,7 +7474,7 @@
       "chainId": 1,
       "address": "0x65E6B60Ea01668634D68D0513Fe814679F925BaD",
       "symbol": "METAROID",
-      "name": "	METAROID",
+      "name": "METAROID",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -7594,8 +7594,8 @@
 	
   ],
   "version": {
-    "major": 48,
-    "minor": 53,
+    "major": 49,
+    "minor": 54,
     "patch": 11
   }
 }
