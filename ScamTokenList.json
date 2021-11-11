@@ -7472,7 +7472,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x65E6B60Ea01668634D68D0513Fe814679F925BaD",
+      "address": "0x79291b0B1CD52E965228BED06Ff8166C23047Bbb",
       "symbol": "METAROID",
       "name": "METAROID",
       "decimals": 18,
@@ -7594,8 +7594,8 @@
 	
   ],
   "version": {
-    "major": 50,
-    "minor": 55,
-    "patch": 13
+    "major": 51,
+    "minor": 56,
+    "patch": 14
   }
 }
