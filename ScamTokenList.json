@@ -7623,12 +7623,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc85E0474068dbA5B49450c26879541EE6Cc94554",
+      "symbol": "KyDy",
+      "name": "KyDy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 51,
-    "minor": 59,
+    "minor": 60,
     "patch": 14
   }
 }
