@@ -7678,12 +7678,45 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4844AfE7c7E7a88Ba5DCD5585213aF8845fAf4ae",
+      "symbol": "DIKU",
+      "name": "DIKU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x101EC3AecA350356123bdA3BF2862A0fF55c9b47",
+      "symbol": "GAS",
+      "name": "GASNFTs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfeFea1Cf16b85D91d40653ad81c335A9Ea7E465B",
+      "symbol": "FOX",
+      "name": "CryptoFoxes NFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 51,
-    "minor": 63,
+    "minor": 64,
     "patch": 14
   }
 }
