@@ -7656,12 +7656,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E272B2D7aB0B68cb531CF17Af0Af3A92602676E",
+      "symbol": "GIZMO",
+      "name": "GIZMO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x156f2816A757C575141CF39B95d98fc2e0A7924e",
+      "symbol": "PULSELON",
+      "name": "ElonPulse Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 51,
-    "minor": 62,
+    "minor": 63,
     "patch": 14
   }
 }
