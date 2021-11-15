@@ -7711,12 +7711,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ca556d748EA5F135A32142fda70684F078E5B33",
+      "symbol": "ZEUS",
+      "name": "ZEUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47787F821b1b83E5aa1F58b1221dd46b60e6283D",
+      "symbol": "SDSN",
+      "name": "Sup DuckS NFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 51,
-    "minor": 64,
+    "minor": 65,
     "patch": 14
   }
 }
