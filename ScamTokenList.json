@@ -7733,12 +7733,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A2B4B423351Af28F472c846Ba4e384Dde2bA0B3",
+      "symbol": "ACBR",
+      "name": "Abra Cadabra",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x287Ef3E40f159453a662284aEc62f704DfA0D0f3",
+      "symbol": "SPRT",
+      "name": "Spartacus finance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 51,
-    "minor": 65,
+    "minor": 66,
     "patch": 14
   }
 }
