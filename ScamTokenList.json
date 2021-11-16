@@ -7758,10 +7758,32 @@
     },
     {
       "chainId": 1,
-      "address": "",
+      "address": "0x1d24c86F2325c67C750669eBE10006066bd6eb1E",
       "symbol": "MVX",
       "name": "MetaverseX",
       "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b3A7e4Ad2f847d153E8066f1b367db7Fd2B0779",
+      "symbol": "SDSN",
+      "name": "SupDucks NFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5119c6294a4FD4b36ccc14aA3258f062C075994C",
+      "symbol": "NPC",
+      "name": "NPC",
+      "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
         "scam"
@@ -7771,7 +7793,7 @@
   ],
   "version": {
     "major": 51,
-    "minor": 67,
+    "minor": 68,
     "patch": 14
   }
 }
