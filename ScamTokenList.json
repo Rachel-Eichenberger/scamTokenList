@@ -7793,7 +7793,18 @@
       "chainId": 1,
       "address": "0x49931Fa8Df30E05E46be2C1A524B8E4fE484dF67",
       "symbol": "SHIBARMY",
-      "name": " ShibArmy Inu",
+      "name": "ShibArmy Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeaF7B448EDF62cC20A06878b00B2c365Df75432D",
+      "symbol": "GTFO",
+      "name": "DUMPBUSTER",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -7803,8 +7814,8 @@
 	
   ],
   "version": {
-    "major": 53,
-    "minor": 70,
-    "patch": 16
+    "major": 54,
+    "minor": 71,
+    "patch": 17
   }
 }
