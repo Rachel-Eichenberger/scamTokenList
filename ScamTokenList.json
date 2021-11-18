@@ -7821,12 +7821,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48b07d22465bc34698d5da4f6dd8f0b7e26a0abd",
+      "symbol": "HELLO",
+      "name": "Hello",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 72,
+    "minor": 73,
     "patch": 17
   }
 }
