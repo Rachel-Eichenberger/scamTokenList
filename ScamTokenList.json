@@ -7832,12 +7832,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe28700aAd30b2470f978779cE0fed7443B612CB1",
+      "symbol": "PUSSYBOOTS",
+      "name": "Puss in Boots",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 73,
+    "minor": 74,
     "patch": 17
   }
 }
