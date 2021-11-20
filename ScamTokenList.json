@@ -7854,12 +7854,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDc4E98915C6Bb402B6be60009A60cc123c6466f6",
+      "symbol": "SWASH",
+      "name": "Swash Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa9C8839A868f30B5eD03bc27a07A42e319fb1Ba",
+      "symbol": "SDSN",
+      "name": "SupDucks NFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 75,
+    "minor": 76,
     "patch": 17
   }
 }
