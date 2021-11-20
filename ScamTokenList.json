@@ -7843,12 +7843,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB699DaB9B3F981a01ABc0474F085427D20D0d602",
+      "symbol": "YESWAP",
+      "name": "YESWAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 74,
+    "minor": 75,
     "patch": 17
   }
 }
