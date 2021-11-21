@@ -7876,12 +7876,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xceb2A44F05f6129D4703FD786b3872de8f20Eb0B",
+      "symbol": "DINU",
+      "name": "DOBBY INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 76,
+    "minor": 77,
     "patch": 17
   }
 }
