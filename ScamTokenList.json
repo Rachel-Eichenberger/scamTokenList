@@ -7887,12 +7887,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F024364e2f36F35ba3042cdab935647cBC1E72b",
+      "symbol": "SHIBARMY",
+      "name": "ShibArmy Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19Cd772a13556Bc00F62ffcF0696B1a19CDfD1D3",
+      "symbol": "META",
+      "name": "Facebook",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 77,
+    "minor": 78,
     "patch": 17
   }
 }
