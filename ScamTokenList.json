@@ -7920,12 +7920,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF13b13d3BCA2870e32d894FF6c0B1B16Bca9c83D",
+      "symbol": "SAMURAI",
+      "name": "SAMURAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 79,
+    "minor": 80,
     "patch": 17
   }
 }
