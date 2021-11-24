@@ -7909,12 +7909,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA2c4CC459D25d941f0a88782963Eb7873842e74",
+      "symbol": "Suzinu",
+      "name": "Suzumiya Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 78,
+    "minor": 79,
     "patch": 17
   }
 }
