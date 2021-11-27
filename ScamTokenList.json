@@ -7931,12 +7931,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99c1751B121b62F277eC22d5E4Cf191BdC44055c",
+      "symbol": "TAMAKO",
+      "name": "TAMAKO Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 80,
+    "minor": 81,
     "patch": 17
   }
 }
