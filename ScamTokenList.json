@@ -7953,12 +7953,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC2431FD21b15e3854d41C4B9b122a3A39161C47",
+      "symbol": "Omic",
+      "name": "Omicron",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 82,
+    "minor": 83,
     "patch": 17
   }
 }
