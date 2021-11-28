@@ -7942,12 +7942,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01E39271D33342F9167F948A5c9E67F004Bf802D",
+      "symbol": "SILO",
+      "name": "SILO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 81,
+    "minor": 82,
     "patch": 17
   }
 }
