@@ -7964,12 +7964,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4acaDD6032DB29C33C1C931C9A985B1d3123505",
+      "symbol": "ROCK",
+      "name": "Hard Rock Nick DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x572A5039375108c6A2af7E896A750b6A8101f7D9",
+      "symbol": "1FUTURE",
+      "name": "1FUTURE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 83,
+    "minor": 84,
     "patch": 17
   }
 }
