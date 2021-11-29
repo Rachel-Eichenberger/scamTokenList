@@ -7997,12 +7997,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5DF6B8f7EbeC28858B267Fc2DDC59CC8aCa7A8d",
+      "symbol": "MONA",
+      "name": "MonacoPlanet",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42d023Ca73607676B148Ca22B34725a26530E2B1",
+      "symbol": "MetaMusk",
+      "name": "MetaMusk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 85,
+    "minor": 86,
     "patch": 17
   }
 }
