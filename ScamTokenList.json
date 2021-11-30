@@ -8041,12 +8041,45 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x519a18cbAE439600E66d1635E84B9429b2A26532",
+      "symbol": "Omni",
+      "name": "OmniDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa735080800448d604c601e3EEaF8756d2eeE1656",
+      "symbol": "Wrlds",
+      "name": "NFT Worlds",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87a39Da37377Fd67DdeF7eeE942b5f69a35FB1C2",
+      "symbol": "Click",
+      "name": "Clickerverse DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 87,
+    "minor": 88,
     "patch": 17
   }
 }
