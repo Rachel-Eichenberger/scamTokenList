@@ -8019,12 +8019,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8AAcBd35c529F3236d7713f4eF2CFcEBFA415Cc",
+      "symbol": "CVE",
+      "name": "Concave DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x917E89aeC8E46B3362b553f4c5Ab990F07C28a07",
+      "symbol": "Stark",
+      "name": "StarkWare",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 86,
+    "minor": 87,
     "patch": 17
   }
 }
