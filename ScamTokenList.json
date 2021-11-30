@@ -8074,12 +8074,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5514ef825310c76C2449E23a3d5F1305b7bfa115",
+      "symbol": "ZKS",
+      "name": "ZKS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 88,
+    "minor": 89,
     "patch": 17
   }
 }
