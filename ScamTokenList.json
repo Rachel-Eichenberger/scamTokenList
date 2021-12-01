@@ -8085,12 +8085,42 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xC6A304ef55Ef693B485336C04047a4c8Cec5C2AE",
+      "symbol": "Flx",
+      "name": "Flux Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xc6B7F07133E9A72DfE2C76c53DF120f331825E9e",
+      "symbol": "Bic",
+      "name": "Biconomy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x18b55A76a3326389d58e3A0E0D7E7227A81E861F",
+      "symbol": "Rome",
+      "name": "Rome DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 89,
+    "minor": 90,
     "patch": 17
   }
 }
