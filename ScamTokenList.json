@@ -8115,12 +8115,42 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x9b1eF7cbc18927940653aBBA9baDDDBB5cc1CAF9",
+      "symbol": "rabbit",
+      "name": "The White Rabbit DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xF4FbBD3Ca2D9a376d7a1f9a6b3eC142a41fB8ebE",
+      "symbol": "Musk",
+      "name": "MuskInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x8eb124324E93c8E3813792ABb072C1300d86687e",
+      "symbol": "Symb",
+      "name": "Symbiosis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 90,
+    "minor": 91,
     "patch": 17
   }
 }
