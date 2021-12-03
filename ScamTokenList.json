@@ -8145,12 +8145,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xb3d608c31ACa7a1c7D6DAcec5978E5493181b67A",
+      "symbol": "xRES",
+      "name": "xRES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 91,
+    "minor": 92,
     "patch": 17
   }
 }
