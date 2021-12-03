@@ -8155,12 +8155,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x69D0c380d5Cf0668a66e4eA26ADb0434B5a4C105",
+      "symbol": "CAVE",
+      "name": "Concave Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 92,
+    "minor": 93,
     "patch": 17
   }
 }
