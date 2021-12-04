@@ -8165,12 +8165,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x2D6DE6A368959C60fa368318514eEd92FF2C92E5",
+      "symbol": "SDSN",
+      "name": "SupDucks NFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 93,
+    "minor": 94,
     "patch": 17
   }
 }
