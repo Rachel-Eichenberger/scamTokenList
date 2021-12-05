@@ -8175,12 +8175,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x1412ECa9dc7daEf60451e3155bB8Dbf9DA349933",
+      "symbol": "A68",
+      "name": "A68",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 94,
+    "minor": 95,
     "patch": 17
   }
 }
