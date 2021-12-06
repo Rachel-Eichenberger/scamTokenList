@@ -8185,12 +8185,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x82E90FC3A4C2893bBf6D7C1c93a55Ac071C963e2",
+      "symbol": "MONA",
+      "name": "Monaco Planet Governance Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 95,
+    "minor": 96,
     "patch": 17
   }
 }
