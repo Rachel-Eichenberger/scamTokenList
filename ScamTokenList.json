@@ -8205,12 +8205,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x5b34D10411cc88cE840FeB96db4Da6a8A850C831",
+      "symbol": "OCF",
+      "name": "OtterClam Finance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 97,
+    "minor": 98,
     "patch": 17
   }
 }
