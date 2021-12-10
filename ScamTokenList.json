@@ -8235,12 +8235,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xe502d7a203427499cdB78DE7D06a9c7D4d51A447",
+      "symbol": "YUA",
+      "name": "YUA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 99,
+    "minor": 100,
     "patch": 17
   }
 }
