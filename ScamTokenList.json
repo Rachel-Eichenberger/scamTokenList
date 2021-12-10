@@ -8215,12 +8215,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x022A9B227Be86a5509Ae0f039c736478CBFac8e3",
+      "symbol": "SQUID",
+      "name": "SQUID DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x066e5Df247a2A08f8Ca56dE941a5a0698c44915A",
+      "symbol": "Spart",
+      "name": "Spartacus.Finance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 54,
-    "minor": 98,
+    "minor": 99,
     "patch": 17
   }
 }
