@@ -8255,12 +8255,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xC6810b9ed12853bfAB146C74b43bd3Bc7B0DF4F2",
+      "symbol": "FLOP",
+      "name": "FlappyBird",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 55,
-    "minor": 2,
+    "minor": 3,
     "patch": 17
   }
 }
