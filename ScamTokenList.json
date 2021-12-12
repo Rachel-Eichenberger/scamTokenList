@@ -8265,12 +8265,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x3BEa52d7A76e20809899e830b87515F4eEf8BEFa",
+      "symbol": "BEAST",
+      "name": "MrBeast",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 55,
-    "minor": 3,
+    "minor": 4,
     "patch": 17
   }
 }
