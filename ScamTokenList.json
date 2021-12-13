@@ -8275,12 +8275,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x8ee445a144cb41a9b0f321c30D63142cb4DDEd7D",
+      "symbol": "MCM",
+      "name": "MemeCoinMarketing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 55,
-    "minor": 4,
+    "minor": 5,
     "patch": 17
   }
 }
