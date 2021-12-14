@@ -8285,12 +8285,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x7777bDF2a74a49D361e9A5643f4dAC8e1207FdeA",
+      "symbol": "Voxies",
+      "name": "Voxies",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 55,
-    "minor": 5,
+    "minor": 6,
     "patch": 17
   }
 }
