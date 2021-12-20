@@ -8326,12 +8326,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x19d61aEFefeC7E3e9fa45E8459afF57D02bC6521",
+      "symbol": "EPH",
+      "name": "EPICHERO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 9,
+    "minor": 10,
     "patch": 18
   }
 }
