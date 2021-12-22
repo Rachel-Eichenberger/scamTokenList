@@ -8336,12 +8336,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x8AD8B53C40CF3DFeBD67e2c5bcd14aE61D6fa2a7",
+      "symbol": "PSTAKE",
+      "name": "pSTAKE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 10,
+    "minor": 11,
     "patch": 18
   }
 }
