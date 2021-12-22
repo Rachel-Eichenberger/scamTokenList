@@ -8346,12 +8346,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x7000c0C681693A2126377064Db6E02Ddad8b7286",
+      "symbol": "HFT",
+      "name": "Hashflow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 11,
+    "minor": 12,
     "patch": 18
   }
 }
