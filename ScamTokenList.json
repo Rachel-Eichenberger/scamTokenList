@@ -8356,12 +8356,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x252b36E91bC5A387Ea4F18B600acD7d58B5Db8A6",
+      "symbol": "OTR",
+      "name": "OtterClam",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x32191C6A87987D1A6b2895083Cf63F9C2A97faf8",
+      "symbol": "SFNT",
+      "name": "SupDucks NFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 12,
+    "minor": 14,
     "patch": 18
   }
 }
