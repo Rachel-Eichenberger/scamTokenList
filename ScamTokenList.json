@@ -8386,12 +8386,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x6e70f6F549415D063f86120d2A88a8a21D7dAcC7",
+      "symbol": "Paraverse",
+      "name": "Paraverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 15,
+    "minor": 16,
     "patch": 18
   }
 }
