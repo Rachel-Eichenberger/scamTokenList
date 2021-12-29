@@ -8396,12 +8396,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xfBac672BA14Ac38BFb25ef080208e03DfD898a70",
+      "symbol": "Coinweb",
+      "name": "Coinweb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 16,
+    "minor": 17,
     "patch": 18
   }
 }
