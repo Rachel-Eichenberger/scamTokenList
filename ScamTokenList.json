@@ -8436,12 +8436,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x9C18fc0c5b7b6DB212E4F23655EA1Ae7329b813D",
+      "symbol": "SupD",
+      "name": "SupDucks NFTs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 20,
+    "minor": 21,
     "patch": 19
   }
 }
