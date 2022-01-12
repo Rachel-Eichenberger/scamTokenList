@@ -8418,10 +8418,20 @@
       ]
     },{
       "chainId": 1,
-      "address": "",
+      "address": "0x273b60522b2a17f92CC4d85fE8f0F71C38d64C79",
       "symbol": "BBC",
       "name": "Baby Cat",
       "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xB4d63fDEbcd9bce7cDa56f7914e6636cF64a54bf",
+      "symbol": "IOEN",
+      "name": "IOEN Tech",
+      "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
         "scam"
@@ -8431,7 +8441,7 @@
   ],
   "version": {
     "major": 56,
-    "minor": 19,
-    "patch": 18
+    "minor": 20,
+    "patch": 19
   }
 }
