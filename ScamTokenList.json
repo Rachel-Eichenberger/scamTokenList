@@ -8446,12 +8446,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x6eD5910ac94e27F7CC47Cf3bedCd12665757Bd05",
+      "symbol": "LOKA",
+      "name": "League of Kingdoms Arena",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 21,
+    "minor": 22,
     "patch": 19
   }
 }
