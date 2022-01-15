@@ -8466,12 +8466,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x60e46Ee421E232e9D8d479B502a63AA15D846F2C",
+      "symbol": "MONI",
+      "name": "My Monii",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 23,
+    "minor": 24,
     "patch": 19
   }
 }
