@@ -8456,12 +8456,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xb4cEa5b07c57fDF892e47Af659664E75Bc165e13",
+      "symbol": "GDAO",
+      "name": "Google DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 22,
+    "minor": 23,
     "patch": 19
   }
 }
