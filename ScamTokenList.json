@@ -8486,12 +8486,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x9352d363C9f81DCF9f4e06DDF6C4f73402fb35Ea",
+      "symbol": "PDT",
+      "name": "Paragons DAO Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 25,
+    "minor": 26,
     "patch": 19
   }
 }
