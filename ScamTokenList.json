@@ -8496,12 +8496,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xD47c30FfEf3d50a4FE764E34d755b057eB8755e6",
+      "symbol": "WDAO",
+      "name": "Walmart DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x34E9A17C813D791578509Ae9a327f73E0c9CBe4f",
+      "symbol": "GAL",
+      "name": "Galatasaray Fan Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 26,
+    "minor": 27,
     "patch": 19
   }
 }
