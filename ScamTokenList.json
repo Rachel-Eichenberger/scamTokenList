@@ -8516,12 +8516,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x06f2589727D86798ff5b24b74ce6F81eB874A31e",
+      "symbol": "WFAIR",
+      "name": "Wallfair Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 27,
+    "minor": 28,
     "patch": 19
   }
 }
