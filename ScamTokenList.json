@@ -8526,12 +8526,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x2207aF4d2e95eDb40BD02384aEab645dB561722A",
+      "symbol": "ARG",
+      "name": "Argent",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 28,
+    "minor": 29,
     "patch": 19
   }
 }
