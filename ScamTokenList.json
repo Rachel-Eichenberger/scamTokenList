@@ -8566,12 +8566,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xaA326b56256185fB5A9387a0ACEF1c57fdc63284",
+      "symbol": "WTCL",
+      "name": "WhiteCastle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 31,
+    "minor": 32,
     "patch": 19
   }
 }
