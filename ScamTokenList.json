@@ -8576,12 +8576,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xEfC76dAc0FdF0Ba977281Db54080272D69772B87",
+      "symbol": "DEPO",
+      "name": "DePocket com",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xF43809d3CFE742d0830E14D3489B61cB6E30e0e9",
+      "symbol": "COMMO",
+      "name": "LooksCommon Token",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 32,
+    "minor": 33,
     "patch": 19
   }
 }
