@@ -8596,12 +8596,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x79Dd7006f1811cF8EbABcF9D108c079581A05155",
+      "symbol": "CHTX",
+      "name": "Chatex",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 33,
+    "minor": 34,
     "patch": 19
   }
 }
