@@ -8606,12 +8606,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x657C9Bd6Dd653ba3DE3EB95B88DDfdeeA1F4ea76",
+      "symbol": "BRD",
+      "name": "Bored Ape DAO",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 34,
+    "minor": 35,
     "patch": 19
   }
 }
