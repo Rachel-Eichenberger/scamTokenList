@@ -8616,12 +8616,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x5F72293f5E06698F1890e0acF9dc4B75f6c2d4A2",
+      "symbol": "TEXUZ",
+      "name": "Texuz Project",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 35,
+    "minor": 36,
     "patch": 19
   }
 }
