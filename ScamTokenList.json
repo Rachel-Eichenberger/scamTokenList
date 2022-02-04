@@ -8626,12 +8626,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xAcc5193408f99bB4a8991e0eA6adEE15D7035c56",
+      "symbol": "SPELLS",
+      "name": "Spellsword",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 36,
+    "minor": 37,
     "patch": 19
   }
 }
