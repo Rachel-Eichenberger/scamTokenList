@@ -8646,12 +8646,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x205c58815d158B38E42B979A81A740DfB2eff15C",
+      "symbol": "NASA",
+      "name": " NASA Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 38,
+    "minor": 39,
     "patch": 19
   }
 }
