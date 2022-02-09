@@ -8656,12 +8656,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x1954BE5Ad76AfFc667eA4354EE54C83aEc71B07D",
+      "symbol": "OPNSE",
+      "name": " OpenSea DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 39,
+    "minor": 40,
     "patch": 19
   }
 }
