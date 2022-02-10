@@ -8676,12 +8676,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x1EE3E86Db3Eb58Cd13c070ae5aa8056F9Ad8Fffc",
+      "symbol": "GIS",
+      "name": "HedgiesNFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 41,
+    "minor": 42,
     "patch": 19
   }
 }
