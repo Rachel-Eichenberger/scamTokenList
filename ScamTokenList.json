@@ -8696,12 +8696,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x715F0C356ffd8E364ceAA27BaAD74D796441f3C4",
+      "symbol": "GUCHI",
+      "name": " Gucci Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 43,
+    "minor": 44,
     "patch": 19
   }
 }
