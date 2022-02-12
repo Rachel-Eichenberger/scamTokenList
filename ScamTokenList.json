@@ -8706,12 +8706,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x410B428BDB85cBF32ddea8c329eD5f73B560A51b",
+      "symbol": "VC",
+      "name": "Viral Crypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 44,
+    "minor": 45,
     "patch": 19
   }
 }
