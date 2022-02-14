@@ -8716,12 +8716,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x7cfa05320D83A20980Ac76B91a3A11981877Ef3A",
+      "symbol": "SSW",
+      "name": "SolidSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x242497557f698f0E525228A3f7Fd84095eaDF0Ad",
+      "symbol": "SB",
+      "name": "SuperBowl",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 45,
+    "minor": 46,
     "patch": 19
   }
 }
