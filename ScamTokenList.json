@@ -8780,7 +8780,7 @@
       "chainId": 1,
       "address": "0xB45d101497AC9B3dA54c30D3a30981F7FB6426c4",
       "symbol": "SPRBL",
-      "name": "0xB45d101497AC9B3dA54c30D3a30981F7FB6426c4",
+      "name": "Superbowl metaverse",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -8796,12 +8796,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xAfD28f8EaF1d36Ff10FC548047DdFAbECB413b36",
+      "symbol": "R2D2",
+      "name": "R2D2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x5B73b3F76330a670C2559cb10617Bfc498E91DBF",
+      "symbol": "PIU",
+      "name": "Poodle Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 49,
-    "patch": 19
+    "minor": 50,
+    "patch": 20
   }
 }
