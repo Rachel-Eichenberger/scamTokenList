@@ -8756,12 +8756,52 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x65A6040B4cD971a104e90982360286d7844b3aED",
+      "symbol": "MCDS",
+      "name": "McDonalds Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x28694f142Abd24A7a32E65E1159B473950672AeF",
+      "symbol": "YTUBE",
+      "name": "YouTube Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xB45d101497AC9B3dA54c30D3a30981F7FB6426c4",
+      "symbol": "SPRBL",
+      "name": "0xB45d101497AC9B3dA54c30D3a30981F7FB6426c4",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x46FeFBc51EF679BF10BA4976967520BC1613E4db",
+      "symbol": "PORNH",
+      "name": "Pornhub DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 48,
+    "minor": 49,
     "patch": 19
   }
 }
