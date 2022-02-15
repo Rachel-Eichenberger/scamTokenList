@@ -8746,12 +8746,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x2f2b771c4Be85812577936871Bb42407De9560ad",
+      "symbol": "GOOGL",
+      "name": "Google Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 47,
+    "minor": 48,
     "patch": 19
   }
 }
