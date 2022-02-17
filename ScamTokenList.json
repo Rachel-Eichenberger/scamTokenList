@@ -8846,12 +8846,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xA6479A11244a479Ff896Ce54ce64B1f7CB3bb851",
+      "symbol": "BONK",
+      "name": "Cheems Bonk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 52,
+    "minor": 53,
     "patch": 20
   }
 }
