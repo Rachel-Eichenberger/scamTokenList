@@ -8826,12 +8826,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x81e2c527Aa856aC66a787D53e30197604ED6365C",
+      "symbol": "MSM",
+      "name": "MagicShibaMoney",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xa77133dD508b2E8DA21A22bA11b020299e5aA18B",
+      "symbol": "CHS",
+      "name": "Cheesy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 51,
+    "minor": 52,
     "patch": 20
   }
 }
