@@ -8866,12 +8866,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x93E32AF12c86E9E80C26Fa61Fc4576b8160965c2",
+      "symbol": "FLAT",
+      "name": "Flat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x44945d44050fE57e41cb6c07153c618BccBA8031",
+      "symbol": "SPD",
+      "name": "ShibPrinterDividend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 54,
+    "minor": 55,
     "patch": 20
   }
 }
