@@ -8886,12 +8886,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xeb78348977178B0a31c7cE3B3B382638d0762DFF",
+      "symbol": "MUM",
+      "name": "MagicUniverseMoney",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 55,
+    "minor": 56,
     "patch": 20
   }
 }
