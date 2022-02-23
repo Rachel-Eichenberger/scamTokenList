@@ -8896,12 +8896,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xefb9c4f9e277b301d706ed342465d91cb149a03c",
+      "symbol": "WMV",
+      "name": "Windows Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 56,
+    "minor": 57,
     "patch": 20
   }
 }
