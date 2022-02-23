@@ -8906,12 +8906,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xD2d8D78087D0E43BC4804B6F946674b2Ee406b80",
+      "symbol": "RUG",
+      "name": "RUG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 57,
+    "minor": 58,
     "patch": 20
   }
 }
