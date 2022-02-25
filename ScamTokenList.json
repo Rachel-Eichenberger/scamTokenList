@@ -8926,12 +8926,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x299Bba44a1B1180DD75585F2e6b15B6FFF72DA69",
+      "symbol": "TWIT",
+      "name": "Twitter Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 59,
+    "minor": 60,
     "patch": 20
   }
 }
