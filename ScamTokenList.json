@@ -8936,12 +8936,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xbF71B87a6c058e5BFF972d95CacD8db06e28876c",
+      "symbol": "SPI",
+      "name": "SafePeaceInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x1a55e0557eFa7826D54905b40E6C39d29e7c9cFf",
+      "symbol": "SPI",
+      "name": "SafePeaceInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 60,
+    "minor": 61,
     "patch": 20
   }
 }
