@@ -8956,12 +8956,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x3E598889cec3F3c7dDb1e9dEB70e57EcdbAE88dE",
+      "symbol": "RRW",
+      "name": "RussiaWin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 61,
+    "minor": 62,
     "patch": 20
   }
 }
