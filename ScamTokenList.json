@@ -8966,12 +8966,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x9c28B91702c028C49Ddc525275d9ea0297C9d17D",
+      "symbol": "MNTI",
+      "name": "Minti",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 62,
+    "minor": 63,
     "patch": 20
   }
 }
