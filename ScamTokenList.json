@@ -8996,12 +8996,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x344bcAFBE79f0045D7F6348fCF8A8072c9Cf3871 ",
+      "symbol": "LMV",
+      "name": "Lincoln Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 65,
+    "minor": 66,
     "patch": 20
   }
 }
