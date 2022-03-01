@@ -8998,10 +8998,20 @@
       ]
     },{
       "chainId": 1,
-      "address": "0x344bcAFBE79f0045D7F6348fCF8A8072c9Cf3871 ",
+      "address": "0x344bcAFBE79f0045D7F6348fCF8A8072c9Cf3871",
       "symbol": "LMV",
       "name": "Lincoln Metaverse",
       "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x591e39eb454262A5ba881647Ac634E0FbbA68328",
+      "symbol": "BOB",
+      "name": "Bobatama",
+      "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
         "scam"
@@ -9010,8 +9020,8 @@
 	
   ],
   "version": {
-    "major": 56,
-    "minor": 66,
+    "major": 57,
+    "minor": 67,
     "patch": 20
   }
 }
