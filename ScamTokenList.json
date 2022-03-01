@@ -8986,12 +8986,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x2FEA8bEb18ff47c4003B59Ba04EA784311064c6d",
+      "symbol": "UHDAO",
+      "name": "Ukraine Help DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 56,
-    "minor": 64,
+    "minor": 65,
     "patch": 20
   }
 }
