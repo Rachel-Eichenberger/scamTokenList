@@ -9016,12 +9016,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x12ef025C2e1c89e7186864313a34476Dfaa0fBa8",
+      "symbol": "DST",
+      "name": "Designer Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 67,
+    "minor": 68,
     "patch": 20
   }
 }
