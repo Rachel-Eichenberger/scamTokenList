@@ -9056,12 +9056,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x9FcBbfAC8202706eb05F271addA8a8fCE8418159",
+      "symbol": "POLL",
+      "name": "PollToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 71,
+    "minor": 72,
     "patch": 20
   }
 }
