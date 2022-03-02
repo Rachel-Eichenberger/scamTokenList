@@ -9036,12 +9036,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x7f54C8aB7345dBe3DE6e39a33326ff7a4D1803e9",
+      "symbol": "QUALC",
+      "name": "Qualcomm Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 69,
+    "minor": 70,
     "patch": 20
   }
 }
