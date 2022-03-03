@@ -9076,12 +9076,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x87B58DC813465c2a69488DE551F2ba20344229e6",
+      "symbol": "KITNZ",
+      "name": "Stoned Kittens",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 73,
+    "minor": 74,
     "patch": 20
   }
 }
