@@ -9066,12 +9066,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xF7362E609f634F0aF10beC34462144E3e46a615F",
+      "symbol": "ROVER",
+      "name": "Curiousity Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 72,
+    "minor": 73,
     "patch": 20
   }
 }
