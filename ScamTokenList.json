@@ -9086,12 +9086,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 137,
+      "address": "0xE46cB79C32A7CddA5Bf8644b7144f1d7F11F002A",
+      "symbol": "WOINU",
+      "name": "WorldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 74,
+    "minor": 75,
     "patch": 20
   }
 }
