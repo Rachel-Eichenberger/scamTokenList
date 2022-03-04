@@ -9096,12 +9096,72 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 137,
+      "address": "0x4584e44f2B9c41dEd81259A193C8a1F1AA9E022C",
+      "symbol": "WOINU",
+      "name": "WorldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0x5FCCefA6E5a06B084407554c315949b3A2f4dedd",
+      "symbol": "WOINU",
+      "name": "WorldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0xa68085029570A0856f66d19180a062374a65d4b0",
+      "symbol": "WOINU",
+      "name": "WorldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0xf8005642f94b6Ff9aEB4d69b84b34B0643df6520",
+      "symbol": "WOINU",
+      "name": "WorldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0x72539e4dB8D6c250f21b7955B8284843E70D7b62",
+      "symbol": "WOINU",
+      "name": "WorldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0xDD94041698aE8fd4bf6c41Fc868e89Efd27Ac990",
+      "symbol": "WOINU",
+      "name": "WorldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 75,
+    "minor": 76,
     "patch": 20
   }
 }
