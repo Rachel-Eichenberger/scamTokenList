@@ -9176,12 +9176,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x518dD0bA6904D1c948bE90558A056BbADDCd47EB",
+      "symbol": "SQRM",
+      "name": " Square Enix Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x709dAfa012Fb35e2417F8C37aDdC1B8322e4E041",
+      "symbol": "SPF",
+      "name": "SpaceFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 77,
+    "minor": 78,
     "patch": 20
   }
 }
