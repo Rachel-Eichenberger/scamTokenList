@@ -9156,12 +9156,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xc772CaEd3f41ec8b91eb3A7a1363A7543Aac7BbA",
+      "symbol": "AIR",
+      "name": "Aircash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x601D5d12139FaC149074fb2Cc4284022Db312971",
+      "symbol": "BLBD",
+      "name": "Billboard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 76,
+    "minor": 77,
     "patch": 20
   }
 }
