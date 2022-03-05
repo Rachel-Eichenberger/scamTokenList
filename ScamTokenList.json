@@ -9196,12 +9196,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x7530093C6B63e0A9bF16e5C4D3Cb254B9a35F846",
+      "symbol": "ARSWP",
+      "name": "Aircash Swap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 78,
+    "minor": 79,
     "patch": 20
   }
 }
