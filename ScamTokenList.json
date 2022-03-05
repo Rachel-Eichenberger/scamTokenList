@@ -9216,12 +9216,52 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 137,
+      "address": "0x600071860E83d45b2A132822AAA16773422f2754",
+      "symbol": "TKN",
+      "name": "Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0x683B9CF4CA60fe3BB01B05a5D18BCEf6420e7967",
+      "symbol": "TKN",
+      "name": "Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xdD67866F1D73A95468dD9dB132d2418869a5D452",
+      "symbol": "STK",
+      "name": "Stacks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xf84CEDB16AA7Ec8C527986312A0a100fcdec3903",
+      "symbol": "PAN",
+      "name": "PANews",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 80,
+    "minor": 81,
     "patch": 20
   }
 }
