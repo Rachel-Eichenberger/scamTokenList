@@ -9266,12 +9266,42 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 137,
+      "address": "0x647139Ef1B0fE890316A90bAECF6580456338932",
+      "symbol": "TKN",
+      "name": "Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0x6b644D2611e00619a6dAeE7952879809A1bf8777",
+      "symbol": "TKN",
+      "name": "Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0x7Fd5C05200944fE73d7eE7F76DCFc11588E66F58",
+      "symbol": "TKN",
+      "name": "Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 82,
+    "minor": 83,
     "patch": 20
   }
 }
