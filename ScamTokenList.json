@@ -9356,12 +9356,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 137,
+      "address": "0x58b09559847cb65f66bb3b58fb8585Ab5Ff3593F",
+      "symbol": "CROC",
+      "name": "CrocInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 86,
+    "minor": 87,
     "patch": 20
   }
 }
