@@ -9296,12 +9296,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x5A35E98d7D2CCd69B1de01043571358b012f4C87",
+      "symbol": "DARK",
+      "name": "Dark Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 83,
+    "minor": 84,
     "patch": 20
   }
 }
