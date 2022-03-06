@@ -9316,12 +9316,52 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 137,
+      "address": "0xEF6E90470E407b62206d5d45527F6aaB1643ceB2",
+      "symbol": "BINU",
+      "name": "BillionaireInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0x48eCeacd827a5DE16C017cb3Ab92ee4185b0281F",
+      "symbol": "BINU",
+      "name": "BillionaireInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0xE8104F806534BF7f2E3f308e4610c247bb0C57fF",
+      "symbol": "BINU",
+      "name": "BillionaireInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0x198F7aF7a6A113A0bd2085250682f72f96B3398C",
+      "symbol": "BINU",
+      "name": "BillionaireInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 85,
+    "minor": 86,
     "patch": 20
   }
 }
