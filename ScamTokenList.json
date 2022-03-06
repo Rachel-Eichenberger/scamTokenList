@@ -9306,12 +9306,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x5E9C0C871a240A6221d6ce528b5e7E403058Bcab",
+      "symbol": "DIOR",
+      "name": "Dior Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 84,
+    "minor": 85,
     "patch": 20
   }
 }
