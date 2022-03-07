@@ -9386,12 +9386,42 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x151c7A1fFc23a176B318faA6a353ea3961817efc",
+      "symbol": "AMV",
+      "name": "Amazon Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x569035271DC07D707280363396ED430928830CdE",
+      "symbol": "ENG",
+      "name": "Engagefi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 137,
+      "address": "0xacD5DFf3293e15eBbb5b54De40EEEf19293aF499",
+      "symbol": "2G1C",
+      "name": "2 Girls 1 Cup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 89,
+    "minor": 90,
     "patch": 20
   }
 }
