@@ -9376,12 +9376,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x76fCc48373b3dB6C7958332d334B91aD9E72dE88",
+      "symbol": "KYI",
+      "name": "Kiyomi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 88,
+    "minor": 89,
     "patch": 20
   }
 }
