@@ -9616,12 +9616,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xd4Df69f86fb78E2209C6F8eF755c20166A0b13D3",
+      "symbol": "XTERA",
+      "name": "Terareum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 94,
+    "minor": 95,
     "patch": 20
   }
 }
