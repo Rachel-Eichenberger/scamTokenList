@@ -9416,12 +9416,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x292B6E49E2437ad8787cd54dD0ceAb10b09fA90b",
+      "symbol": "ODAO",
+      "name": "OasisDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x076dfCd822A54a0e97C9736fC30d1b1043BC5509",
+      "symbol": "KDOA",
+      "name": "KavaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 90,
+    "minor": 91,
     "patch": 20
   }
 }
