@@ -9626,12 +9626,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xEb83a3506301D5409320aaf537F44F15DdcD8744",
+      "symbol": "MSHIB",
+      "name": "Martial Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 95,
+    "minor": 96,
     "patch": 20
   }
 }
