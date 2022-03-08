@@ -9446,12 +9446,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x99E11352D5c5e0AD09a4065BC91C978536999E84",
+      "symbol": "TMON",
+      "name": "Tmon Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 92,
+    "minor": 93,
     "patch": 20
   }
 }
