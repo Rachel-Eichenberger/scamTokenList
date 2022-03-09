@@ -9686,12 +9686,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x99f1D43792f00f7ad51F866613bcf9B2befa9c40",
+      "symbol": "ULTRA",
+      "name": "Ultra Games",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 2,
+    "minor": 3,
     "patch": 21
   }
 }
