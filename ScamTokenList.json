@@ -9588,16 +9588,6 @@
       ]
     },{
       "chainId": 137,
-      "address": "0x9eE9d8FFf4394B41D098509Ba1B6597ae33A545D",
-      "symbol": "SIYC",
-      "name": "Safe Inu Yacht Club",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },{
-      "chainId": 137,
       "address": "0x3564b0A316906170D92021A1058a3ddDE67A1530",
       "symbol": "SIYC",
       "name": "Safe Inu Yacht Club",
@@ -9680,8 +9670,8 @@
 	
   ],
   "version": {
-    "major": 57,
-    "minor": 99,
+    "major": 58,
+    "minor": 0,
     "patch": 20
   }
 }
