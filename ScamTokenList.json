@@ -9676,12 +9676,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x3f664b4Bf97E8e4B5d1ECbCE6c3c2EC3Bc1B0354",
+      "symbol": "VEE",
+      "name": "Veefriends",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 1,
+    "minor": 2,
     "patch": 21
   }
 }
