@@ -9696,12 +9696,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x1c6322FE887365193371bb844ccc35038230bedc",
+      "symbol": "DGDAO",
+      "name": "DexGuruDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 3,
+    "minor": 4,
     "patch": 21
   }
 }
