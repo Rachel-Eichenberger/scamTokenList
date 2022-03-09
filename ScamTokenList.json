@@ -9636,12 +9636,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x054D54A41485D6aA440ef9BEe1380f679899A8D5",
+      "symbol": "CHICA",
+      "name": "Chica Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 96,
+    "minor": 97,
     "patch": 20
   }
 }
