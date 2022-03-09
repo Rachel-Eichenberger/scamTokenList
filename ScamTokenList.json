@@ -9646,12 +9646,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x66Ad1F9Dac638c18A4364c3A79C32bF38bDC847d",
+      "symbol": "KYM",
+      "name": "Kiyomi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xA488973e415586E420B3061Bc018dcE62Db76c58",
+      "symbol": "BLKT",
+      "name": "Black Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 97,
+    "minor": 98,
     "patch": 20
   }
 }
