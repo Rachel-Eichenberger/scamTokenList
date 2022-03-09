@@ -9666,12 +9666,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x86BAe6Fd43415A50822295d37a661454b13041f0",
+      "symbol": "ASHIB",
+      "name": "AIRSHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 57,
-    "minor": 98,
+    "minor": 99,
     "patch": 20
   }
 }
