@@ -9726,12 +9726,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x7694b1Ac7942e87D2724e945186f6fB60711e910",
+      "symbol": "JSWAP",
+      "name": "Jediswap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xDc77CB331bA05BB6781ea73b2186119083d5E690",
+      "symbol": "WAVES",
+      "name": "Waves",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 6,
+    "minor": 7,
     "patch": 21
   }
 }
