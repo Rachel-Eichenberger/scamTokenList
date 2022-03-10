@@ -9706,12 +9706,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x7AAE98bCd15E81957023897cDb827b1B99D03896",
+      "symbol": "ARENA",
+      "name": "Arena Verse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 4,
+    "minor": 5,
     "patch": 21
   }
 }
