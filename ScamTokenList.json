@@ -9816,12 +9816,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x48b2bf95550f650145B7197962b50E47b323c0e9",
+      "symbol": "ETOK",
+      "name": "Eijiru Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 13,
+    "minor": 14,
     "patch": 22
   }
 }
