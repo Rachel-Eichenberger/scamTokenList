@@ -9766,12 +9766,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x62f5F85E53B7aB67727EECe37FdE11d3ec104cED",
+      "symbol": "STGR",
+      "name": "SEEKTIGER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 8,
+    "minor": 9,
     "patch": 21
   }
 }
