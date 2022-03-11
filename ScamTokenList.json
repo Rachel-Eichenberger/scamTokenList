@@ -9776,12 +9776,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xB543Cb5CcD9E3f9F9C76F3342C464861E09C21e9",
+      "symbol": "MFA",
+      "name": "MFA Financial",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 9,
+    "minor": 10,
     "patch": 21
   }
 }
