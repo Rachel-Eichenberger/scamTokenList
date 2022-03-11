@@ -9830,7 +9830,17 @@
       "chainId": 1,
       "address": "0x934D0EC59CB2c4C211fC7af31c828A535b17a2Ff",
       "symbol": "TOYM",
-      "name": " Toyota Metaverse",
+      "name": "Toyota Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xa504c8A480b21A909F0C889957f1a189E5C03bdF",
+      "symbol": "WAVES",
+      "name": "Waves",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -9841,7 +9851,7 @@
   ],
   "version": {
     "major": 59,
-    "minor": 15,
+    "minor": 16,
     "patch": 22
   }
 }
