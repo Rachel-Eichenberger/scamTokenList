@@ -9786,12 +9786,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xd67A167eC1aF3378e64267857796D2E1cF8954EA",
+      "symbol": "KDA",
+      "name": "Kadena",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 10,
+    "minor": 11,
     "patch": 21
   }
 }
