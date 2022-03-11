@@ -9796,7 +9796,7 @@
       "tags": [
         "scam"
       ]
-    }{
+    },{
       "chainId": 1,
       "address": "0x382D68Df61C8a5A18e4e5064c76775cFF27F4BC6",
       "symbol": "TGDAO",
@@ -9806,12 +9806,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xFb816bE1CB9E582c73Fcf932b5c9d27D7f9AaF3D",
+      "symbol": "DWOLF",
+      "name": "Dire Wolf",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
-    "major": 58,
-    "minor": 12,
-    "patch": 21
+    "major": 59,
+    "minor": 13,
+    "patch": 22
   }
 }
