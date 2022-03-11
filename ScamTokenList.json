@@ -9746,12 +9746,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xDA1F92867D5Ac4eA20bB9127987e71aC178E7a82",
+      "symbol": "LINU",
+      "name": "Leiko Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x4a760A095853cc5CEC019073dC5A4eE5c72a470C",
+      "symbol": "ODAO",
+      "name": "OasisDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 58,
-    "minor": 7,
+    "minor": 8,
     "patch": 21
   }
 }
