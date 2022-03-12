@@ -9946,12 +9946,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x28A87a66b19b822ba58a0f33ae30aE540d6BDe6a",
+      "symbol": "ACSH",
+      "name": "Aircash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 21,
+    "minor": 22,
     "patch": 22
   }
 }
