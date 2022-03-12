@@ -9846,12 +9846,42 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 137,
+      "address": "0x3Fcc0C5d2d25a6aB24C4df7a2D36bb60E865a7ad",
+      "symbol": "SNCAT",
+      "name": "SnowCat ",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x1C488cFBfa18434E1fABE3982B9717B416D0eceB",
+      "symbol": "SDAO",
+      "name": "SaveDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x461e836daabcdb490562Bd784651FbcD16914f19",
+      "symbol": "STDAO",
+      "name": "StarlinksDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 16,
+    "minor": 17,
     "patch": 22
   }
 }
