@@ -9886,12 +9886,52 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x752798B98208A65e2113aa26b36dF08aB1bE8F05",
+      "symbol": "NDAO",
+      "name": "NymexDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x599bB642ab9FeC65388B887fbf16E1a9c47B6965",
+      "symbol": "SLSWP",
+      "name": "SlowSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x93B3FB1A454CaC4a4CeD9a9C46907D1fB9EF4961",
+      "symbol": "DANTE",
+      "name": "DANTE DEVIL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xC3E0bbf4c4c4F91D13f275f5b3262A0b40206583",
+      "symbol": "GYOO",
+      "name": "GameYoo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 18,
+    "minor": 19,
     "patch": 22
   }
 }
