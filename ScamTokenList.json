@@ -9926,12 +9926,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xd1D67f7bcD5eA485dF4957d1793ff2925cB2c237",
+      "symbol": "KDAO",
+      "name": "KavaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 19,
+    "minor": 20,
     "patch": 22
   }
 }
