@@ -9936,12 +9936,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x441D3955EB3DCB04293805BCb10EE2C5048b4de4",
+      "symbol": "RART",
+      "name": "realmart",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 20,
+    "minor": 21,
     "patch": 22
   }
 }
