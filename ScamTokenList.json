@@ -9956,12 +9956,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x5cc8cF225dd1AE82667419E8825059bC3360FA5f",
+      "symbol": "XBOBA",
+      "name": "Bobatama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x44d7587DE3E268b26152de8dA2f1b28b20a6bB19",
+      "symbol": "POAP",
+      "name": "proof of attendance protocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 22,
+    "minor": 23,
     "patch": 22
   }
 }
