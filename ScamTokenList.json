@@ -10006,12 +10006,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x3b0885946fD0d67aDa49119acd2AD81Bb3A74Fb0",
+      "symbol": "BNGE",
+      "name": "Bungee",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 26,
+    "minor": 27,
     "patch": 22
   }
 }
