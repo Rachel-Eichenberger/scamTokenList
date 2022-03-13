@@ -9996,12 +9996,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x291FE2554Ef05A4451565Cce5C4e3831D0E64dF7",
+      "symbol": "UBERM",
+      "name": "Uber Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 25,
+    "minor": 26,
     "patch": 22
   }
 }
