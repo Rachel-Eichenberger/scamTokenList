@@ -9976,12 +9976,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x4682eC3233e99BB53ea1e32F543EC75B0952E121",
+      "symbol": "SMOW",
+      "name": "Samson Mow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 23,
+    "minor": 24,
     "patch": 22
   }
 }
