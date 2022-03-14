@@ -10066,12 +10066,72 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xC0cda1eac226C202d7764067f7cce673e88E4988",
+      "symbol": "KINU",
+      "name": "KingKong Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x214896AD3c4F89Fa580C7F9bCF77D4e1D035b002",
+      "symbol": "JINU",
+      "name": "Jakurai Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x5cAFf1705e0D16ceEfd9b94821D2AA4581b2EEeF",
+      "symbol": "KINU",
+      "name": "Kisama Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xF96157f7a8259D6ea50cB69D0Ab9EbD4E69329fD",
+      "symbol": "SDAO",
+      "name": "ShowDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x3cf1cF6969c5839dA54B19734EbFA5B9bb9e67A7",
+      "symbol": "MRT",
+      "name": "MERITO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x01A4BE054573b7BF1c8084FFe73138492A89E073",
+      "symbol": "HMVRS",
+      "name": "HUAWEI Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 30,
+    "minor": 31,
     "patch": 22
   }
 }
