@@ -10026,12 +10026,42 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x70f2cc7386D8d00bdfB89A294A867983eBE723a0",
+      "symbol": "DETH",
+      "name": "daddy eth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xBfA7E756D8A1F804447F31Fbd40Bd7da97BE4595",
+      "symbol": "JTS",
+      "name": "Jungle Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xBbF37250C3bC594A035BcC6C82777f55CdB34903",
+      "symbol": "STD",
+      "name": "Stader",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 28,
+    "minor": 29,
     "patch": 22
   }
 }
