@@ -10056,12 +10056,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x8ab448A98840F13E38e1a25328AbE3EBa190809b",
+      "symbol": "SMVRS",
+      "name": "Samsung Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 29,
+    "minor": 30,
     "patch": 22
   }
 }
