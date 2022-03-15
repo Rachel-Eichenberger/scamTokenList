@@ -10186,12 +10186,72 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x2efb6DB085eDe620b985eCF07FA43D97Db7Ab629",
+      "symbol": "RV",
+      "name": "Revive",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xA3eF81282bA1ad9A50F954D86b08D75AF8DFFe9C",
+      "symbol": "NO",
+      "name": "NO DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xbD25AB2A8BBb3fC59553BE42253EEe3Ab4f56A73",
+      "symbol": "KINU",
+      "name": "KongFu Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xfa5c75ec4575c70c9c753E711F71b0ED4D5274F0",
+      "symbol": "ARCH",
+      "name": "Archive",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xCF7B0EB100E4b217CE836DcD7aF8d06BeC0A974c",
+      "symbol": "PMVS",
+      "name": "PRADAMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "",
+      "symbol": "DAO",
+      "name": "DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 37,
+    "minor": 38,
     "patch": 22
   }
 }
