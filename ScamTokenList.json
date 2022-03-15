@@ -10306,12 +10306,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x294aA2d1E4C531aa8f45101b6fF119F406b5Fa73",
+      "symbol": "JMVS",
+      "name": " Johnson Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 40,
+    "minor": 41,
     "patch": 23
   }
 }
