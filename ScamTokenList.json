@@ -10296,12 +10296,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x9396C1C1cf8465f34Cd042DC4Ea0737Dfb0B234a",
+      "symbol": "KONG",
+      "name": "Kongreserve",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 39,
+    "minor": 40,
     "patch": 23
   }
 }
