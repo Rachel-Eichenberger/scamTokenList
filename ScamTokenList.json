@@ -10156,12 +10156,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xdC651635351F903d046B01c40b40B1A0f357Aa30",
+      "symbol": "WTIIM",
+      "name": "WTII Metaveerse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 34,
+    "minor": 35,
     "patch": 22
   }
 }
