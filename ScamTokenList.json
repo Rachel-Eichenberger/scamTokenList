@@ -10238,9 +10238,59 @@
       ]
     },{
       "chainId": 1,
-      "address": "",
-      "symbol": "DAO",
-      "name": "DAO",
+      "address": "0xC12e3B92B350eDc5Fc4826cC115754e7b9b4a43E",
+      "symbol": "MMS",
+      "name": "MOMOverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x926Dd5E5356e7EBDcE68a997d7f4b50d01589B80",
+      "symbol": "UNFT",
+      "name": "UnlocNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x8CF570FBf2495f7c6ce7c9Fb9b96d5bf4cBDB858",
+      "symbol": "AC",
+      "name": "Aircash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xe676E833fC08E26F048BaAF88C884eEB02253AD2",
+      "symbol": "WTI",
+      "name": "WTI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x438E4B4e93d6C3C4d37a36C6e1d5EDbf387295cD",
+      "symbol": "BNG",
+      "name": "Bungee",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x77a2F05cb71e2DA093764DC83D7a59C1Fe09f43A",
+      "symbol": "VC",
+      "name": "Viral Crypto",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -10250,8 +10300,8 @@
 	
   ],
   "version": {
-    "major": 59,
-    "minor": 38,
-    "patch": 22
+    "major": 60,
+    "minor": 39,
+    "patch": 23
   }
 }
