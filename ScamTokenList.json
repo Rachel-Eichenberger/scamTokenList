@@ -10316,12 +10316,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xf4354CF0D364E015d9CE05670D712A2DeCa64514",
+      "symbol": "UMVS",
+      "name": "Uniqlo Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x56EcD4f87cD68A844fe608f7F51aB25fB9dD5460",
+      "symbol": "CMVS",
+      "name": "Chrome Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 41,
+    "minor": 42,
     "patch": 23
   }
 }
