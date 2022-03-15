@@ -10166,12 +10166,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x93e5B700Cf53e289CC189E0735FF50cC4221cC28",
+      "symbol": "PK",
+      "name": "Penguin Karts",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 35,
+    "minor": 36,
     "patch": 22
   }
 }
