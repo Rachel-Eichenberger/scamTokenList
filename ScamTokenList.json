@@ -10146,12 +10146,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xE8Bcd7Fd29C0e88303a986136E20EA4af8770D0a",
+      "symbol": "WTI",
+      "name": "WTI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 33,
+    "minor": 34,
     "patch": 22
   }
 }
