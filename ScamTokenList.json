@@ -10136,12 +10136,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x455a9549Dd5d3F174b51660291642b52c69c5946",
+      "symbol": "MKVLT",
+      "name": "Makaveli Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 59,
-    "minor": 32,
+    "minor": 33,
     "patch": 22
   }
 }
