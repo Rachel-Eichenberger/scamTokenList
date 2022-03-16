@@ -10376,12 +10376,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 137,
+      "address": "0x6fE0Af8d0C12f56896B1A7a813D48077ea374bBc",
+      "symbol": "CINU",
+      "name": "Celestial Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 45,
+    "minor": 46,
     "patch": 23
   }
 }
