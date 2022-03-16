@@ -10356,12 +10356,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xd0e047de606d9692108F20862BaBc47c255c81dB",
+      "symbol": "FLOKI",
+      "name": "Flokiverse Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 43,
+    "minor": 44,
     "patch": 23
   }
 }
