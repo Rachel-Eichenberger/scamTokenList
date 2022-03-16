@@ -10336,12 +10336,32 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xA3dc1B2f5B47720e69c6cF4C12850563830939E5",
+      "symbol": "ASWP",
+      "name": "AircashSWAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0xCd6FA7BeDaC3f010d5F9687da61f15C26836CBe5",
+      "symbol": "CFA",
+      "name": "Coin Fast Alert V2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 42,
+    "minor": 43,
     "patch": 23
   }
 }
