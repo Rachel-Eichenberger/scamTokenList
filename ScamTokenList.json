@@ -10406,12 +10406,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x219dE4Ae6672A88149cf2fD71c3E5FC4752F3b1A",
+      "symbol": "MM",
+      "name": "MetaMask DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 48,
+    "minor": 49,
     "patch": 23
   }
 }
