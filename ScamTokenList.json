@@ -10386,12 +10386,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x79677CFf1476bF20A52aa5F482C3246Cd30e45Cf",
+      "symbol": "PDAO",
+      "name": "PAIRS DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 46,
+    "minor": 47,
     "patch": 23
   }
 }
