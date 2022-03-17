@@ -10466,12 +10466,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xd7cE12cfa36c64836147198C9C855d1E46d99ED3",
+      "symbol": "WOS",
+      "name": "We Own Sea",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 51,
+    "minor": 52,
     "patch": 23
   }
 }
