@@ -10456,12 +10456,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x996d45Fb80702c412989Ac554173B2E83Fad2d45",
+      "symbol": "GDAO",
+      "name": "GoldenDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 50,
+    "minor": 51,
     "patch": 23
   }
 }
