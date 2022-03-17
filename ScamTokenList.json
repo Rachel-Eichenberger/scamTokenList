@@ -10476,12 +10476,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x591414d947F47a25B9CB38e80170c27cd4278877",
+      "symbol": "FINU",
+      "name": "Fusa Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 52,
+    "minor": 53,
     "patch": 23
   }
 }
