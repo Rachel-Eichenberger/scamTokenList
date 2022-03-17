@@ -10416,12 +10416,52 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x4D221B9c0EE56604186a33F4f2433A3961C94381",
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x0D697CF09268b79679C66D5A6E8766A3Ec2D33Ec",
+      "symbol": "SMVS",
+      "name": "Steam Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x8E368aAf5CA99A51a7cD320Fbf4823DBfefb81cf",
+      "symbol": "GPX",
+      "name": "Gopax",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x48628B1d15c85d422972C834d9340Ea1fE1477D4",
+      "symbol": "PINU",
+      "name": "Patrick Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 49,
+    "minor": 50,
     "patch": 23
   }
 }
