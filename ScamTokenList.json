@@ -10496,12 +10496,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xa28eEe5b1Fc29acffD68e7Ed520193eBe3669e86",
+      "symbol": "FTE",
+      "name": "Fount Token Economy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 54,
+    "minor": 55,
     "patch": 23
   }
 }
