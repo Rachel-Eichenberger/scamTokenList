@@ -10486,12 +10486,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xB2B2Dbc30F60f6404Ec17255842eD831E46e8819",
+      "symbol": "DEPL",
+      "name": "DEPLOY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 53,
+    "minor": 54,
     "patch": 23
   }
 }
