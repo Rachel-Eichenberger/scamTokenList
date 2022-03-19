@@ -10566,12 +10566,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xAccF8Cf19e99c7C9Cb67F2BD5bCc7FCc1286B46a",
+      "symbol": "RING",
+      "name": "APESRING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 59,
+    "minor": 60,
     "patch": 23
   }
 }
