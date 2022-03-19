@@ -10684,12 +10684,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB1b39C25A0B46ee8a0af2f5A3Abe005b7095757",
+      "symbol": "SocialApe",
+      "name": "Social Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 66,
+    "minor": 67,
     "patch": 23
   }
 }
