@@ -10706,12 +10706,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73e2abA91C4E64049c4AB55bFFcEC3ad25D51050",
+      "symbol": "FATAPE",
+      "name": "Fat Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 68,
+    "minor": 69,
     "patch": 23
   }
 }
