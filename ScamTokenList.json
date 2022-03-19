@@ -10506,12 +10506,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x561d2e19f61B349A67a6ed692C75B501AC965169",
+      "symbol": "MRPG",
+      "name": "MetaRPG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 55,
+    "minor": 56,
     "patch": 23
   }
 }
