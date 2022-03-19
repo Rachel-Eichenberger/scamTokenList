@@ -10586,12 +10586,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x579884E396DeD7726E47B05C8df87F86Ea621752",
+      "symbol": "ZVS",
+      "name": "zelenskyVSputin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 61,
+    "minor": 62,
     "patch": 23
   }
 }
