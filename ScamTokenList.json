@@ -10526,12 +10526,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0xc1ad4C4dfcC9Feb46a85D551A9E8F486Dae0429D",
+      "symbol": "PCRC",
+      "name": "PCRC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 57,
+    "minor": 58,
     "patch": 23
   }
 }
