@@ -10536,12 +10536,42 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x4084614fec9e9e894024e3F25696628A4b44406E",
+      "symbol": "FF",
+      "name": "Ferpaid Finance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x66B316e52Ef797591a79D0432b1E0b1BE3152D3D",
+      "symbol": "ACSH",
+      "name": "Aircash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },{
+      "chainId": 1,
+      "address": "0x6021eDA3838eD92ed52953F877685b5d4d74687C",
+      "symbol": "SDAO",
+      "name": "SorareDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 58,
+    "minor": 59,
     "patch": 23
   }
 }
