@@ -10596,12 +10596,56 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DC151447b67136e430AdCee185b9FD9bb0A1E12",
+      "symbol": "CHADAPE",
+      "name": "Chad Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22682a51efe7fC012B585daca8075BDEeFDc4378",
+      "symbol": "AZU",
+      "name": "AzukiCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc21d79947ec0Aa2F3B7069486C85cfA123995c50",
+      "symbol": "BOXA",
+      "name": "Boxa Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD708eAa5750Be0d2Aa39E503Ec5BFB3f3065563e",
+      "symbol": "OMN",
+      "name": "Omnia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 62,
+    "minor": 63,
     "patch": 23
   }
 }
