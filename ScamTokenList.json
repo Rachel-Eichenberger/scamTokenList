@@ -10516,12 +10516,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x134f18a6864eFb61eA8636D1bDB0cc3C4c8FD797",
+      "symbol": "FKAPE",
+      "name": "ApeCoin DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 56,
+    "minor": 57,
     "patch": 23
   }
 }
