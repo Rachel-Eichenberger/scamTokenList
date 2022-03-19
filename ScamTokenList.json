@@ -10673,12 +10673,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2918425E3B35D0A90748Cf98A2d7AAc128c8228f",
+      "symbol": "APETAMA",
+      "name": "Apetama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 65,
+    "minor": 66,
     "patch": 23
   }
 }
