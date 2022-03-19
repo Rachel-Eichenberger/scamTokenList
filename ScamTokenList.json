@@ -10739,12 +10739,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F9bB22e7D1c065951eaBECF54c267FF309b892F",
+      "symbol": "IA",
+      "name": "Infinite Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 71,
+    "minor": 72,
     "patch": 23
   }
 }
