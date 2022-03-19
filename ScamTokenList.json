@@ -11011,11 +11011,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF2270a215aD0982086b7C59b000683Cd4EfAc32",
+      "symbol": "GE",
+      "name": "GoldenEagle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 73,
+    "minor": 74,
     "patch": 23
   }
 }
