@@ -10662,12 +10662,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD55706459FdE06081Fd8def567C3AA27dfbC29b6",
+      "symbol": "FARMER",
+      "name": "Farmer Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 64,
+    "minor": 65,
     "patch": 23
   }
 }
