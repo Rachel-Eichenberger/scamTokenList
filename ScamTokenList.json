@@ -10695,12 +10695,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA54ffD4B92D6FFdC737c3DFCE6bF6Ef1dCcA56f9",
+      "symbol": "ApeBoy",
+      "name": "Ape Boy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 67,
+    "minor": 68,
     "patch": 23
   }
 }
