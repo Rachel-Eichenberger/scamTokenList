@@ -10576,12 +10576,22 @@
       "tags": [
         "scam"
       ]
+    },{
+      "chainId": 1,
+      "address": "0x1E76776ED99dC8D5bbfC6c37a6c48CA462FaC5c8",
+      "symbol": "BKONG",
+      "name": "Beat Kong",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 60,
+    "minor": 61,
     "patch": 23
   }
 }
