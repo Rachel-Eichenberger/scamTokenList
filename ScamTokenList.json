@@ -10717,12 +10717,23 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd40f941B6336000F54e80b7419E7273C16e39F97",
+      "symbol": "SHKG",
+      "name": "Shikage",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 69,
+    "minor": 70,
     "patch": 23
   }
 }
