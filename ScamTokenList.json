@@ -10640,12 +10640,34 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Bf8064a95CF5CDBABA69A5B1B4407c2Bc49B85c",
+      "symbol": "KYM",
+      "name": "Kiyomi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70469652C043A737a67537D0779C4e4F362887e4",
+      "symbol": "NARUTAMA",
+      "name": "NARUTAMA INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
 	
   ],
   "version": {
     "major": 60,
-    "minor": 63,
+    "minor": 64,
     "patch": 23
   }
 }
