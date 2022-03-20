@@ -11132,11 +11132,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5084caBC30886171399D57bfb692408628A555B",
+      "symbol": "INUsuke",
+      "name": "INUsuke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 82,
+    "minor": 83,
     "patch": 23
   }
 }
