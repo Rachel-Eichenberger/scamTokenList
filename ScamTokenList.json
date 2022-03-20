@@ -11682,11 +11682,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F24801A0ca42c43B1e58d2433B2CF373c3B0B45",
+      "symbol": "GenghisKong",
+      "name": "GenghisKong",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 32,
+    "minor": 33,
     "patch": 24
   }
 }
