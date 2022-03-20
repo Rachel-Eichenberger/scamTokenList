@@ -11209,11 +11209,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ef5dCd8599EbdaAaC0ed9607aD1b3b35773B326",
+      "symbol": "APES",
+      "name": "APEOCALYPSE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 89,
+    "minor": 90,
     "patch": 23
   }
 }
