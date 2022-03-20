@@ -11605,11 +11605,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04324b7996DA1111c0D20E7c2534f56401eB4a60",
+      "symbol": "Gorillas",
+      "name": "Gorillas Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 25,
+    "minor": 26,
     "patch": 24
   }
 }
