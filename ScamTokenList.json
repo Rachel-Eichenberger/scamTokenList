@@ -11627,11 +11627,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e22eb365DcC6F34AE14F8800203Dfe3fDa2Df4e",
+      "symbol": "Invisible",
+      "name": "Invisible Friends",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 27,
+    "minor": 28,
     "patch": 24
   }
 }
