@@ -11187,11 +11187,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f7C4Cc558008C5dC3f05B99449bD8E78fcF4cfA",
+      "symbol": "AZUKI",
+      "name": "Azuki NFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 87,
+    "minor": 88,
     "patch": 23
   }
 }
