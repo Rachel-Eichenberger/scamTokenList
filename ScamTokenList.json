@@ -11044,11 +11044,55 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x061d7F0CB2E8D0c38218111071D2df556869896E",
+      "symbol": "iAPE",
+      "name": "iAPE Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4ceFc93FE0b3744F69032412A5DAD530B25dd43",
+      "symbol": "QAPE",
+      "name": "Queen Ape Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA097ECf11D50d1656903fDa25D2d267B4F0910ff",
+      "symbol": "YODANOBI",
+      "name": "YodaNobi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeCe8531550Fc599ccB2c7734494FBc358d0a9483",
+      "symbol": "PP",
+      "name": "PP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 76,
+    "minor": 77
     "patch": 23
   }
 }
