@@ -11110,11 +11110,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7A2e497E19d27D1dFEf0348412Bb0025A15cdcf",
+      "symbol": "AUDIO",
+      "name": "Audius Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 80,
+    "minor": 81,
     "patch": 23
   }
 }
