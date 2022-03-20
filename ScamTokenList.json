@@ -11198,11 +11198,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bFbec10E6E1f5e1FC5313c5e981491cB5FdB7dD",
+      "symbol": "BABYCASINO",
+      "name": "BABYCASINO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 88,
+    "minor": 89,
     "patch": 23
   }
 }
