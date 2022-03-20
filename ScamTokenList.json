@@ -11550,11 +11550,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1C68c474b6005e7affEb8d89919B5b9E4c1636b",
+      "symbol": "SHINAPE",
+      "name": "Shinape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 20,
+    "minor": 21,
     "patch": 24
   }
 }
