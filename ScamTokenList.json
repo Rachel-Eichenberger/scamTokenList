@@ -11495,11 +11495,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2AB759490b2896d923348D03924bb53Bc2963F2",
+      "symbol": "WARDTAMA",
+      "name": "Squidwardtama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 15,
+    "minor": 16,
     "patch": 24
   }
 }
