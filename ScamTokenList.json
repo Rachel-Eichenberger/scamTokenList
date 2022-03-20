@@ -11616,11 +11616,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86ab0277FDd086b420ef72DE59e1723429435356",
+      "symbol": "ZIAPE",
+      "name": "Zion Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 26,
+    "minor": 27,
     "patch": 24
   }
 }
