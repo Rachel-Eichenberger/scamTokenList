@@ -11462,11 +11462,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA5ECC4FD42cd878344Ff98b3ecE75970E9CDeCB",
+      "symbol": "ZION",
+      "name": "Zion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B4ddB48c74AD82cA1BC370479AeCC9C2cFb204d",
+      "symbol": "SCARECROW",
+      "name": "Shib Protector",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 12,
+    "minor": 14,
     "patch": 24
   }
 }
