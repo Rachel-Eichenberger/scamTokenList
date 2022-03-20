@@ -11154,11 +11154,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5199737ce5FA66B064d8644DFb6D780e39C9bbE3",
+      "symbol": "HAPE",
+      "name": "HAPE Prime",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74f83048e6d7B89E14925A828ecC11a1a3189Afd",
+      "symbol": "FAT",
+      "name": "Fat Society",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 84,
+    "minor": 86,
     "patch": 23
   }
 }
