@@ -11056,9 +11056,9 @@
         "scam"
       ]
     },
-    {
-      "chainId": 1,
-      "address": "0xE4ceFc93FE0b3744F69032412A5DAD530B25dd43",
+	{
+	  "chainId": 1,
+	  "address": "0xE4ceFc93FE0b3744F69032412A5DAD530B25dd43",
       "symbol": "QAPE",
       "name": "Queen Ape Coin",
       "decimals": 18,
@@ -11083,6 +11083,17 @@
       "address": "0xeCe8531550Fc599ccB2c7734494FBc358d0a9483",
       "symbol": "PP",
       "name": "PP",
+	  "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75d431B530d6556586Ffdcc189bFC3BcD07E4984",
+      "symbol": "TopShot",
+      "name": "TopShot",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -11092,7 +11103,7 @@
   ],
   "version": {
     "major": 60,
-    "minor": 77
+    "minor": 79,
     "patch": 23
   }
 }
