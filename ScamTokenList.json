@@ -11671,11 +11671,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB459fC8Ee0cf10aa4F49E5c962324916ac4cfD1a",
+      "symbol": "Buzz",
+      "name": "Buzzard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 31,
+    "minor": 32,
     "patch": 24
   }
 }
