@@ -11143,11 +11143,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBb90db7FB928DaD618f8Aa5b5Bb1603de17C08BB",
+      "symbol": "ZIZO",
+      "name": "Zizo Inu      ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 83,
+    "minor": 84,
     "patch": 23
   }
 }
