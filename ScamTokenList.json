@@ -11561,11 +11561,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8eD2Fc1d55562a2a6c23c04eCc1ac57f2BE6cC1c",
+      "symbol": "ANGERKONG",
+      "name": "AngerKong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCe4Fd7Ea4c894ed145ecb996a79C336F3A279334",
+      "symbol": "Mfers",
+      "name": "Mfers Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 21,
+    "minor": 23,
     "patch": 24
   }
 }
