@@ -11176,11 +11176,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0282B9a581600B8A81238850F398bB41350a0F4",
+      "symbol": "ITACHI",
+      "name": "Itachi Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 86,
+    "minor": 87,
     "patch": 23
   }
 }
