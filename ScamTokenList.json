@@ -11594,11 +11594,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84e94e8ce9F382264a50fF273B6ca9386fa08fBf",
+      "symbol": "ZAPE",
+      "name": "Zizo Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 24,
+    "minor": 25,
     "patch": 24
   }
 }
