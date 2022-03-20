@@ -11649,11 +11649,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10d1560578EE9Da1036134FC801BA0254291548c",
+      "symbol": "APESTER",
+      "name": "Apester",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 29,
+    "minor": 30,
     "patch": 24
   }
 }
