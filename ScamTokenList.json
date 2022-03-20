@@ -11583,11 +11583,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9427f98a306433069057af84cf198047A633633",
+      "symbol": "MEDIA",
+      "name": "Media Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 23,
+    "minor": 24,
     "patch": 24
   }
 }
