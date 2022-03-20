@@ -11693,11 +11693,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2a7d7Dd614EFF360B745e732124f11697b6922d",
+      "symbol": "BALLZ",
+      "name": "Ballerz Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 33,
+    "minor": 34,
     "patch": 24
   }
 }
