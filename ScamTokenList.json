@@ -12474,11 +12474,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3D4062E739e12E48d153FF290A72a429d6f6582",
+      "symbol": "CMI",
+      "name": "Community Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 4,
+    "minor": 5,
     "patch": 25
   }
 }
