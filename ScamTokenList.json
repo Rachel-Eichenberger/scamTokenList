@@ -12826,11 +12826,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B368826Cf108B24716F1038aa381EFc84A70862",
+      "symbol": "HOWL",
+      "name": "HOWLER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 36,
+    "minor": 37,
     "patch": 25
   }
 }
