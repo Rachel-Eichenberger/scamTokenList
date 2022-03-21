@@ -11836,11 +11836,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE204fF7E5Da8babc77530a827872925Ad9aAd152",
+      "symbol": "APIENS",
+      "name": "APIENS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 46,
+    "minor": 47,
     "patch": 24
   }
 }
