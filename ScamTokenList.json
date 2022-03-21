@@ -12551,11 +12551,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74C893432E774f92020b3395cbCC75c08f83bc5B",
+      "symbol": "anima",
+      "name": "anima",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF745eE34C76A3b1587E8C84610e718484f856a16",
+      "symbol": "WormInu",
+      "name": "WormInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 11,
+    "minor": 13,
     "patch": 25
   }
 }
