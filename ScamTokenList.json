@@ -12452,11 +12452,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c1bc8B7389369a85D49ef0Ca336Cf11798893fE",
+      "symbol": "ACE",
+      "name": "ApeCapitalEfficiency",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb89803f9052B6090EE4777F7da6d00873af60C8",
+      "symbol": "Spirit",
+      "name": "Spirit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 2,
+    "minor": 4,
     "patch": 25
   }
 }
