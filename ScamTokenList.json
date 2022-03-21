@@ -11781,11 +11781,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x339b3E78031Fb2E60b8F229a9364b960Da8e770E",
+      "symbol": "LAMBOAPE",
+      "name": "Lambo Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 41,
+    "minor": 42,
     "patch": 24
   }
 }
