@@ -11726,11 +11726,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x956B5d8bbbD81A03c545b75E99028D09326797de",
+      "symbol": "Ghidorah",
+      "name": "Ghidorah Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x762B7edE223412302d74622E9434C72697a8Bc4a",
+      "symbol": "VITA",
+      "name": "VitamInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 36,
+    "minor": 38,
     "patch": 24
   }
 }
