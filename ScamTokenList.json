@@ -11715,11 +11715,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2Ae5356a1682a78eb905B2C42CB410F35938C66",
+      "symbol": "FAT",
+      "name": "Fair Access Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 35,
+    "minor": 36,
     "patch": 24
   }
 }
