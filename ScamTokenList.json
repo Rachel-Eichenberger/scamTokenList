@@ -12639,11 +12639,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x744Ce697716e6B01981b764AB4aA466d0dE84a57",
+      "symbol": "HMI",
+      "name": "Hugo McGregor Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7ff79051E4738A79687D0Ae72Bf39f9bB23D09c",
+      "symbol": "AQOM",
+      "name": "Apex Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 19,
+    "minor": 21,
     "patch": 25
   }
 }
