@@ -12012,11 +12012,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1F728211658B90CB5eA0614F0bd1Fb3aD391f02",
+      "symbol": "FIT",
+      "name": "Fight For Fitness",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf1e4D29de8F14b8B7BACCC015807fc5854CEd3C",
+      "symbol": "ChelseaDAO",
+      "name": "ChelseaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 62,
+    "minor": 64,
     "patch": 24
   }
 }
