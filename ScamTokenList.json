@@ -12518,11 +12518,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5AFc8f7374f501669a3a6693fa7e6C0Df7Bd819d",
+      "symbol": "CLONE",
+      "name": "CLONE X",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8379BFdbeA23691454FB25104fB9B2e11a29A210",
+      "symbol": "FQM",
+      "name": "Floki Predator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 8,
+    "minor": 10,
     "patch": 25
   }
 }
