@@ -12804,11 +12804,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77dc7b1D244738cE797C1493c47547971A8b32BC",
+      "symbol": "WARMY",
+      "name": "Wolf Army",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 34,
+    "minor": 35,
     "patch": 25
   }
 }
