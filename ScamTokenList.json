@@ -12749,11 +12749,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f22dD9Cc043518446D5D0fdCA82D00a5563A399",
+      "symbol": "BAKC",
+      "name": "BAKC COIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 29,
+    "minor": 30,
     "patch": 25
   }
 }
