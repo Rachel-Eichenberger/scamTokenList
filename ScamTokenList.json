@@ -12661,11 +12661,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x279e1f6Ef27F69A66E7d3278709094D48D753D74",
+      "symbol": "BD",
+      "name": "Bat Dog",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 21,
+    "minor": 22,
     "patch": 25
   }
 }
