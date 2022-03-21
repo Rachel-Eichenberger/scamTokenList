@@ -11946,11 +11946,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC10B175856d01d85C4b130B777B3631402d1535E",
+      "symbol": "AIRFOREST",
+      "name": "AIRFOREST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 56,
+    "minor": 57,
     "patch": 24
   }
 }
