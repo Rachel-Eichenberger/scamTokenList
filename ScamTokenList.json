@@ -11748,11 +11748,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdcBE5f64537edfBfa8725ffC9DB8B0f076A4bBd5",
+      "symbol": "YAPE",
+      "name": "Young Ape Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 38,
+    "minor": 39,
     "patch": 24
   }
 }
