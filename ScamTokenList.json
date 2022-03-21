@@ -12727,11 +12727,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcc39667c89D1450B5C5f0aB2d52E7b68b1F7A72",
+      "symbol": "HG",
+      "name": "HolyGrail",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 27,
+    "minor": 28,
     "patch": 25
   }
 }
