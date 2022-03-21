@@ -12694,11 +12694,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0834843a1EeFB1E7D0622b620F9f19af89B0e65b",
+      "symbol": "KOP",
+      "name": "Saitama Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 24,
+    "minor": 25,
     "patch": 25
   }
 }
