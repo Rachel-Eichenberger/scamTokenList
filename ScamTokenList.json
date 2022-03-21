@@ -12738,11 +12738,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd745739e23Edb58cD8c9b8795F46eb1EdC89982b",
+      "symbol": "Pajape",
+      "name": "PajeetApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 28,
+    "minor": 29,
     "patch": 25
   }
 }
