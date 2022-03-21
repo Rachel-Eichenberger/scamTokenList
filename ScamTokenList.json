@@ -12540,11 +12540,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAa417951D8cDC924f92d62A27E9f7fd2aA64bc8d",
+      "symbol": "Shakira",
+      "name": "Shakira",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 10,
+    "minor": 11,
     "patch": 25
   }
 }
