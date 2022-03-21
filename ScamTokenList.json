@@ -12331,11 +12331,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Fef531A1ca78A17759d29d306ed9Bc35185971D",
+      "symbol": "Soul",
+      "name": "Soul",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d5a61164F1E3133ffED85BC36fC2d680AAfCA94",
+      "symbol": "HOLY",
+      "name": "HOLYGRAIL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 91,
+    "minor": 93,
     "patch": 24
   }
 }
