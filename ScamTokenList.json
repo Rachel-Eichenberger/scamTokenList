@@ -12496,11 +12496,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5C83111F47CdAE8855Cd3e1989fdEe8FcACC599",
+      "symbol": "Spirit",
+      "name": "Spirit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 6,
+    "minor": 7,
     "patch": 25
   }
 }
