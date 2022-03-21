@@ -11990,11 +11990,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11E818DAc85c41457da185930CAA3F9b9c43c0c5",
+      "symbol": "DODO",
+      "name": "Doge Doll",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 60,
+    "minor": 61,
     "patch": 24
   }
 }
