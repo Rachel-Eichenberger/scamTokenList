@@ -12364,11 +12364,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04cC611e377bf2754111e2a7269Cf74720d7fB4b",
+      "symbol": "CINU",
+      "name": "Cloudy Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF28c24AE34C921DEfacAA5F77463a53Cd74d83C9",
+      "symbol": "HOWLR",
+      "name": "HOWLER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 94,
+    "minor": 96,
     "patch": 24
   }
 }
