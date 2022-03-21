@@ -12565,9 +12565,9 @@
     },
     {
       "chainId": 1,
-      "address": "0xF745eE34C76A3b1587E8C84610e718484f856a16",
-      "symbol": "WormInu",
-      "name": "WormInu",
+      "address": "0x203F20aD8643983A4109BAE2aE9502deDdbE4fE3",
+      "symbol": "Flippy",
+      "name": "Flippy Token",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
