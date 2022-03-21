@@ -12573,11 +12573,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaad6285D1Bf2e14F290a8524786488Ee18F529b7",
+      "symbol": "PANDA",
+      "name": "Bamboo Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 13,
+    "minor": 14,
     "patch": 25
   }
 }
