@@ -11704,11 +11704,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDa8B5B5d1c89abF2987fE2b5B5429109eA2c78e9",
+      "symbol": "DNB",
+      "name": "DONOTBUY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 34,
+    "minor": 35,
     "patch": 24
   }
 }
