@@ -12386,11 +12386,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06F96EBC423488a36e55bB57850aff69E061aB2E",
+      "symbol": "BLACKBIRD",
+      "name": "Blackbird",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3E075350b924bE4C1D5Bae6ee126914Ef2891bF",
+      "symbol": "HQ",
+      "name": "Birds of Prey",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 96,
+    "minor": 98,
     "patch": 24
   }
 }
