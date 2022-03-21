@@ -12408,11 +12408,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b38E0FD5A24F6a2E06dd535a1962aBc05c84b9f",
+      "symbol": "BerlinBrandenburg",
+      "name": "BerlinBrandenburg",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 98,
+    "minor": 99,
     "patch": 24
   }
 }
