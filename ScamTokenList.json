@@ -11891,11 +11891,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A3Ab016e52389f182Fe549051dbB5C348a4b9B0",
+      "symbol": "LINU",
+      "name": "Limbic Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 51,
+    "minor": 52,
     "patch": 24
   }
 }
