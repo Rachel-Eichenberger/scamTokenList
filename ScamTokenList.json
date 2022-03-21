@@ -12320,11 +12320,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4a16444133831a0fC84bfdD6bd01d6dcF5E69eA",
+      "symbol": "DELC",
+      "name": "Grifters",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 90,
+    "minor": 91,
     "patch": 24
   }
 }
