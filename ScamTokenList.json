@@ -11825,11 +11825,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3aD5A20ceCC4C4dDaA57051B7204A825601e45B",
+      "symbol": "QOI",
+      "name": "The Shitcoin Predator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 45,
+    "minor": 46,
     "patch": 24
   }
 }
