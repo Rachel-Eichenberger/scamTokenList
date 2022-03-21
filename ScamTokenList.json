@@ -11858,11 +11858,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a6c47CA8263EbEd20Cc16d5fF83598D1FD86805",
+      "symbol": "xFLOKI",
+      "name": "xFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 48,
+    "minor": 49,
     "patch": 24
   }
 }
