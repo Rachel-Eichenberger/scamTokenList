@@ -12353,11 +12353,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2eCE0d7d1A3440909B6dbBa154aD57a90017b9F",
+      "symbol": "PREDATOR",
+      "name": "Inu Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 93,
+    "minor": 94,
     "patch": 24
   }
 }
