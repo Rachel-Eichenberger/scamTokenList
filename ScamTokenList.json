@@ -11924,11 +11924,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9BE03746584bC20bf946E14714CD816Ed549258B",
+      "symbol": "C5C6Inu",
+      "name": "C5C6 Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 54,
+    "minor": 55,
     "patch": 24
   }
 }
