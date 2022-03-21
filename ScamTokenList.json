@@ -11913,11 +11913,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C5C603Fe382614b2229a9E54bB1FD6C84353AF7",
+      "symbol": "SM",
+      "name": "Sumo Musk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 53,
+    "minor": 54,
     "patch": 24
   }
 }
