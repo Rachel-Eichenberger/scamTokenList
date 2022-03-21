@@ -12441,11 +12441,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91B3836B230b1CCd99a44E8d745c3f6c8F5BC9A7",
+      "symbol": "Culture",
+      "name": "Culture",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 1,
+    "minor": 2,
     "patch": 25
   }
 }
