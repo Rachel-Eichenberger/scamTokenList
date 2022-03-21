@@ -12760,11 +12760,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ab357C09BDa0a67C1A6d1f8D3969cA35654df7f",
+      "symbol": "HOWLCAWCAW",
+      "name": "Howling Bird",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 30,
+    "minor": 31,
     "patch": 25
   }
 }
