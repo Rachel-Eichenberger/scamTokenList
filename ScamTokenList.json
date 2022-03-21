@@ -12595,11 +12595,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6468084dCd8250185b67d0Bda68350A989DC35f8",
+      "symbol": "ANTS",
+      "name": "Anthill",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 15,
+    "minor": 16,
     "patch": 25
   }
 }
