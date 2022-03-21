@@ -11979,11 +11979,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a74774E5A05E922C8c12a96eCe8efA59c9650eA",
+      "symbol": "SHIBAZON",
+      "name": "Shibazon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 59,
+    "minor": 60,
     "patch": 24
   }
 }
