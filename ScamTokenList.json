@@ -11847,11 +11847,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a6d81159B2171E9e5D7e864e841187ba9DE3F28",
+      "symbol": "USAMAJIN",
+      "name": "Usamajin",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 47,
+    "minor": 48,
     "patch": 24
   }
 }
