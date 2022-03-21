@@ -12485,11 +12485,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34769D3e122C93547836AdDD3eb298035D68F1C3",
+      "symbol": "NUME",
+      "name": "NumisMe Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 5,
+    "minor": 6,
     "patch": 25
   }
 }
