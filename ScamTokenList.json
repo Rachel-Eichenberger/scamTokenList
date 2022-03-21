@@ -12771,11 +12771,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ba63D8Db377Aa3925bea51d9132a1f2f9498C54",
+      "symbol": "SHIBAKIBA",
+      "name": "ShibaKiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 31,
+    "minor": 32,
     "patch": 25
   }
 }
