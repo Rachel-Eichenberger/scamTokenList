@@ -12672,11 +12672,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64a5486A3a0f4148fD87909242ffE8E4633e81ef",
+      "symbol": "BATDOG",
+      "name": "BatDog",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 22,
+    "minor": 23,
     "patch": 25
   }
 }
