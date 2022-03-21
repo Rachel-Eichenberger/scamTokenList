@@ -12430,11 +12430,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x253101757a84054B68a0460b6C77Ca2B0E2c4291",
+      "symbol": "GigaMusk",
+      "name": "Giga Musk Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 0,
+    "minor": 1,
     "patch": 25
   }
 }
