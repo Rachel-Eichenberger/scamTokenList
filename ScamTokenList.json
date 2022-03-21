@@ -11869,11 +11869,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4EfE440197F359DcA5fBB340dECBa48C270E2Cd",
+      "symbol": "PAIRS",
+      "name": "httpswwwpairslv",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 49,
+    "minor": 50,
     "patch": 24
   }
 }
