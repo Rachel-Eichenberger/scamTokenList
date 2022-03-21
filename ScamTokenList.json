@@ -11935,11 +11935,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1F0bFf2E3cb6C75f227Ef9a324dCAF40E300249",
+      "symbol": "SINU",
+      "name": "Stimpy Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 55,
+    "minor": 56,
     "patch": 24
   }
 }
