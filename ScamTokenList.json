@@ -12507,11 +12507,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86477336C0c279bd8b2DFC266101a5F593270f27",
+      "symbol": "SUMMERAPE",
+      "name": "Summer Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 7,
+    "minor": 8,
     "patch": 25
   }
 }
