@@ -12947,11 +12947,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2df91DcF1256ba08bADA2C63b75e9eA464939BD",
+      "symbol": "FREECAIN",
+      "name": "Free Cain Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 47,
+    "minor": 48,
     "patch": 25
   }
 }
