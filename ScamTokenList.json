@@ -13508,11 +13508,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56c1C4C747E2836bf10E004752DAb8335324dda1",
+      "symbol": "SHIBTRIP",
+      "name": "ShibTrip",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 98,
+    "minor": 99,
     "patch": 25
   }
 }
