@@ -14036,11 +14036,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7CBbB061b80DCB3859F6526Ef87d1B0eA5f8263C",
+      "symbol": "BAP",
+      "name": "BaseApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 45,
+    "minor": 46,
     "patch": 26
   }
 }
