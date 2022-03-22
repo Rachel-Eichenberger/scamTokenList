@@ -13453,11 +13453,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD81dF51797AdceCBA7fC307a4AcEcfeb49bc5eDA",
+      "symbol": "MPI",
+      "name": "MarketingProposalInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 93,
+    "minor": 94,
     "patch": 25
   }
 }
