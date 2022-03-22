@@ -14014,11 +14014,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x587501Adbf07CEb8f1FC8B7dedb77978f33b1a03",
+      "symbol": "LABS",
+      "name": "ApeLabs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 43,
+    "minor": 44,
     "patch": 26
   }
 }
