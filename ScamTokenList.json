@@ -13684,11 +13684,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2267B989dd950DA68e33FC5F389231ca150b57Ea",
+      "symbol": "MAPE",
+      "name": "Mysterious Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 13,
+    "minor": 14,
     "patch": 26
   }
 }
