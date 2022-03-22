@@ -13860,11 +13860,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4138A80f50b69C6172F1f6937299EedD93272D12",
+      "symbol": "USAPE",
+      "name": "Uncle Sam Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 29,
+    "minor": 30,
     "patch": 26
   }
 }
