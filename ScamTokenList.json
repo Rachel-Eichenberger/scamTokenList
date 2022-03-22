@@ -13981,11 +13981,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb575880b4aB7120F36ccAB91a84138156B9445Ca",
+      "symbol": "APC",
+      "name": "APC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 40,
+    "minor": 41,
     "patch": 26
   }
 }
