@@ -13673,11 +13673,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9DFeF7C60Aa64DF4CCa386e53725Df99AA4cC256",
+      "symbol": "NOAPE",
+      "name": "No Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 12,
+    "minor": 13,
     "patch": 26
   }
 }
