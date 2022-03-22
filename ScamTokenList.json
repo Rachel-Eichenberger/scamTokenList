@@ -13662,11 +13662,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x007329768f4462c82D28d85B88e0fD6945847ac5",
+      "symbol": "Wojtek",
+      "name": "Wojtek",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 11,
+    "minor": 12,
     "patch": 26
   }
 }
