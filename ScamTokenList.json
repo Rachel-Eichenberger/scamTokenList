@@ -13871,11 +13871,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd46EB1fA4DC51e1bd12bD57377D3D131bFF4b1e",
+      "symbol": "ALPHA",
+      "name": "Primape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 30,
+    "minor": 31,
     "patch": 26
   }
 }
