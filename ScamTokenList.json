@@ -12914,11 +12914,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x988F6ddE2bc73700CD9Ff8bDed3EBD21d27F06dE",
+      "symbol": "COUP",
+      "name": "The Coup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 44,
+    "minor": 45,
     "patch": 25
   }
 }
