@@ -13563,11 +13563,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC01275055E6cAff11F10b210b91Bd3CFBf2f0aa4",
+      "symbol": "MAD",
+      "name": "MetaApeDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 3,
+    "minor": 4,
     "patch": 26
   }
 }
