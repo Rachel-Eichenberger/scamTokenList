@@ -13695,11 +13695,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21bE0648b1b4B98ceAD958FEC31e15a76D497078",
+      "symbol": "KOM",
+      "name": "Kiba Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 14,
+    "minor": 15,
     "patch": 26
   }
 }
