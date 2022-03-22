@@ -13915,11 +13915,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b4109CfBf22348260DB8d36780554d7FD3898Ff",
+      "symbol": "Subway",
+      "name": "Subway Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 34,
+    "minor": 35,
     "patch": 26
   }
 }
