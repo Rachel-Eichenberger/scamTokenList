@@ -13992,11 +13992,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c279745a8Bb34d21aa8CF91FebD1613685360D3",
+      "symbol": "GHP",
+      "name": "GHP TOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 41,
+    "minor": 42,
     "patch": 26
   }
 }
