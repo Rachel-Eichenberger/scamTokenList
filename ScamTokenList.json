@@ -13277,11 +13277,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x865385f4BCFB07cE0BC09638c47019349dFb5D39",
+      "symbol": "ACC",
+      "name": "ACC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 77,
+    "minor": 78,
     "patch": 25
   }
 }
