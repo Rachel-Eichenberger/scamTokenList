@@ -13464,11 +13464,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20806E0C9b9F7B65d59A9959f029Eb752196Bdc5",
+      "symbol": "LENTIL",
+      "name": "Lentil Eater",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 94,
+    "minor": 95,
     "patch": 25
   }
 }
