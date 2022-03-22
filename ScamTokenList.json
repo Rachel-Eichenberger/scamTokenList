@@ -13585,11 +13585,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f8Cf6dbC11038595D81F1456E8F1385505E0F84",
+      "symbol": "POPCORNAPE",
+      "name": "Popcorn Ape",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 5,
+    "minor": 6,
     "patch": 26
   }
 }
