@@ -13299,11 +13299,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68eEF8734FcbE4140D309387F356e74D577ECB69",
+      "symbol": "BlindApe",
+      "name": "Blind Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 79,
+    "minor": 80,
     "patch": 25
   }
 }
