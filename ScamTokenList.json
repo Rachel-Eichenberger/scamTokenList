@@ -13827,11 +13827,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0959a9ECEDCA39fc5B11f57Cf71Ff98693Ed51d5",
+      "symbol": "REBELAPE",
+      "name": "Rebel Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 26,
+    "minor": 27,
     "patch": 26
   }
 }
