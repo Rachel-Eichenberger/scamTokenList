@@ -13926,11 +13926,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x253ab9644bCD3630703dBD2e49f0Ad781674Aa55",
+      "symbol": "OA",
+      "name": "ORGY APE",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 35,
+    "minor": 36,
     "patch": 26
   }
 }
