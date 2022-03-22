@@ -12980,11 +12980,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE231fe1fb0B63DEaFEdd033CAe51113474cC323",
+      "symbol": "QHP",
+      "name": "Howling Predator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 50,
+    "minor": 51,
     "patch": 25
   }
 }
