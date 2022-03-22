@@ -13343,11 +13343,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDade184D22909018d3C2ac657Ac62BC8dbC0eea4",
+      "symbol": "DDLAND",
+      "name": "Danke Deutschland",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 83,
+    "minor": 84,
     "patch": 25
   }
 }
