@@ -13750,11 +13750,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28d48FA133E774Dd697DCf20dE78191adB8f7e04",
+      "symbol": "SleepyApe",
+      "name": "Sleepy Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 19,
+    "minor": 20,
     "patch": 26
   }
 }
