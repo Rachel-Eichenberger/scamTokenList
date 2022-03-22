@@ -13156,11 +13156,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6aab15EF0aCf9e3a32b2dF835ba811bB4e05B715",
+      "symbol": "TALONS",
+      "name": "Talons",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 66,
+    "minor": 67,
     "patch": 25
   }
 }
