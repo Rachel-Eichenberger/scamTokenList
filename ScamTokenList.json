@@ -13222,11 +13222,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x804aea2c47603db18c831F9F32204b5CEb6B7d44",
+      "symbol": "MNINU",
+      "name": "Master Naruto Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 72,
+    "minor": 73,
     "patch": 25
   }
 }
