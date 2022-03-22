@@ -13255,11 +13255,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0857C48Ccf0001237C0C2B57C6FECCBf33b04f1",
+      "symbol": "dHEDGE",
+      "name": "dHEDGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 75,
+    "minor": 76,
     "patch": 25
   }
 }
