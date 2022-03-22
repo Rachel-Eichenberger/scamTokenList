@@ -13937,11 +13937,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x407cCBc5014B96bd2A4bBb8F7FB9d45521a9Cdff",
+      "symbol": "ApeInu",
+      "name": "ApeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 36,
+    "minor": 37,
     "patch": 26
   }
 }
