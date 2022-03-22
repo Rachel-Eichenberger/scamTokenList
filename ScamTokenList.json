@@ -13013,11 +13013,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e2389f04bB5CDf37DFBEf164252855a2e5dFcF8",
+      "symbol": "PRIB",
+      "name": "Prime Rib",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 53,
+    "minor": 54,
     "patch": 25
   }
 }
