@@ -13794,11 +13794,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe833E73A8058da656D32D71c86902479C5dd0f64",
+      "symbol": "CULTURE",
+      "name": "CULTURE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 23,
+    "minor": 24,
     "patch": 26
   }
 }
