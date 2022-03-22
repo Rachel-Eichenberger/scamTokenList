@@ -13577,10 +13577,10 @@
     },
     {
       "chainId": 1,
-      "address": "0x7816EF3667a5f06B7Bb7B25cc475130c00Fc9C87 ",
-      "symbol": "MBITS",
-      "name": "MeeBits",
-      "decimals": 18,
+      "address": "0x3533eBce17b91BB66044841De1F3a5308D5Fb8BB",
+      "symbol": "Shinjitama",
+      "name": "Shinjitama",
+      "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
         "scam"
