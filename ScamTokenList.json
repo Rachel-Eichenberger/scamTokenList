@@ -13948,11 +13948,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD990c7309a9ABa5A33A02949e0cB0c52f2427C5",
+      "symbol": "Frostmourne",
+      "name": "Frostmourne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 37,
+    "minor": 38,
     "patch": 26
   }
 }
