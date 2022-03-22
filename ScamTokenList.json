@@ -12936,11 +12936,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32f99A1719549E6177e8395f446F789D17C1d093",
+      "symbol": "GONG",
+      "name": "Gold Kong Capital",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 46,
+    "minor": 47,
     "patch": 25
   }
 }
