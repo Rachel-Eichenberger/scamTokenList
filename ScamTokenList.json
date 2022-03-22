@@ -13079,11 +13079,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x040F9dA48fae894A07E9FbF14350cdAE63A92F4D",
+      "symbol": "CFA",
+      "name": "Coin Fast Alert V2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 59,
+    "minor": 60,
     "patch": 25
   }
 }
