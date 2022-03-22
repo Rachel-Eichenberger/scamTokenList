@@ -13431,11 +13431,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8B8CEA46F1FFe9DE3F9b77D128Dbaf08919Fb5b",
+      "symbol": "SPACERAT",
+      "name": "SPACERAT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 91,
+    "minor": 92,
     "patch": 25
   }
 }
