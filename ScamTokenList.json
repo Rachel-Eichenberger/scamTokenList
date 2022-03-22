@@ -13365,11 +13365,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D399dd8FbE62c8A9FD0A572e83FFbC5B526d149",
+      "symbol": "DANKEMUSK",
+      "name": "Danke Musk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 85,
+    "minor": 86,
     "patch": 25
   }
 }
