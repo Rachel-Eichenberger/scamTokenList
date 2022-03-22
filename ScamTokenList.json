@@ -13597,7 +13597,7 @@
         "scam"
       ]
     },
-	{
+    {
       "chainId": 1,
       "address": "0x7816EF3667a5f06B7Bb7B25cc475130c00Fc9C87",
       "symbol": "MBITS",
@@ -13629,11 +13629,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20de4476fF4F181d6Ae07D016cC9bc84cF46af2c",
+      "symbol": "RIDDLER",
+      "name": "Riddler Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 8,
+    "minor": 9,
     "patch": 26
   }
 }
