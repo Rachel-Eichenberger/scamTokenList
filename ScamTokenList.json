@@ -13607,11 +13607,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A6E7aC13311E3500FC1c678A62A8472Bd213A9d",
+      "symbol": "eBay",
+      "name": "eBay Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 7,
+    "minor": 8,
     "patch": 26
   }
 }
