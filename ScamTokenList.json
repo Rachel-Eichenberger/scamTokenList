@@ -13398,11 +13398,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77F410080498C4864033062517De91eBb8BCCC5e",
+      "symbol": "WMI",
+      "name": "wolf Moon Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 88,
+    "minor": 89,
     "patch": 25
   }
 }
