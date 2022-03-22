@@ -13376,11 +13376,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F272D5d4002c0300DD418162E6A14965fC60DdD",
+      "symbol": "BTUBE",
+      "name": "Beast Tube",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 86,
+    "minor": 87,
     "patch": 25
   }
 }
