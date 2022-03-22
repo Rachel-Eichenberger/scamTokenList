@@ -12925,11 +12925,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd84E9454Cb12069fA9e269bf3F982316b384Df09",
+      "symbol": "FLS",
+      "name": "Flip Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 45,
+    "minor": 46,
     "patch": 25
   }
 }
