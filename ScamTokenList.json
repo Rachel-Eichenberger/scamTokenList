@@ -13178,11 +13178,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0f0229E139f25B9C3901BD67D0D1Fa0E38792A2",
+      "symbol": "ApeLabs",
+      "name": "ApeLabs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 68,
+    "minor": 69,
     "patch": 25
   }
 }
