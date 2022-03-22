@@ -13640,11 +13640,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5Bd84F471443bA117b0157503370728e0002592",
+      "symbol": "ShinjiTama",
+      "name": "ShinjiTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 9,
+    "minor": 10,
     "patch": 26
   }
 }
