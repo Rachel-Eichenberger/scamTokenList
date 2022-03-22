@@ -13552,11 +13552,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf0A6a2f2940a6A6241b10b37bDc5A8A521E43b1",
+      "symbol": "Distorsion",
+      "name": "Distorsion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 2,
+    "minor": 3,
     "patch": 26
   }
 }
