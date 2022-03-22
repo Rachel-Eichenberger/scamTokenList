@@ -14025,11 +14025,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc653bF6C1AC372Ab520383561468B9e73a59b337",
+      "symbol": "AGW",
+      "name": "Apes Gone Wild",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 44,
+    "minor": 45,
     "patch": 26
   }
 }
