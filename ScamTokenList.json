@@ -13420,11 +13420,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7236C72d74AA4Fbe0503a432a38a6879E6f92CE0",
+      "symbol": "APECAP",
+      "name": "APE CAPITAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 90,
+    "minor": 91,
     "patch": 25
   }
 }
