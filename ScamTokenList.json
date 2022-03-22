@@ -13519,11 +13519,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xddCf29A022f4B9a250e5320956c6e64BACA410eF",
+      "symbol": "MOLOTOV",
+      "name": "Molotov Cocktail",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 62,
-    "minor": 99,
-    "patch": 25
+    "major": 63,
+    "minor": 0,
+    "patch": 26
   }
 }
