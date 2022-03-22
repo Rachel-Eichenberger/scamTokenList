@@ -13354,11 +13354,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10010c649D6bEA69a231F4D890cD2c6ECeFD8a06",
+      "symbol": "DEUTSCHLANDINU",
+      "name": "DEUTSCHLAND INU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 84,
+    "minor": 85,
     "patch": 25
   }
 }
