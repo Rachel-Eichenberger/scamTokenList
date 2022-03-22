@@ -12958,11 +12958,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x696bC4F5938B9886e5f1b2C4235895D3E9f9940D",
+      "symbol": "ICA",
+      "name": "Icarus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 48,
+    "minor": 49,
     "patch": 25
   }
 }
