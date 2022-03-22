@@ -12969,11 +12969,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3406465a5ed7e14365bD7c1d162A92a304e01017",
+      "symbol": "DEGEN",
+      "name": "Degenerates",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 49,
+    "minor": 50,
     "patch": 25
   }
 }
