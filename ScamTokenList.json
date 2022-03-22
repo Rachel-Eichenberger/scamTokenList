@@ -13772,11 +13772,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C24948723363d5d5BA0e727A07631E753f73ADC",
+      "symbol": "MuteApe",
+      "name": "Mute Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 21,
+    "minor": 22,
     "patch": 26
   }
 }
