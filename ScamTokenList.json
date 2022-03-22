@@ -13970,11 +13970,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12B6B2DF5b153C02992210E46cf912a614F6F9d6",
+      "symbol": "QTAMA",
+      "name": "PREDATORTAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 39,
+    "minor": 40,
     "patch": 26
   }
 }
