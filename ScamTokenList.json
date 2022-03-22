@@ -13706,11 +13706,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a87c2A3E5981ED02166c4706c3F36468dcE9C7D",
+      "symbol": "WAGMI",
+      "name": "Wagmi Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 15,
+    "minor": 16,
     "patch": 26
   }
 }
