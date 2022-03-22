@@ -13145,11 +13145,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5c6E17E6cbD61B4A3d2cE321161ef4BdaD2C12F",
+      "symbol": "Riot",
+      "name": "Riot Games",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 65,
+    "minor": 66,
     "patch": 25
   }
 }
