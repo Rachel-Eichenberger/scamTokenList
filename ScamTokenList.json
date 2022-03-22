@@ -13310,11 +13310,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC5eeb5109aBc6A41A33cF0cA3207389BE23cF2D",
+      "symbol": "EA",
+      "name": "EA Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 80,
+    "minor": 81,
     "patch": 25
   }
 }
