@@ -13233,11 +13233,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB71dae333613f5b06391689DA5Ae2FBD860E5f32",
+      "symbol": "VULQOM",
+      "name": "Vultures of Qom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 73,
+    "minor": 74,
     "patch": 25
   }
 }
