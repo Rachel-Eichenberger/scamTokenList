@@ -13904,11 +13904,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c6901DafE5f7D002d5e203C2A813ACF7f9b851f",
+      "symbol": "NEBULA",
+      "name": "NEBULA INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 33,
+    "minor": 34,
     "patch": 26
   }
 }
