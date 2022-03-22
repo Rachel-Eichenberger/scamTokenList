@@ -13200,11 +13200,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcE5AAfcA59Ca2e7755C9cB9E748Ee02fBC0AaB84",
+      "symbol": "Unity",
+      "name": "Unity Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 70,
+    "minor": 71,
     "patch": 25
   }
 }
