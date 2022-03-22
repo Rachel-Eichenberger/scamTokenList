@@ -13651,11 +13651,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b8C12Ec2cdb89E03dB006f917989fDe44F3c7aa",
+      "symbol": "TeraApe",
+      "name": "TeraApe Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 10,
+    "minor": 11,
     "patch": 26
   }
 }
