@@ -12881,11 +12881,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B84Db4A1cD435E9766BacfE49ff7D0457e46836",
+      "symbol": "HARUKI",
+      "name": "HARUKI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 41,
+    "minor": 42,
     "patch": 25
   }
 }
