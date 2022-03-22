@@ -13442,11 +13442,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83eb2A22B6644122CeC5465146BA8024eD9369d4",
+      "symbol": "JIGSAW",
+      "name": "Jigsaw",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 92,
+    "minor": 93,
     "patch": 25
   }
 }
