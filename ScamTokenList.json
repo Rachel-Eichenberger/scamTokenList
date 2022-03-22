@@ -12892,11 +12892,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAd0C6f88f431ff00Fb3657B7f2fdE17DA67BB37",
+      "symbol": "BMT",
+      "name": "Branch Meta Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 42,
+    "minor": 43,
     "patch": 25
   }
 }
