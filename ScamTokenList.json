@@ -13244,11 +13244,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6aB8b09E10f63600dBbc45F6836704B68c4e165",
+      "symbol": "Skate",
+      "name": "Skate City",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 74,
+    "minor": 75,
     "patch": 25
   }
 }
