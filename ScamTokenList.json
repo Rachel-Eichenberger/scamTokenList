@@ -13101,11 +13101,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x944B89F20394DBb08db903711A3e0a95BA3af735",
+      "symbol": "CPC",
+      "name": "Club Penguin Coin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 61,
+    "minor": 62,
     "patch": 25
   }
 }
