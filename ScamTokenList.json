@@ -13574,11 +13574,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7816EF3667a5f06B7Bb7B25cc475130c00Fc9C87 ",
+      "symbol": "MBITS",
+      "name": "MeeBits",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 4,
+    "minor": 5,
     "patch": 26
   }
 }
