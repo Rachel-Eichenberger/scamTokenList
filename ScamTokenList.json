@@ -13475,11 +13475,44 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78D0b6886d7A48bC4D19E4F3329a82C3922B26cD",
+      "symbol": "Marlboro",
+      "name": "Marlboro Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E5F694A3D1Df1fDeA49a9dD8339f4f5a319475c",
+      "symbol": "WEWEED",
+      "name": "We Weed",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB86213aCa8cFc1C77675Be60011E3D1eD69CF84E",
+      "symbol": "SHAPE",
+      "name": "Sharp Apes Club",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 95,
+    "minor": 98,
     "patch": 25
   }
 }
