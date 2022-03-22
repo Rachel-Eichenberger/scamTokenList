@@ -13541,11 +13541,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C41580F868c602AD933b58Dc6E95b63A6a6A64d",
+      "symbol": "KGI",
+      "name": "king ghidorah inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 1,
+    "minor": 2,
     "patch": 26
   }
 }
