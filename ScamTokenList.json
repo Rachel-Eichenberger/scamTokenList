@@ -13530,11 +13530,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B3D7F3045Fa160Aaee7f7D5B22eE0B2cbe81928",
+      "symbol": "SKONG",
+      "name": "SamuraiKong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 0,
+    "minor": 1,
     "patch": 26
   }
 }
