@@ -12903,11 +12903,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b8060a86D594339BaB88f1011C3bFB2e6B1B131",
+      "symbol": "MOMSTER",
+      "name": "MOMSTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 43,
+    "minor": 44,
     "patch": 25
   }
 }
