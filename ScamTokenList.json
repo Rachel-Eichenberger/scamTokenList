@@ -13783,11 +13783,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x895a1eeB49054e9e1457A971Fae5c6D42851CCd7",
+      "symbol": "JOKER",
+      "name": "jokerinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 22,
+    "minor": 23,
     "patch": 26
   }
 }
