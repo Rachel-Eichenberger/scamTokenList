@@ -13024,11 +13024,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21a406779ee075950cfbE5e5d04fa715eEb7f82B",
+      "symbol": "SIRPLAY",
+      "name": "sirplaycomzhhans",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 54,
+    "minor": 55,
     "patch": 25
   }
 }
