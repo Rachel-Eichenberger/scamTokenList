@@ -14872,11 +14872,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46BE940E5BA728F47c54dC05c8e86434d9287D1D",
+      "symbol": "GLOOM",
+      "name": "Gloomy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 21,
+    "minor": 22,
     "patch": 27
   }
 }
