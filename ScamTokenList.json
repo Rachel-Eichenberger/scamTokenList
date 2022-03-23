@@ -15037,11 +15037,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EF82d9372C10eee1675c9085e8df6b0503326C5",
+      "symbol": "TITAN",
+      "name": "Shiba Titans",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 36,
+    "minor": 37,
     "patch": 27
   }
 }
