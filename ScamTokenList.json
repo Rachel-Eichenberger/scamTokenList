@@ -14696,11 +14696,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9972923a398Db9CC60801114695738f7e8BFaF8e",
+      "symbol": "SHIBZOMBIE",
+      "name": "SHIBZOMBIE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 5,
+    "minor": 6,
     "patch": 27
   }
 }
