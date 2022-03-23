@@ -14047,11 +14047,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb41DAA67C86570FBeFF8cD00F9F55987DED7a998",
+      "symbol": "JSTR",
+      "name": "Jester",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 46,
+    "minor": 47,
     "patch": 26
   }
 }
