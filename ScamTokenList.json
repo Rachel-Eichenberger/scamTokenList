@@ -14080,11 +14080,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97169900AdfAa1B8Ef1916a4A3b2A63Cb5EbBA21",
+      "symbol": "LOTTOINU",
+      "name": "LOTTO INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 49,
+    "minor": 50,
     "patch": 26
   }
 }
