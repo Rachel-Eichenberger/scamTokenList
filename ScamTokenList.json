@@ -14784,11 +14784,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB20f1142D7b293B7EA10A272BB850e4aeeed9591",
+      "symbol": "SHIDO",
+      "name": "Shibatoshi Dogemoto ",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 13,
+    "minor": 14,
     "patch": 27
   }
 }
