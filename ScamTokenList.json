@@ -15004,11 +15004,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9321C7683f5D0d6686a763D3c8ac75F9F9D5E5Cb",
+      "symbol": "SECRETH",
+      "name": "Top SecrEth",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 33,
+    "minor": 34,
     "patch": 27
   }
 }
