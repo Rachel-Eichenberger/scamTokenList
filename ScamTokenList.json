@@ -14091,11 +14091,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4736429CD3367b3f4589D6b6a407e44fa6669c97",
+      "symbol": "UKRAINU",
+      "name": "Ukrainu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 50,
+    "minor": 51,
     "patch": 26
   }
 }
