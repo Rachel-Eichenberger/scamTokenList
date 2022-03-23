@@ -14212,11 +14212,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd097FE9170861937A56E975fE26E877173d325d",
+      "symbol": "KYOKO",
+      "name": "Kyoko GameFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 61,
+    "minor": 62,
     "patch": 26
   }
 }
