@@ -15125,11 +15125,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3032963A2139D4081C8dB978C175e458480Aec45",
+      "symbol": "POGE",
+      "name": "PeskyDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 44,
+    "minor": 45,
     "patch": 27
   }
 }
