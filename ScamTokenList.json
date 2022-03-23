@@ -14432,11 +14432,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D10D81Df10AdAC68b19971e99cc032db08150D1",
+      "symbol": "Blizzard",
+      "name": "Blizzard Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 81,
+    "minor": 82,
     "patch": 26
   }
 }
