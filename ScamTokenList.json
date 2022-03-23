@@ -14773,11 +14773,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe87c9547b6BAdcD4dE926a82FF263442845a2dcA",
+      "symbol": "POD",
+      "name": "PumpOrDump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 12,
+    "minor": 13,
     "patch": 27
   }
 }
