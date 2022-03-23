@@ -14124,11 +14124,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea8D0564379d5E834aa0205423F145f060ca4F8b",
+      "symbol": "NOTBOREDAPE",
+      "name": "Not Bored Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 53,
+    "minor": 54,
     "patch": 26
   }
 }
