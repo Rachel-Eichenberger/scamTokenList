@@ -14927,11 +14927,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7271CaeCD030B4B17549216254A837D5cCb74465",
+      "symbol": "DECYPHER",
+      "name": "Decypher",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 26,
+    "minor": 27,
     "patch": 27
   }
 }
