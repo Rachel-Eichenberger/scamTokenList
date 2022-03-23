@@ -14311,11 +14311,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x683CFB47B793d8Ae15f4D23D2CDbFfaD51DC6B62",
+      "symbol": "Supreme",
+      "name": "Supreme Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 70,
+    "minor": 71,
     "patch": 26
   }
 }
