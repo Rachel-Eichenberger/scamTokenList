@@ -15026,11 +15026,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7581c64c9B39AFc767e0b4A6F2082d8A59f25DcE",
+      "symbol": "SABURAI",
+      "name": "Saburai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 35,
+    "minor": 36,
     "patch": 27
   }
 }
