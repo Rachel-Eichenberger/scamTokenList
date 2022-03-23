@@ -14289,11 +14289,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10e1E1E9D5A2F15e42765B968bc832BC4CeC7f42",
+      "symbol": "GHPDAO",
+      "name": "GREEN HEALTHY PLANET     ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 68,
+    "minor": 69,
     "patch": 26
   }
 }
