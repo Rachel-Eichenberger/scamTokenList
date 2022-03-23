@@ -14267,11 +14267,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE24b1e0773f150B783F112a30bD9B2E07689f61",
+      "symbol": "WINKLINK",
+      "name": "WINKLINK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B667d0c20a206E1a4e9A4874aECC8F5fafbfC8B",
+      "symbol": "CHO",
+      "name": "Choisecom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 66,
+    "minor": 68,
     "patch": 26
   }
 }
