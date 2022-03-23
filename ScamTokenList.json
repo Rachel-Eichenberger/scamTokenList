@@ -14146,11 +14146,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2Ad7844B89D49f90843ed05db46615b9761e88D",
+      "symbol": "Freeze",
+      "name": "Freeze",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 55,
+    "minor": 56,
     "patch": 26
   }
 }
