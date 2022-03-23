@@ -14168,11 +14168,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd50E98fD4326c09816B5c40a31700f6a309A4B86",
+      "symbol": "APEINJA",
+      "name": "APEINJA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 57,
+    "minor": 58,
     "patch": 26
   }
 }
