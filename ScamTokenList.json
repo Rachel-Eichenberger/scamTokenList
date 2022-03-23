@@ -15147,11 +15147,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x127cFBc2E481b97e1068771381980767B750b527",
+      "symbol": "Alchemist",
+      "name": "Alchemist",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 46,
+    "minor": 47,
     "patch": 27
   }
 }
