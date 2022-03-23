@@ -14102,11 +14102,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81cf67127B06a0978344A0a0f73d4D94Ec473E0B",
+      "symbol": "PUZZLER",
+      "name": "Puzzler Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 51,
+    "minor": 52,
     "patch": 26
   }
 }
