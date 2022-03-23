@@ -14179,11 +14179,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36C2514A3dD4F8D7280e7aF446140606b858EfB7",
+      "symbol": "GAME",
+      "name": "Jigsaw",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 58,
+    "minor": 59,
     "patch": 26
   }
 }
