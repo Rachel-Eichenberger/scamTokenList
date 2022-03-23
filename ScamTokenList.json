@@ -14806,11 +14806,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8fCDb2D5E5c68b1d6fa5eFC32dbB9Fc13F7a51D",
+      "symbol": "signaler",
+      "name": "signaler",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 15,
+    "minor": 16,
     "patch": 27
   }
 }
