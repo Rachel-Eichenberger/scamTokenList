@@ -15092,11 +15092,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36f6d1C8AB0eD0E2bF5fB4E2D9A7C367A9B273b3",
+      "symbol": "APELON",
+      "name": "Apelon  Mars",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 41,
+    "minor": 42,
     "patch": 27
   }
 }
