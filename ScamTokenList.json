@@ -14718,11 +14718,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15F0df9fD1a377FA066C8B25889F98B2c486826A",
+      "symbol": "CAPE",
+      "name": "ClimApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 7,
+    "minor": 8,
     "patch": 27
   }
 }
