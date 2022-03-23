@@ -15103,11 +15103,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2fbe1Bd451e369dd61475798801c759e61dBfA7",
+      "symbol": "Toucan",
+      "name": "Toucan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 42,
+    "minor": 43,
     "patch": 27
   }
 }
