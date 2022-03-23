@@ -14795,11 +14795,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4Db6B93D3d325e4Cd3F8d95C16727aAc643951b",
+      "symbol": "HATSUNE",
+      "name": "Hatsune Miku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 14,
+    "minor": 15,
     "patch": 27
   }
 }
