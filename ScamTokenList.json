@@ -14377,11 +14377,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90C2Ef4bFBdeE869ea3eF3A4DC133A112512d86b",
+      "symbol": "WILD",
+      "name": "Bewildering",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 76,
+    "minor": 77,
     "patch": 26
   }
 }
