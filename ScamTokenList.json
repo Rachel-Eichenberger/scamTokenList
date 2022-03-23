@@ -14498,11 +14498,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Ba951fBef504949E128363034F7DE426153a90F",
+      "symbol": "BA",
+      "name": "BoredApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 87,
+    "minor": 88,
     "patch": 26
   }
 }
