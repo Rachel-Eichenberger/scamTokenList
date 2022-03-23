@@ -14597,11 +14597,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x910861836Eb68d4913A79201Dc2b6d96cB01bCC2",
+      "symbol": "APERELOADED",
+      "name": "Ape Reloaded",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 96,
+    "minor": 97,
     "patch": 26
   }
 }
