@@ -15048,11 +15048,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c5374122d843bc057941402805Cd0711B9e3075",
+      "symbol": "CJI",
+      "name": "Cronje Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 37,
+    "minor": 38,
     "patch": 27
   }
 }
