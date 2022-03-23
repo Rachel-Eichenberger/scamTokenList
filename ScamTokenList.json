@@ -14960,11 +14960,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB41cc1b67588a981D39f9755EEa2951679cb6055",
+      "symbol": "ENCODE",
+      "name": "Encode",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 29,
+    "minor": 30,
     "patch": 27
   }
 }
