@@ -14223,11 +14223,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38b8eBaE5eebfA226571583981b571c703422416",
+      "symbol": "PINU",
+      "name": "Poison Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 62,
+    "minor": 63,
     "patch": 26
   }
 }
