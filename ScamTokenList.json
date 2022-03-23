@@ -14729,11 +14729,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ECF6065223AEfb61aD8ee01D8DEB49060e14AC3",
+      "symbol": "DINGERAPE",
+      "name": "Dinger Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 8,
+    "minor": 9,
     "patch": 27
   }
 }
