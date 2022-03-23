@@ -14883,11 +14883,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ddEB4e1bC968105AAB1faa68704907e0893384C",
+      "symbol": "EAGLE",
+      "name": "WarEagle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 22,
+    "minor": 23,
     "patch": 27
   }
 }
