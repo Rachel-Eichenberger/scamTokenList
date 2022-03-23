@@ -15114,11 +15114,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB073b310DF10f0F87066ba4a95dA0b7546A0802f",
+      "symbol": "OMT",
+      "name": "OmnichainToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 43,
+    "minor": 44,
     "patch": 27
   }
 }
