@@ -14344,11 +14344,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa68475900a4Ae35F74b374AAfe3E98189a8d33e6",
+      "symbol": "RAFIKI",
+      "name": "APE ENFORCER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 73,
+    "minor": 74,
     "patch": 26
   }
 }
