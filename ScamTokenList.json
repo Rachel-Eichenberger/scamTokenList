@@ -14685,11 +14685,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x488Ce6537411A2711955Fee74EaC5E8D66b779ae",
+      "symbol": "PENGUIN",
+      "name": "Penguin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 4,
+    "minor": 5,
     "patch": 27
   }
 }
