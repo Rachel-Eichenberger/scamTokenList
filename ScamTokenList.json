@@ -14641,11 +14641,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30e1B6B5bAF004Ad3AED187DDbC677219ac673AE",
+      "symbol": "TERRINU",
+      "name": "Terra Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 0,
+    "minor": 1,
     "patch": 27
   }
 }
