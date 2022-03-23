@@ -14938,11 +14938,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x506e994ccE19ae515335FA94aBB025368309296f",
+      "symbol": "KURINU",
+      "name": "Kurumi Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 27,
+    "minor": 28,
     "patch": 27
   }
 }
