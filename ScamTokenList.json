@@ -14850,11 +14850,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d54EFf0F9f2Ee4e0714D57D4392ac647A622e46",
+      "symbol": "TRIBL",
+      "name": "Tribal Credit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 19,
+    "minor": 20,
     "patch": 27
   }
 }
