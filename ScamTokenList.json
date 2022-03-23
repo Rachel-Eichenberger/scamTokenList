@@ -14707,11 +14707,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Da0e67C4dec7c64d675B8311648F67A2c94Ee6E",
+      "symbol": "BREAD",
+      "name": "BREDDA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 6,
+    "minor": 7,
     "patch": 27
   }
 }
