@@ -14201,11 +14201,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4e0353B02dd7D84A3034d9C986232b64fEfdf96",
+      "symbol": "iApe",
+      "name": "iApe Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 60,
+    "minor": 61,
     "patch": 26
   }
 }
