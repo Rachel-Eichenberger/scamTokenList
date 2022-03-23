@@ -14905,11 +14905,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x781Adf0f26C97Fa80EB0d10DD7DbB06CcF7A1453",
+      "symbol": "SpaceApe",
+      "name": "SpaceApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 24,
+    "minor": 25,
     "patch": 27
   }
 }
