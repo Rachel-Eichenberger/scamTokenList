@@ -14586,11 +14586,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Bf031896205E6E72a22e8EDC6cEe840E1ef2025",
+      "symbol": "QR",
+      "name": "The Rug Predator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 95,
+    "minor": 96,
     "patch": 26
   }
 }
