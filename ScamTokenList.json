@@ -14949,11 +14949,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCaC74A9dA761d1AC65064a12100D90d6b15191A1",
+      "symbol": "ETHTO5K",
+      "name": "Buy Dip",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 28,
+    "minor": 29,
     "patch": 27
   }
 }
