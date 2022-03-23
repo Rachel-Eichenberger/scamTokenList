@@ -14982,11 +14982,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf6fB2990b216b49D5959991be7c3D361A3A798E3",
+      "symbol": "DuPont",
+      "name": "DuPont Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 31,
+    "minor": 32,
     "patch": 27
   }
 }
