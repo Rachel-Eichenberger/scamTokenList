@@ -14355,11 +14355,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4144F4aFC7Aa44228Abfd2Df1b0f51dde63F84bC",
+      "symbol": "EsteeLauder",
+      "name": "Estee Lauder Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 74,
+    "minor": 75,
     "patch": 26
   }
 }
