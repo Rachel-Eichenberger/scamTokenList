@@ -14443,11 +14443,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7e22424e48Cc1579e52910263218658F34dbDc7",
+      "symbol": "ZombieApe",
+      "name": "ZombieApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 82,
+    "minor": 83,
     "patch": 26
   }
 }
