@@ -14564,11 +14564,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02cc2fdAd06Ce75eAf380D7A20B4A12686F1F834",
+      "symbol": "Hell",
+      "name": "hellbound",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 93,
+    "minor": 94,
     "patch": 26
   }
 }
