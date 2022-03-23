@@ -14410,11 +14410,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9535B574AC16AF621B48114ffdc2C6f1A4F0e1e",
+      "symbol": "LiqFin",
+      "name": "Liquid Finance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 79,
+    "minor": 80,
     "patch": 26
   }
 }
