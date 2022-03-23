@@ -14476,11 +14476,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc426a1Cd77D469dc33EFbab9F1e237750c6c140E",
+      "symbol": "CHEESE",
+      "name": "Cheese Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 85,
+    "minor": 86,
     "patch": 26
   }
 }
