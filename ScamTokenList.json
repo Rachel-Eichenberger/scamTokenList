@@ -14465,11 +14465,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Dc5b8E31Ce5923Fd43b10a3c58e2AeB2486A82a",
+      "symbol": "BBGaming",
+      "name": "BigBeanGaming",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 84,
+    "minor": 85,
     "patch": 26
   }
 }
