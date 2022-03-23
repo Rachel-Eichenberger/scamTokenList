@@ -14751,11 +14751,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bE8057D9dE654F3856799B93a045cf78426DC1d",
+      "symbol": "Jordan",
+      "name": "Jordan Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 10,
+    "minor": 11,
     "patch": 27
   }
 }
