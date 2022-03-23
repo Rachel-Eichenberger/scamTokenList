@@ -14652,11 +14652,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x032C48b65d589c08Fb2D427a2fc1A2fFC0B18bA8",
+      "symbol": "GN",
+      "name": "GN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 1,
+    "minor": 2,
     "patch": 27
   }
 }
