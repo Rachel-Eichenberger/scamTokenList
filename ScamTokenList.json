@@ -14509,11 +14509,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7b34D48Fb158565F1DBeab0b8A59E1caB80338ab",
+      "symbol": "WCUP2022",
+      "name": "WCUP2022",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 88,
+    "minor": 89,
     "patch": 26
   }
 }
