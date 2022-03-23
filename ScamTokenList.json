@@ -14388,11 +14388,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bE2bf270019dAeC0Dd4bdAb8004729D82e83226",
+      "symbol": "CROO",
+      "name": "CROO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8548126C28EF023F7cE88634721be4a214831fde",
+      "symbol": "CMTAMA",
+      "name": "CommunityTama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 77,
+    "minor": 79,
     "patch": 26
   }
 }
