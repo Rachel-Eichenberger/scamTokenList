@@ -14421,11 +14421,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4a5b9320e47cC40824C60974891f7E7A577468D",
+      "symbol": "Timeswap",
+      "name": "Timeswap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 80,
+    "minor": 81,
     "patch": 26
   }
 }
