@@ -14762,11 +14762,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2cE20835D18577971566604D36aa69291E919BE",
+      "symbol": "METAPE",
+      "name": "Meta Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 11,
+    "minor": 12,
     "patch": 27
   }
 }
