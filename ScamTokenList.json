@@ -15136,11 +15136,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0B4934c6FD160Db83aC8f787952847E2b7ffA2E",
+      "symbol": "Clues",
+      "name": "BlueClues",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 45,
+    "minor": 46,
     "patch": 27
   }
 }
