@@ -14916,11 +14916,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56C08585B640933D0a71617c9a792641885db6d4",
+      "symbol": "THEDIP",
+      "name": "TheDip",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 25,
+    "minor": 26,
     "patch": 27
   }
 }
