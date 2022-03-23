@@ -14333,11 +14333,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF028533Dc12B312E350d711eB4082E3c4DE6643",
+      "symbol": "WINU",
+      "name": "WWE Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 72,
+    "minor": 73,
     "patch": 26
   }
 }
