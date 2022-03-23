@@ -15015,11 +15015,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x235aA9Ae09e5C10e5df37318D4c49B80AdcE1d0c",
+      "symbol": "MMC",
+      "name": "Mecha Morphing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 34,
+    "minor": 35,
     "patch": 27
   }
 }
