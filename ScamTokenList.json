@@ -14839,11 +14839,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e8374edf2B4E940532ad96F05eD156Cac7100b2",
+      "symbol": "MOD",
+      "name": "MOONORDUST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 18,
+    "minor": 19,
     "patch": 27
   }
 }
