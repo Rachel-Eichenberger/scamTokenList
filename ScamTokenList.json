@@ -14861,11 +14861,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D315df11fc24BB01f8D6FfD202F6a7c7cb61610",
+      "symbol": "BATAPE",
+      "name": "Bat Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 20,
+    "minor": 21,
     "patch": 27
   }
 }
