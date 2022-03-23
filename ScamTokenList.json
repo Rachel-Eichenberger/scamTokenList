@@ -14157,11 +14157,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe053246541417D55F6F6cDbD32Bee6DbB46509De",
+      "symbol": "QPI",
+      "name": "The Inu Predator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 56,
+    "minor": 57,
     "patch": 26
   }
 }
