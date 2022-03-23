@@ -14740,11 +14740,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2357e7A960cA01FDac148eD8728D1F34322cf08F",
+      "symbol": "ENCYPHER",
+      "name": "Encypher",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 9,
+    "minor": 10,
     "patch": 27
   }
 }
