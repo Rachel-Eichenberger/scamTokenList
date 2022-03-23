@@ -14256,11 +14256,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29636c6907a0cCb89aab53cB3a9cD70237C67ed9",
+      "symbol": "5Shibs",
+      "name": "5Shibs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 65,
+    "minor": 66,
     "patch": 26
   }
 }
