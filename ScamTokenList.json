@@ -14322,11 +14322,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE921310Ae802a33858bA645ba7bBb4Ce7D0A21A9",
+      "symbol": "Bulgari",
+      "name": "Bulgari NFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 71,
+    "minor": 72,
     "patch": 26
   }
 }
