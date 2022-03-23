@@ -14993,11 +14993,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA227dE65722742AA9269EC5d4D2A99c45B35cc5f",
+      "symbol": "Punk",
+      "name": "Punk Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 32,
+    "minor": 33,
     "patch": 27
   }
 }
