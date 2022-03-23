@@ -15059,11 +15059,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3adA2A695E214d86cF3E1EB9219B93c06bc6E90D",
+      "symbol": "ETHS",
+      "name": "EtherStones",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 38,
+    "minor": 39,
     "patch": 27
   }
 }
