@@ -14135,11 +14135,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82218A2a778F2A7D479C257af24c257e1F34578b",
+      "symbol": "RDM",
+      "name": "Redem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 54,
+    "minor": 55,
     "patch": 26
   }
 }
