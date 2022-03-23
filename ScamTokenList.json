@@ -14608,11 +14608,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x043EC146750BBE1bB7e7fe31682707e319c9bE4F",
+      "symbol": "RISEKONG",
+      "name": "rise kong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 97,
+    "minor": 98,
     "patch": 26
   }
 }
