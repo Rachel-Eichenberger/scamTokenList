@@ -14058,11 +14058,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9b72E8Ce944eAd23fACBAE50b1bd1Bdc75027FB",
+      "symbol": "JIGSAW",
+      "name": "JIGSAW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 47,
+    "minor": 48,
     "patch": 26
   }
 }
