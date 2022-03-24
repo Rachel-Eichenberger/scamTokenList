@@ -15246,11 +15246,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe2C95314FA4D665d79EB3217CEF4e60825810f4",
+      "symbol": "BLNU",
+      "name": "Blue Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 55,
+    "minor": 56,
     "patch": 27
   }
 }
