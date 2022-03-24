@@ -15532,11 +15532,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FE88cCE3920f951dDf8c6E655BB510a2B67908F",
+      "symbol": "BCC",
+      "name": "Bunny Chilling Club",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 75,
+    "minor": 76,
     "patch": 27
   }
 }
