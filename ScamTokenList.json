@@ -16214,11 +16214,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC0545945a1A374Be0c36e671C25b736bD92B6062",
+      "symbol": "GASLIGHT",
+      "name": "GASLIGHT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 37,
+    "minor": 38,
     "patch": 28
   }
 }
