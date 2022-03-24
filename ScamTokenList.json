@@ -15961,11 +15961,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39328fbDCC042235c0a1a672A0E25f19C1Cc61E7",
+      "symbol": "Escalator",
+      "name": "escalator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 14,
+    "minor": 15,
     "patch": 28
   }
 }
