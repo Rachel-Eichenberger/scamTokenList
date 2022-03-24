@@ -15510,11 +15510,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79eDd0F3d0fb89F88c1B66551e7AF4045EaF6618",
+      "symbol": "fairyswap",
+      "name": "fairyswap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 73,
+    "minor": 74,
     "patch": 27
   }
 }
