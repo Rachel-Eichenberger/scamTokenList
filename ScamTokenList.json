@@ -15939,11 +15939,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x741b14F54D2a303a7cF02eA366CeBA9De4C6DA50",
+      "symbol": "NASAINU",
+      "name": "NASA INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 12,
+    "minor": 13,
     "patch": 28
   }
 }
