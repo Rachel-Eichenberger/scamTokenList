@@ -15356,11 +15356,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEcBC85d6e0E37F10F91614E183911c35b3f39356",
+      "symbol": "YOINU",
+      "name": "Yorkshire Inu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 59,
+    "minor": 60,
     "patch": 27
   }
 }
