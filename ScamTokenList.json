@@ -15169,11 +15169,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bC3686AAD07b28cC925c3A01617496018c7Dbc0",
+      "symbol": "AIP",
+      "name": "APESINPARIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 48,
+    "minor": 49,
     "patch": 27
   }
 }
