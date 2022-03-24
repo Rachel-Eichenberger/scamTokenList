@@ -16148,11 +16148,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C8acf94E4230F5a96075Cd0478AA87A392A3C3B",
+      "symbol": "EMINEM",
+      "name": "Eminem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 31,
+    "minor": 32,
     "patch": 28
   }
 }
