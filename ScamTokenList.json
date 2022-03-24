@@ -15862,11 +15862,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5565e3a8a5046A151ee324e273Caf7F47AFf547",
+      "symbol": "BabyRafiki",
+      "name": "BabyRafiki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 5,
+    "minor": 6,
     "patch": 28
   }
 }
