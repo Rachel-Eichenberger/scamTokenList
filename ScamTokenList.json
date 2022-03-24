@@ -15543,11 +15543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34BF4996cc2e4D206910946c7d07f7A3c4Ad31a8",
+      "symbol": "Shibsoldier",
+      "name": "Shibsoldier",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 76,
+    "minor": 77,
     "patch": 27
   }
 }
