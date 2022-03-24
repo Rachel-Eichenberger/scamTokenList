@@ -15213,11 +15213,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE5F69dfa2d4501E78078266F6d430c079098f90",
+      "symbol": "ARCHIE",
+      "name": "Archie Neko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x624c71Ff51b2650c2EE470A2e882BA68FEE35682",
+      "symbol": "BLAZR",
+      "name": "blazar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 52,
+    "minor": 54,
     "patch": 27
   }
 }
