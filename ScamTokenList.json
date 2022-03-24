@@ -15466,11 +15466,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7dE3bb824A17E309134d913f354D29A04FEC457",
+      "symbol": "Verizon",
+      "name": "Verizon Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 69,
+    "minor": 70,
     "patch": 27
   }
 }
