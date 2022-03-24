@@ -15675,11 +15675,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9724e0163ddA909715f64999032d077505607df",
+      "symbol": "FADU",
+      "name": "FairAutoDonateUkraine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 88,
+    "minor": 89,
     "patch": 27
   }
 }
