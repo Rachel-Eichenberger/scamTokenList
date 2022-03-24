@@ -16170,11 +16170,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB77535a18C5adB4F4725D4B99F384339AFF9bC36",
+      "symbol": "KONGURAI",
+      "name": "Kongurai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 33,
+    "minor": 34,
     "patch": 28
   }
 }
