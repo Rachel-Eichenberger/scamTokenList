@@ -15334,11 +15334,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98A49d1d683945FCC2A8614960f5F303Cd62C949",
+      "symbol": "SULTAN",
+      "name": "Sultan Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 57,
+    "minor": 58,
     "patch": 27
   }
 }
