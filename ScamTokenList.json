@@ -15785,11 +15785,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86AaE4CC77728B5A85b599db5b839D9667D48d49",
+      "symbol": "Archer",
+      "name": "Archer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 98,
+    "minor": 99,
     "patch": 27
   }
 }
