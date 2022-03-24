@@ -15191,11 +15191,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc92a13f6253f3382F5AEAe6d43f3be3153E09BD5",
+      "symbol": "AIP",
+      "name": "Apes In Paris",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 50,
+    "minor": 51,
     "patch": 27
   }
 }
