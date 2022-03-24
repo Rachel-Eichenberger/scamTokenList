@@ -15653,11 +15653,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe95F5834AFFc36cdF9D2f31774E3E6a5afF3ED2B",
+      "symbol": "QWC",
+      "name": "QaTarWC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 86,
+    "minor": 87,
     "patch": 27
   }
 }
