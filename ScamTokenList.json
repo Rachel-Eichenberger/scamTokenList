@@ -16115,11 +16115,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E1311220248c0E9dCA0bC080521f0Ba8BFC12Ff",
+      "symbol": "SAFUCT",
+      "name": "SAFU Community Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb69Bf64B2a2545F18fA28Eb9D12454b9C132cc6A",
+      "symbol": "GIF",
+      "name": "JPEG Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 28,
+    "minor": 30,
     "patch": 28
   }
 }
