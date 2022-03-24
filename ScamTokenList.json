@@ -15620,11 +15620,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ee84fed29b2e7161D373976C5a13E933793cA3E",
+      "symbol": "Amazon",
+      "name": "Amazon Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 83,
+    "minor": 84,
     "patch": 27
   }
 }
