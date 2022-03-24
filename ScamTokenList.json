@@ -15972,11 +15972,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb86FAc6223D35188Ac88d4dae69112E39a5e52d8",
+      "symbol": "STO",
+      "name": "SaveTheOcean",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 15,
+    "minor": 16,
     "patch": 28
   }
 }
