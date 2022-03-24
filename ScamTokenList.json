@@ -15521,11 +15521,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23B59942A38e987c7c15D0AF41611F6637800BbF",
+      "symbol": "FAPE",
+      "name": "Future APE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 74,
+    "minor": 75,
     "patch": 27
   }
 }
