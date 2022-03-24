@@ -16159,11 +16159,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02e4eFDd1E1b138D58Fb7252F1CD1f5808D28d2e",
+      "symbol": "deathknight",
+      "name": "deathknight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 32,
+    "minor": 33,
     "patch": 28
   }
 }
