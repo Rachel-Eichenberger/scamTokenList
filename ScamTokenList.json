@@ -15598,11 +15598,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99bfEeBa302b9b0aB46a4FD70a7565B5CB559660",
+      "symbol": "KOTORI",
+      "name": "Kotori Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 81,
+    "minor": 82,
     "patch": 27
   }
 }
