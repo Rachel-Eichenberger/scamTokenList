@@ -15697,11 +15697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD94371a6aB73E9693f5A4d5b83C3F3aE5E082a8b",
+      "symbol": "Magician",
+      "name": "Magician",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 90,
+    "minor": 91,
     "patch": 27
   }
 }
