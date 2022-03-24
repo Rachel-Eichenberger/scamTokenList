@@ -15928,11 +15928,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCf19c76d4848c5E26AB438D8A2fF94316944f0b8",
+      "symbol": "PANDURAI",
+      "name": "PANDA SAMURAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 11,
+    "minor": 12,
     "patch": 28
   }
 }
