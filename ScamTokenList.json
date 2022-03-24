@@ -16049,11 +16049,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FEe6deC2c4Ed0d828eeEB431B99F0e84F0D95A6",
+      "symbol": "FORD",
+      "name": "Bronco",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 22,
+    "minor": 23,
     "patch": 28
   }
 }
