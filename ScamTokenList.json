@@ -15686,11 +15686,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F1B90f02A53A835f05C2095DfD6e213136898ca",
+      "symbol": "NOJEETS100X",
+      "name": "NOJEETS100X",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 89,
+    "minor": 90,
     "patch": 27
   }
 }
