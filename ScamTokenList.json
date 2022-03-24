@@ -15763,11 +15763,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDDaCBB25b1A06AbE20fE839a86B0031E4064E75E",
+      "symbol": "MET",
+      "name": "MetiSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 96,
+    "minor": 97,
     "patch": 27
   }
 }
