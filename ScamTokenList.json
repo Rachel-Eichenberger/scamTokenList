@@ -15345,11 +15345,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x423D71d1b4537BD885fE74667325E2feA141E5Ee",
+      "symbol": "DIGITALIZATION",
+      "name": "Goldman Sachs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 58,
+    "minor": 59,
     "patch": 27
   }
 }
