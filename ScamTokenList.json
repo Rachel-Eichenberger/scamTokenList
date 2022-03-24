@@ -15818,11 +15818,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1Fbea7Ceb8A7b422b3C09291c07311E28BC12A7",
+      "symbol": "TTTOKEN",
+      "name": "Teen Titans Token",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 1,
+    "minor": 2,
     "patch": 28
   }
 }
