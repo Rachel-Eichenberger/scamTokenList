@@ -16082,11 +16082,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96f29330BACe95eA569928A8D74E6b1b49283edb",
+      "symbol": "POOR",
+      "name": "Poor Quack",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 25,
+    "minor": 26,
     "patch": 28
   }
 }
