@@ -15829,11 +15829,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26Ec2AA52Df2Dc38e630aC2AE96b98Fd0BEb26c0",
+      "symbol": "MINIZOMBIE",
+      "name": "MINI ZOMBIE INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 2,
+    "minor": 3,
     "patch": 28
   }
 }
