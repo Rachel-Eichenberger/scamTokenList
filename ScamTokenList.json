@@ -15752,11 +15752,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8e168e0ff8c2c3adAd4465966d5FFeE47d6A7C0",
+      "symbol": "JBY",
+      "name": "JoyBoy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 95,
+    "minor": 96,
     "patch": 27
   }
 }
