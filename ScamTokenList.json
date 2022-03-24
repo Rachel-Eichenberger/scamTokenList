@@ -15378,11 +15378,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x865491439FC5F630a4bC6B1499f8CFB229987F80",
+      "symbol": "LIBERO",
+      "name": "Libero Financial Freedom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 61,
+    "minor": 62,
     "patch": 27
   }
 }
