@@ -15730,11 +15730,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4417AFF183Aae183F0EE03d4aBc4CC6d6D3125a9",
+      "symbol": "CHO",
+      "name": "Choisecom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 93,
+    "minor": 94,
     "patch": 27
   }
 }
