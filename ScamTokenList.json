@@ -15389,11 +15389,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2BB34304C3ee09F485d3AdF09dC4ce686B3d7E11",
+      "symbol": "LINE",
+      "name": "LINE Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 62,
+    "minor": 63,
     "patch": 27
   }
 }
