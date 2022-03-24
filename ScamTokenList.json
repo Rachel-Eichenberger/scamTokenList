@@ -15840,11 +15840,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x661bCC5F920485B5faEfdfF7709050D5CabE2bA4",
+      "symbol": "RANK",
+      "name": "RANK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 3,
+    "minor": 4,
     "patch": 28
   }
 }
