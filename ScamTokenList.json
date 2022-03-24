@@ -15488,11 +15488,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F8655032885e22268a74703B76b43dB0Acef582",
+      "symbol": "RKTF",
+      "name": "Rocket Fuel V2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 71,
+    "minor": 72,
     "patch": 27
   }
 }
