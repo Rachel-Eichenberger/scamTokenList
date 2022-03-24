@@ -15994,11 +15994,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54e167e7906538d6EDB2640dAfde4Cd87C46E918",
+      "symbol": "Artemis",
+      "name": "Artemis",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 17,
+    "minor": 18,
     "patch": 28
   }
 }
