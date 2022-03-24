@@ -15719,11 +15719,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E0c04c4e3ff0B4b873c66e72c32c278C232F557",
+      "symbol": "ALGOINU",
+      "name": "Algo Musk Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 92,
+    "minor": 93,
     "patch": 27
   }
 }
