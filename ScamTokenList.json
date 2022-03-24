@@ -15444,11 +15444,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84639dbd33E8d1ed262DBDE2F1C2F9FD201a16E0",
+      "symbol": "GoldmanSachs",
+      "name": "Goldman Sachs Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 67,
+    "minor": 68,
     "patch": 27
   }
 }
