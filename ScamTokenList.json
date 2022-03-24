@@ -16060,11 +16060,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7103ae32bDF5616E60e1f84F7Cd80d67Ee291329",
+      "symbol": "KYOKO",
+      "name": "Kyoko Finance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 23,
+    "minor": 24,
     "patch": 28
   }
 }
