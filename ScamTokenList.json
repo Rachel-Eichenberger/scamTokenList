@@ -15202,11 +15202,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Ca6d087f4262e55EAF59DcBF4C4CD7fEc594Bb8",
+      "symbol": "greentoucan",
+      "name": "green toucan ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 51,
+    "minor": 52,
     "patch": 27
   }
 }
