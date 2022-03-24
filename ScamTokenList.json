@@ -16104,11 +16104,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50949f77b44CF1B32A51Cc1FB3cC672Cf8d3a380",
+      "symbol": "SEER",
+      "name": "Seer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 27,
+    "minor": 28,
     "patch": 28
   }
 }
