@@ -15587,11 +15587,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDbaba2f1E35809BA8D86a0218A905B08653BD058",
+      "symbol": "B2M",
+      "name": "Bit 2 Me",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 80,
+    "minor": 81,
     "patch": 27
   }
 }
