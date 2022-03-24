@@ -15917,11 +15917,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x319B564906D35F6c6f9a2D7183D49583077DF773",
+      "symbol": "SUSHIINU",
+      "name": "Sushi Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 10,
+    "minor": 11,
     "patch": 28
   }
 }
