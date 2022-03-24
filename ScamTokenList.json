@@ -15895,11 +15895,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x818510D1979368d51bD32c3470C762176D433D85",
+      "symbol": "GILF",
+      "name": "Gorilla Intermediary Life Fund",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 8,
+    "minor": 9,
     "patch": 28
   }
 }
