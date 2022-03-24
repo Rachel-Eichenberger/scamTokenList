@@ -15708,11 +15708,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94733005c993554099876A0855B192fbBd3D4670",
+      "symbol": "OSA",
+      "name": "Open Source Algorithm",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 91,
+    "minor": 92,
     "patch": 27
   }
 }
