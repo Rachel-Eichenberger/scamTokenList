@@ -16038,11 +16038,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF395aAbb94F2923Ff66b193De70aAD11469831c0",
+      "symbol": "ELONMUSK1995",
+      "name": "ELON MUSK 1995",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 21,
+    "minor": 22,
     "patch": 28
   }
 }
