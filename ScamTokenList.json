@@ -15741,11 +15741,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0AFb1fDC3a20997AFc75a4D64d977433220dDf8",
+      "symbol": "EME",
+      "name": "Meme Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 94,
+    "minor": 95,
     "patch": 27
   }
 }
