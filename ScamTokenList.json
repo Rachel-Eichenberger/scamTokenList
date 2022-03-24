@@ -15235,11 +15235,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x227685539D196dC9190DD454F07310f4198Df001",
+      "symbol": "Catwoman",
+      "name": "Catwoman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 54,
+    "minor": 55,
     "patch": 27
   }
 }
