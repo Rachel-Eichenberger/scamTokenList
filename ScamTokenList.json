@@ -15400,11 +15400,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31603CAEeF2eD2d5C2dA70A8664B39526505CD6a",
+      "symbol": "BabyAlchemist",
+      "name": "Baby Alchemist",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 63,
+    "minor": 64,
     "patch": 27
   }
 }
