@@ -15873,11 +15873,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB64E31Dd2812bDDdd7aC590E9d9Ff5bf6073348f",
+      "symbol": "INKONGNITO",
+      "name": "Inkongnito",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 6,
+    "minor": 7,
     "patch": 28
   }
 }
