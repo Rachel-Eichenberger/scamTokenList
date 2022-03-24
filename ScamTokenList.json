@@ -15499,11 +15499,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5e335cc42070CcFC6D6f19e16586bE8a8bBEd15",
+      "symbol": "DApe",
+      "name": "Dogeape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 72,
+    "minor": 73,
     "patch": 27
   }
 }
