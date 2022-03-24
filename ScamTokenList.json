@@ -15642,11 +15642,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9478ac9b6927a4f1EaEef0BCddAcB9a3f251eA3F",
+      "symbol": "BBGA",
+      "name": "BB Gaming",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 85,
+    "minor": 86,
     "patch": 27
   }
 }
