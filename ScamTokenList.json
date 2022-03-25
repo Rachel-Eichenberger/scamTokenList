@@ -16731,11 +16731,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07D5e4Db69Cb04032eD7C92109fCb5A3E8dC47Fa",
+      "symbol": "Pokemon",
+      "name": "Pokemon Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 72,
+    "minor": 73,
     "patch": 28
   }
 }
