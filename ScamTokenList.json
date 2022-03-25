@@ -16973,11 +16973,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca8a414F170Bc635f7Bb21aF7951922fa33A82B0",
+      "symbol": "LZERO",
+      "name": "LayerZeroToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x517BCA0570c90eB697aaB091dC54f7f043d299D3",
+      "symbol": "CHRIST",
+      "name": "Annunciation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 94,
+    "minor": 96,
     "patch": 28
   }
 }
