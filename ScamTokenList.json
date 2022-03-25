@@ -16324,11 +16324,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD610708ff8700bB2D886253db7CF6965D97AAb46",
+      "symbol": "ETMLGY",
+      "name": "ETYMOLOGY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 47,
+    "minor": 48,
     "patch": 28
   }
 }
