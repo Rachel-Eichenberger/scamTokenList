@@ -16753,11 +16753,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA97b7f6af8AAd2a6C6199AFCCe51C3689e90B8Eb",
+      "symbol": "MASTEREAGLE",
+      "name": "MASTER EAGLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 74,
+    "minor": 75,
     "patch": 28
   }
 }
