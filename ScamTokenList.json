@@ -16808,11 +16808,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5079872579B1095A48aEb46c6b30695f204dBB8",
+      "symbol": "SAITAMEOW",
+      "name": "Saitameow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 79,
+    "minor": 80,
     "patch": 28
   }
 }
