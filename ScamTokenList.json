@@ -16830,11 +16830,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7A55E7D4E9Bb1cB11762E4B32DFd85026c74585",
+      "symbol": "SWAPPYSWAP",
+      "name": "SwappySwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 81,
+    "minor": 82,
     "patch": 28
   }
 }
