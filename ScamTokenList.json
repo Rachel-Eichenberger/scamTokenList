@@ -16302,11 +16302,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x082D491a7A19BCa44cA18b9470dd430Aa6156adA",
+      "symbol": "SCOOBY",
+      "name": "Scooby Brady Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 45,
+    "minor": 46,
     "patch": 28
   }
 }
