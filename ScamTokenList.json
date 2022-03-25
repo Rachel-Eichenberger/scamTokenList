@@ -16742,11 +16742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a1e56fCC344628abde73356Bc9a2d70c53B79E8",
+      "symbol": "AIRSHIBA",
+      "name": "airshiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 73,
+    "minor": 74,
     "patch": 28
   }
 }
