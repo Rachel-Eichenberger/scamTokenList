@@ -17083,11 +17083,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4607C7E0f97b351f68e23d8cE9672984edD8Ee1b",
+      "symbol": "CDR",
+      "name": "Cult DAO Reloaded",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 4,
+    "minor": 5,
     "patch": 29
   }
 }
