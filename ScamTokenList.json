@@ -17039,11 +17039,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82a5f1dcCeF20B05a431A22b49A4abE95C36a730",
+      "symbol": "DEFINITELY",
+      "name": "definitely",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 0,
+    "minor": 1,
     "patch": 29
   }
 }
