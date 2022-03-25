@@ -16610,11 +16610,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D1B4BC7b7879E19903DDDd5BB37B12e69B4e35a",
+      "symbol": "FreeSpeech",
+      "name": "Free Speech Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 61,
+    "minor": 62,
     "patch": 28
   }
 }
