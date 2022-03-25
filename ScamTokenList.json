@@ -16896,11 +16896,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x952Aa09109e3ce1A66d41Dc806D9024a91dD5684",
+      "symbol": "HOSPO",
+      "name": "HospoWise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 87,
+    "minor": 88,
     "patch": 28
   }
 }
