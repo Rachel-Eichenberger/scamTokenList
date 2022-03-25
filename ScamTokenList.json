@@ -16885,11 +16885,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8F56b7eFd9d2cCCa2E334eE908cF1f15d195C57",
+      "symbol": "YOLOSWAP",
+      "name": "YoloSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 86,
+    "minor": 87,
     "patch": 28
   }
 }
