@@ -16247,11 +16247,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c60009FA3eBCe54ea8FDa3C75F1fE547775bC40",
+      "symbol": "GASLIGHT",
+      "name": "Gaslight Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 40,
+    "minor": 41,
     "patch": 28
   }
 }
