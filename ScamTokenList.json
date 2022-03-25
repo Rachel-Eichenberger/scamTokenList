@@ -16940,11 +16940,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CC9dE6b3A24e36c7c9EEcB4D5C4a734C684131b",
+      "symbol": "Annunciation",
+      "name": "Annunciation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 91,
+    "minor": 92,
     "patch": 28
   }
 }
