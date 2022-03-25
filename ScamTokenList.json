@@ -16863,11 +16863,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2845E3a6609EaDC71bf5F1728d603E5C4c645339",
+      "symbol": "SBAYC",
+      "name": "Shiba Inu Yacth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 84,
+    "minor": 85,
     "patch": 28
   }
 }
