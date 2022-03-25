@@ -16588,11 +16588,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2dDFf59c5Ab639DF6cb2DE88de61fAcCbbF8eBF",
+      "symbol": "APE",
+      "name": "APEOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 59,
+    "minor": 60,
     "patch": 28
   }
 }
