@@ -16269,11 +16269,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0DD24387cBCa4bA7A8266470631C05589466836",
+      "symbol": "fools",
+      "name": "fools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 42,
+    "minor": 43,
     "patch": 28
   }
 }
