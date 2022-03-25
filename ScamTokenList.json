@@ -16313,11 +16313,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3327a78fB50bB6f50C3Fff752DA1AdABD4d4bd86",
+      "symbol": "NOWL",
+      "name": "Night Owl",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 46,
+    "minor": 47,
     "patch": 28
   }
 }
