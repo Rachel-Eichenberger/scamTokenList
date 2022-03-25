@@ -17116,11 +17116,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F59Cd84e9AD76aC6149e21E76d2b7DaAb0478f6",
+      "symbol": "SHIBNATO",
+      "name": "ShibNato",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 7,
+    "minor": 8,
     "patch": 29
   }
 }
