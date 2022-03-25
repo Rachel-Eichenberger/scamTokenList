@@ -16709,11 +16709,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4A639302AFB76a8d3D60B4d3B5fAE7a124f2ca6",
+      "symbol": "ANONYMITY",
+      "name": "Anonymity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 70,
+    "minor": 71,
     "patch": 28
   }
 }
