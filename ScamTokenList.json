@@ -16676,11 +16676,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x942cB014BaEB7c8B6c3d6C29d734bd3Ed82D13b9",
+      "symbol": "STRANGE",
+      "name": "Strange Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 67,
+    "minor": 68,
     "patch": 28
   }
 }
