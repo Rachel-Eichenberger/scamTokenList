@@ -16929,11 +16929,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCC916954967E555BBC2D1B619582d75ad0CD2e17",
+      "symbol": "SBAYC",
+      "name": "Shiba Inu Yacht Club",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 90,
+    "minor": 91,
     "patch": 28
   }
 }
