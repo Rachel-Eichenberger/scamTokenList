@@ -16632,11 +16632,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb014213cA1333FEfa54B1f63E7E4EF00230a54e",
+      "symbol": "Scientist",
+      "name": "MadScientist",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 63,
+    "minor": 64,
     "patch": 28
   }
 }
