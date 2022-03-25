@@ -16951,11 +16951,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a43B5b3a76f0d1437840f77bFC3cc94cE1f8bef",
+      "symbol": "AlchemistGold",
+      "name": "AlchemistGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 92,
+    "minor": 93,
     "patch": 28
   }
 }
