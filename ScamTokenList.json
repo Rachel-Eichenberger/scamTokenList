@@ -16687,11 +16687,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2120055472EF5142d54C64e0f8D508840bD89d01",
+      "symbol": "Wizard",
+      "name": "The Wizard",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 68,
+    "minor": 69,
     "patch": 28
   }
 }
