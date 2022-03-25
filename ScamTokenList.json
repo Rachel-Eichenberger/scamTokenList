@@ -16786,11 +16786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd656824655D63014Cd0907359e18A30681caf8a7",
+      "symbol": "PNG",
+      "name": "PNG Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 77,
+    "minor": 78,
     "patch": 28
   }
 }
