@@ -16335,11 +16335,154 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbE94E147e995A267f382fBccfa32DE6C33FF6Aee",
+      "symbol": "ACPT",
+      "name": "Accept",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0xDa24fE9e5A76EF59b94746b00E2f2c97299684DF",
+      "symbol": "TKN",
+      "name": "TOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0x01ceA7ED7EE5CeD44CE76b4f593Ff31751eDdB04",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0xEA8423A5C56f703AbCeBda63c877b5120864c356",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0x7BE78184EDdd84B0a0483174E32B437DEEBB6d79",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0xebD388E7dC7FaAEB1759cDCc590305853BAaa7d6",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0x6c718A5707D6E80C67f8514ea42e7d4688e0dbbF",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0xb6390D0C76288194F4C8bD139C82Bf0C979565e8",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0xC01958F0D317221a2efBd069C9B6D9F9c9FB6714",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0x241d47b5Fa62136f008b1A02695D10E3A5A9cE9a",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe340034Ac0F9585cDC25b99Aa2fc45b125417a8f",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe3c5A313862A6D90651d2C32B69fA95C59BC919e",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 137,
+      "address": "0xcdbCbae79eEfa8FF34ddEC151D1dA37736eb8aAE",
+      "symbol": "RSHIB",
+      "name": "Retro Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 48,
+    "minor": 49,
     "patch": 28
   }
 }
