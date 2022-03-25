@@ -16522,11 +16522,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x956c4D2E3bb79634cAb850f7090F6842163157A6",
+      "symbol": "SBAYC",
+      "name": "SHIBAYC      ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 53,
+    "minor": 54,
     "patch": 28
   }
 }
