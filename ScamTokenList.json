@@ -16599,11 +16599,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x812e208810B763aEe90D6fDA84bD61297Fc9625f",
+      "symbol": "KOKO",
+      "name": "Hanabiko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 60,
+    "minor": 61,
     "patch": 28
   }
 }
