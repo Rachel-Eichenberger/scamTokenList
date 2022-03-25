@@ -17028,11 +17028,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41e38882257D0a318C8FB5f1c4E4F50A0B85f56e",
+      "symbol": "LG",
+      "name": "LG Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 65,
-    "minor": 99,
-    "patch": 28
+    "major": 66,
+    "minor": 0,
+    "patch": 29
   }
 }
