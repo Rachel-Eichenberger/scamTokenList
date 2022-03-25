@@ -17138,11 +17138,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xddd9A98EA6EBDF64BE538758233047696adD4bBc",
+      "symbol": "MMC",
+      "name": "Meta Music Copyright",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 9,
+    "minor": 10,
     "patch": 29
   }
 }
