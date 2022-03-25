@@ -17094,11 +17094,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7BEedF8A7b0CE54A08213ba4503fAA4fd1DaEDE9",
+      "symbol": "Potion",
+      "name": "Potion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 5,
+    "minor": 6,
     "patch": 29
   }
 }
