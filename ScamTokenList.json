@@ -16533,11 +16533,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1A0E82EB28Df8C459C353aC8434F626A8d3c152",
+      "symbol": "Ghost",
+      "name": "Ghost",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 54,
+    "minor": 55,
     "patch": 28
   }
 }
