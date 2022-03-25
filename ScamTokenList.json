@@ -16511,11 +16511,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78734a327B6D84b44c358CC42b2416967FE7A819",
+      "symbol": "DOO",
+      "name": "Lucky Doo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 52,
+    "minor": 53,
     "patch": 28
   }
 }
