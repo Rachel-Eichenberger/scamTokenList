@@ -16555,11 +16555,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf2866C084C54cF04421D5E6a66b9051039fD1D4",
+      "symbol": "Honda",
+      "name": "Honda Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 56,
+    "minor": 57,
     "patch": 28
   }
 }
