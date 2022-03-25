@@ -17061,11 +17061,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccd6982cf18159240F1CA018c258dab1f6430239",
+      "symbol": "SINU",
+      "name": "SlaveInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 2,
+    "minor": 3,
     "patch": 29
   }
 }
