@@ -17050,11 +17050,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f154ce2bf330ed3879947b5454f2D5A8bf8d352",
+      "symbol": "ARCHIE",
+      "name": "Archie Neko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 1,
+    "minor": 2,
     "patch": 29
   }
 }
