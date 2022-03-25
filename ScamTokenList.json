@@ -17149,11 +17149,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9cA1d319f045F42e1dB67f17329244a29DFAe2b",
+      "symbol": "Toast",
+      "name": "Toast",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 10,
+    "minor": 11,
     "patch": 29
   }
 }
