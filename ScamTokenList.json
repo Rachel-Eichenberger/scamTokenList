@@ -16665,11 +16665,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x875f716aE6d8CB584776718cB6c6ecc63781312C",
+      "symbol": "Qualcomm",
+      "name": "Qualcomm Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 66,
+    "minor": 67,
     "patch": 28
   }
 }
