@@ -17017,11 +17017,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A7CCE446728b7d714bCD2ccb7E317CA8D1aD904",
+      "symbol": "WIK",
+      "name": "WomenKids Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 98,
+    "minor": 99,
     "patch": 28
   }
 }
