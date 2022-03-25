@@ -16544,11 +16544,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9018eA8E256Ed7222056a9173b40ae7dCB8FDAeF",
+      "symbol": "XQC",
+      "name": "XQC INU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 55,
+    "minor": 56,
     "patch": 28
   }
 }
