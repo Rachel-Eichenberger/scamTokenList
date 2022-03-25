@@ -16764,11 +16764,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5829a1F34cA2e6F1427Ae584f25EE12820d29765",
+      "symbol": "MORI",
+      "name": "Moriyama Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 75,
+    "minor": 76,
     "patch": 28
   }
 }
