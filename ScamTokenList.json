@@ -17105,11 +17105,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2d310CB8992b3Fa1051BA4710F41c43eB5Bba5D",
+      "symbol": "CWI",
+      "name": "Crypto Wrestling Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 6,
+    "minor": 7,
     "patch": 29
   }
 }
