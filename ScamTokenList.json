@@ -16841,11 +16841,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e64004083230CaC6Fd6e8E337ff44C85fd0e7b6",
+      "symbol": "EGT",
+      "name": "ElonGoat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 82,
+    "minor": 83,
     "patch": 28
   }
 }
