@@ -16236,11 +16236,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x276b4232528E0aD65804911744BCd1bb1c817B8a",
+      "symbol": "BEER",
+      "name": "Fomo Beer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 39,
+    "minor": 40,
     "patch": 28
   }
 }
