@@ -16874,11 +16874,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d03057eB2db305c0F7E86d2de30FB01F40655d0",
+      "symbol": "FOMOSWAP",
+      "name": "FomoSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 85,
+    "minor": 86,
     "patch": 28
   }
 }
