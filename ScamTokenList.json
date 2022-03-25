@@ -17006,11 +17006,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb094039c093E3Cf1Bd02C8d291A5263ef333Eaa4",
+      "symbol": "GDiamonds",
+      "name": "Green Diamonds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 97,
+    "minor": 98,
     "patch": 28
   }
 }
