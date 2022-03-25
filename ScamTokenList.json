@@ -16654,11 +16654,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5993225802d1EA4479a0bbDCF383F753294FbBF",
+      "symbol": "TWOLL",
+      "name": "TWITTER POLL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 65,
+    "minor": 66,
     "patch": 28
   }
 }
