@@ -16566,11 +16566,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2776425a502BBc2D1e0Ab67c17e650f4d1a8eA16",
+      "symbol": "CHEMIST",
+      "name": "TheChemist",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 57,
+    "minor": 58,
     "patch": 28
   }
 }
