@@ -16258,11 +16258,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBeB4d79Bede99D532BD9c10973226894aD789958",
+      "symbol": "TANGERINU",
+      "name": "Most people think the fruit was named a",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 41,
+    "minor": 42,
     "patch": 28
   }
 }
