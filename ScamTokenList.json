@@ -16500,11 +16500,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9131Bc041b16C11Eba113CE51995558Eeb10d83",
+      "symbol": "ApePride",
+      "name": "Ape Pride",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 51,
+    "minor": 52,
     "patch": 28
   }
 }
