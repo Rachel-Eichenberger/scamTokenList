@@ -16995,11 +16995,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8C9f016B3ec6776DdD588D57a9E341bceCDb55f",
+      "symbol": "EMERALDS",
+      "name": "EMERALDS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 96,
+    "minor": 97,
     "patch": 28
   }
 }
