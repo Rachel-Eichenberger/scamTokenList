@@ -17578,11 +17578,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F050317facbc94D1D769f26Ec502fA41ae8dDac",
+      "symbol": "DHANDS",
+      "name": "Diamond Hands",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 47,
+    "minor": 48,
     "patch": 30
   }
 }
