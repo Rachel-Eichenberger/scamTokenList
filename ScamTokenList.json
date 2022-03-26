@@ -17833,7 +17833,7 @@
       ]
     },
     {
-      "chainId": 1,
+      "chainId": 137,
       "address": "0x18da2921F6525De8e7d0049A6c9bF2C9Bb2db146",
       "symbol": "DIMU",
       "name": "Democracy Inu",
@@ -17845,8 +17845,8 @@
     }
   ],
   "version": {
-    "major": 67,
+    "major": 68,
     "minor": 71,
-    "patch": 30
+    "patch": 31
   }
 }
