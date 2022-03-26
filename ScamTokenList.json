@@ -17589,11 +17589,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93b25252484d63F3d342FAbA2de2589A9ac9caA1",
+      "symbol": "MICKEYMOUSE",
+      "name": "mickeymouseinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 48,
+    "minor": 49,
     "patch": 30
   }
 }
