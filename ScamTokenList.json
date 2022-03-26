@@ -17292,11 +17292,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x241df3C020ecd410F054479401Edc2e85d9F9Ae9",
+      "symbol": "EPUNCH",
+      "name": "Elon Punch",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 23,
+    "minor": 24,
     "patch": 29
   }
 }
