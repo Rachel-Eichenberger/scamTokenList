@@ -17501,11 +17501,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4BdE01E59B2c316Dd2C5AF9151f1cd93dD96FC1D",
+      "symbol": "IKEA",
+      "name": "IKEA Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 42,
+    "minor": 43,
     "patch": 29
   }
 }
