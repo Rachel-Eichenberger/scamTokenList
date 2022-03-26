@@ -17611,11 +17611,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x279C373dFDCCe38484F5a27C7DFa4C95D2dc8801",
+      "symbol": "NewPlatform",
+      "name": "NewPlatform",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 50,
+    "minor": 51,
     "patch": 30
   }
 }
