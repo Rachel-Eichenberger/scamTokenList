@@ -17490,11 +17490,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2823e8527e7E0cE591C48645636f6217167d519",
+      "symbol": "moonquakes",
+      "name": "moonquakes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 41,
+    "minor": 42,
     "patch": 29
   }
 }
