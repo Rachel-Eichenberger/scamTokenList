@@ -17798,11 +17798,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD90eA271799ACCB8afED57F5e5e7ecaEfaB8E6E8",
+      "symbol": "KNIGHT",
+      "name": "Knight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 67,
+    "minor": 68,
     "patch": 30
   }
 }
