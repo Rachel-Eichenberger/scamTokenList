@@ -17732,11 +17732,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7CC62c01Cf7AB892716239B1CeeA91835E6F6F79",
+      "symbol": "NINJAPE",
+      "name": "Ninja Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 61,
+    "minor": 62,
     "patch": 30
   }
 }
