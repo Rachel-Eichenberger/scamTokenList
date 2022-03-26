@@ -17765,11 +17765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b6Ba25505Fdf9f272eE7ce6e694eC1E0df9bD83",
+      "symbol": "VITALIK",
+      "name": "ETH PROTECTOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 64,
+    "minor": 65,
     "patch": 30
   }
 }
