@@ -17479,11 +17479,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE145E95ae19f329DaA90cE65E437009C5b642c3",
+      "symbol": "WCB",
+      "name": "WenCoinBase",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 40,
+    "minor": 41,
     "patch": 29
   }
 }
