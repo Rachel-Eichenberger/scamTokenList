@@ -17314,11 +17314,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfFd915c3A60504E30Dde0CDc1C45e667D10034F7",
+      "symbol": "MONO",
+      "name": "MONO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 25,
+    "minor": 26,
     "patch": 29
   }
 }
