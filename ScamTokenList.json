@@ -17633,11 +17633,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d9573A9d6b614A27Ec8c852A0805F6E496b5a1D",
+      "symbol": "iToken",
+      "name": "iToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 52,
+    "minor": 53,
     "patch": 30
   }
 }
