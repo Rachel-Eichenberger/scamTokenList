@@ -17413,11 +17413,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B5F4F181075aDeBE794AB6277f7FB17b2eE5f15",
+      "symbol": "YAKONAKI",
+      "name": "Yakonaki Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 34,
+    "minor": 35,
     "patch": 29
   }
 }
