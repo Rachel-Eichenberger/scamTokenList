@@ -17303,11 +17303,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6FBe1A9Ad6Ce9a9cC939A006E54d7976B3fFE32",
+      "symbol": "ALTAVA",
+      "name": "ALTAVA Group",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 24,
+    "minor": 25,
     "patch": 29
   }
 }
