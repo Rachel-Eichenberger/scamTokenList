@@ -17710,11 +17710,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEA19Ff19582654cEbe9A9E7D741bb85E0BcC0d7E",
+      "symbol": "MLINK",
+      "name": "Missing Link",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 59,
+    "minor": 60,
     "patch": 30
   }
 }
