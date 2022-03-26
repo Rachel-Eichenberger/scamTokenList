@@ -17446,11 +17446,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ebAE21A158651068FEAa13b463dbc246f2A9012",
+      "symbol": "FLIPDOGE",
+      "name": "Flip Doge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 37,
+    "minor": 38,
     "patch": 29
   }
 }
