@@ -17776,11 +17776,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d5DeDFE01a36896945D365f0B0A8BB4486e9577",
+      "symbol": "Gigabyte",
+      "name": "Gigabyte",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 65,
+    "minor": 66,
     "patch": 30
   }
 }
