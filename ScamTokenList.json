@@ -17369,11 +17369,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa606b5631546804aCF248d96Eb0FFeBbd5e8Bc4B",
+      "symbol": "Belka",
+      "name": "Belka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 30,
+    "minor": 31,
     "patch": 29
   }
 }
