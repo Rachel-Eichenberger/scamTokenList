@@ -17182,11 +17182,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9B06841fAFdb546750099CC627f1Fe1219e1221",
+      "symbol": "Lomein",
+      "name": "Lomein Ninja",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 13,
+    "minor": 14,
     "patch": 29
   }
 }
