@@ -17237,11 +17237,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08f4a523c32E5B45CFfB8CE7BdC7929ACA8726F5",
+      "symbol": "SHINJURAI",
+      "name": "Shinjurai     ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 18,
+    "minor": 19,
     "patch": 29
   }
 }
