@@ -17193,11 +17193,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfBa4c914E5B75eB801973a9b8056c148cBAD6029",
+      "symbol": "Doodles",
+      "name": "Doodles",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 14,
+    "minor": 15,
     "patch": 29
   }
 }
