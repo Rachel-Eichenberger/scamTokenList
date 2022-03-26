@@ -17270,11 +17270,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8FffA1BEA43f10fD5B7326CF4DA634E41094A86",
+      "symbol": "Goblin",
+      "name": "Goblin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 21,
+    "minor": 22,
     "patch": 29
   }
 }
