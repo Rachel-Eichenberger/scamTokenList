@@ -17358,11 +17358,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17Ce42734A3Adf8727E628b9381ED434A3f447f5",
+      "symbol": "EVP",
+      "name": "Elon Vs Putin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 29,
+    "minor": 30,
     "patch": 29
   }
 }
