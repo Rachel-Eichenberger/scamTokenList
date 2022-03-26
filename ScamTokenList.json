@@ -17556,11 +17556,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x289D5488AB09F43471914E572Ec9e3651C735Af2",
+      "symbol": "COW",
+      "name": "CoW Protocol Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 45,
+    "minor": 46,
     "patch": 30
   }
 }
