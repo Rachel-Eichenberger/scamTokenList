@@ -17853,11 +17853,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C7a3C0a142404107fDDbD0cdfF805D78c00F618",
+      "symbol": "SGLD",
+      "name": "LootProjectEn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 72,
+    "minor": 73,
     "patch": 31
   }
 }
