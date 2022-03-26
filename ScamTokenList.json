@@ -17248,11 +17248,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB705ee67c49F7d646fcF91a8D510533cd754b6f7",
+      "symbol": "ExxonMobil",
+      "name": "ExxonMobil Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 19,
+    "minor": 20,
     "patch": 29
   }
 }
