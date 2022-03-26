@@ -17160,11 +17160,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A0477e1CD1829E8a60099a2A214477eDAc582fe",
+      "symbol": "LIMERENCE",
+      "name": "LIMERENCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 11,
+    "minor": 12,
     "patch": 29
   }
 }
