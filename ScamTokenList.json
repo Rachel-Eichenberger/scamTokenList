@@ -17347,11 +17347,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03ea8faE5e382B9E767f052Ba456A6D61cC28C41",
+      "symbol": "ANIMOCA",
+      "name": "Animoca Brands Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 28,
+    "minor": 29,
     "patch": 29
   }
 }
