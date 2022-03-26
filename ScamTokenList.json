@@ -17512,11 +17512,44 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2ab831ef83EF5C48a8459e773e91EBc550bEC1E"
+      "symbol": "DKN",
+      "name": "Dead Knight",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32B2Bb0e7ba5F7E82362BC7750c77b5662a17620",
+      "symbol": "LGNTW",
+      "name": "Legion Network",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x687DeD88911a375dC845512B692770d6d3Bad6cE",
+      "symbol": "RM",
+      "name": "REALY Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 43,
+    "minor": 44,
     "patch": 29
   }
 }
