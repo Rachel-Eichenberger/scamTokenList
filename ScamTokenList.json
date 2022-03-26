@@ -17515,7 +17515,7 @@
     },
     {
       "chainId": 1,
-      "address": "0xE2ab831ef83EF5C48a8459e773e91EBc550bEC1E"
+      "address": "0xE2ab831ef83EF5C48a8459e773e91EBc550bEC1E",
       "symbol": "DKN",
       "name": "Dead Knight",
       "decimals": 18,
@@ -17545,11 +17545,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8065B2cEDD1110495a44229Cf242558B7Bbc8a32",
+      "symbol": "NT",
+      "name": "Nitron Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 66,
-    "minor": 44,
-    "patch": 29
+    "major": 67,
+    "minor": 45,
+    "patch": 30
   }
 }
