@@ -17831,11 +17831,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18da2921F6525De8e7d0049A6c9bF2C9Bb2db146",
+      "symbol": "DIMU",
+      "name": "Democracy Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 70,
+    "minor": 71,
     "patch": 30
   }
 }
