@@ -17699,11 +17699,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D920412052f49DdeB656cA51598D55b63533ec8",
+      "symbol": "NoMoreRugs",
+      "name": "NoMoreRugs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 58,
+    "minor": 59,
     "patch": 30
   }
 }
