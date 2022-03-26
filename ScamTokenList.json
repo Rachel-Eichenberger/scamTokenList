@@ -17677,11 +17677,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6e1F70D05Cb86A620FfA581C646217421E119CB",
+      "symbol": "BBV",
+      "name": "baby Vulture",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 56,
+    "minor": 57,
     "patch": 30
   }
 }
