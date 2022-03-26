@@ -17743,11 +17743,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Cfb17420aD5EeB8F5390f3370f18784f136c399",
+      "symbol": "WOLF",
+      "name": "Wolftoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 62,
+    "minor": 63,
     "patch": 30
   }
 }
