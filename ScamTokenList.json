@@ -17204,11 +17204,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A43d4c8C83CF5670baB0A70Fb42556fFcBcf698",
+      "symbol": "AZUKI",
+      "name": "Azuki DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 15,
+    "minor": 16,
     "patch": 29
   }
 }
