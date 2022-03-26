@@ -17171,11 +17171,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4053005598fD8f3861b711EB83d1D0F5324030c5",
+      "symbol": "GOLD",
+      "name": "GOLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 12,
+    "minor": 13,
     "patch": 29
   }
 }
