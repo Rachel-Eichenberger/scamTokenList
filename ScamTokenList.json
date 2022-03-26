@@ -17215,11 +17215,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC04F1a0092e5dB1B83DaeFf9DDDe5dB8a5bB96FC",
+      "symbol": "HOFI",
+      "name": "Hall Of Fame Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 16,
+    "minor": 17,
     "patch": 29
   }
 }
