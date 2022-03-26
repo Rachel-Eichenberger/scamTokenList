@@ -17655,11 +17655,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Be1520709F0BcE6B43e07b172dB49fD7B944876",
+      "symbol": "RedBull",
+      "name": "Red Bull Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 54,
+    "minor": 55,
     "patch": 30
   }
 }
