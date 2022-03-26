@@ -17666,11 +17666,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x017800245b2a33Fb061f2D9E8888F8766eEb1Ff4",
+      "symbol": "ANONAPE",
+      "name": "Anonape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 55,
+    "minor": 56,
     "patch": 30
   }
 }
