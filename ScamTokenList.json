@@ -17391,11 +17391,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF1a8b599DED075563DA3f8d5a42126f0580B715",
+      "symbol": "Raven",
+      "name": "Raven",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 32,
+    "minor": 33,
     "patch": 29
   }
 }
