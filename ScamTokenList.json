@@ -17336,11 +17336,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56C290e3248adcEB7f8313cBDCEf80d1082f3a27",
+      "symbol": "DJI",
+      "name": "Dont Jeet It",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 27,
+    "minor": 28,
     "patch": 29
   }
 }
