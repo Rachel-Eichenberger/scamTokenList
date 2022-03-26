@@ -17754,11 +17754,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFaE0e4e7a3674f0D6F643cA5Ddcf52BebcB0862c",
+      "symbol": "GIGA",
+      "name": "GIGA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 63,
+    "minor": 64,
     "patch": 30
   }
 }
