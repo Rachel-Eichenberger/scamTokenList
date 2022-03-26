@@ -17567,11 +17567,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27496c3B6Dca595FCA4651655335953690E7978C",
+      "symbol": "N2O",
+      "name": "N2O",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 46,
+    "minor": 47,
     "patch": 30
   }
 }
