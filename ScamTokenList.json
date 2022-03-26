@@ -17226,11 +17226,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F5Fd62B8f2a2729D929aC2126eDeCfcb983bc3E",
+      "symbol": "TINU",
+      "name": "Towelie Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 17,
+    "minor": 18,
     "patch": 29
   }
 }
