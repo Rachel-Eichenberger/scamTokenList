@@ -17787,11 +17787,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc538c3F83C5932571089f4F4762B5c2e4f8eCbb7",
+      "symbol": "UFC",
+      "name": "Underpaid Fighters Club",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 66,
+    "minor": 67,
     "patch": 30
   }
 }
