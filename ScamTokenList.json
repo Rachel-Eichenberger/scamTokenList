@@ -17941,11 +17941,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3FeA02E7f9fF286c9a57409819383BA52790D798",
+      "symbol": "COA",
+      "name": "Clash of Apes     ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 80,
+    "minor": 81,
     "patch": 31
   }
 }
