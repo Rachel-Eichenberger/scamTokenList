@@ -18029,11 +18029,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a1dc48a348740B62ED7a7943D53D9c84F35B326",
+      "symbol": "Skype",
+      "name": "Skype Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 88,
+    "minor": 89,
     "patch": 31
   }
 }
