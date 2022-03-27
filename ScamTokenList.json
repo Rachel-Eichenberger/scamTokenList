@@ -18425,11 +18425,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E4801504583D27108794D113a3A577221F3f831",
+      "symbol": "GLOBO",
+      "name": "Globo Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 24,
+    "minor": 25,
     "patch": 32
   }
 }
