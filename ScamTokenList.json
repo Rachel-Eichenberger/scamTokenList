@@ -18205,11 +18205,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E02593CcE9Aa8675daC263DaB76ED7e94A3A831",
+      "symbol": "POGGER",
+      "name": "Pogger Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 4,
+    "minor": 5,
     "patch": 32
   }
 }
