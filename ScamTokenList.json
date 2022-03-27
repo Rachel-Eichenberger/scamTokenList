@@ -18469,11 +18469,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8499D652262DB9A16549AC3781F6F1A3aAc767F",
+      "symbol": "BabyDogger",
+      "name": "BabyDogger",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 28,
+    "minor": 29,
     "patch": 32
   }
 }
