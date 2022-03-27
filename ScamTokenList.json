@@ -18216,11 +18216,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbC6fD8e2f670b16CD186846670b11cEB4CA31e53",
+      "symbol": "SOR",
+      "name": "redemption",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 5,
+    "minor": 6,
     "patch": 32
   }
 }
