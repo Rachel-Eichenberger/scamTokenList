@@ -18117,11 +18117,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4519a54eE8f354eD4070Acc673e2DbDA27f52579",
+      "symbol": "DINOSHIBA",
+      "name": "DinoShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 96,
+    "minor": 97,
     "patch": 31
   }
 }
