@@ -18502,11 +18502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6942833D39EBEF9De86f32e43ce2A27E1db90872",
+      "symbol": "APEX",
+      "name": "ApeX Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 31,
+    "minor": 32,
     "patch": 32
   }
 }
