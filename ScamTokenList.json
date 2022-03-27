@@ -17930,11 +17930,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc8E9a926E9DdCb9C0dec6FB7Ec6DCf8fFEBEF08",
+      "symbol": "BRB",
+      "name": "BerylBit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 79,
+    "minor": 80,
     "patch": 31
   }
 }
