@@ -18601,11 +18601,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDfC548Ca26f88644152f50592c21e31675A6fE4D",
+      "symbol": "IRON",
+      "name": "Iron Fish",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 40,
+    "minor": 41,
     "patch": 32
   }
 }
