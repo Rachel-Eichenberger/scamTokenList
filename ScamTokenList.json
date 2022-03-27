@@ -18073,11 +18073,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbFAc581Ef647471918a15a49E590Cd1bF946357",
+      "symbol": "FOG",
+      "name": "Fog Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 92,
+    "minor": 93,
     "patch": 31
   }
 }
