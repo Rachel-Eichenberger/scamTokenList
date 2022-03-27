@@ -18150,11 +18150,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c7fE5EAafa1C5f2637af6d5368650FdB1Dc3Bd7",
+      "symbol": "MemesInu",
+      "name": "Memes Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 68,
-    "minor": 99,
-    "patch": 31
+    "major": 69,
+    "minor": 0,
+    "patch": 32
   }
 }
