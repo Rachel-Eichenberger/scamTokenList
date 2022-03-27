@@ -18612,11 +18612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB206811FCfE7871EFE22daef47ba228291397125",
+      "symbol": "LETS",
+      "name": "LetsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 70,
-    "minor": 43,
+    "minor": 44,
     "patch": 33
   }
 }
