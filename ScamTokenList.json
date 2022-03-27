@@ -18293,11 +18293,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89cB26d60e44C0C5F4978F5D3A2186D24fC96b74",
+      "symbol": "MOO",
+      "name": "Tauren",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 12,
+    "minor": 13,
     "patch": 32
   }
 }
