@@ -18436,11 +18436,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0684f8d7a9Abb62044e5Ed29783C2C324d84911",
+      "symbol": "FYLB",
+      "name": "BingBong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C36939bb180C86255b0B5C14b539e9a950c0A07",
+      "symbol": "RITUAL",
+      "name": "The Ritual",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 25,
+    "minor": 27,
     "patch": 32
   }
 }
