@@ -18535,11 +18535,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x813423d307cDD33263aa57Aba25167818E646004",
+      "symbol": "FALC",
+      "name": "Fuck Alchemist",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 34,
+    "minor": 35,
     "patch": 32
   }
 }
