@@ -18513,11 +18513,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD49717013D7D752B457E603eF6fcA7F0CDDB1745",
+      "symbol": "DairyQueen",
+      "name": "DairyQueen Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 32,
+    "minor": 33,
     "patch": 32
   }
 }
