@@ -18414,11 +18414,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd079eD34AE6555A08fE61E17D3c23a1f3Dd57E8e",
+      "symbol": "MDI",
+      "name": "Mothers Day Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 23,
+    "minor": 24,
     "patch": 32
   }
 }
