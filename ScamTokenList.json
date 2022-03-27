@@ -18315,11 +18315,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98958cb0ddf7388065648d06fa9D28D88e1F186c",
+      "symbol": "MCULT",
+      "name": "Mystery Cult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 14,
+    "minor": 15,
     "patch": 32
   }
 }
