@@ -17963,11 +17963,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9fa7FFbC7d47D4f61126e29b330A28DC7398dC6",
+      "symbol": "1APE",
+      "name": "1APE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 82,
+    "minor": 83,
     "patch": 31
   }
 }
