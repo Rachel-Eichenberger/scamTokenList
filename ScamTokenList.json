@@ -18106,11 +18106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa91827215697Bb20d142bf46DB3d1Bfd8F5264dc",
+      "symbol": "Mastercard",
+      "name": "Mastercard Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 95,
+    "minor": 96,
     "patch": 31
   }
 }
