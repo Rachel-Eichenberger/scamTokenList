@@ -18183,11 +18183,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cf415D86965A171dd1A3687D4B610Dbc47CF8f0",
+      "symbol": "ProductionOfMemes",
+      "name": "Production Of Memes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 2,
+    "minor": 3,
     "patch": 32
   }
 }
