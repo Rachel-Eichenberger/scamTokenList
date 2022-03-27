@@ -17908,11 +17908,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Adbf2CDd96b990665B3E25e1d998183aCe76ce3",
+      "symbol": "LIONGATE",
+      "name": "liongate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 77,
+    "minor": 78,
     "patch": 31
   }
 }
