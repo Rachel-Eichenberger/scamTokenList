@@ -18227,11 +18227,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70f1fB5819b1fa3ae61eB7C22AA08D8f06E214d1",
+      "symbol": "MEMELON",
+      "name": "MEMELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 6,
+    "minor": 7,
     "patch": 32
   }
 }
