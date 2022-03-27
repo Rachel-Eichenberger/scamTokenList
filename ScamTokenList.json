@@ -18051,11 +18051,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x801144278032E72C285880d38CE033122465F844",
+      "symbol": "iAPE",
+      "name": "Idiot Apes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 90,
+    "minor": 91,
     "patch": 31
   }
 }
