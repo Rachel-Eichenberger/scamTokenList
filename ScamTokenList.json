@@ -18172,11 +18172,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf654d2caaf9f6cfa4E4EAea6d4e9D32F237FE6D5",
+      "symbol": "SeizeMemes",
+      "name": "Sezie Memes Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 1,
+    "minor": 2,
     "patch": 32
   }
 }
