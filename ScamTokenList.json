@@ -18040,11 +18040,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe056A7c9aF746BC05c2e2FFD55F51bd88bA425c0",
+      "symbol": "Dogeape",
+      "name": "Dogeape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 89,
+    "minor": 90,
     "patch": 31
   }
 }
