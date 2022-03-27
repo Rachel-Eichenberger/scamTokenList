@@ -17974,11 +17974,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bc50FBA0b3317005060a113CD12bCCFF4E28136",
+      "symbol": "O2O",
+      "name": "O2O",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 83,
+    "minor": 84,
     "patch": 31
   }
 }
