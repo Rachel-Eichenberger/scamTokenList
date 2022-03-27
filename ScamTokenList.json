@@ -18381,11 +18381,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7cc057c4DA8f24Ecb595b87D1b4C45146f2132A",
+      "symbol": "ZrSiO",
+      "name": "Zircon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 20,
+    "minor": 21,
     "patch": 32
   }
 }
