@@ -17897,11 +17897,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2059337776397c7326e36CE0bAFaB8747B33cbd5",
+      "symbol": "ROCKET",
+      "name": "The Rocket Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 76,
+    "minor": 77,
     "patch": 31
   }
 }
