@@ -18095,11 +18095,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc547e800d264a669B096C9a67093A0b8e0019604",
+      "symbol": "Belong",
+      "name": "Belong",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 94,
+    "minor": 95,
     "patch": 31
   }
 }
