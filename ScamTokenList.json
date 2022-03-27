@@ -18271,11 +18271,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e4A0ADFC2e9bf2Dfd041Bc89405538d0D5A077a",
+      "symbol": "WORM",
+      "name": "Wormhole Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 10,
+    "minor": 11,
     "patch": 32
   }
 }
