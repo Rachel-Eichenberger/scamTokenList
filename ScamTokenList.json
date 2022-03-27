@@ -18590,11 +18590,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16B4b017b573DC31b42a046C4Bd2dCe1c277894F",
+      "symbol": "CMD",
+      "name": "Commander",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 39,
+    "minor": 40,
     "patch": 32
   }
 }
