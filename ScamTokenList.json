@@ -18480,11 +18480,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf80C81DC2b214Ac80Ce178D9Ed16714B9aF293a",
+      "symbol": "GAPE",
+      "name": "Gucci Apes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 29,
+    "minor": 30,
     "patch": 32
   }
 }
