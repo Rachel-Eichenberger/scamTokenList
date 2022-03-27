@@ -18139,11 +18139,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7707D10Eb1d05c94A0aC3c659b40A0f9DDb35BC0",
+      "symbol": "MEMESEIZE",
+      "name": "MEMESEIZE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 98,
+    "minor": 99,
     "patch": 31
   }
 }
