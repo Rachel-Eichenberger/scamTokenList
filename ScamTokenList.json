@@ -18164,17 +18164,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xf60B0B5d239177ca9582AC5c9e777cEe882E5EeD",
-      "symbol": "MOP",
-      "name": "Memes of production",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf654d2caaf9f6cfa4E4EAea6d4e9D32F237FE6D5",
       "symbol": "SeizeMemes",
       "name": "Sezie Memes Inu",
@@ -18615,8 +18604,8 @@
     }
   ],
   "version": {
-    "major": 69,
-    "minor": 41,
-    "patch": 32
+    "major": 70,
+    "minor": 42,
+    "patch": 33
   }
 }
