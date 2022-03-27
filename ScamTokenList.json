@@ -18458,11 +18458,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x603FD4ceEf58A960449be95161079550095CdF8d",
+      "symbol": "ESHIBKING",
+      "name": "ELONSHIBKING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 27,
+    "minor": 28,
     "patch": 32
   }
 }
