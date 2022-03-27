@@ -17875,11 +17875,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe80c007015D81cCA2cBf32a4cDAbe2893Cf8C36c",
+      "symbol": "Rhapsody",
+      "name": "Rhapsody",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 74,
+    "minor": 75,
     "patch": 31
   }
 }
