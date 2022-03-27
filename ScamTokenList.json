@@ -18007,11 +18007,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2940c4F0416A8cfABAb992C85B1B3260E14a23C3",
+      "symbol": "RKT",
+      "name": "Red Knight Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 86,
+    "minor": 87,
     "patch": 31
   }
 }
