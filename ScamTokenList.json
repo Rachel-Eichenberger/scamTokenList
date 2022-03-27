@@ -18282,11 +18282,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1944C990C9018DFDf57f1975eEcfCFd20565B8B",
+      "symbol": "88",
+      "name": "88",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 11,
+    "minor": 12,
     "patch": 32
   }
 }
