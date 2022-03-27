@@ -17985,11 +17985,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd09F5d78f029fdbB88d7A659916C9e449268157",
+      "symbol": "BEAR",
+      "name": "PERMABEAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 84,
+    "minor": 85,
     "patch": 31
   }
 }
