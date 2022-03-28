@@ -18645,11 +18645,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86C0dFBB1726217DFeA9D0Ee1bA387D354D91c29",
+      "symbol": "MEOWTH",
+      "name": "Meowth Cat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 70,
-    "minor": 46,
+    "minor": 47,
     "patch": 33
   }
 }
