@@ -19085,11 +19085,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37f8f072a048004aB3483a0F9a3D3d4B73cDd494",
+      "symbol": "SECT",
+      "name": "Sect",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 88,
+    "minor": 89,
     "patch": 34
   }
 }
