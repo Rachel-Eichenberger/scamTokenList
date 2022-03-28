@@ -19668,11 +19668,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF50fEFC89b99Ad40f571cD4beAd0A42DcCA2D541",
+      "symbol": "BGYC",
+      "name": "Bored Gamer Yacht Club",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 41,
+    "minor": 42,
     "patch": 35
   }
 }
