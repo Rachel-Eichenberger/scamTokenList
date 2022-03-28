@@ -18645,11 +18645,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07774bF5c8c2E81f01E2A94B15cAC7C9dc5f733A",
+      "symbol": "Shib",
+      "name": "Shibanaut",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 48,
+    "minor": 49,
     "patch": 34
   }
 }
