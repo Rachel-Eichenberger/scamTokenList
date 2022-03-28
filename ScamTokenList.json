@@ -18975,11 +18975,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C8e12bEdA7f23bE11A0a68b6b31276Eb4019246",
+      "symbol": "VOT",
+      "name": " virus of Theseus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 78,
+    "minor": 79,
     "patch": 34
   }
 }
