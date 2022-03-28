@@ -19536,11 +19536,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e0A24cC6486F9D9ccb221Ac08f488E799B9F1da",
+      "symbol": "LOCKER",
+      "name": "LOCKER TOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 29,
+    "minor": 30,
     "patch": 35
   }
 }
