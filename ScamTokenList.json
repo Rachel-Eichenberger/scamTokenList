@@ -19030,11 +19030,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6893c1157c3DBaE80E6aa08d21cF9F5b1090c176",
+      "symbol": "ANCIENTINU",
+      "name": "Ancient Instinct Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 83,
+    "minor": 84,
     "patch": 34
   }
 }
