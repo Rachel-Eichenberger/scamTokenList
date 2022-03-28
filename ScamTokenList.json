@@ -19525,11 +19525,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46Cf696CeB31484FD57D692330311Bdeb3A46C83",
+      "symbol": "LOCKERINU",
+      "name": "Locker Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 28,
+    "minor": 29,
     "patch": 35
   }
 }
