@@ -19404,11 +19404,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51028e2dAadc15C2C6DA1D2C1e38394C2209bCBf",
+      "symbol": "Inusgram",
+      "name": "Inusgram",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 17,
+    "minor": 18,
     "patch": 35
   }
 }
