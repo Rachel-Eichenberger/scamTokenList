@@ -19778,11 +19778,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF8B108B8C610FF3588A6Fa86EF22093cc7008EEe",
+      "symbol": "HOT",
+      "name": "HOTDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 51,
+    "minor": 52,
     "patch": 35
   }
 }
