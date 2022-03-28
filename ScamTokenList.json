@@ -19492,11 +19492,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90f0D5A15650Ca89b10748038701d54C6aA3c6F5",
+      "symbol": "WTFJEETS",
+      "name": "WTF JEETS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 25,
+    "minor": 26,
     "patch": 35
   }
 }
