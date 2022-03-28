@@ -19239,11 +19239,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c3A01EAd37105819517Acf78Dc9F221786eEC42",
+      "symbol": "DOGEGRAM",
+      "name": "DOGEGRAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 2,
+    "minor": 3,
     "patch": 35
   }
 }
