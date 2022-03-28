@@ -19008,11 +19008,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9875095D722bC131929381361A757906ceC2d6B9",
+      "symbol": "NOX",
+      "name": "NITRO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 81,
+    "minor": 82,
     "patch": 34
   }
 }
