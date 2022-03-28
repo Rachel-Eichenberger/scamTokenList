@@ -19723,11 +19723,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01597E397605Bf280674Bf292623460b4204C375",
+      "symbol": "BENT",
+      "name": "Bent Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 46,
+    "minor": 47,
     "patch": 35
   }
 }
