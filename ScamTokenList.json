@@ -19437,11 +19437,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF96FED30B54E33e2652E902eDCF2C3378bE07e06",
+      "symbol": "SMITHSLAP",
+      "name": "Smith Slap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 20,
+    "minor": 21,
     "patch": 35
   }
 }
