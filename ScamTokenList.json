@@ -19558,11 +19558,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x013bB7458f51b2E4C06EeD814b8eF353DAC947e9",
+      "symbol": "SEGA",
+      "name": "SEGA Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 31,
+    "minor": 32,
     "patch": 35
   }
 }
