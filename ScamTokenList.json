@@ -19327,11 +19327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6eeec0a34B26B61a7DbBd2a65066CCf0DD50938",
+      "symbol": "DogeTok",
+      "name": "DogeTok",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 10,
+    "minor": 11,
     "patch": 35
   }
 }
