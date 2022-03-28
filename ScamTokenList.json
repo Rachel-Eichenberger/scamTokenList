@@ -19151,11 +19151,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9AbAcDf9F3ad8DB6f4Bac4B52afe94377419e8CC",
+      "symbol": "Adobe",
+      "name": "Adobe Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 94,
+    "minor": 95,
     "patch": 34
   }
 }
