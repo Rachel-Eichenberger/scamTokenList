@@ -18733,11 +18733,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x312624CA77f2AF3e679257cAA2b7f4F106aCfE15",
+      "symbol": "blb",
+      "name": "bulb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 56,
+    "minor": 57,
     "patch": 34
   }
 }
