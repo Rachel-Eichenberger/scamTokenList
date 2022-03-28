@@ -18821,11 +18821,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ADb2162d1f66aaB6Aec6E567838E0B0720a912D",
+      "symbol": "ULTI",
+      "name": "Ultiverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 64,
+    "minor": 65,
     "patch": 34
   }
 }
