@@ -19613,11 +19613,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a41775Da459B38e641141e4C696DF10EC1f4983",
+      "symbol": "PORTX",
+      "name": "ChainPort",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 36,
+    "minor": 37,
     "patch": 35
   }
 }
