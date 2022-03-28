@@ -19195,11 +19195,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd98ca6546267E6318CfB1CD9C204F01Fc1A1ABA",
+      "symbol": "SHIBASTEAK",
+      "name": "Shiba Steak",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 98,
+    "minor": 99,
     "patch": 34
   }
 }
