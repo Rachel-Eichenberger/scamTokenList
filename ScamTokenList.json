@@ -19382,11 +19382,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3845FFa9BB80487BD588Cc623fA447390FF1136",
+      "symbol": "ALOPECIA",
+      "name": "Alopecia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 15,
+    "minor": 16,
     "patch": 35
   }
 }
