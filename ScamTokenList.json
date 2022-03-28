@@ -19228,11 +19228,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91098b79cb824757a544253109aaf1607EcdC647",
+      "symbol": "APEER",
+      "name": "APEER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 1,
+    "minor": 2,
     "patch": 35
   }
 }
