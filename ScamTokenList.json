@@ -18788,11 +18788,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x736532464329E6B469fE7315D1803f7Ac104C56c",
+      "symbol": "IHATECHRIS",
+      "name": "Everybody Hates Chris",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 61,
+    "minor": 62,
     "patch": 34
   }
 }
