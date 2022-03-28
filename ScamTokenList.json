@@ -19448,11 +19448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1d7BDf69C085EB4Dd98a6A1142f80d66693c480",
+      "symbol": "SHIBOOK",
+      "name": "SHIBOOK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 21,
+    "minor": 22,
     "patch": 35
   }
 }
