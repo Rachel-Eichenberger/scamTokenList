@@ -19657,11 +19657,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba4a3eE72F79F0314525F76C4C6EE650B88026Ae",
+      "symbol": "ZelenskyInu",
+      "name": "ZelenskyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 40,
+    "minor": 41,
     "patch": 35
   }
 }
