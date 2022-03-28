@@ -18898,11 +18898,44 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93460Ba3b52D4658ff6faAE7E84e4211C7cBB896",
+      "symbol": "PAPISWAP",
+      "name": "PapiSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75cb2ABE18E34A8c4083fE726b0f70734F700b4B",
+      "symbol": "PAPASWAP",
+      "name": "PapaSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CfaE89FCAca13948F68D56B93e224d748356d0C",
+      "symbol": "MAMASWAP",
+      "name": "MamaSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 71,
+    "minor": 74,
     "patch": 34
   }
 }
