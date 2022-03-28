@@ -19294,11 +19294,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9610FA8f117b3B7f88C8103E99c91f670c871698",
+      "symbol": "VOODOOAPE",
+      "name": "Voodoo Ape",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 7,
+    "minor": 8,
     "patch": 35
   }
 }
