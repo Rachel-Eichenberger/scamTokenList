@@ -18832,11 +18832,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F02A3964B9A72ff508FC3d2883D512A146cc930",
+      "symbol": "MWSI",
+      "name": "MiniWillSmithInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 65,
+    "minor": 66,
     "patch": 34
   }
 }
