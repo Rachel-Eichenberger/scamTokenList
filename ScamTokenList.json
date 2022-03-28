@@ -19514,11 +19514,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9969603EAB8c15F16902D7bf5ea59F02CDBd8458",
+      "symbol": "DogeSnap",
+      "name": "DogeSnap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 27,
+    "minor": 28,
     "patch": 35
   }
 }
