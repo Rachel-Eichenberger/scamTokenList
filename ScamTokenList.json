@@ -18854,11 +18854,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C69a5Ee4e44777ff33359cae43fDDe663B034c7",
+      "symbol": "ADIDAS",
+      "name": "ADIDAS Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 67,
+    "minor": 68,
     "patch": 34
   }
 }
