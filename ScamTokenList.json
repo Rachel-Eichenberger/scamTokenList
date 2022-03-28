@@ -18942,11 +18942,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A50C8EC4Bd9ff16Be4a619b48b9248335595Eed",
+      "symbol": "Covid19Inu",
+      "name": "Covid19Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 75,
+    "minor": 76,
     "patch": 34
   }
 }
