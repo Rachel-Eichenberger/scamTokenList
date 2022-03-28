@@ -19393,11 +19393,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x218Ae209BEc57eeFa9149789aE09388459bC91d1",
+      "symbol": "LUN",
+      "name": "Lunaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 16,
+    "minor": 17,
     "patch": 35
   }
 }
