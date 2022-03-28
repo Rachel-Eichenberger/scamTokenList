@@ -19250,11 +19250,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa610f8843882fE4f1A235FdDa4281D8fE379Ea03",
+      "symbol": "SIMON",
+      "name": "SIMON SAY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 3,
+    "minor": 4,
     "patch": 35
   }
 }
