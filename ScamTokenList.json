@@ -18656,11 +18656,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf92209d1A0b1b385e3145393da3bc9737669c295",
+      "symbol": "APED",
+      "name": "We Aped",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 49,
+    "minor": 50,
     "patch": 34
   }
 }
