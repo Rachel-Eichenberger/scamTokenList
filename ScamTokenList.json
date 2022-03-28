@@ -19734,11 +19734,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cF285bC5cC69800D07BB5af0F0dbEd71A2c67da",
+      "symbol": "AGM",
+      "name": "agrama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 47,
+    "minor": 48,
     "patch": 35
   }
 }
