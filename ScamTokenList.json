@@ -18997,11 +18997,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c0D75d858b85DC8Dc4635cabC57eBfAAbdB2ec7",
+      "symbol": "ANCIENT",
+      "name": "Ancient Instinct",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 80,
+    "minor": 81,
     "patch": 34
   }
 }
