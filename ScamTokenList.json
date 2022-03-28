@@ -19635,11 +19635,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C0B433b118369a41BC107414871817170a512e5",
+      "symbol": "CroW",
+      "name": "CroW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 38,
+    "minor": 39,
     "patch": 35
   }
 }
