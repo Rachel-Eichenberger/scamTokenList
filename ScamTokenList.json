@@ -18623,11 +18623,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D690E2beCd1e635D5B3CBe429bAbd91276bfdfC",
+      "symbol": "ChelseaDAO",
+      "name": "ChelseaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 70,
-    "minor": 44,
+    "minor": 45,
     "patch": 33
   }
 }
