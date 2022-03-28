@@ -18667,11 +18667,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x361a8c6Ef166Ea5904A82F6E8B085F0EE4408a6b",
+      "symbol": "WSI",
+      "name": "Will Smith Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 50,
+    "minor": 51,
     "patch": 34
   }
 }
