@@ -19470,11 +19470,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3db932023B4fc1dd6Adbf56C659d452686b8C6c1",
+      "symbol": "FRESHPRINCESLAPS",
+      "name": "FRESHPRINCESLAPS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 23,
+    "minor": 24,
     "patch": 35
   }
 }
