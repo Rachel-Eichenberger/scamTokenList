@@ -18799,11 +18799,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb33516d7e968D0520E6957F67A79031F6604b6d7",
+      "symbol": "Julius",
+      "name": "Julius",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 62,
+    "minor": 63,
     "patch": 34
   }
 }
