@@ -18722,11 +18722,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11C3950Fb83f03e3a3A513D7d41C549471DC5B3D",
+      "symbol": "SLAP",
+      "name": "Slap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 55,
+    "minor": 56,
     "patch": 34
   }
 }
