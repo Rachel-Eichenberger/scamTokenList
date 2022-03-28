@@ -19712,11 +19712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5D89696d170a5aF25d38fFb96b6539A0b537653",
+      "symbol": "Bikini",
+      "name": "Bikini Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 45,
+    "minor": 46,
     "patch": 35
   }
 }
