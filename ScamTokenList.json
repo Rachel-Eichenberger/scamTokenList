@@ -19140,11 +19140,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x148C758D66aC606E2369d3067EA83371586C9B84",
+      "symbol": "HawkeyeInu",
+      "name": "HawkeyeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 93,
+    "minor": 94,
     "patch": 34
   }
 }
