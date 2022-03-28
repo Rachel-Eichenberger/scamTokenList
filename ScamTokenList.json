@@ -19074,11 +19074,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79F8C1298F2203BeD0D5091EBaee2f030F27Fa39",
+      "symbol": "E2E",
+      "name": "E2E",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 87,
+    "minor": 88,
     "patch": 34
   }
 }
