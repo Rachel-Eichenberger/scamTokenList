@@ -18766,11 +18766,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb443c0b5687C4D3Aa1924545BcB6F37208c7BdA7",
+      "symbol": "CHRISROCK",
+      "name": "CHRIS ROCK INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 59,
+    "minor": 60,
     "patch": 34
   }
 }
