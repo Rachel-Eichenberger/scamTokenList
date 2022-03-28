@@ -19547,11 +19547,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38C02E66EE54485e29a6Df1Ca186847e7627780b",
+      "symbol": "Saitter",
+      "name": "Saitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 30,
+    "minor": 31,
     "patch": 35
   }
 }
