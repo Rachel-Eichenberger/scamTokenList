@@ -19767,11 +19767,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7651404089edFf6ff6529aD717AD42e20deF017B",
+      "symbol": "JOKES",
+      "name": "JOKES TOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 50,
+    "minor": 51,
     "patch": 35
   }
 }
