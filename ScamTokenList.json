@@ -19591,11 +19591,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB190dDCbbc4510C34CF2A834F0425a7d2b892F96",
+      "symbol": "sERC20",
+      "name": "sERC20 Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 34,
+    "minor": 35,
     "patch": 35
   }
 }
