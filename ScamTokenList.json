@@ -19272,11 +19272,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD2c1829d872C60986aD69895d87c8E4676dC65B",
+      "symbol": "AlienToyStory",
+      "name": "Alien Toy Story",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 5,
+    "minor": 6,
     "patch": 35
   }
 }
