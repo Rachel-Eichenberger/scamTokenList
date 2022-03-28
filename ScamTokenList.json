@@ -19679,11 +19679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e1C15Ff158A1fDde751fDb26209A1D9D2e16408",
+      "symbol": "TREASURE",
+      "name": "Treasure Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 42,
+    "minor": 43,
     "patch": 35
   }
 }
