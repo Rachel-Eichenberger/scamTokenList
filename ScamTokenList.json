@@ -19646,11 +19646,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE579cdA4cE3148E507F273eAeF1EcC5454E3F60B",
+      "symbol": "FUCKYOU",
+      "name": "FUCKYOU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 39,
+    "minor": 40,
     "patch": 35
   }
 }
