@@ -19206,11 +19206,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x849630D9647c1FB78580A6320e053f308c6f09C1",
+      "symbol": "CLAN",
+      "name": "Clan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 71,
-    "minor": 99,
-    "patch": 34
+    "major": 72,
+    "minor": 0,
+    "patch": 35
   }
 }
