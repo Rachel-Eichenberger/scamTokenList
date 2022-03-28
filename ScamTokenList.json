@@ -19745,11 +19745,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e2E54D82Be0Af0542be99119DB322e0c0DbF558",
+      "symbol": "AND",
+      "name": "Andromeda",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 48,
+    "minor": 49,
     "patch": 35
   }
 }
