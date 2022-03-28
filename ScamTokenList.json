@@ -19690,11 +19690,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6E981C09bDcA12B8a0fA2478a2a8Ec279Bd273a",
+      "symbol": "SpaceX",
+      "name": "SpaceX Falcon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 43,
+    "minor": 44,
     "patch": 35
   }
 }
