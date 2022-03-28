@@ -19569,11 +19569,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95dF602f42b68C774F762b503981F62A1577b5aD",
+      "symbol": "FIIT",
+      "name": "FIITLAB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 32,
+    "minor": 33,
     "patch": 35
   }
 }
