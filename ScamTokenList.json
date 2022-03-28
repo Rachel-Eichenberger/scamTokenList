@@ -19580,11 +19580,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4554E60e23CEbF198030D83CD7Cb26f426217eF8",
+      "symbol": "JadaInu",
+      "name": "JADA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 33,
+    "minor": 34,
     "patch": 35
   }
 }
