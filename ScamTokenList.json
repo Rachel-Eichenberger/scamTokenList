@@ -19459,11 +19459,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9cA1e2d92a41e4D9F813114ceB68802413C2FF7C",
+      "symbol": "JangaiToken",
+      "name": "JangaiToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 22,
+    "minor": 23,
     "patch": 35
   }
 }
