@@ -18634,11 +18634,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE18DB8A85a9f98bCd0f35133614505e60803F80B",
+      "symbol": "PRU",
+      "name": "Prudential",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 70,
-    "minor": 45,
+    "minor": 46,
     "patch": 33
   }
 }
