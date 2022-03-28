@@ -19162,11 +19162,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0772Fc2E6b5DC5a1495d08c01A99E611e5F6BcAB",
+      "symbol": "JSI",
+      "name": "Jaden Smith Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 95,
+    "minor": 96,
     "patch": 34
   }
 }
