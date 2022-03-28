@@ -19129,11 +19129,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFc52306685Ac9EddD70a52e776EC4383B37d4B91",
+      "symbol": "SIC",
+      "name": "Sicario dontbuy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 92,
+    "minor": 93,
     "patch": 34
   }
 }
