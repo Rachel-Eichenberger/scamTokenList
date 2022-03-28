@@ -19173,11 +19173,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa05F423440bb148E1e0c3612485E0078770aCEC4",
+      "symbol": "STOP",
+      "name": "Stoptracking dontbuy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 96,
+    "minor": 97,
     "patch": 34
   }
 }
