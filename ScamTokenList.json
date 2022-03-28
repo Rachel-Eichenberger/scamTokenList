@@ -19019,11 +19019,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A9514C53BA831B68622f62BebCFE3525663cDdb",
+      "symbol": "BABYLUNA",
+      "name": "BABY LUNA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 82,
+    "minor": 83,
     "patch": 34
   }
 }
