@@ -18678,11 +18678,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79C3e1a3DF153D33CC9dF42636C1D38d037FFD55",
+      "symbol": "WPC",
+      "name": "WillPunchedChris",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 51,
+    "minor": 52,
     "patch": 34
   }
 }
