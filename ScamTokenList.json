@@ -19052,11 +19052,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBd451746F55E707839416EFF366251f3d4C88245",
+      "symbol": "PREDATOR",
+      "name": "Predator Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 85,
+    "minor": 86,
     "patch": 34
   }
 }
