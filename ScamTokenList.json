@@ -18689,11 +18689,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D4fF93aC15F6fFf921D6c2D9065Fb60Fb20a816",
+      "symbol": "SHIBCULT",
+      "name": "SHIBA CULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 52,
+    "minor": 53,
     "patch": 34
   }
 }
