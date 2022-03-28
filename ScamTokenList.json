@@ -19624,11 +19624,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x354e571311e23B4Bf3177be9ae5C3c05127CC967",
+      "symbol": "DOGESMART",
+      "name": "DOGESMART",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 37,
+    "minor": 38,
     "patch": 35
   }
 }
