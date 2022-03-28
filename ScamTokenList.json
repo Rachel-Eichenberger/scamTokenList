@@ -19184,11 +19184,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83B5348E53Ea0eF2051A7dfC9B47C804C443e5Cd",
+      "symbol": "INUMINATI",
+      "name": "INUMINATI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 97,
+    "minor": 98,
     "patch": 34
   }
 }
