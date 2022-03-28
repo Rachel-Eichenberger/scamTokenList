@@ -19371,11 +19371,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72eeE6ec07aF7f30831CF042579DC2D4B04Ea868",
+      "symbol": "OVERLOAD",
+      "name": "Overload",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 14,
+    "minor": 15,
     "patch": 35
   }
 }
