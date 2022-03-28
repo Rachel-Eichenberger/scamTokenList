@@ -18953,11 +18953,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA19aa9d4E3f99bF28774df7394307928ff6cAA35",
+      "symbol": "THESEUS",
+      "name": "Theseus Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 76,
+    "minor": 77,
     "patch": 34
   }
 }
