@@ -18887,11 +18887,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7698858f93bE769F119018D7fEE441Bc198aef8f",
+      "symbol": "BRI",
+      "name": "BullRunInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 70,
+    "minor": 71,
     "patch": 34
   }
 }
