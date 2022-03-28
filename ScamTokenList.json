@@ -19426,11 +19426,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9B2de81DF16669ab13E93e0d041a257F8197282",
+      "symbol": "DAPE",
+      "name": "Dino Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 19,
+    "minor": 20,
     "patch": 35
   }
 }
