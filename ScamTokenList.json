@@ -19118,11 +19118,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xabE421AEE9fE65AC7196616828fB9Bd174079BAC",
+      "symbol": "DOGEBOOK",
+      "name": "DOGEBOOK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 91,
+    "minor": 92,
     "patch": 34
   }
 }
