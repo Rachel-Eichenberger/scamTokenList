@@ -19283,11 +19283,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB17E37Bb9DD695C2d5e37c3A985daE9367Bd1fdF",
+      "symbol": "CYBER",
+      "name": "Cybertama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 6,
+    "minor": 7,
     "patch": 35
   }
 }
