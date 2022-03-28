@@ -18755,11 +18755,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBbAd6c9D563703a2D561ff8a0e6fca671A2aEF63",
+      "symbol": "SLAP",
+      "name": "BitchSlapCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 58,
+    "minor": 59,
     "patch": 34
   }
 }
