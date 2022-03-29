@@ -20592,11 +20592,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDce8b8BD8889Ae97933f9bB33632bB4B2b763bb1",
+      "symbol": "Ubisoft",
+      "name": "Ubisoft Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 25,
+    "minor": 26,
     "patch": 37
   }
 }
