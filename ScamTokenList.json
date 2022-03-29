@@ -20339,11 +20339,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2386EfA85742b68659A13c529E1C465Fd6D558A",
+      "symbol": "ChadsCult",
+      "name": "ChadsCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 2,
+    "minor": 3,
     "patch": 36
   }
 }
