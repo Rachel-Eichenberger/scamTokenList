@@ -20669,11 +20669,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0Ea0020155210F3f83952dd0BDa409D21f3aa47",
+      "symbol": "dogesoul",
+      "name": "dogesoul",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53D6615db3FB4fcede65A7043A07282B07E7EF44",
+      "symbol": "CULTMONGOOSE",
+      "name": "Cult Mongoose",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 32,
+    "minor": 34,
     "patch": 37
   }
 }
