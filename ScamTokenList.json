@@ -20317,11 +20317,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15268dC899480558eaEBDeDA75B4aE9e58c7a7dC",
+      "symbol": "Wally",
+      "name": "Wheres Wally",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 0,
+    "minor": 1,
     "patch": 36
   }
 }
