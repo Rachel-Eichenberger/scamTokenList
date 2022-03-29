@@ -20449,11 +20449,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16bCF0027E2CE95BC91f396E998D72a617af269F",
+      "symbol": "CPI",
+      "name": "Inuflation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 12,
+    "minor": 13,
     "patch": 36
   }
 }
