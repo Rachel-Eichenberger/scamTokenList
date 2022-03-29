@@ -20471,11 +20471,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CaAAa0776f1C535B5955322fDc70A37b660D2a9",
+      "symbol": "DIFFI",
+      "name": "DiffiCULT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 14,
+    "minor": 15,
     "patch": 36
   }
 }
