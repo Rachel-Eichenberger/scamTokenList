@@ -20119,11 +20119,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e8B674dd33C43DBA5663CE91fbC7d863074Cc0a",
+      "symbol": "CULTDoge",
+      "name": "CULT Doge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 82,
+    "minor": 83,
     "patch": 35
   }
 }
