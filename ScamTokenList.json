@@ -20097,11 +20097,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f8280090b2F1450773f66C54bDD9fBa2f473b61",
+      "symbol": "LDAO",
+      "name": "Lightning DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 80,
+    "minor": 81,
     "patch": 35
   }
 }
