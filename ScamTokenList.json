@@ -20845,11 +20845,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB21A32e78b01A04d715205C179588e274151ab92",
+      "symbol": "Chi",
+      "name": "Chi Chi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 48,
+    "minor": 49,
     "patch": 37
   }
 }
