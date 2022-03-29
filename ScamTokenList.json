@@ -20702,11 +20702,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAC7b416cC26266C2EA45d6338510719eA63274D9",
+      "symbol": "PERMABULL",
+      "name": "PERMABULL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 35,
+    "minor": 36,
     "patch": 37
   }
 }
