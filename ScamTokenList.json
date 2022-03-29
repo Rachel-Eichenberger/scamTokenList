@@ -20636,11 +20636,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71f025713ed23B4cd1763C2f1f6E40EB14BCd19E",
+      "symbol": "SnipingFox",
+      "name": "SnipingFox",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 29,
+    "minor": 30,
     "patch": 37
   }
 }
