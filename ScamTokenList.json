@@ -20614,11 +20614,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7922d032A46A4b901E7066966a5F21177980C072",
+      "symbol": "CULTBRO",
+      "name": "CultBRO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2648AaC76C66B16557352F69553Cdf37ba80d056",
+      "symbol": "DOGINDER",
+      "name": "Doginder",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 27,
+    "minor": 29,
     "patch": 37
   }
 }
