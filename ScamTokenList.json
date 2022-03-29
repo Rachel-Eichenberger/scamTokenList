@@ -20174,11 +20174,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9071aaB155e7d5202dD8e3e6Ba8e2a0aB689972E",
+      "symbol": "CultSHIB",
+      "name": "CultSHIB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 87,
+    "minor": 88,
     "patch": 35
   }
 }
