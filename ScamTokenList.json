@@ -19932,11 +19932,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5310818783038071F384161683089136Ea61d4e7",
+      "symbol": "CULTIST",
+      "name": "Cultist Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 65,
+    "minor": 66,
     "patch": 35
   }
 }
