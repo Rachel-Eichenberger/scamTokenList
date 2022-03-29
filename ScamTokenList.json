@@ -20361,11 +20361,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c199F209B7AC7b200b7c6e914EFaaC184A4556E",
+      "symbol": "CULTAMA",
+      "name": "Cult Tama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 4,
+    "minor": 5,
     "patch": 36
   }
 }
