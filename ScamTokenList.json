@@ -19943,11 +19943,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cE37796a867aC31B08F6962D03Fb02B41B721aA",
+      "symbol": "DeadShot",
+      "name": "DeadShot Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 66,
+    "minor": 67,
     "patch": 35
   }
 }
