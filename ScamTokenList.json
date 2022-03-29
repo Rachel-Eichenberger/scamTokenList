@@ -20944,11 +20944,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x525317C9c90A1597832C12A97D138c7c31A4de66",
+      "symbol": "FOF",
+      "name": "Floki On Fire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 57,
+    "minor": 58,
     "patch": 37
   }
 }
