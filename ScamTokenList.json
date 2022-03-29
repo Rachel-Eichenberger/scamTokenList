@@ -20207,11 +20207,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D0DC49935551143301F96E59b5d926676704Fa8",
+      "symbol": "IC",
+      "name": "IronMan Cat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 90,
+    "minor": 91,
     "patch": 35
   }
 }
