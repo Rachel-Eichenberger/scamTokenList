@@ -19844,11 +19844,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee5A21C1FB6e6bCcE4E69B8469B89fCdd149f52d",
+      "symbol": "LaughsToken",
+      "name": "LaughsToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 57,
+    "minor": 58,
     "patch": 35
   }
 }
