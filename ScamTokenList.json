@@ -20526,11 +20526,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeC4F260D47c57f690A7948E2bD0B315B07A8601F",
+      "symbol": "SLAPCULT",
+      "name": "Slap Cult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 19,
+    "minor": 20,
     "patch": 36
   }
 }
