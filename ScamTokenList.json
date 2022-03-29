@@ -20130,11 +20130,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1C610DD88Bf4Be7BE11C288aa6044636c71a613",
+      "symbol": "WSLAP",
+      "name": "Will Slaps",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 83,
+    "minor": 84,
     "patch": 35
   }
 }
