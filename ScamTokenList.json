@@ -20430,6 +20430,17 @@
     },
     {
       "chainId": 1,
+      "address": "0x1EC0E884ee78A947E7Fd0c3E35Cc190d3216D48e",
+      "symbol": "virus",
+      "name": "Virus of Thesus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0x3d3Ce8D719Ba446e227CDb69925Fc13E8aEBD395",
       "symbol": "DiffiCULT",
       "name": "DiffiCULT",
