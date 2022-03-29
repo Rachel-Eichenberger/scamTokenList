@@ -20977,11 +20977,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x762D982458C8F4cc4BC5157b76ed849b2971bF5b",
+      "symbol": "DUROV",
+      "name": "Durov Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 60,
+    "minor": 61,
     "patch": 37
   }
 }
