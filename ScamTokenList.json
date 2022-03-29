@@ -20779,11 +20779,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDe499525a3dEa19Bc0eaeC32EB8D6ba945C35721",
+      "symbol": "NLV",
+      "name": "No Limit Venture",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 42,
+    "minor": 43,
     "patch": 37
   }
 }
