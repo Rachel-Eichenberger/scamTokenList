@@ -20955,11 +20955,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEea2fEf22353282fb760d27EA7A1E2f06B3F442d",
+      "symbol": "CLND",
+      "name": "Coslend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 58,
+    "minor": 59,
     "patch": 37
   }
 }
