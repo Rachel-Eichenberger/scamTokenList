@@ -19866,11 +19866,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Cb097f1D03375d4cd2983567d2cdB29e164b989",
+      "symbol": "CYBERPUNK",
+      "name": "Cyberpunk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x152af595fD22706BFcA2fdC9315486B7bF831052",
+      "symbol": "WONKA",
+      "name": "WONKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 59,
+    "minor": 61,
     "patch": 35
   }
 }
