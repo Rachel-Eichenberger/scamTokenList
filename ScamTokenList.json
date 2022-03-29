@@ -20911,11 +20911,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeB8716103B38365Bb3a5a104508d93e8FA2ad2F6",
+      "symbol": "ACEPT",
+      "name": "Accept Crypto Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 54,
+    "minor": 55,
     "patch": 37
   }
 }
