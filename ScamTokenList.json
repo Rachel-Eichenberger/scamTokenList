@@ -20108,11 +20108,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4EDdA85dC7fcE71d2842e8a00Ad793E20fb4AB0a",
+      "symbol": "CULTAPE",
+      "name": "CultAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 81,
+    "minor": 82,
     "patch": 35
   }
 }
