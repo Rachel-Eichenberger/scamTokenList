@@ -20603,11 +20603,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cBDF3c77364e1d129b3110A6C20b856677eaD33",
+      "symbol": "MYSTIC",
+      "name": "MYSTIC DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 26,
+    "minor": 27,
     "patch": 37
   }
 }
