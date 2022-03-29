@@ -20086,11 +20086,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCcaA89a168E5d442481f12d54E9B337F02cBe3F8",
+      "symbol": "COVID",
+      "name": "COVID19",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 79,
+    "minor": 80,
     "patch": 35
   }
 }
