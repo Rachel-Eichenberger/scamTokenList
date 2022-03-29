@@ -20724,11 +20724,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D34B179e2f4c5a9CC043bc6E570C48eF6C81cB7",
+      "symbol": "Solis",
+      "name": "Solis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 37,
+    "minor": 38,
     "patch": 37
   }
 }
