@@ -20691,11 +20691,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B03063B5cea6397e0ce97E6874807742a409Af8",
+      "symbol": "NWO",
+      "name": "NewWorldOrder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 34,
+    "minor": 35,
     "patch": 37
   }
 }
