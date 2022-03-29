@@ -20328,11 +20328,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5129bC94D90b0eE48a8C16549D08974886f7072",
+      "symbol": "DIAI",
+      "name": "Diamond Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 1,
+    "minor": 2,
     "patch": 36
   }
 }
