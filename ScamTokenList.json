@@ -20251,11 +20251,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcdD99c48Fe8Bb02f98B601eC7feFD228a851DB05",
+      "symbol": "CULTOSHI",
+      "name": "Cultoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 94,
+    "minor": 95,
     "patch": 35
   }
 }
