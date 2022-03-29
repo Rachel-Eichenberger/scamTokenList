@@ -20713,11 +20713,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0dF52189972b8A5C0EEE51476744272234Ba3Fb7",
+      "symbol": "APeN",
+      "name": "APENETWORK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 36,
+    "minor": 37,
     "patch": 37
   }
 }
