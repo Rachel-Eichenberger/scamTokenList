@@ -20878,11 +20878,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb29D39c4b63f588640B2E543D260005e919e2bFd",
+      "symbol": "BUDDY",
+      "name": "Buddy Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 51,
+    "minor": 52,
     "patch": 37
   }
 }
