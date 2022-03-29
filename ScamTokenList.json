@@ -20647,11 +20647,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4639FFC90b0fD6Dffb57Af712109bfa419afaEB5",
+      "symbol": "CNV",
+      "name": "Concave Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 30,
+    "minor": 31,
     "patch": 37
   }
 }
