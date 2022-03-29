@@ -20031,11 +20031,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0127d0Cd4e20D0859c2db8edd7fddEDdCD123Ab4",
+      "symbol": "KOTJ",
+      "name": "King of the Junge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 74,
+    "minor": 75,
     "patch": 35
   }
 }
