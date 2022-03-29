@@ -20262,11 +20262,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98DAEE998823BEe0136E5dA8DaC7F93ea55085C7",
+      "symbol": "CULTCOW",
+      "name": "CULTCOW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 95,
+    "minor": 96,
     "patch": 35
   }
 }
