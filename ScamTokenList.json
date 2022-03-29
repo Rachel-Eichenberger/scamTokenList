@@ -20273,11 +20273,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d88C01C744aC7fB30A43Cad05C6aC4E5BBFF338",
+      "symbol": "QOMCULT",
+      "name": "Cult Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x194F0D44914c6f106bAA94edFE05DbfAB87279FF",
+      "symbol": "CULTure",
+      "name": "CULTure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 96,
+    "minor": 98,
     "patch": 35
   }
 }
