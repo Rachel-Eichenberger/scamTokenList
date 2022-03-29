@@ -20405,11 +20405,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x581d66EF38904d8B6292D1a70aef19e67f596fCF",
+      "symbol": "WORSHIP",
+      "name": "WORSHIP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 8,
+    "minor": 9,
     "patch": 36
   }
 }
