@@ -20933,11 +20933,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf420314cEf290F70bc92012284e24D02a2A17be1",
+      "symbol": "ACEPT",
+      "name": "ACCEPT CRYPTO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 56,
+    "minor": 57,
     "patch": 37
   }
 }
