@@ -20163,11 +20163,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B5B49A4dFf73e9b9D7032Eac608914F8CCcBC8a",
+      "symbol": "PHILIPS",
+      "name": "PHILIPS Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 86,
+    "minor": 87,
     "patch": 35
   }
 }
