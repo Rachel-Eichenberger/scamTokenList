@@ -19800,11 +19800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A254beCb84aD2504d2C818d4e41Bd1E4c7a4101",
+      "symbol": "KTR",
+      "name": "Kitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 53,
+    "minor": 54,
     "patch": 35
   }
 }
