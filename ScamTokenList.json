@@ -19910,11 +19910,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDa5bC2559BA01a6fD587d4b1f9889DE754DCb748",
+      "symbol": "KM",
+      "name": "Kaiman Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8dA63B83e8A61eB1D6BEc81a35776bb1660C2d5b",
+      "symbol": "Alighieri",
+      "name": "Alighieri",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 63,
+    "minor": 65,
     "patch": 35
   }
 }
