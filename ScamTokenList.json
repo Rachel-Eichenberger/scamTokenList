@@ -20295,11 +20295,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5525b098248D57c3cad869e8C771b8c3c887A016",
+      "symbol": "WhatsApe",
+      "name": "WhatsApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 98,
+    "minor": 99,
     "patch": 35
   }
 }
