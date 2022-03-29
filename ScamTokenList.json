@@ -19899,11 +19899,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc76B9A921f39606965b373f4cFF6f5B9431864Ce",
+      "symbol": "Exodus",
+      "name": "Exodus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 62,
+    "minor": 63,
     "patch": 35
   }
 }
