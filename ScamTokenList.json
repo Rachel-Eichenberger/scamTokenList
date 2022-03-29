@@ -20658,11 +20658,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19f3Ef726ECD6A4Af348480492FA2191165Fb5C0",
+      "symbol": "WildCult",
+      "name": "WildCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 31,
+    "minor": 32,
     "patch": 37
   }
 }
