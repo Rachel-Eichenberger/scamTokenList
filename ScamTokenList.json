@@ -20812,11 +20812,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBe1249c8fa0e235a2408B63F9ED5158cD8e6BbB6",
+      "symbol": "Kakashi",
+      "name": "Kakashi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 45,
+    "minor": 46,
     "patch": 37
   }
 }
