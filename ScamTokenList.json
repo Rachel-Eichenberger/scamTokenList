@@ -20427,11 +20427,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1EC0E884ee78A947E7Fd0c3E35Cc190d3216D48e",
+      "symbol": "VIRUS",
+      "name": "Virus of Thesus",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 10,
+    "minor": 11,
     "patch": 36
   }
 }
