@@ -20834,11 +20834,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03d2776B1c43970B2bD5eACAc23e25c3694946a2",
+      "symbol": "2PacInu",
+      "name": "2Pac Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 47,
+    "minor": 48,
     "patch": 37
   }
 }
