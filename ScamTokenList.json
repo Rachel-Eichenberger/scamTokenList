@@ -20735,11 +20735,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d3f7E4B6868991b0Ca7d7B5a0447ab766E8B7aF",
+      "symbol": "CULT",
+      "name": "Alpha Clut",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 38,
+    "minor": 39,
     "patch": 37
   }
 }
