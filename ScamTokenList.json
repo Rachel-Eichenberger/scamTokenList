@@ -20460,11 +20460,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x321F3b5d99B169379c486D52767D03381872919a",
+      "symbol": "SHIBCOW",
+      "name": "SHIBCOW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 13,
+    "minor": 14,
     "patch": 36
   }
 }
