@@ -19833,11 +19833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x972BC35f73C6939B494a11Ae0E5208d5E712b19e",
+      "symbol": "PICC",
+      "name": "INSURANCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 56,
+    "minor": 57,
     "patch": 35
   }
 }
