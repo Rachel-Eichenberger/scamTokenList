@@ -19954,11 +19954,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6bD7B9D6eD5284B045cba2BAf57c8e601b5B1c5",
+      "symbol": "PRAP",
+      "name": "Predator Raptor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 67,
+    "minor": 68,
     "patch": 35
   }
 }
