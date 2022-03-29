@@ -20009,11 +20009,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCabd10Ed33d3FD1Df9609F64f53b9EFcE60f4155",
+      "symbol": "C2C",
+      "name": "C2C",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 72,
+    "minor": 73,
     "patch": 35
   }
 }
