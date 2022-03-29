@@ -20900,11 +20900,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2090a184A02E2158bB9a05c30ef3bcf3aaCB09D5",
+      "symbol": "SKI",
+      "name": "Ski Coin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 53,
+    "minor": 54,
     "patch": 37
   }
 }
