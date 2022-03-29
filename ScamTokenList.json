@@ -20867,11 +20867,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcFD2f6eBcbB5227AB6186a6FD9bc1D297DC9b077",
+      "symbol": "CultJPN",
+      "name": "CultJPN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 50,
+    "minor": 51,
     "patch": 37
   }
 }
