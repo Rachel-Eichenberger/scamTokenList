@@ -20966,11 +20966,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E14c89B9C6B6d443388584129d22Fb0ECC57e6A",
+      "symbol": "SWS",
+      "name": "Support Will Smith",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 59,
+    "minor": 60,
     "patch": 37
   }
 }
