@@ -20433,7 +20433,7 @@
       "address": "0x1EC0E884ee78A947E7Fd0c3E35Cc190d3216D48e",
       "symbol": "virus",
       "name": "Virus of Thesus",
-      "decimals": 18,
+      "decimals": 4,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
         "scam"
@@ -20562,8 +20562,8 @@
     }
   ],
   "version": {
-    "major": 73,
-    "minor": 21,
-    "patch": 36
+    "major": 74,
+    "minor": 22,
+    "patch": 37
   }
 }
