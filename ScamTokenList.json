@@ -20559,11 +20559,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52b235b46cacae41Ee701015995ba0Ac08e750D3",
+      "symbol": "GRIM",
+      "name": "Grim Reaper",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 22,
+    "minor": 23,
     "patch": 37
   }
 }
