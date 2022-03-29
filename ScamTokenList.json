@@ -20790,11 +20790,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27aAae35406BD9a7e04E17E923d6C5F40d36CEdE",
+      "symbol": "EHC",
+      "name": "Everybody Hates Chris",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 43,
+    "minor": 44,
     "patch": 37
   }
 }
