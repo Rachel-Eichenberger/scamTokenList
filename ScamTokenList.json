@@ -20306,11 +20306,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2064D2d3473E6604479989DcE3D3cD4254abb379",
+      "symbol": "CULTKIBA",
+      "name": "CultKiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 72,
-    "minor": 99,
-    "patch": 35
+    "major": 73,
+    "minor": 0,
+    "patch": 36
   }
 }
