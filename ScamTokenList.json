@@ -20196,11 +20196,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDaC95739880f15539811BD919278D43293346000",
+      "symbol": "KOTJ",
+      "name": "King of the Jungle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 89,
+    "minor": 90,
     "patch": 35
   }
 }
