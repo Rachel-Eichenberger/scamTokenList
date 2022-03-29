@@ -20581,11 +20581,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C517fEc7e600E0e3b48B2df893FEB09a9D039eB",
+      "symbol": "Linkedinu",
+      "name": "Linkedinu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 24,
+    "minor": 25,
     "patch": 37
   }
 }
