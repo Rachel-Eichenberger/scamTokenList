@@ -20350,11 +20350,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda56619d68D5830a6112b23EECf92971553c91FF",
+      "symbol": "WOOCH",
+      "name": "WoofChat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 3,
+    "minor": 4,
     "patch": 36
   }
 }
