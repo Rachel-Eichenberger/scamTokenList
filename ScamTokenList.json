@@ -19811,11 +19811,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1dBD1292ebB811a9D9F782ae82DC23D36618E2fc",
+      "symbol": "GROWL",
+      "name": "GROWLER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 54,
+    "minor": 55,
     "patch": 35
   }
 }
