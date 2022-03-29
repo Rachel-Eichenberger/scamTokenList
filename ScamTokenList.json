@@ -20185,11 +20185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf1C345738f052F14c592a02b128789994916B1a",
+      "symbol": "COWTAMA",
+      "name": "Cowtama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 88,
+    "minor": 89,
     "patch": 35
   }
 }
