@@ -19888,11 +19888,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f0A7bdFab5E10bB1f77A0baCc2C3adbbaBcec36",
+      "symbol": "FLOKICULT",
+      "name": "Floki Cult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 61,
+    "minor": 62,
     "patch": 35
   }
 }
