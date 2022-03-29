@@ -19987,11 +19987,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC879b6f9F35fa76DF5a9cF5478d8d491638DB27",
+      "symbol": "SMILE",
+      "name": "SMILE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 70,
+    "minor": 71,
     "patch": 35
   }
 }
