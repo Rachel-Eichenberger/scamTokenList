@@ -21373,11 +21373,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7fFe520277e5F3DB9E93d804DF5e800B1c7F818",
+      "symbol": "TRUST",
+      "name": "TRUST NO ONE ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 96,
+    "minor": 97,
     "patch": 37
   }
 }
