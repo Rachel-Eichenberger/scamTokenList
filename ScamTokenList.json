@@ -21725,11 +21725,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xecACEb4bE1Ee4c7E75DF14Dd31715aCE42dC3ac7",
+      "symbol": "EMERGE",
+      "name": "EMERGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 28,
+    "minor": 29,
     "patch": 38
   }
 }
