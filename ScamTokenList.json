@@ -21120,11 +21120,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7Be3D875690EE38D7197Afe0E8083E2Ef33761D",
+      "symbol": "KONI",
+      "name": "Koni Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 73,
+    "minor": 74,
     "patch": 37
   }
 }
