@@ -21153,11 +21153,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC09F7CdF7B8EDB938EcB8B347b217c6a6935cC1",
+      "symbol": "DOGGOS",
+      "name": "DOGGOS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 76,
+    "minor": 77,
     "patch": 37
   }
 }
