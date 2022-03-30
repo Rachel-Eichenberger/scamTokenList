@@ -21076,11 +21076,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA72942dDd2dc335392d5A3E568e84cB6BE0a0894",
+      "symbol": "SEG",
+      "name": "Sustainable Energy Generation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 69,
+    "minor": 70,
     "patch": 37
   }
 }
