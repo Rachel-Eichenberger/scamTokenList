@@ -21901,11 +21901,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66Ee4e78ed485b60fccAe4AF6C8ca61183d469bf",
+      "symbol": "DOGEKING",
+      "name": "DOGEKING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 44,
+    "minor": 45,
     "patch": 38
   }
 }
