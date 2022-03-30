@@ -21802,11 +21802,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65f9a7f397d1B2732c4EaBbfeB4cC3284C55DD31",
+      "symbol": "HITACHI",
+      "name": "HITACHI Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 35,
+    "minor": 36,
     "patch": 38
   }
 }
