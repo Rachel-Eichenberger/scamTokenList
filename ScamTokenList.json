@@ -21252,11 +21252,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d02e3bFa181c93F99CfEbefee754C768002e077",
+      "symbol": "SBD",
+      "name": "Shibabydoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 85,
+    "minor": 86,
     "patch": 37
   }
 }
