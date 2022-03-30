@@ -21582,11 +21582,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9B584Ec492cF6f641C9d37EA23Bf5229139b419",
+      "symbol": "GNSS",
+      "name": "Genesis",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 15,
+    "minor": 16,
     "patch": 38
   }
 }
