@@ -21263,11 +21263,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbC246f19907356ff456a942599C0e67a26F7d808",
+      "symbol": "GIGA",
+      "name": "httpsgigaconnectorg",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 86,
+    "minor": 87,
     "patch": 37
   }
 }
