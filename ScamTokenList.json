@@ -21395,11 +21395,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa048A4060CE5F425506CF8b36B5f85A902c28cd1",
+      "symbol": "SOWS",
+      "name": "Shib Of Wall Street",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 98,
+    "minor": 99,
     "patch": 37
   }
 }
