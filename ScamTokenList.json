@@ -21307,11 +21307,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe83e81620b28e719F3ebcCb3f77A4F01b2FE839",
+      "symbol": "CULTxINU",
+      "name": "CULTxINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 90,
+    "minor": 91,
     "patch": 37
   }
 }
