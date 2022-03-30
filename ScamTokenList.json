@@ -21351,11 +21351,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB37a3986c3fC5C9a25310E718Cd35fb7d9762Ff",
+      "symbol": "FIFA",
+      "name": "FIFA Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 94,
+    "minor": 95,
     "patch": 37
   }
 }
