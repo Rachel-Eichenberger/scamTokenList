@@ -21208,11 +21208,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0012493Dd0991f292d0a4774aFdD19f007895470",
+      "symbol": "CKING",
+      "name": "Crypto King Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 81,
+    "minor": 82,
     "patch": 37
   }
 }
