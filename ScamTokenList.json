@@ -20999,11 +20999,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x612Ae6D246f5548e538B7dF31cd04e0Ef2879129",
+      "symbol": "ELS",
+      "name": "Everybody Love Shiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc136aBaB2b66fE8f027D19c390D8a6BEa46cBda7",
+      "symbol": "GLENCORE",
+      "name": "GLENCORE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 62,
+    "minor": 64,
     "patch": 37
   }
 }
