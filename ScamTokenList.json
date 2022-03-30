@@ -21879,11 +21879,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72C07D9151DcE2ea862595487ef7e21cC312e564",
+      "symbol": "ZAPP",
+      "name": "ZapperFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 42,
+    "minor": 43,
     "patch": 38
   }
 }
