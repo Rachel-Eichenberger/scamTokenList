@@ -21637,11 +21637,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xABe8FF459cAD437db44373c1c7C9272D6C248143",
+      "symbol": "BLUR",
+      "name": "Blur Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 20,
+    "minor": 21,
     "patch": 38
   }
 }
