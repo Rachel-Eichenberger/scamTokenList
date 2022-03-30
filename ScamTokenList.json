@@ -21758,11 +21758,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7bAc932255401DDBcb8c1d393534E9E55C4bD4Ef",
+      "symbol": "EVOLITE",
+      "name": "Evolite Sports",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 31,
+    "minor": 32,
     "patch": 38
   }
 }
