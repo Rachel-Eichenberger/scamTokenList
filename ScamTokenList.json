@@ -21516,11 +21516,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eca1c2c5cC6dc036b2d71F434454EE4dF04d279",
+      "symbol": "BACON",
+      "name": "Bacon Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 9,
+    "minor": 10,
     "patch": 38
   }
 }
