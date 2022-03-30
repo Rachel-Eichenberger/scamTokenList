@@ -21142,11 +21142,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x492B7d233b3C77481E984aac0736b77180a80836",
+      "symbol": "Augustine",
+      "name": "Augustine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 75,
+    "minor": 76,
     "patch": 37
   }
 }
