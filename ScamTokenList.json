@@ -21285,11 +21285,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9125A3be19C49C679c2c7470448E6a7d76d4cc37",
+      "symbol": "CQUEEN",
+      "name": "Crypto Queen Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 88,
+    "minor": 89,
     "patch": 37
   }
 }
