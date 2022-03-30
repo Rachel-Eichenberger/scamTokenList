@@ -21736,11 +21736,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x226856C5F882EFa0454DF860CeF0935f8c3B3118",
+      "symbol": "FREELON",
+      "name": "FREELON MUSK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 29,
+    "minor": 30,
     "patch": 38
   }
 }
