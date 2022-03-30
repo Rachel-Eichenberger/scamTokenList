@@ -21384,11 +21384,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9383754e3ae7b72002923ceACd221B65e964d430",
+      "symbol": "ROCKETXINU",
+      "name": "Rocket X Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 97,
+    "minor": 98,
     "patch": 37
   }
 }
