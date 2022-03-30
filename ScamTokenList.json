@@ -21065,11 +21065,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4FF8dE35C9fAa8b53eF06e41ed82BFBD8CE3242a",
+      "symbol": "CK",
+      "name": "Crypto King",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 68,
+    "minor": 69,
     "patch": 37
   }
 }
