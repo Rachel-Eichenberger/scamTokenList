@@ -21175,11 +21175,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4da6E25739Fb95C48f42ef098ed337FBA1b49334",
+      "symbol": "ANTIRUGWALLET",
+      "name": "ANTI RUG WALLET",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 78,
+    "minor": 79,
     "patch": 37
   }
 }
