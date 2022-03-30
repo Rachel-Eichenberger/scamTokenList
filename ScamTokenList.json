@@ -21846,11 +21846,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69c8773A114F0Da1a52C25904b9291c85883fd31",
+      "symbol": "BOBATEA",
+      "name": "BOBATEA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 39,
+    "minor": 40,
     "patch": 38
   }
 }
