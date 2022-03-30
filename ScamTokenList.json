@@ -21670,11 +21670,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2FE5876BFa181126d796D9FE5E505924A9e5dcD",
+      "symbol": "CXcult",
+      "name": "CXcult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 23,
+    "minor": 24,
     "patch": 38
   }
 }
