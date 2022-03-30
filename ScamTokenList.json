@@ -21109,11 +21109,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55ccd94aeC1b3e39FEF4A8c9f1c30A253BEa7aB5",
+      "symbol": "SHIBADOOGLE",
+      "name": "SHIBADOOGLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 72,
+    "minor": 73,
     "patch": 37
   }
 }
