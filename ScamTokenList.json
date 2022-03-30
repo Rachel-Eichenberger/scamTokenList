@@ -21241,11 +21241,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e644627c75985E041784f5e086FFF1f27A43b16",
+      "symbol": "TikTok",
+      "name": "TikTok DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 84,
+    "minor": 85,
     "patch": 37
   }
 }
