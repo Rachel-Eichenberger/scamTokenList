@@ -21890,11 +21890,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7aF22777c70Ef7e673F70CCD3148731e8Aa74b22",
+      "symbol": "7ELEVEN",
+      "name": "7ELEVEN Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 43,
+    "minor": 44,
     "patch": 38
   }
 }
