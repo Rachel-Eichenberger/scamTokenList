@@ -21615,11 +21615,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47d137826a62c5Daea78dcb38806244384c74698",
+      "symbol": "SANSHO",
+      "name": "Sansho Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 18,
+    "minor": 19,
     "patch": 38
   }
 }
