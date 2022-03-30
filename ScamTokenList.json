@@ -21791,11 +21791,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00110c6279D1e132126251D20471B0555A58dE9C",
+      "symbol": "TRUSTNOONE",
+      "name": "TrustNoOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 34,
+    "minor": 35,
     "patch": 38
   }
 }
