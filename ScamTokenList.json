@@ -21098,11 +21098,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4F9f3B97856885Ad6Fa531037f1FbCC38A3b005",
+      "symbol": "CULTxINU",
+      "name": "CULTxINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 71,
+    "minor": 72,
     "patch": 37
   }
 }
