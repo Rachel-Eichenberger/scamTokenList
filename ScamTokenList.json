@@ -21032,11 +21032,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb68dC01dD966349c9c3FbA165223CBD6930D9Ec9",
+      "symbol": "DECLINE",
+      "name": "DeclineCrypto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 65,
+    "minor": 66,
     "patch": 37
   }
 }
