@@ -21769,11 +21769,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Da69bCF417Cf7552283b8774950B13E275E02c7",
+      "symbol": "BDR",
+      "name": "BullishXDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 32,
+    "minor": 33,
     "patch": 38
   }
 }
