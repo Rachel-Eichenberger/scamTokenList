@@ -21054,11 +21054,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ee0860Dd9eA3bd7423308381566C0B0Caf7f51B",
+      "symbol": "DHRR",
+      "name": "DoubleHoneypotRugReversal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 67,
+    "minor": 68,
     "patch": 37
   }
 }
