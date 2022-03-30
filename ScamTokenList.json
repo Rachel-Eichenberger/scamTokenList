@@ -21329,11 +21329,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07480A4Ab14Be384b2D33f0bE128e954c58a8fb4",
+      "symbol": "Manson",
+      "name": "Manson Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 92,
+    "minor": 93,
     "patch": 37
   }
 }
