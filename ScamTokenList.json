@@ -21780,11 +21780,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91F3f164dF3C89cD076905285E5Ef42B67686Ff4",
+      "symbol": "TSC",
+      "name": "The Slapping Culture",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 33,
+    "minor": 34,
     "patch": 38
   }
 }
