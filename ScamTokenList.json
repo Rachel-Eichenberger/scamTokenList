@@ -21043,11 +21043,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3bb64CE11Df71E141d5d2E50B3333aBA58b43c4",
+      "symbol": "MIGROS",
+      "name": "Migros",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 66,
+    "minor": 67,
     "patch": 37
   }
 }
