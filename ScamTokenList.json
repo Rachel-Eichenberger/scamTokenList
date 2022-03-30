@@ -21626,11 +21626,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF35f714b7498ef908Ff39f351B5629AE35350c72",
+      "symbol": "CYBER",
+      "name": "CYBERTAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 19,
+    "minor": 20,
     "patch": 38
   }
 }
