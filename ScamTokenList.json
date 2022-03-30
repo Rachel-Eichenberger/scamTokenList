@@ -21703,11 +21703,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fA13dE9E0A21A34aa3f9674FC3A390cFbFE0346",
+      "symbol": "JINU",
+      "name": "Jindo Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 26,
+    "minor": 27,
     "patch": 38
   }
 }
