@@ -21538,11 +21538,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55E5Aa7857bE52FD51c67a80af24D37B1683281a",
+      "symbol": "Bloom",
+      "name": "Bloom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 11,
+    "minor": 12,
     "patch": 38
   }
 }
