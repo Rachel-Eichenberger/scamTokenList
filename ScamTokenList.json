@@ -21747,11 +21747,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e7433dD3c37b6D26fdC6C459C3b86b0171c9cb2",
+      "symbol": "ATO",
+      "name": "ATONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 30,
+    "minor": 31,
     "patch": 38
   }
 }
