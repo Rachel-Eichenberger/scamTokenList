@@ -21472,11 +21472,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA6E61AE8b31556EB7ea5a9845A35B2a916a947e1",
+      "symbol": "MEKADOGE",
+      "name": "Meka Doge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 5,
+    "minor": 6,
     "patch": 38
   }
 }
