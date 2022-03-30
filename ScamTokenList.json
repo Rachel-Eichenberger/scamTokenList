@@ -21659,11 +21659,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x707700EC3Ed36465E10f0703d052592Dd6Eb7552",
+      "symbol": "KWON",
+      "name": "Kwon Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 22,
+    "minor": 23,
     "patch": 38
   }
 }
