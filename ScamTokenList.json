@@ -21450,11 +21450,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFdD3fcDd694909bF652eE92BACdc95e719E6c57d",
+      "symbol": "CULTINU",
+      "name": "CULT INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 3,
+    "minor": 4,
     "patch": 38
   }
 }
