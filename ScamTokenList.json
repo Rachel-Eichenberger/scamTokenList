@@ -21681,11 +21681,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89A0B5Ffb2B3f8F158a66e630d4d60c8cf8eb6A1",
+      "symbol": "NENJA",
+      "name": "NEKO NENJA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42489F5E7611C92Cf94d4ee7fD5348a273dde9cC",
+      "symbol": "KIBU",
+      "name": "KIBIRU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 24,
+    "minor": 26,
     "patch": 38
   }
 }
