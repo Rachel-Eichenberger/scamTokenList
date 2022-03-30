@@ -21912,11 +21912,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA5Cd3fd9bf303d1cC48f0Af3bdd59103f65D173",
+      "symbol": "TEA",
+      "name": "BobaTea",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 45,
+    "minor": 46,
     "patch": 38
   }
 }
