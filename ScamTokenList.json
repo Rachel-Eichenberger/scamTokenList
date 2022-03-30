@@ -21868,11 +21868,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6522e5Ae67119D7988f3b98ca5492ad81A30773",
+      "symbol": "EVOLITE",
+      "name": "Evolite",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 41,
+    "minor": 42,
     "patch": 38
   }
 }
