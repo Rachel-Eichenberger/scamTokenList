@@ -21219,11 +21219,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ED22f649Cf4b0606cA30e7657Ea89a66aBBcF86",
+      "symbol": "Gundam",
+      "name": "Gundam Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 82,
+    "minor": 83,
     "patch": 37
   }
 }
