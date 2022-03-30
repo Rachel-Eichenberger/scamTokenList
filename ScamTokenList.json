@@ -21813,11 +21813,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31c53D966372347cf270F690C295e0B0ad8cCaF4",
+      "symbol": "MILF",
+      "name": "MILF Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 36,
+    "minor": 37,
     "patch": 38
   }
 }
