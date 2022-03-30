@@ -21428,11 +21428,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC46B34287117bf9daF24f7f568E3780C7D1bD81",
+      "symbol": "KYOJURO",
+      "name": "Kyojuro Tama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 1,
+    "minor": 2,
     "patch": 38
   }
 }
