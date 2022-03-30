@@ -21439,11 +21439,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DC1Dc46bf4C5E34DaE17dA69aAeB9d033fff6c6",
+      "symbol": "CBI",
+      "name": "Cowboy Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 2,
+    "minor": 3,
     "patch": 38
   }
 }
