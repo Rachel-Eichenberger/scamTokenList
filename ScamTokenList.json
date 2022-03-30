@@ -21824,11 +21824,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90883Df6D65802c05f168E46Fb994CB76F624bA5",
+      "symbol": "Hug",
+      "name": "Hugo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 37,
+    "minor": 38,
     "patch": 38
   }
 }
