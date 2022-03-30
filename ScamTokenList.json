@@ -21527,11 +21527,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB4C903B02CE003C4554096349DfDD64F7212060",
+      "symbol": "APEME",
+      "name": "ApeMe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 10,
+    "minor": 11,
     "patch": 38
   }
 }
