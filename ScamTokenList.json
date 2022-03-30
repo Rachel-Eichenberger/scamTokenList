@@ -21274,11 +21274,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2084aaF8db8ebf553f3aaFa8C94B8d4ac2afE6e",
+      "symbol": "Porsche",
+      "name": "Porsche Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 87,
+    "minor": 88,
     "patch": 37
   }
 }
