@@ -21417,11 +21417,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcEaB0F3e93e5E2Af56d9976192A792201E082AC",
+      "symbol": "JiraiyaInu",
+      "name": "JiraiyaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 0,
+    "minor": 1,
     "patch": 38
   }
 }
