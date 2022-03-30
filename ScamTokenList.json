@@ -21714,11 +21714,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33F7e6a2252d8bBAFdf548767749bb697577497E",
+      "symbol": "EXSS",
+      "name": "Exodus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 27,
+    "minor": 28,
     "patch": 38
   }
 }
