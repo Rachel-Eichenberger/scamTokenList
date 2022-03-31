@@ -22440,11 +22440,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CaAceAc4CbC1E1DA50004704BFA0a7BEA0732A5",
+      "symbol": "Meaning",
+      "name": "Meaning Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 93,
+    "minor": 94,
     "patch": 38
   }
 }
