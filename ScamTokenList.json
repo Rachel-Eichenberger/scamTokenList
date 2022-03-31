@@ -22550,11 +22550,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C1F922Ec4C18312Efc384bF58Cf72271Af260Ce",
+      "symbol": "MSN",
+      "name": "The Mission",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 3,
+    "minor": 4,
     "patch": 39
   }
 }
