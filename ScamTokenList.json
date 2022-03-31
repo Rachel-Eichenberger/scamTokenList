@@ -22715,11 +22715,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd28D191f22396D8C30AFFC2e97baE3671AD6F8a2",
+      "symbol": "WeDoge",
+      "name": "WeDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 18,
+    "minor": 19,
     "patch": 39
   }
 }
