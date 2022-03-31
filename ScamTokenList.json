@@ -22616,11 +22616,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61b84fCb45219860109Fa0D4B85EFf7c6Ba08140",
+      "symbol": "BTClub",
+      "name": "Billionaire Time Club",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 9,
+    "minor": 10,
     "patch": 39
   }
 }
