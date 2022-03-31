@@ -22726,11 +22726,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb76d337BF3f57c0777862f82Aa556E87d448DaFE",
+      "symbol": "JRNY",
+      "name": "The Journey",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4D17a28Fa69D0D7AAd886d17B68AA7424972744",
+      "symbol": "FULLSEND",
+      "name": "FullSend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 19,
+    "minor": 21,
     "patch": 39
   }
 }
