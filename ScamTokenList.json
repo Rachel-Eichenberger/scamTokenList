@@ -22814,11 +22814,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa64ca89e50Dc15361ac27aC747b091e72DC16B38",
+      "symbol": "XDRV",
+      "name": "XDRIVE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 27,
+    "minor": 28,
     "patch": 39
   }
 }
