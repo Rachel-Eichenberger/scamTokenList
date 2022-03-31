@@ -22055,11 +22055,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5DCA04b576bC84d03E223509150493461F38DF8c",
+      "symbol": "Firefox",
+      "name": "Firefox Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 58,
+    "minor": 59,
     "patch": 38
   }
 }
