@@ -22572,11 +22572,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91137C5e3F82daa7a62025216aa88DB0f111db61",
+      "symbol": "MYSTERIO",
+      "name": "MYSTERIO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 5,
+    "minor": 6,
     "patch": 39
   }
 }
