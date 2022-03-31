@@ -22077,11 +22077,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13d1066Fbf8964525bd37BB5921edA5CC1a871F5",
+      "symbol": "NBT",
+      "name": "Nabuto      ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 60,
+    "minor": 61,
     "patch": 38
   }
 }
