@@ -22231,11 +22231,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18c2E1c2A8C6C1c9FB8ED63A247b1d2D8B657938",
+      "symbol": "CPARA",
+      "name": "CryptoParano",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 74,
+    "minor": 75,
     "patch": 38
   }
 }
