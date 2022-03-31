@@ -22044,11 +22044,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcb3BA46f1dB9098457Eb3Ad553c207aaa5C745F",
+      "symbol": "GENGAR",
+      "name": "GENGAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 57,
+    "minor": 58,
     "patch": 38
   }
 }
