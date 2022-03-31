@@ -22242,11 +22242,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e6d80aACB82426671d98cdceb5fDe7f5e0eB0Ec",
+      "symbol": "WANKA",
+      "name": "Wankatama      ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 75,
+    "minor": 76,
     "patch": 38
   }
 }
