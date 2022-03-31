@@ -22869,11 +22869,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x090DbA825Ab4c0572C8de63098C4D198508Eba7f",
+      "symbol": "BWI",
+      "name": "Bruce Willis Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 32,
+    "minor": 33,
     "patch": 39
   }
 }
