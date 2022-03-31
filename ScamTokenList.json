@@ -22792,11 +22792,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x797a05635004bB39AA334b92382D3289ad32FdA5",
+      "symbol": "FINU",
+      "name": "FOOLISH INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 25,
+    "minor": 26,
     "patch": 39
   }
 }
