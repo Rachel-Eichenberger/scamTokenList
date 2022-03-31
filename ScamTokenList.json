@@ -22088,11 +22088,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x285B9D48ccB3AdF424267A045D9029733C803cb0",
+      "symbol": "GIG",
+      "name": "GIGCO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 61,
+    "minor": 62,
     "patch": 38
   }
 }
