@@ -22022,11 +22022,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x069141415527947b0ef6844a84605707969A20Cc",
+      "symbol": "Species",
+      "name": "Species Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 55,
+    "minor": 56,
     "patch": 38
   }
 }
