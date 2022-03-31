@@ -22484,11 +22484,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0A06C0612591C8DE92ae4FE448426f9094eE823",
+      "symbol": "Azuki",
+      "name": "AzukiCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 97,
+    "minor": 98,
     "patch": 38
   }
 }
