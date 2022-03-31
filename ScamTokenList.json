@@ -22220,11 +22220,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ec4185f5D409C654B9E7853313A173E91F00436",
+      "symbol": "v2v",
+      "name": "v2v",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 73,
+    "minor": 74,
     "patch": 38
   }
 }
