@@ -22033,11 +22033,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x005F8205DDCbB28B1295d5c28b152214197b32F8",
+      "symbol": "CRI",
+      "name": "Chris Rock Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 56,
+    "minor": 57,
     "patch": 38
   }
 }
