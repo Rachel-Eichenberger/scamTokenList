@@ -22451,11 +22451,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0FBcF365bE17EF23956D91D07A15F34890FAfe87",
+      "symbol": "Meaning",
+      "name": "Meaning",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 94,
+    "minor": 95,
     "patch": 38
   }
 }
