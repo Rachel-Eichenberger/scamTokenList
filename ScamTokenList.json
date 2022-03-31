@@ -22561,11 +22561,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDFA32fdB05d401D76877FF55F5f4f4c394F7Bc78",
+      "symbol": "GIJane",
+      "name": "GIJaneInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 4,
+    "minor": 5,
     "patch": 39
   }
 }
