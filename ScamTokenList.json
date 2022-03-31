@@ -22187,11 +22187,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7832Be5A534230fAED63866AD2ee89F3f28fd722",
+      "symbol": "MKINU",
+      "name": "Moon Knight Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 70,
+    "minor": 71,
     "patch": 38
   }
 }
