@@ -22902,11 +22902,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9cF96687c5C276A9C456Cd1F8B2D77EE88d24828",
+      "symbol": "CONCAVE",
+      "name": "CNV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x090b01BCCdFD66189a76182C83126Fff81Ec3a25",
+      "symbol": "OneToken",
+      "name": "Just a Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 35,
+    "minor": 37,
     "patch": 39
   }
 }
