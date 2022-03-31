@@ -22011,11 +22011,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6313e95a217BFDc22D8437bE583E5742d0eDFf25",
+      "symbol": "ROCKETXINU",
+      "name": "Rocket X Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 54,
+    "minor": 55,
     "patch": 38
   }
 }
