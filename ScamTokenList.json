@@ -22000,11 +22000,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD30ADf7928F20150b4591896111a102B87c1f591",
+      "symbol": "SHINU",
+      "name": "Scam Hunting Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 53,
+    "minor": 54,
     "patch": 38
   }
 }
