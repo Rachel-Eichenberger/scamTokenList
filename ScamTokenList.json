@@ -22385,11 +22385,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7308Eb5E8E41B24975eEFe02C3eD81B100698A44",
+      "symbol": "APEXINU",
+      "name": "Ape X Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 88,
+    "minor": 89,
     "patch": 38
   }
 }
