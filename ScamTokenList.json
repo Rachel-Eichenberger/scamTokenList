@@ -22847,11 +22847,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x327f6cc5900fBC89CCA2C875232cBBe71739B98A",
+      "symbol": "SHIFT",
+      "name": "SHIFT TOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 30,
+    "minor": 31,
     "patch": 39
   }
 }
