@@ -22286,11 +22286,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33bd8d4b90e3632742cD0D741f95e9453aE49F92",
+      "symbol": "Gameloft",
+      "name": "Gameloft Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 79,
+    "minor": 80,
     "patch": 38
   }
 }
