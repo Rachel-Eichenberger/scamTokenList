@@ -21923,11 +21923,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9A1B5B672F9653342f62e4aE06aA0C296647615",
+      "symbol": "PUFFY",
+      "name": "P Diddy Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 46,
+    "minor": 47,
     "patch": 38
   }
 }
