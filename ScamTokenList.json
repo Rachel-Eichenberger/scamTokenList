@@ -22517,11 +22517,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeC9369E88AE961D40C10DE23E8274462Cf00Fb1F",
+      "symbol": "SPECTRA",
+      "name": "SpectraFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 0,
+    "minor": 1,
     "patch": 39
   }
 }
