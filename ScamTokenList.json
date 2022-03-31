@@ -22176,11 +22176,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5f230F758e643757702F7d07d3AbD96A5E5d86B",
+      "symbol": "BAE",
+      "name": "Cult Bae",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 69,
+    "minor": 70,
     "patch": 38
   }
 }
