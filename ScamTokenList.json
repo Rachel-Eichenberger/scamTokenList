@@ -22352,11 +22352,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b91064B41fF4beD06E2d1456e76c701cD382aFF",
+      "symbol": "DeltaPay",
+      "name": "Delta Pay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 85,
+    "minor": 86,
     "patch": 38
   }
 }
