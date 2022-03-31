@@ -21967,11 +21967,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD555Dd4f99c56b3291f97256aAFCd9985DE6801D",
+      "symbol": "NinjaZilla",
+      "name": "NinjaZilla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 50,
+    "minor": 51,
     "patch": 38
   }
 }
