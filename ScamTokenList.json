@@ -22880,11 +22880,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD74B09e0093d4480F1eF3C9e091DB5Ff7F4CF54",
+      "symbol": "HDOGE",
+      "name": "HomerDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 33,
+    "minor": 34,
     "patch": 39
   }
 }
