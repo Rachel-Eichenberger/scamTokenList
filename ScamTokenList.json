@@ -22781,11 +22781,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3FdD9A40Ec296aCC51507Be7782061B3d7D3725",
+      "symbol": "ELVTOR",
+      "name": "Elevator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 24,
+    "minor": 25,
     "patch": 39
   }
 }
