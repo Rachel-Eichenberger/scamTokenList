@@ -22319,11 +22319,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2081ABA815184C8065164e9e77A0938b12F003c9",
+      "symbol": "MSI",
+      "name": "Michael Scofield Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 82,
+    "minor": 83,
     "patch": 38
   }
 }
