@@ -22539,11 +22539,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF860033b7B7A812F51feaf35625D1bF8337c0628",
+      "symbol": "MEMESHIBA",
+      "name": "MEME SHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 2,
+    "minor": 3,
     "patch": 39
   }
 }
