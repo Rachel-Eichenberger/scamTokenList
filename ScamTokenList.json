@@ -22121,11 +22121,55 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x460e3BA724150c643d285Bf15441b7E94498e542",
+      "symbol": "Gerry",
+      "name": "GeraldGerryCotten",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA3e90dEAa7bd95fF0F63aB97234Fcb2073Bc5Bd",
+      "symbol": "Shibabydoge",
+      "name": "Shibabydoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaECEA37A86A1a74a30664e7808C4c85388A975ed",
+      "symbol": "M2M",
+      "name": "M2M",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26755E612335b5C52EB80703A1aBDf10a4fc069F",
+      "symbol": "MK",
+      "name": "MoonKnight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 64,
+    "minor": 68,
     "patch": 38
   }
 }
