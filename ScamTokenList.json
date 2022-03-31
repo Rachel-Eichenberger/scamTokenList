@@ -22396,11 +22396,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f128374029B60344b66cb4509E396Ef742b4dBf",
+      "symbol": "TNO",
+      "name": "TRUSTNOONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 89,
+    "minor": 90,
     "patch": 38
   }
 }
