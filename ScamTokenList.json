@@ -22363,11 +22363,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaEDAdEe75dd39C3986fc69421fc3Bb9c323C19e5",
+      "symbol": "AGS",
+      "name": "Aegis",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 86,
+    "minor": 87,
     "patch": 38
   }
 }
