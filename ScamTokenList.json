@@ -22066,11 +22066,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f6C88b4b740b9B2FF686fff5a4266AD3fe87Ebe",
+      "symbol": "Gerry",
+      "name": "Gerald Gerry Cotten",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 59,
+    "minor": 60,
     "patch": 38
   }
 }
