@@ -22275,11 +22275,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D608F6112e8658e345A5926B803429e67e4a06a",
+      "symbol": "CKC",
+      "name": "CryptoKingCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 78,
+    "minor": 79,
     "patch": 38
   }
 }
