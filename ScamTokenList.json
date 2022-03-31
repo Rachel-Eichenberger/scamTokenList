@@ -22209,11 +22209,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x539D20Df29735606e057c64ed3783FbC130188bd",
+      "symbol": "MYSTERIOadvertismen",
+      "name": "MYSTERIOadvertisment",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 72,
+    "minor": 73,
     "patch": 38
   }
 }
