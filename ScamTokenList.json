@@ -21989,11 +21989,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4581db5a3B747E50ACdA5f1b8952c520Ed6C82E",
+      "symbol": "CultZilla",
+      "name": "CultZilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 52,
+    "minor": 53,
     "patch": 38
   }
 }
