@@ -22649,11 +22649,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ff6E766B4c0cc8Fdb5dFB0B43F349165fDd8563",
+      "symbol": "Switch",
+      "name": "Switch Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 12,
+    "minor": 13,
     "patch": 39
   }
 }
