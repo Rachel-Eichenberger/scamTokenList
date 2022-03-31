@@ -22858,11 +22858,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5BE3C72450c12191228c4bB3F9376abB8df211f",
+      "symbol": "XDRIVE",
+      "name": "XDrive",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 31,
+    "minor": 32,
     "patch": 39
   }
 }
