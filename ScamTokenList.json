@@ -22583,11 +22583,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d094DE0f8c5626B581e7225a9940912F671d270",
+      "symbol": "CnE",
+      "name": "CULT n ETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 6,
+    "minor": 7,
     "patch": 39
   }
 }
