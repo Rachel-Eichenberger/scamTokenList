@@ -22253,11 +22253,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6AE5b57EEC7c701A9eC670dA22d8Fc3412eB0C69",
+      "symbol": "RUFFY",
+      "name": "RUFFY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 76,
+    "minor": 77,
     "patch": 38
   }
 }
