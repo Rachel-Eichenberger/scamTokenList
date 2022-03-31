@@ -22154,11 +22154,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26755E612335b5C52EB80703A1aBDf10a4fc069F",
+      "symbol": "MK",
+      "name": "MoonKnight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 67,
+    "minor": 68,
     "patch": 38
   }
 }
