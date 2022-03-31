@@ -21978,11 +21978,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf2Cf97FE7372A51E63aB4645120AB19a0bcF894C",
+      "symbol": "SKWON",
+      "name": "Stable Kwon Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 51,
+    "minor": 52,
     "patch": 38
   }
 }
