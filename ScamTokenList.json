@@ -22143,11 +22143,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaECEA37A86A1a74a30664e7808C4c85388A975ed",
+      "symbol": "M2M",
+      "name": "M2M",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 66,
+    "minor": 67,
     "patch": 38
   }
 }
