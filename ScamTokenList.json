@@ -21956,11 +21956,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82bB6BBe335897B19980A44843C8Ff95F3A50Ad4",
+      "symbol": "KFC",
+      "name": "Kentucky Farm Cult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 49,
+    "minor": 50,
     "patch": 38
   }
 }
