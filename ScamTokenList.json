@@ -22297,11 +22297,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8",
+      "symbol": "LUFFY",
+      "name": "LUFFY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 80,
+    "minor": 81,
     "patch": 38
   }
 }
