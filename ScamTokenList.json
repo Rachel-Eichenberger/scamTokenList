@@ -22627,11 +22627,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49e5a0F5E776802B89804C9183c2Ece6912cf49A",
+      "symbol": "YODA",
+      "name": "Baby Yoda",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 10,
+    "minor": 11,
     "patch": 39
   }
 }
