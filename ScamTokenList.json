@@ -22638,11 +22638,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A90CdB023850fEF3D9CDa818C38FD149FD07a6e",
+      "symbol": "gadfly",
+      "name": "gadfly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 11,
+    "minor": 12,
     "patch": 39
   }
 }
