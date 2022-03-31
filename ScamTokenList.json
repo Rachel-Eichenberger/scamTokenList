@@ -22836,11 +22836,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96A6cE4E62a8d3BD5cd3fD921dEe9701c163BC8A",
+      "symbol": "Interesting",
+      "name": "Interesting",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 29,
+    "minor": 30,
     "patch": 39
   }
 }
