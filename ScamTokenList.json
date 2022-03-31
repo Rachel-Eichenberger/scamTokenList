@@ -22121,11 +22121,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x460e3BA724150c643d285Bf15441b7E94498e542",
+      "symbol": "Gerry",
+      "name": "GeraldGerryCotten",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA3e90dEAa7bd95fF0F63aB97234Fcb2073Bc5Bd",
+      "symbol": "Shibabydoge",
+      "name": "Shibabydoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 64,
+    "minor": 66,
     "patch": 38
   }
 }
