@@ -22198,11 +22198,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D0024F1606385F7ac32cA7f49fc8aA13bdBB6B6",
+      "symbol": "pETH",
+      "name": "Passive ETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 71,
+    "minor": 72,
     "patch": 38
   }
 }
