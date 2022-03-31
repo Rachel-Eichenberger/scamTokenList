@@ -22473,11 +22473,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e562e626FbC4C2e7069a9A2c842cB246ddC3f6E",
+      "symbol": "KNIGHT",
+      "name": "Knight Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 96,
+    "minor": 97,
     "patch": 38
   }
 }
