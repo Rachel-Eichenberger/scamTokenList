@@ -22264,11 +22264,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB90Ce415a916174e022d0961425eF9a48b816Ca3",
+      "symbol": "pETH",
+      "name": "Passive FREE ETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 77,
+    "minor": 78,
     "patch": 38
   }
 }
