@@ -22330,11 +22330,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x719F7397721D2CD3E00ff98Bf9fcB169765244a0",
+      "symbol": "WEEDNMORTY",
+      "name": "Weed And Morty",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 83,
+    "minor": 84,
     "patch": 38
   }
 }
