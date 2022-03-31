@@ -22759,11 +22759,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48C19720FeeFfAf6929f036D438F851746D8590d",
+      "symbol": "WAGON",
+      "name": "wagon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd39C2fc6Fac1e8334D6AEEB053224270495eCd3",
+      "symbol": "Knock",
+      "name": "Knock Knock Moon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 22,
+    "minor": 24,
     "patch": 39
   }
 }
