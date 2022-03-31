@@ -22110,11 +22110,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5DE501CD2DCF648cBb9Dbda8a376E25e74B9990D",
+      "symbol": "ZAPP",
+      "name": "Something Official",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 63,
+    "minor": 64,
     "patch": 38
   }
 }
