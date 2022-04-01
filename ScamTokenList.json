@@ -23760,11 +23760,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf726d071bfC09236B2d24E3e3dE435874D4cc58c",
+      "symbol": "CULTBANK",
+      "name": "Bank Of Ryoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 13,
+    "minor": 14,
     "patch": 40
   }
 }
