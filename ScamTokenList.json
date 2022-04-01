@@ -23199,11 +23199,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3906Ae496Dc17123d804E88E51F8282FBc988Cc9",
+      "symbol": "LASTOR",
+      "name": "THE LASTOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 62,
+    "minor": 63,
     "patch": 39
   }
 }
