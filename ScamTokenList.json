@@ -23243,11 +23243,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3BF92452172B29a083a5e714e3242ba0A0DB0d2",
+      "symbol": "ShibaZilla",
+      "name": "ShibaZilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 66,
+    "minor": 67,
     "patch": 39
   }
 }
