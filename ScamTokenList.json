@@ -23540,11 +23540,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F14Db5A794565D952F01E65600793BeE20E9269",
+      "symbol": "L3T",
+      "name": "Layer 3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 93,
+    "minor": 94,
     "patch": 39
   }
 }
