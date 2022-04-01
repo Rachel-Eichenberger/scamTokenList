@@ -23617,11 +23617,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x332A6D4Dcafbb74ac7cC8A42c0Edf0542F2fB668",
+      "symbol": "FATE",
+      "name": "FATE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 0,
+    "minor": 1,
     "patch": 40
   }
 }
