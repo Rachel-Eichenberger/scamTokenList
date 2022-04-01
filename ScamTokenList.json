@@ -23441,11 +23441,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8459408A4d7f053cf11206A049834e569FBf6811",
+      "symbol": "SMTH",
+      "name": "Something",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 84,
+    "minor": 85,
     "patch": 39
   }
 }
