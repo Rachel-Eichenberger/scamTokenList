@@ -23056,11 +23056,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAeB960321DBaB79268f7d5eecE41e04ABA93224f",
+      "symbol": "BizAPE",
+      "name": "Bizniz Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 49,
+    "minor": 50,
     "patch": 39
   }
 }
