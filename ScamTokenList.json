@@ -23430,11 +23430,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA69717B389ccCD4961b6b1CcAf62B7cc385DAe85",
+      "symbol": "TGAIN",
+      "name": "Trust Gainer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 83,
+    "minor": 84,
     "patch": 39
   }
 }
