@@ -22957,11 +22957,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14057FeDef89c16D39F7E3dcAe2e8293AD4f9A15",
+      "symbol": "BIZNIZ",
+      "name": "Bizniz Magnet ",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 40,
+    "minor": 41,
     "patch": 39
   }
 }
