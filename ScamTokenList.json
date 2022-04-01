@@ -23287,11 +23287,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2cFf0Bb0baF3E08152EF1D920D6F1F97703e89E",
+      "symbol": "KQI",
+      "name": "KongQiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 70,
+    "minor": 71,
     "patch": 39
   }
 }
