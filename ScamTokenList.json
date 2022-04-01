@@ -23265,11 +23265,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAc353947384195fAa8F9a36f72CB64bBd8530D41",
+      "symbol": "PATRICK",
+      "name": "Patrick Star Inu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 68,
+    "minor": 69,
     "patch": 39
   }
 }
