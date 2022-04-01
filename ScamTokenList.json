@@ -23089,11 +23089,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13C2091EC406011634a1edC235A893822aF572c7",
+      "symbol": "SHERIFF",
+      "name": "Sheriff Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 52,
+    "minor": 53,
     "patch": 39
   }
 }
