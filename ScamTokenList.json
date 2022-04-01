@@ -23232,11 +23232,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x239C06740b2f932d8CaC1E4b0484fcbFB129bccE",
+      "symbol": "Panasonic",
+      "name": "Panasonic Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 65,
+    "minor": 66,
     "patch": 39
   }
 }
