@@ -23111,11 +23111,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08E4EB02A5e7b899a8a8be6ba2D1B8613b62731a",
+      "symbol": "Dontbuy",
+      "name": "Dontbuy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 54,
+    "minor": 55,
     "patch": 39
   }
 }
