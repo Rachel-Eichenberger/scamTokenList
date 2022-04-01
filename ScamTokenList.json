@@ -23749,11 +23749,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20800cc7851Dad1121351EB15e035F7f78b0d793",
+      "symbol": "HOMEBASE",
+      "name": "Home Base",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 12,
+    "minor": 13,
     "patch": 40
   }
 }
