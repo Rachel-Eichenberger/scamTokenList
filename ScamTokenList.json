@@ -23320,11 +23320,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4e491803F07EBF7e204aB7043788f78f47E3775",
+      "symbol": "EBAE",
+      "name": "Elon BAE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 73,
+    "minor": 74,
     "patch": 39
   }
 }
