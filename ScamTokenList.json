@@ -23034,11 +23034,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd65dAE355307B191C9CBc722339627e5ba73B142",
+      "symbol": "APEDAO",
+      "name": "APEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 47,
+    "minor": 48,
     "patch": 39
   }
 }
