@@ -23419,11 +23419,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E44C5BFb808363508c3f932bb601b6E83a9a2A9",
+      "symbol": "StonedInu",
+      "name": "Stoned Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 82,
+    "minor": 83,
     "patch": 39
   }
 }
