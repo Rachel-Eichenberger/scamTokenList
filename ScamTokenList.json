@@ -23738,11 +23738,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F454F93D4a45fF5E1FdBFC875b7b9F2b6E73a34",
+      "symbol": "Mozaic",
+      "name": "Mozaic Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 11,
+    "minor": 12,
     "patch": 40
   }
 }
