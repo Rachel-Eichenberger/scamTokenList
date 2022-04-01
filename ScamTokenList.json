@@ -23067,11 +23067,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc425405a205da4312f08b80b8941a99E3eAE7078",
+      "symbol": "YAP",
+      "name": "Yapchat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 50,
+    "minor": 51,
     "patch": 39
   }
 }
