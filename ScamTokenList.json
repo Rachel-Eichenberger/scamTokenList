@@ -23694,11 +23694,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4dAbb21b3593797Ac21aC1fD0327399D35B4B689",
+      "symbol": "REVELATION",
+      "name": "HEOMPUSR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 7,
+    "minor": 8,
     "patch": 40
   }
 }
