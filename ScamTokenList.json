@@ -23628,11 +23628,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25AE09869A42Fc8162F7e5f8AC553A9F64f47e03",
+      "symbol": "CULTV",
+      "name": "Cultiverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 1,
+    "minor": 2,
     "patch": 40
   }
 }
