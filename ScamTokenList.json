@@ -23221,11 +23221,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2805945e6B4eA5E4e845c6B6C828dEfe98d32034",
+      "symbol": "CULTKING",
+      "name": "CULTKING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 64,
+    "minor": 65,
     "patch": 39
   }
 }
