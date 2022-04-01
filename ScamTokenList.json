@@ -23650,11 +23650,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88453D33baa6Ea5eC1a7e7b48784511093984fc0",
+      "symbol": "FLOWELL",
+      "name": "Flowell",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 3,
+    "minor": 4,
     "patch": 40
   }
 }
