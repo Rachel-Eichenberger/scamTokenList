@@ -23452,11 +23452,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E4dA875426142D8c435275ddEdA2B6c2F51e604",
+      "symbol": "BMSN",
+      "name": "Baby Mission",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 85,
+    "minor": 86,
     "patch": 39
   }
 }
