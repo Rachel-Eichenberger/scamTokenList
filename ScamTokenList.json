@@ -22946,11 +22946,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69ECe6146C1bE094E66379f6827d787A2F0dCd7E",
+      "symbol": "2bBizniz",
+      "name": "2b Bizniz Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 39,
+    "minor": 40,
     "patch": 39
   }
 }
