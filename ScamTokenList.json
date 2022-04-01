@@ -23485,11 +23485,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c50bE2c6C9F47Ee41478B79DED755d81e47932D",
+      "symbol": "SAPE",
+      "name": "SUPERIOR APE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 88,
+    "minor": 89,
     "patch": 39
   }
 }
