@@ -23210,11 +23210,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc47301D82e77160d8951355ab2795210Cab3bbcF",
+      "symbol": "THOR",
+      "name": "Thor Tama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 63,
+    "minor": 64,
     "patch": 39
   }
 }
