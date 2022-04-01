@@ -23507,11 +23507,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x312D224a5549e1Db291D386392592778781be0b4",
+      "symbol": "PLACE",
+      "name": "PLACE ON BLOCKCHAIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 90,
+    "minor": 91,
     "patch": 39
   }
 }
