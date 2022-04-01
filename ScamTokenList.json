@@ -23331,11 +23331,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48251866E7464C1c53c668B8E769A8072198EC1d",
+      "symbol": "BUGSBUNNY",
+      "name": "BugsBunny",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 74,
+    "minor": 75,
     "patch": 39
   }
 }
