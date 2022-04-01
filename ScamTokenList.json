@@ -23573,11 +23573,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82Bbbc8AA6aE3626217118e06847D739781D2c71",
+      "symbol": "MKI",
+      "name": "Moon Knight Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 96,
+    "minor": 97,
     "patch": 39
   }
 }
