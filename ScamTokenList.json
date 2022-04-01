@@ -23408,11 +23408,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+      "symbol": "RISE",
+      "name": "EverRise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 81,
+    "minor": 82,
     "patch": 39
   }
 }
