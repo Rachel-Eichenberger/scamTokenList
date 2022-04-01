@@ -23023,11 +23023,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xffabC97194aF8242f08Bfa53B9d7Fb5a6EeDE02d",
+      "symbol": "ShibaKart",
+      "name": "Shiba Kart",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 46,
+    "minor": 47,
     "patch": 39
   }
 }
