@@ -23639,11 +23639,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD216bB877EE62D0d9008E386A70FB9119474f7Ee",
+      "symbol": "STUBHUSK",
+      "name": "StubbornHusky",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 2,
+    "minor": 3,
     "patch": 40
   }
 }
