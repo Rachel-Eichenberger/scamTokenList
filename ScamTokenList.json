@@ -23298,11 +23298,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x263c27D65ebc5306318Cb8724B86A7E142f6B124",
+      "symbol": "MMI",
+      "name": "Mini Marshall Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 71,
+    "minor": 72,
     "patch": 39
   }
 }
