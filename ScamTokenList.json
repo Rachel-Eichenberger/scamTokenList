@@ -22979,11 +22979,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8870a8449f9eD26574b4599Ddbb0AE6052cD4681",
+      "symbol": "BIZINU",
+      "name": "BIZ INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 42,
+    "minor": 43,
     "patch": 39
   }
 }
