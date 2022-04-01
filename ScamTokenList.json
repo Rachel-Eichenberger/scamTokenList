@@ -23705,11 +23705,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48Ee738ad62F64b6c38aF21D24277100127e761e",
+      "symbol": "PopCap",
+      "name": "PopCap Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 8,
+    "minor": 9,
     "patch": 40
   }
 }
