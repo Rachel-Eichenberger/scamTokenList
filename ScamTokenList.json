@@ -23386,11 +23386,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE34720EE6A53d93735814D42077443F79A141c05",
+      "symbol": "DHONE",
+      "name": "Dhone Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 79,
+    "minor": 80,
     "patch": 39
   }
 }
