@@ -23474,11 +23474,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A4FDd96aBDF41f3AA7586E66AcFC3D382C509Cf",
+      "symbol": "OROCHIMARU",
+      "name": "OROCHIMARU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 87,
+    "minor": 88,
     "patch": 39
   }
 }
