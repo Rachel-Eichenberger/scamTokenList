@@ -23001,11 +23001,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6F72570Ed03911F52511E39ad62DE523F7dDb08",
+      "symbol": "OneToken",
+      "name": "Just a Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 44,
+    "minor": 45,
     "patch": 39
   }
 }
