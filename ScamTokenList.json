@@ -23177,11 +23177,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a495B1Edc129c94D259c07774FB8AdB87eE40e0",
+      "symbol": "P2P",
+      "name": "P2P",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 60,
+    "minor": 61,
     "patch": 39
   }
 }
