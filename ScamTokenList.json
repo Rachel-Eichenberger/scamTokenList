@@ -23364,11 +23364,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb4d0B7f6551299Ab43F1182Ac67F91f2E48DF96",
+      "symbol": "ELE",
+      "name": "Elephant Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 77,
+    "minor": 78,
     "patch": 39
   }
 }
