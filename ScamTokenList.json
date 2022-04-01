@@ -22935,11 +22935,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x902D36d6234d2351F390A44ECe4Ade36B75fF871",
+      "symbol": "BIZNIZ",
+      "name": "BIZNIZ INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 38,
+    "minor": 39,
     "patch": 39
   }
 }
