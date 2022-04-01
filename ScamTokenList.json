@@ -23683,11 +23683,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D960bD9f486bdc3681eB0aB8E4951F38E6808F6",
+      "symbol": "Kancho",
+      "name": "KanchoToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 6,
+    "minor": 7,
     "patch": 40
   }
 }
