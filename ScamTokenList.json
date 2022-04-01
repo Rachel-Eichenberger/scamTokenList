@@ -23375,11 +23375,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A304bc49Dd5a025731A8b9E277A620a13cDe8EF",
+      "symbol": "Holmes",
+      "name": "Holmes Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 78,
+    "minor": 79,
     "patch": 39
   }
 }
