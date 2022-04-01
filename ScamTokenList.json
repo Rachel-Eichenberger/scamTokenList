@@ -23276,11 +23276,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd33E0ae00444ea688351D5eC1a6cb00476Eef043",
+      "symbol": "TamaZilla",
+      "name": "TamaZilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 69,
+    "minor": 70,
     "patch": 39
   }
 }
