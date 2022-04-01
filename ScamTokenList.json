@@ -23166,11 +23166,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x218915B680AEB2806ADca36A5457CFE381822a3A",
+      "symbol": "BTCult",
+      "name": "BTCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 59,
+    "minor": 60,
     "patch": 39
   }
 }
