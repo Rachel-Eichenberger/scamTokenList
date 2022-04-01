@@ -23727,11 +23727,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE32ca1c29c3c918a5982aC01E03c42c63aC4AeCc",
+      "symbol": "DGD",
+      "name": "Do Good",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 10,
+    "minor": 11,
     "patch": 40
   }
 }
