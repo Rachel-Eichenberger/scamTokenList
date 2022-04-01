@@ -23716,11 +23716,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2E87ced4fE6C46b54CeF74b305892a6F0FC2fd9",
+      "symbol": "FAIRYLAND",
+      "name": "FAIRYLAND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 9,
+    "minor": 10,
     "patch": 40
   }
 }
