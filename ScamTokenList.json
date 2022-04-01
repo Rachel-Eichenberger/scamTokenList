@@ -23551,11 +23551,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F86F939700908dCDD37776CEeC9181d7AB2EB9b",
+      "symbol": "CatZilla",
+      "name": "The CatZilla Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11973f75BAd863eB5389D9f209Cf9d528C797f0d",
+      "symbol": "RAMADAN",
+      "name": "RAMADAN INU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 94,
+    "minor": 96,
     "patch": 39
   }
 }
