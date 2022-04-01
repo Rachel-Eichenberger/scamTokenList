@@ -23353,11 +23353,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC77C4ED1F2dB04b983c6972452C9C0B69015F79c",
+      "symbol": "ABA",
+      "name": "Apes Basketball Association",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 76,
+    "minor": 77,
     "patch": 39
   }
 }
