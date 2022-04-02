@@ -24464,11 +24464,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99564bf915d37C6cf47B46342a5526247981fFD6",
+      "symbol": "M31",
+      "name": "Andromeda",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 77,
+    "minor": 78,
     "patch": 40
   }
 }
