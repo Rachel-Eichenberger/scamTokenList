@@ -24475,11 +24475,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61264B1923DBc40FB32e4CFdfddd65Cd11d4C980",
+      "symbol": "BDogeZilla",
+      "name": "Baby DogeZilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 78,
+    "minor": 79,
     "patch": 40
   }
 }
