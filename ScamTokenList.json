@@ -24508,11 +24508,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76498f4287B3cC149C36855B7c77FF4f5C394148",
+      "symbol": "RESURGENCE",
+      "name": "Resurgence",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 81,
+    "minor": 82,
     "patch": 40
   }
 }
