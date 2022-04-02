@@ -24134,11 +24134,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A4e8611d007E4A5b95Eb90Ae443842B7a6773d8",
+      "symbol": "EINSTEIN",
+      "name": "Einstein Inu       ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 47,
+    "minor": 48,
     "patch": 40
   }
 }
