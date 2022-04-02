@@ -24354,11 +24354,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2d498b78F9A98BE7B351353466774E4eE8293fA",
+      "symbol": "GENESIS",
+      "name": "The Genesis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 67,
+    "minor": 68,
     "patch": 40
   }
 }
