@@ -24574,11 +24574,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAffbFa0eE4f75c2a0aAec652BD7e5A0218c77494",
+      "symbol": "WHALE",
+      "name": "WHALE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 87,
+    "minor": 88,
     "patch": 40
   }
 }
