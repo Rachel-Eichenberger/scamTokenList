@@ -24046,11 +24046,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78464c815ca131455D20D149A1FdaFDcaA3f75de",
+      "symbol": "CULTCAPITAL",
+      "name": "Cult Capital",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 39,
+    "minor": 40,
     "patch": 40
   }
 }
