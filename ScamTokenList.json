@@ -23991,11 +23991,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d88DAae711B01cD5e846ff07bBF284830008daA",
+      "symbol": "MISTERY",
+      "name": "Mistery",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 34,
+    "minor": 35,
     "patch": 40
   }
 }
