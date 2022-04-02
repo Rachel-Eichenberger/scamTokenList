@@ -23947,11 +23947,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4df8d1Eee76a0669DA7f247d5F0A79f65b0422fa",
+      "symbol": "CHAD420",
+      "name": "Giga Chad Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 30,
+    "minor": 31,
     "patch": 40
   }
 }
