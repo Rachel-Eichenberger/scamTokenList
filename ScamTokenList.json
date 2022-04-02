@@ -24222,11 +24222,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC94D49D92Ef39409f6D86e901Da1B6293885D89d",
+      "symbol": "NEVA",
+      "name": "Never Sellin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 55,
+    "minor": 56,
     "patch": 40
   }
 }
