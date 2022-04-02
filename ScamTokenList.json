@@ -24101,11 +24101,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe45C132827E3eD7d08326062C258BCfe7824aE3A",
+      "symbol": "CONV",
+      "name": "Conviction",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 44,
+    "minor": 45,
     "patch": 40
   }
 }
