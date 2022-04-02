@@ -24607,11 +24607,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA25CD87EAd6f07B35B541a4C133F6F4e514BCf0e",
+      "symbol": "DSTNY",
+      "name": "DESTINY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 90,
+    "minor": 91,
     "patch": 40
   }
 }
