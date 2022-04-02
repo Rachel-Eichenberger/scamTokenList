@@ -23925,11 +23925,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8899c2DE48ac7863C435d32f9B5F1b5bf59F9AA",
+      "symbol": "Birdoshi",
+      "name": "Ryoshis Bird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 28,
+    "minor": 29,
     "patch": 40
   }
 }
