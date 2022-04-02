@@ -24486,11 +24486,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46AdF9E560d22c8C6Ab028052f8Cf0b0b97a55D2",
+      "symbol": "Supercell",
+      "name": "Supercell Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 79,
+    "minor": 80,
     "patch": 40
   }
 }
