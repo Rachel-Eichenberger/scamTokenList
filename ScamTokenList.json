@@ -23870,11 +23870,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56a1E5a8dAFe03C0B6EdA3D4C2702F848203616C",
+      "symbol": "Cultama",
+      "name": "Cultama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 23,
+    "minor": 24,
     "patch": 40
   }
 }
