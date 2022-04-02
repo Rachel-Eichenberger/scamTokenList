@@ -24002,11 +24002,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaa36FBF07cBeb3bD73f11C5F9bC7b6165d30025F",
+      "symbol": "CBANK",
+      "name": "CULT BANK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 35,
+    "minor": 36,
     "patch": 40
   }
 }
