@@ -24651,11 +24651,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Deb87A7E3F8F42bFDfd9f8F48B6702118154F68",
+      "symbol": "TMT",
+      "name": "Teen Mutant Turtle Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 94,
+    "minor": 95,
     "patch": 40
   }
 }
