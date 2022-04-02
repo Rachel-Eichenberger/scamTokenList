@@ -24299,11 +24299,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9C082b563cbDdc7698D0843ccb320486E724148",
+      "symbol": "TSP",
+      "name": "Terraswap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 62,
+    "minor": 63,
     "patch": 40
   }
 }
