@@ -24442,11 +24442,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF48041F1C9CB2e245536e90aF378Ec5A4d405021",
+      "symbol": "Miracle",
+      "name": "Miracle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 75,
+    "minor": 76,
     "patch": 40
   }
 }
