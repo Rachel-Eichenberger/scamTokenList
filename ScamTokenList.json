@@ -23848,11 +23848,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf36f24e48f74aEa65515CA5Ff688ebf020B6C8F2",
+      "symbol": "TBEN",
+      "name": "Talking Ben Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 21,
+    "minor": 22,
     "patch": 40
   }
 }
