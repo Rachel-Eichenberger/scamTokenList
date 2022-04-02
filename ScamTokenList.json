@@ -23969,11 +23969,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CA38B521aCbbE2B5901EE2154770c562f8e4526",
+      "symbol": "HANNYA",
+      "name": "Hannya",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 32,
+    "minor": 33,
     "patch": 40
   }
 }
