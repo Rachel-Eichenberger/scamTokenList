@@ -24343,11 +24343,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34D51a87440441d512198dA69E14eE282187da65",
+      "symbol": "SUN",
+      "name": "THE SUN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 66,
+    "minor": 67,
     "patch": 40
   }
 }
