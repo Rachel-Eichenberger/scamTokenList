@@ -24266,11 +24266,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe21CCf82CeAdC27Ba03123A76b2AEC72386e17e3",
+      "symbol": "CULTARMY",
+      "name": "CULT ARMY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 59,
+    "minor": 60,
     "patch": 40
   }
 }
