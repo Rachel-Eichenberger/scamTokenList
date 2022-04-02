@@ -24673,11 +24673,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf15Ae50b618aa7DB90a5820b2Ce093aF083860b4",
+      "symbol": "ORDER",
+      "name": "The Golden Order",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 96,
+    "minor": 97,
     "patch": 40
   }
 }
