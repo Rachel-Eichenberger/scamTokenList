@@ -24519,11 +24519,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b62e3379bb623B21196c51C2a02e7CD796b2E75",
+      "symbol": "EHR",
+      "name": "Everyone Hates RUG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0847D53f8310A8994c3A1B4Dba6Fb614A229DE3b",
+      "symbol": "Diamond",
+      "name": "Diamond",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 82,
+    "minor": 84,
     "patch": 40
   }
 }
