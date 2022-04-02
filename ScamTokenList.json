@@ -24310,11 +24310,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b251ccc81855F82195Ff1F182aD4B119904cDE9",
+      "symbol": "Murakami",
+      "name": "Murakami Flowers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 63,
+    "minor": 64,
     "patch": 40
   }
 }
