@@ -24123,11 +24123,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F42F60c48b5BD1a218C89b9196b55917A9d3d0C",
+      "symbol": "CULTRYOSHI",
+      "name": "CULTRYOSHI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 46,
+    "minor": 47,
     "patch": 40
   }
 }
