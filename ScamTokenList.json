@@ -24420,11 +24420,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB28f5C5eaF2e30eC83E1151fE34e360D0a6da6B7",
+      "symbol": "Engagement",
+      "name": "Engagement",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 73,
+    "minor": 74,
     "patch": 40
   }
 }
