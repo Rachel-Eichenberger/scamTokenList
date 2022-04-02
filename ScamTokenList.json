@@ -24552,11 +24552,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19b791dE4e6212FBC9F3485864d7F10A2131F694",
+      "symbol": "MVMT",
+      "name": "Movement",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 85,
+    "minor": 86,
     "patch": 40
   }
 }
