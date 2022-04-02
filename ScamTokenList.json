@@ -24431,11 +24431,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09838557Df1212A0F69087dBDae4Df9324CB06d8",
+      "symbol": "HUNTER",
+      "name": "HUNTER TOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 74,
+    "minor": 75,
     "patch": 40
   }
 }
