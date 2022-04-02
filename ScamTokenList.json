@@ -24145,11 +24145,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Bfe4948Be886f985323Fb29a2e79c75Fc2c1De7",
+      "symbol": "MINICULT",
+      "name": "MINICULT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 48,
+    "minor": 49,
     "patch": 40
   }
 }
