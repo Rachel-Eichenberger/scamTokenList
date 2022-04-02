@@ -24321,11 +24321,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4489a7de838Fb89144b6f5Ec259575d4717a98D6",
+      "symbol": "SAFG",
+      "name": "stayawayfromgambling",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 64,
+    "minor": 65,
     "patch": 40
   }
 }
