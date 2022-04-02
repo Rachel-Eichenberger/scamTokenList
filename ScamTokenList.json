@@ -24398,11 +24398,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3129d35B3B9EB9B3aAB823E12a61405293697Cf4",
+      "symbol": "BAG",
+      "name": "Bag",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 71,
+    "minor": 72,
     "patch": 40
   }
 }
