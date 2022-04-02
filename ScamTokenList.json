@@ -24706,11 +24706,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b940E3B96a046567FB5708BcE9AFcDf426B736",
+      "symbol": "CHAOS",
+      "name": "AntiFragile Dao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 77,
-    "minor": 99,
-    "patch": 40
+    "major": 78,
+    "minor": 0,
+    "patch": 41
   }
 }
