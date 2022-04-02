@@ -24541,11 +24541,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB179BB6F5516e2Bf6069848462Df6239F5428Fd",
+      "symbol": "CULTB",
+      "name": "CULT BROS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 84,
+    "minor": 85,
     "patch": 40
   }
 }
