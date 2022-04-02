@@ -23903,11 +23903,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C5e6FCA1673E2ce8bD40a3D2C8c80C6D19d21A6",
+      "symbol": "BABYSHI",
+      "name": "BabyShina Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 26,
+    "minor": 27,
     "patch": 40
   }
 }
