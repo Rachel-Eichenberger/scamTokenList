@@ -24640,11 +24640,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4714Efcb34e79B4040b7EeB0b7980118Eee3dFc0",
+      "symbol": "THEGLORY",
+      "name": "The Glory",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 93,
+    "minor": 94,
     "patch": 40
   }
 }
