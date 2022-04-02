@@ -24035,11 +24035,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3D4f8AD5B748c41262ae9dc8Cefad5966c3005B",
+      "symbol": "",
+      "name": " ",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 38,
+    "minor": 39,
     "patch": 40
   }
 }
