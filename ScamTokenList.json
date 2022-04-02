@@ -24618,11 +24618,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x463971d2e13159C807Abf2E4667fC570138d58F2",
+      "symbol": "Speculation",
+      "name": "Speculation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 91,
+    "minor": 92,
     "patch": 40
   }
 }
