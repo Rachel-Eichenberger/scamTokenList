@@ -24497,11 +24497,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA536d4ADd4CAC2e715f140DEB69AEd00Eb2F1751",
+      "symbol": "SUP",
+      "name": "Sup Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 80,
+    "minor": 81,
     "patch": 40
   }
 }
