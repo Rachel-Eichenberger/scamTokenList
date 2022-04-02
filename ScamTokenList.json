@@ -23826,11 +23826,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fD1E450E2EBAff839757eE49aCADDa6EA2b0E1B",
+      "symbol": "ROOKIE",
+      "name": "Rookie Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 19,
+    "minor": 20,
     "patch": 40
   }
 }
