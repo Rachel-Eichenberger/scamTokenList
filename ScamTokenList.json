@@ -23914,11 +23914,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB95fD354D1810968743c3BA1CBe8B377f167e3cB",
+      "symbol": "DEGENGOD",
+      "name": "DegenGod",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 27,
+    "minor": 28,
     "patch": 40
   }
 }
