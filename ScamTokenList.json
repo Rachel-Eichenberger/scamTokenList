@@ -23782,11 +23782,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE068b55c9c5D270Be8BBa6A333ed4f4945615aa1",
+      "symbol": "AKITO",
+      "name": "Akito Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 15,
+    "minor": 16,
     "patch": 40
   }
 }
