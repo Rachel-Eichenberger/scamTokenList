@@ -24090,11 +24090,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52a75cAe1Fa451bf20dAD93c8b19AB763a1BaD59",
+      "symbol": "CultBank",
+      "name": "Cult Bank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 43,
+    "minor": 44,
     "patch": 40
   }
 }
