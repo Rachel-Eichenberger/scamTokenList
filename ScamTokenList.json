@@ -24332,11 +24332,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfeF0a62409F745E0DC7740918eCA0887617E6018",
+      "symbol": "Revolution",
+      "name": "Revolution",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 65,
+    "minor": 66,
     "patch": 40
   }
 }
