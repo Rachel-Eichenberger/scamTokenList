@@ -24068,11 +24068,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA833Bc908AED266F93A6dBcefA7d4E5EF60669D4",
+      "symbol": "Avalanche",
+      "name": "Avalanche",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 41,
+    "minor": 42,
     "patch": 40
   }
 }
