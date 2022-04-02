@@ -24211,11 +24211,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Db16d6F74242B57f860F2D038C9c701B9E0E5eB",
+      "symbol": "MAJESTIC",
+      "name": "MAJESTIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 54,
+    "minor": 55,
     "patch": 40
   }
 }
