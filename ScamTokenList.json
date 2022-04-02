@@ -24277,11 +24277,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x538Cde459E605F9279d49157c4bEEAC77194794f",
+      "symbol": "WoCULT",
+      "name": "Whales of the Cult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 60,
+    "minor": 61,
     "patch": 40
   }
 }
