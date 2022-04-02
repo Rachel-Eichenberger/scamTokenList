@@ -24662,11 +24662,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12D79042E5F1B441DB820dDEBB3284b523d6FC0E",
+      "symbol": "TrustTheProcess",
+      "name": "TrustTheProcess",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 95,
+    "minor": 96,
     "patch": 40
   }
 }
