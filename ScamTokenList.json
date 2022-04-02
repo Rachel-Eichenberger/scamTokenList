@@ -24453,11 +24453,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf38f4c0E78731EBCed851bF2753574805e371f67",
+      "symbol": "REBELLION",
+      "name": "REBELLION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 76,
+    "minor": 77,
     "patch": 40
   }
 }
