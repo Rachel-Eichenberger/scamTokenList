@@ -23958,11 +23958,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4530AD931acC4a73dd7Eca2CEB801f78570b8fb1",
+      "symbol": "PartnerDoge",
+      "name": "Partner Doge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 31,
+    "minor": 32,
     "patch": 40
   }
 }
