@@ -23936,11 +23936,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc39d3fbC9f2F87bC061F1b1578D9D19fEf290900",
+      "symbol": "EINSTEIN",
+      "name": "Einstein Inu       ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 29,
+    "minor": 30,
     "patch": 40
   }
 }
