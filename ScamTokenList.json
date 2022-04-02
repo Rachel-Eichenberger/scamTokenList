@@ -24585,11 +24585,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd23Ed1c0900637d44A18f8d69D60664b762640DE",
+      "symbol": "BSHIB",
+      "name": "Babyshiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 88,
+    "minor": 89,
     "patch": 40
   }
 }
