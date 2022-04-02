@@ -24013,11 +24013,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbDa3C106567051646B8Ab24F7F96A9F58D2D8454",
+      "symbol": "SMACK",
+      "name": "Shiba Smackdown",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 36,
+    "minor": 37,
     "patch": 40
   }
 }
