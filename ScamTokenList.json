@@ -24200,11 +24200,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xddcB40C5a7160225A631a7810957162F2Bf8c007",
+      "symbol": "Expedition",
+      "name": "Expedition",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 53,
+    "minor": 54,
     "patch": 40
   }
 }
