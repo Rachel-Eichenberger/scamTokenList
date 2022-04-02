@@ -23859,11 +23859,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb13A3CA97409827cdF3Aa34e4195eE412644DE98",
+      "symbol": "JC",
+      "name": "Jeet Central",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 22,
+    "minor": 23,
     "patch": 40
   }
 }
