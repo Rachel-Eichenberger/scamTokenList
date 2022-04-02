@@ -24024,11 +24024,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBB161f47d18CCf35AA43bBc0C9c768F5D778B416",
+      "symbol": "ACH",
+      "name": "ACH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 37,
+    "minor": 38,
     "patch": 40
   }
 }
