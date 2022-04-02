@@ -24244,11 +24244,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x974fFF9604Cd28Cc406F698331e6195A567BB27C",
+      "symbol": "CATS",
+      "name": "CAT CULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 57,
+    "minor": 58,
     "patch": 40
   }
 }
