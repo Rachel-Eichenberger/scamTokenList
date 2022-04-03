@@ -25641,11 +25641,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2676EaEc539b19b1CE1c9ceD3206278D06D521E",
+      "symbol": "MANIFESTO",
+      "name": "MANIFESTO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 84,
+    "minor": 85,
     "patch": 41
   }
 }
