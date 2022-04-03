@@ -25080,11 +25080,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA6A4f8663B5B381643D6171132B0460eC1CA53f5",
+      "symbol": "LVMH",
+      "name": "LVMH Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 33,
+    "minor": 34,
     "patch": 41
   }
 }
