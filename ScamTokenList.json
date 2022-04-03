@@ -24915,11 +24915,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74DD8bfc767155B1ee3C8eb253cdf0e4c9832131",
+      "symbol": "PEACE",
+      "name": "Berghain Peace Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 18,
+    "minor": 19,
     "patch": 41
   }
 }
