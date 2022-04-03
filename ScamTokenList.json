@@ -25421,11 +25421,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f8be72FF73FC384fEc2836CF7F08bf7b2633A1F",
+      "symbol": "ALICE",
+      "name": "alice",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 64,
+    "minor": 65,
     "patch": 41
   }
 }
