@@ -24728,11 +24728,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74c90c016B8906cc2637665CbF32fa395Aa2CCb0",
+      "symbol": "FADE",
+      "name": "Dont Fade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 1,
+    "minor": 2,
     "patch": 41
   }
 }
