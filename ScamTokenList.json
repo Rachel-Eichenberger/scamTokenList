@@ -25520,11 +25520,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54eBaFb7cD4399d247dc113AEE1a8d8092849Be5",
+      "symbol": "BROCKS",
+      "name": "Berlin Rocks ",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 73,
+    "minor": 74,
     "patch": 41
   }
 }
