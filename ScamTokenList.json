@@ -25201,11 +25201,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x384501D3E2531F713c625E3f7Fa38db80EBE3D7D",
+      "symbol": "CIRCLE",
+      "name": "TheCircle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 44,
+    "minor": 45,
     "patch": 41
   }
 }
