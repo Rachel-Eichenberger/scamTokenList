@@ -25025,11 +25025,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda6bB5951092FBBB72a30E80DAFbc65E570a59D5",
+      "symbol": "ETHDOX",
+      "name": "ETHDox",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 28,
+    "minor": 29,
     "patch": 41
   }
 }
