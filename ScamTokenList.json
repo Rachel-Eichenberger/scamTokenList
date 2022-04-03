@@ -25476,11 +25476,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb021439b9271096ff48B3BAf0C1484344370b513",
+      "symbol": "BABYQOM",
+      "name": "Baby ShibPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 69,
+    "minor": 70,
     "patch": 41
   }
 }
