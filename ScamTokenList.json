@@ -24904,11 +24904,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56a9B4cb7D10D29295aB74500A01b1512F16fc0d",
+      "symbol": "PINU",
+      "name": "Peace Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 17,
+    "minor": 18,
     "patch": 41
   }
 }
