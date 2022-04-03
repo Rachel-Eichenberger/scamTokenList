@@ -25788,7 +25788,7 @@
     {
       "chainId": 1,
       "address": "0x4c3D325990c09F8126782e7cfE0469b981Ef98d2",
-      "symbol": "",
+      "symbol": "Bl",
       "name": "Belief",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -25833,6 +25833,6 @@
   "version": {
     "major": 80,
     "minor": 98,
-    "patch": 42
+    "patch": 43
   }
 }
