@@ -25355,11 +25355,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B84F61a8eC3b81a1A12A660403E8e87F8507a65",
+      "symbol": "10000CULT",
+      "name": "10000CULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 58,
+    "minor": 59,
     "patch": 41
   }
 }
