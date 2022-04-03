@@ -24937,11 +24937,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4969f6577a379E6B49F97a6EFEfFfDb4C0c8Ad23",
+      "symbol": "UNBORN",
+      "name": "Unborn Children",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 20,
+    "minor": 21,
     "patch": 41
   }
 }
