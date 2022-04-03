@@ -25091,11 +25091,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0DA7507CaF7e61100fD7085b9Be86AB6c65918E2",
+      "symbol": "CULTPAY",
+      "name": "CultPay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 34,
+    "minor": 35,
     "patch": 41
   }
 }
