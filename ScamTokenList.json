@@ -24981,11 +24981,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63CDfCdb122101d77b815277dF6f8bB810a729eD",
+      "symbol": "CULTINU",
+      "name": "CULTI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 24,
+    "minor": 25,
     "patch": 41
   }
 }
