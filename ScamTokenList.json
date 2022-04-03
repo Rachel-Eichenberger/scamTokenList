@@ -25223,11 +25223,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fCC0c22ec7737A74a83F54f938cAe32e69B7FC0",
+      "symbol": "Beanz",
+      "name": "Beanz Official",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 46,
+    "minor": 47,
     "patch": 41
   }
 }
