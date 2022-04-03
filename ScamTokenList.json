@@ -25531,11 +25531,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D6b1C605D05Ecb70Af344412BFBdE79C342a1B3",
+      "symbol": "BERLINU",
+      "name": "Berlin Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 74,
+    "minor": 75,
     "patch": 41
   }
 }
