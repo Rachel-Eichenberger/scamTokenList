@@ -24849,11 +24849,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3E570f7DF7fD5fCb9F6F59B11F63fFF0D035fAf",
+      "symbol": "TJO",
+      "name": "The Jeet Order",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 12,
+    "minor": 13,
     "patch": 41
   }
 }
