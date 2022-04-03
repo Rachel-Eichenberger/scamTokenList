@@ -25454,11 +25454,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbBE8C30D6e5775Cf86F4cC3E7d6Ab461F8D6ab4f",
+      "symbol": "",
+      "name": "Mystery",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 67,
+    "minor": 68,
     "patch": 41
   }
 }
