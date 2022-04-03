@@ -25190,11 +25190,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83F968d846939D10C115ac2d54e17b8AE3919B21",
+      "symbol": "Pi",
+      "name": "Future",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 43,
+    "minor": 44,
     "patch": 41
   }
 }
