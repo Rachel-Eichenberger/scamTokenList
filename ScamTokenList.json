@@ -25399,11 +25399,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7119750244A7Aa411CB92dFc0BBCA64474471719",
+      "symbol": "SoftBank",
+      "name": "SoftBank Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 62,
+    "minor": 63,
     "patch": 41
   }
 }
