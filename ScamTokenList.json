@@ -25014,11 +25014,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d30a2cEE33634114DEb0dD11Ef2c59cDe9D2EF6",
+      "symbol": "GDLK",
+      "name": "GDLK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 27,
+    "minor": 28,
     "patch": 41
   }
 }
