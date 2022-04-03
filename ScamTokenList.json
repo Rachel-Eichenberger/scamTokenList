@@ -25553,11 +25553,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f12bD8C6260d271f18fC0b4a29000b7Ccb49b77",
+      "symbol": "Rocks",
+      "name": "Berlin Rocks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 76,
+    "minor": 77,
     "patch": 41
   }
 }
