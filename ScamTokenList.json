@@ -24959,11 +24959,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71379fe81c28cA029b4ef97123938C7Ac55aa2fc",
+      "symbol": "VIKTAMA",
+      "name": "Viktama      ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 22,
+    "minor": 23,
     "patch": 41
   }
 }
