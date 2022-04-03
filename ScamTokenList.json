@@ -25630,11 +25630,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ed2a756C9FcEc09F902B734d6bF69010bfbB460",
+      "symbol": "Ferrari",
+      "name": "Ferrari Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 83,
+    "minor": 84,
     "patch": 41
   }
 }
