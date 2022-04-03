@@ -25036,11 +25036,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5F3ba7Dd2f251bbc45996a6b21c76AD420BaEb0",
+      "symbol": "APECULT",
+      "name": "APE CULT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 29,
+    "minor": 30,
     "patch": 41
   }
 }
