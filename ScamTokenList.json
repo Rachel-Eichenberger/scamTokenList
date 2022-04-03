@@ -25278,11 +25278,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1167B0d953035448Cd770332F4Ab7dE7Cba1435d",
+      "symbol": "CMNTY",
+      "name": "The Community",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 51,
+    "minor": 52,
     "patch": 41
   }
 }
