@@ -25674,11 +25674,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5520F56b7F0791A7AEe0D435CeDb1e08B3FeB588",
+      "symbol": "GVNOR",
+      "name": "Governor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 87,
+    "minor": 88,
     "patch": 41
   }
 }
