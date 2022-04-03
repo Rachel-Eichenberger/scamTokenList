@@ -25542,11 +25542,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3E036041f9308deF12FF5b8285F8441DA2DBad8",
+      "symbol": "KULT",
+      "name": "Kult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 75,
+    "minor": 76,
     "patch": 41
   }
 }
