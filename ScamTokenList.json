@@ -25256,11 +25256,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x873650142AaE322253Db34d7066b488ff7Ef7DFd",
+      "symbol": "LFG",
+      "name": "HODL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 49,
+    "minor": 50,
     "patch": 41
   }
 }
