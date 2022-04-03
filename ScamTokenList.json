@@ -25465,11 +25465,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x216286c4528F9320646D99552461eF64051A4B82",
+      "symbol": "OF",
+      "name": "ONLYFANS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 68,
+    "minor": 69,
     "patch": 41
   }
 }
