@@ -25443,11 +25443,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD38c81f27dEF33d96B0FDD54363bB88F4B01d94C",
+      "symbol": "MyCoin",
+      "name": "MyCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 66,
+    "minor": 67,
     "patch": 41
   }
 }
