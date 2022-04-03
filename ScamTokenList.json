@@ -25047,11 +25047,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79FeF8F4B03Bf9Ca86097cFaFF31e0DddD5D9D85",
+      "symbol": "BandaiNamco",
+      "name": "BandaiNamco",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 30,
+    "minor": 31,
     "patch": 41
   }
 }
