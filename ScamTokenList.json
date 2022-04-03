@@ -25333,11 +25333,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9e67a506895Ae817D788359E8BF20CB799eaF0A",
+      "symbol": "theheather",
+      "name": "the heather",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 56,
+    "minor": 57,
     "patch": 41
   }
 }
