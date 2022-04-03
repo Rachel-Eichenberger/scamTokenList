@@ -25707,11 +25707,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD4C6470aaA93CFf64a1f55feB764F0CcF3EAb13",
+      "symbol": "RRH",
+      "name": "RedRightHand",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18E491De607351A13E4C8583e24c599248acd2bA",
+      "symbol": "INWOLF",
+      "name": "TheWolfInside",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 80,
-    "minor": 91,
+    "minor": 93,
     "patch": 42
   }
 }
