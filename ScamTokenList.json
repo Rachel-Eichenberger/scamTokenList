@@ -24761,11 +24761,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6deDF79e7C158eD26b1B1337281B893aAA212c99",
+      "symbol": "ANCHY",
+      "name": "Anarchy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 4,
+    "minor": 5,
     "patch": 41
   }
 }
