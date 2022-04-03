@@ -25377,11 +25377,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02145e95486060fc9e3eAA46b335Fd7f13667e0D",
+      "symbol": "SOCIAL",
+      "name": "Social",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 60,
+    "minor": 61,
     "patch": 41
   }
 }
