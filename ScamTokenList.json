@@ -25311,11 +25311,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a147BfE8E2b54828F031E08ACF008155608895B",
+      "symbol": "Shibagen",
+      "name": "Shibagen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 54,
+    "minor": 55,
     "patch": 41
   }
 }
