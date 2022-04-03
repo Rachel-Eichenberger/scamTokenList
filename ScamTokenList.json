@@ -25839,11 +25839,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9FB69009fd0C155d4E1045881Af72907C7E52cc",
+      "symbol": "PATH",
+      "name": "THE PATH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67388C3D92c7A01eDbd8f2A04Db7Ab8C6876e492",
+      "symbol": "Phenomenon",
+      "name": "Phenomenon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 81,
-    "minor": 99,
-    "patch": 43
+    "major": 82,
+    "minor": 0,
+    "patch": 44
   }
 }
