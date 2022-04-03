@@ -24871,11 +24871,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20de3Fc363B041bD8bB5Ed348aAE48E458410A8E",
+      "symbol": "DUCKS",
+      "name": "The Ducks Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 14,
+    "minor": 15,
     "patch": 41
   }
 }
