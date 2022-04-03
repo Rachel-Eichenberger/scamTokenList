@@ -24860,11 +24860,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x186CDd4Abed99b8814B127Eeba1360E75BcBe0AE",
+      "symbol": "ELITESCULT",
+      "name": "Elites CULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 13,
+    "minor": 14,
     "patch": 41
   }
 }
