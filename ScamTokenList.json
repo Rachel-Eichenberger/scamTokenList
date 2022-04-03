@@ -25685,11 +25685,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9DBCA472afe71F4dA07e0DfC5e23C58A40FA91C",
+      "symbol": "DONTBUY",
+      "name": "Zero Value Test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 88,
+    "minor": 89,
     "patch": 41
   }
 }
