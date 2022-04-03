@@ -24838,11 +24838,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Cc9e2C0Ea7aaA9c022F851b341E8ecD9b821608",
+      "symbol": "BobaTrailer",
+      "name": "Boba Fett Trailer Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 11,
+    "minor": 12,
     "patch": 41
   }
 }
