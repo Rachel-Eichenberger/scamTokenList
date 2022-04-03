@@ -25432,11 +25432,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x863D2e78feEc541d1e9034a372BDA8c96F32199E",
+      "symbol": "BROZO",
+      "name": "BROZO TOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 65,
+    "minor": 66,
     "patch": 41
   }
 }
