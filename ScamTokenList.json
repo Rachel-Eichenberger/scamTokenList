@@ -25619,11 +25619,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4E18fcC2d8FB6908209719e5E6267fec47775b9",
+      "symbol": "",
+      "name": "Infinity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 82,
+    "minor": 83,
     "patch": 41
   }
 }
