@@ -25410,11 +25410,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe631aFf297dE46A95a089e295ac3CC685C12B097",
+      "symbol": "OVM",
+      "name": "Overmoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 63,
+    "minor": 64,
     "patch": 41
   }
 }
