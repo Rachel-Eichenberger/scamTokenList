@@ -25245,11 +25245,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf310a8Bc22FbbC4C084EE4938DA72C849cad9d58",
+      "symbol": "BALANCED",
+      "name": "balanced",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 48,
+    "minor": 49,
     "patch": 41
   }
 }
