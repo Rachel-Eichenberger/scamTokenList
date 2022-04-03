@@ -25267,11 +25267,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x623BE0674Bd08AD4A86d5b196655309F2c55e742",
+      "symbol": "Inustrator",
+      "name": "Inustrator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 50,
+    "minor": 51,
     "patch": 41
   }
 }
