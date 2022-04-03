@@ -25146,11 +25146,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2faD23a7d84fE959c584E54E82fC6e5E98B926B",
+      "symbol": "EpicGames",
+      "name": "Epic Games Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 39,
+    "minor": 40,
     "patch": 41
   }
 }
