@@ -25058,11 +25058,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7c78E20e5EADf1894eb24e6d276f819db38797C",
+      "symbol": "DOGECULT",
+      "name": "DOGECULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 31,
+    "minor": 32,
     "patch": 41
   }
 }
