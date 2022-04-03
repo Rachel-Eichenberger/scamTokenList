@@ -24827,11 +24827,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d17a536e8A77435dd112e4AbF7737FaD22F842",
+      "symbol": "BPOE",
+      "name": "BIGGEST PARTY ON EARTH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 10,
+    "minor": 11,
     "patch": 41
   }
 }
