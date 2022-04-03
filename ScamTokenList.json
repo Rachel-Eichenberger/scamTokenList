@@ -25069,11 +25069,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24d9E86B7A97a682202CC6049fA3E5e10993262d",
+      "symbol": "BANDAI",
+      "name": "Bandai Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 32,
+    "minor": 33,
     "patch": 41
   }
 }
