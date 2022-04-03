@@ -25652,11 +25652,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79Be42a8e56208421c27eFAA27F053cA7b212Ff9",
+      "symbol": "Illusory",
+      "name": "Illusory",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 85,
+    "minor": 86,
     "patch": 41
   }
 }
