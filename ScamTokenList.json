@@ -24926,11 +24926,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19C0468dd36199cB8aA61487c248f9f0E04e4f37",
+      "symbol": "BerghainINU",
+      "name": "Berghain Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 19,
+    "minor": 20,
     "patch": 41
   }
 }
