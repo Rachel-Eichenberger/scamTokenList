@@ -25509,11 +25509,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b8B2A7e3D2b26AFfDE4D241f1A2CCe245674822",
+      "symbol": "Berlin",
+      "name": "Berlin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 72,
+    "minor": 73,
     "patch": 41
   }
 }
