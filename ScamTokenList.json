@@ -25575,11 +25575,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF55568c3e0637c418304306818FC89Ab9ff06E36",
+      "symbol": "macaw",
+      "name": "macaw",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 78,
+    "minor": 79,
     "patch": 41
   }
 }
