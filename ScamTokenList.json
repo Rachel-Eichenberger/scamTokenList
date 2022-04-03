@@ -25135,11 +25135,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd0Fc09762B0F016d8d3B37F8Cf3f30114CfeE5E",
+      "symbol": "CHOSEN",
+      "name": "Chosen DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 38,
+    "minor": 39,
     "patch": 41
   }
 }
