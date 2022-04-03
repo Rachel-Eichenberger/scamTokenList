@@ -25487,11 +25487,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77CEd90BC6D451922648ED727D0ff918CF6677a1",
+      "symbol": "laboratory",
+      "name": "laboratory",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 70,
+    "minor": 71,
     "patch": 41
   }
 }
