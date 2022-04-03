@@ -25788,7 +25788,7 @@
     {
       "chainId": 1,
       "address": "0x4c3D325990c09F8126782e7cfE0469b981Ef98d2",
-      "symbol": "Bl",
+      "symbol": "BL",
       "name": "Belief",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -25828,11 +25828,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa92B3F339228aE659e36b05c42456C76f7e3B3cC",
+      "symbol": "FRF",
+      "name": "FREEFALL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 80,
-    "minor": 98,
+    "major": 81,
+    "minor": 99,
     "patch": 43
   }
 }
