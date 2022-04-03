@@ -25663,11 +25663,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Ee582c42F88CAA5e7BCDE2e86e69Af3Cf5FCe40",
+      "symbol": "CNC",
+      "name": "Conic Finance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 86,
+    "minor": 87,
     "patch": 41
   }
 }
