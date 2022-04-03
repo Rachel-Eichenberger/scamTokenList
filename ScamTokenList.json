@@ -24816,11 +24816,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE791e2BDFF02B033a0715b7e35bDb5A8f61d1Efd",
+      "symbol": "BOBA",
+      "name": "Boba Fett",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 9,
+    "minor": 10,
     "patch": 41
   }
 }
