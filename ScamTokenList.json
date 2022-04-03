@@ -25003,11 +25003,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ddec70Ab6fF39491C449D5CE3A02A852Dc8b80a",
+      "symbol": "RichardMille",
+      "name": "Richard Mille Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 26,
+    "minor": 27,
     "patch": 41
   }
 }
