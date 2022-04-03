@@ -24717,11 +24717,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e9dE49b8eD7a689fe53aA9d5E81cB78B1C55fDb",
+      "symbol": "TrustTheProcess",
+      "name": "TrustTheProcess",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 0,
+    "minor": 1,
     "patch": 41
   }
 }
