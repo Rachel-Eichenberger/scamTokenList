@@ -25498,11 +25498,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23439fAB1729309dd4cF2F20c82B70cAE5F55153",
+      "symbol": "BINU",
+      "name": "BERLIN INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 71,
+    "minor": 72,
     "patch": 41
   }
 }
