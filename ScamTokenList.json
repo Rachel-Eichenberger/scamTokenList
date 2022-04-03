@@ -24893,11 +24893,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7dcfc1eC888Be3550B0DBfd15233dceD1dE5CE9",
+      "symbol": "CULTFAITH",
+      "name": "Cult Faith",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 16,
+    "minor": 17,
     "patch": 41
   }
 }
