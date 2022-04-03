@@ -25113,11 +25113,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1213E4920e593392905Cd1f678Eb7a6C43928113",
+      "symbol": "SHIBOOM",
+      "name": "Shiboom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 36,
+    "minor": 37,
     "patch": 41
   }
 }
