@@ -25388,11 +25388,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa331274fbEA9853c4d9e1A58Ac5F42235c3e32F4",
+      "symbol": "TEMPLE",
+      "name": "Temple of Ryoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 61,
+    "minor": 62,
     "patch": 41
   }
 }
