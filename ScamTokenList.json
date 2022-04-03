@@ -25234,11 +25234,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8Aac6e2AAfb27cA8297AF2b2d88e9cB32b54fab",
+      "symbol": "WhiteLotus",
+      "name": "TheWhiteLotus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 47,
+    "minor": 48,
     "patch": 41
   }
 }
