@@ -25366,11 +25366,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd24aA7a8a78D3e83d36A95c65F2BA1A38Bc9d3Ff",
+      "symbol": "Bonobo",
+      "name": "Bonobo Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 59,
+    "minor": 60,
     "patch": 41
   }
 }
