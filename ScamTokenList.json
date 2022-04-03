@@ -24750,11 +24750,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5c31EAe71daF328Faf47606A64D952cFE535B12",
+      "symbol": "UNIQ",
+      "name": "UNIQ DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 3,
+    "minor": 4,
     "patch": 41
   }
 }
