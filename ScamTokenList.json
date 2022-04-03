@@ -25300,11 +25300,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x331508B4f005a87BEc628d0eFed20Fb15C69e6c4",
+      "symbol": "APS",
+      "name": "Amorphous",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 53,
+    "minor": 54,
     "patch": 41
   }
 }
