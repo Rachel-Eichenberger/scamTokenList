@@ -24992,11 +24992,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3eb47BE5729af71cA9C1f518a1Cb657BDcA5534",
+      "symbol": "CURIOSITY",
+      "name": "Inspired By Curiosity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 25,
+    "minor": 26,
     "patch": 41
   }
 }
