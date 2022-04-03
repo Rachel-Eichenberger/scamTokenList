@@ -25696,11 +25696,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33121B208B6e2C7f479871D68c926AEC35d1214C",
+      "symbol": "CultEarn",
+      "name": "CultEarn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 79,
+    "major": 78,
     "minor": 90,
-    "patch": 42
+    "patch": 41
   }
 }
