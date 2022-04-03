@@ -24739,11 +24739,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49bCE0B9e0A49869507E96d70ac52CbaC517fE39",
+      "symbol": "HOS",
+      "name": "Heart Of Steel",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 2,
+    "minor": 3,
     "patch": 41
   }
 }
