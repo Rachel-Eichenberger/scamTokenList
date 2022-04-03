@@ -24039,8 +24039,8 @@
     {
       "chainId": 1,
       "address": "0xE3D4f8AD5B748c41262ae9dc8Cefad5966c3005B",
-      "symbol": "",
-      "name": " ",
+      "symbol": "AINU",
+      "name": "AESTHETIC INU",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -25458,7 +25458,7 @@
     {
       "chainId": 1,
       "address": "0xbBE8C30D6e5775Cf86F4cC3E7d6Ab461F8D6ab4f",
-      "symbol": "",
+      "symbol": "MYS",
       "name": "Mystery",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -25623,7 +25623,7 @@
     {
       "chainId": 1,
       "address": "0xb4E18fcC2d8FB6908209719e5E6267fec47775b9",
-      "symbol": "",
+      "symbol": "INF",
       "name": "Infinity",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -25710,8 +25710,8 @@
     }
   ],
   "version": {
-    "major": 78,
-    "minor": 90,
-    "patch": 41
+    "major": 80,
+    "minor": 91,
+    "patch": 42
   }
 }
