@@ -25102,11 +25102,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D70b3e433Fcbfba95a5e76bc0F19227FE227c5E",
+      "symbol": "SINU",
+      "name": "SPARTAN INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 35,
+    "minor": 36,
     "patch": 41
   }
 }
