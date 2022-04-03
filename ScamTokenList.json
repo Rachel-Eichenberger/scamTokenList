@@ -24772,11 +24772,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1323E6E7e45d927dF03ea8495f59a5AaCEB77100",
+      "symbol": "LIBERALISM",
+      "name": "LIBERALISM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 78,
-    "minor": 5,
+    "minor": 6,
     "patch": 41
   }
 }
