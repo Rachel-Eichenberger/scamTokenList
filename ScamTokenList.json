@@ -26994,11 +26994,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B7af5a391A2C986271b9Aba44A45444c7441566",
+      "symbol": "",
+      "name": "death",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 95,
+    "minor": 96,
     "patch": 44
   }
 }
