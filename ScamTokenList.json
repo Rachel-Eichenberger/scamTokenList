@@ -26873,11 +26873,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50a4Fa8b3E1bF344271f3e5B76498A2De767D7A8",
+      "symbol": "SHH",
+      "name": "Shiba Hunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 84,
+    "minor": 85,
     "patch": 44
   }
 }
