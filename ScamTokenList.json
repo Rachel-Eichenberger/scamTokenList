@@ -26576,11 +26576,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x891f04B13d9969A53f33f5629dAB726a681E3360",
+      "symbol": "EverChurchDao",
+      "name": "EverChurchDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 57,
+    "minor": 58,
     "patch": 44
   }
 }
