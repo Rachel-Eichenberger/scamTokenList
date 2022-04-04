@@ -26686,11 +26686,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB49C1225A5Eeec3Cb91C82C457c85c582dd5c7C5",
+      "symbol": "RINU",
+      "name": "ROVER INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 67,
+    "minor": 68,
     "patch": 44
   }
 }
