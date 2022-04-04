@@ -26730,11 +26730,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd57E6c52b78cD2A7a89aeCD001ab01d96224EA9e",
+      "symbol": "POD",
+      "name": "PODcast Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 71,
+    "minor": 72,
     "patch": 44
   }
 }
