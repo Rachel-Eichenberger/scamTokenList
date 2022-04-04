@@ -26532,11 +26532,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0092D22fCF1B8EFdA0970BA59beCE9107fC16a2F",
+      "symbol": "SHAZAM",
+      "name": "Shazam Token     ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 53,
+    "minor": 54,
     "patch": 44
   }
 }
