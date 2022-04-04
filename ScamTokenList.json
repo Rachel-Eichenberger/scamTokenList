@@ -26587,11 +26587,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x992f5DF0BcB401AEabFD32fB58556c48c377C8D3",
+      "symbol": "TK",
+      "name": "Twitter King",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 58,
+    "minor": 59,
     "patch": 44
   }
 }
