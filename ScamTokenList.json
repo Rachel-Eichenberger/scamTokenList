@@ -26741,11 +26741,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eBb628C39e9a958f0f110453Dc21261891E5A9F",
+      "symbol": "MikeTiger",
+      "name": "Michael Gerard Tiger",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 72,
+    "minor": 73,
     "patch": 44
   }
 }
