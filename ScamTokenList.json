@@ -26521,11 +26521,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d20cDff6f31757DC1ea47d9dDBA86094b35618E",
+      "symbol": "KONGI",
+      "name": "Kong Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 52,
+    "minor": 53,
     "patch": 44
   }
 }
