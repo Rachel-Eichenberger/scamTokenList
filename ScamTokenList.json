@@ -26565,11 +26565,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBA0dec1158D5F93CC7E9750ff942208889B1942a",
+      "symbol": "HAPPYSCIENCE",
+      "name": "Happy Science",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 56,
+    "minor": 57,
     "patch": 44
   }
 }
