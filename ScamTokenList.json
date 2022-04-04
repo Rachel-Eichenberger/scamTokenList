@@ -26367,11 +26367,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe7422230C69d5f5Ad2a0736774324988b9A3773",
+      "symbol": "Klaytn",
+      "name": "Klaytn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 38,
+    "minor": 39,
     "patch": 44
   }
 }
