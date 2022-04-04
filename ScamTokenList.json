@@ -27049,11 +27049,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB103F79bE8Ff463A2e3D912AF2B5E69fb92A325D",
+      "symbol": "CATINJA",
+      "name": "CATINJA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 83,
-    "minor": 0,
+    "minor": 1,
     "patch": 45
   }
 }
