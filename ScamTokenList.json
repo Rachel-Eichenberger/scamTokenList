@@ -26312,11 +26312,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca5Ad03cE960C0ef8954999Cc3b0983C68c7ba8A",
+      "symbol": "DIBS",
+      "name": "GOT DIBS PROJECT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 33,
+    "minor": 34,
     "patch": 44
   }
 }
