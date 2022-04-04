@@ -26070,11 +26070,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e8D0efFB73e9fB6e75Ff969D973F517c3B0C9e8",
+      "symbol": "SECT",
+      "name": "Cult Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 11,
+    "minor": 12,
     "patch": 44
   }
 }
