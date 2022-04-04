@@ -26279,11 +26279,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x812d9FE7a52a2EfdA38F1194eDebc603D6A4B6a5",
+      "symbol": "BabyFALQOM",
+      "name": "BabyFALQOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 30,
+    "minor": 31,
     "patch": 44
   }
 }
