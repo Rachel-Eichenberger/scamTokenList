@@ -26653,11 +26653,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5B859Fb7D90F8947d3e527F262722f86C2533C1",
+      "symbol": "CREATION",
+      "name": "CreationMyth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb086b5CE0e22c8DDD912d3D7920d8b8c093bd89",
+      "symbol": "1000",
+      "name": "1000 DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 64,
+    "minor": 66,
     "patch": 44
   }
 }
