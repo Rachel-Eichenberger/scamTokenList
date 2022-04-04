@@ -26323,11 +26323,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDd9cDC63db42aB371637424679E544D4d1545857",
+      "symbol": "HELL",
+      "name": "HELLDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 34,
+    "minor": 35,
     "patch": 44
   }
 }
