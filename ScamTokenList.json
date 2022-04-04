@@ -26213,11 +26213,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3D927C5498BE1e9afd353158D8D3c7d16F22483",
+      "symbol": "SHIBNIGAMI",
+      "name": "Shibnigami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 24,
+    "minor": 25,
     "patch": 44
   }
 }
