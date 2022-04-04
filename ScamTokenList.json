@@ -26928,11 +26928,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FA361ff81e8141765d64Cc9d8d2a51FC3865650",
+      "symbol": "BUKKAKIINU",
+      "name": "BUKKAK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 89,
+    "minor": 90,
     "patch": 44
   }
 }
