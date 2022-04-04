@@ -27082,11 +27082,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E823ED04243aBaE51765f2739041a7Dd4B67283",
+      "symbol": "darkness",
+      "name": "darkness",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 4,
+    "minor": 5,
     "patch": 46
   }
 }
