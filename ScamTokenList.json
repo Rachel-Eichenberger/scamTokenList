@@ -26620,11 +26620,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8fd3CDdffB5c786CbC9191De79fFD3a4027f046",
+      "symbol": "OhHiInu",
+      "name": "OhHiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 61,
+    "minor": 62,
     "patch": 44
   }
 }
