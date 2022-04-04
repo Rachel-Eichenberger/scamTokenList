@@ -26059,11 +26059,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6902CB49E5b225C5127A1c9795F6b262ECb553a",
+      "symbol": "VIKTAMA",
+      "name": "Viktama      ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 10,
+    "minor": 11,
     "patch": 44
   }
 }
