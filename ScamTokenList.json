@@ -26411,11 +26411,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A83a65754c37409a2db33998000C43093FE59aD",
+      "symbol": "BabyCHURCH",
+      "name": "BabyCHURCH DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 42,
+    "minor": 43,
     "patch": 44
   }
 }
