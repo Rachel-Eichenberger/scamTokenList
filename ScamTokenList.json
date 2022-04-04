@@ -27126,11 +27126,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93BB3EDad3A047e31c1BEaC4e0d9319712883e0e",
+      "symbol": "SKLZ",
+      "name": "Skeletama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 8,
+    "minor": 9,
     "patch": 46
   }
 }
