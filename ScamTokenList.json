@@ -26488,11 +26488,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C38c67649026664d510b763E7afF79291b43f0c",
+      "symbol": "SHIBGOTCHI",
+      "name": "SHIBGOTCHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 49,
+    "minor": 50,
     "patch": 44
   }
 }
