@@ -26829,11 +26829,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC04bAf7EFE9bd4c9fDF6ECB55D0A49D22c718e56",
+      "symbol": "DOGEBAE",
+      "name": "DogeBae DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16d10E709C5601C124Ab65f7bAE706E0746FC112",
+      "symbol": "MTOOLS",
+      "name": "Master Tools",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 80,
+    "minor": 82,
     "patch": 44
   }
 }
