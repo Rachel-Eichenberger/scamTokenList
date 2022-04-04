@@ -26004,11 +26004,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E546846a9a15bbDb695599B32d5D2De37D151e4",
+      "symbol": "PatekPhilippe",
+      "name": "Patek Philippe Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x266270ebc56dF126646B4E9BACfF14fd1315fE40",
+      "symbol": "SDOGE",
+      "name": "SincereDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 7,
+    "minor": 8,
     "patch": 44
   }
 }
