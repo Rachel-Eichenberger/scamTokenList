@@ -26642,11 +26642,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x321481a4F6adfd1BCbEc04265B8A68E075Aee515",
+      "symbol": "CROWNDAO",
+      "name": "CROWNDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 63,
+    "minor": 64,
     "patch": 44
   }
 }
