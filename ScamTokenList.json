@@ -26158,11 +26158,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11B0Ee08B096948E9dD77E37a689409b65384445",
+      "symbol": "Synagogue",
+      "name": "Synagogue Dao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 19,
+    "minor": 20,
     "patch": 44
   }
 }
