@@ -27071,11 +27071,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD79BEeC4D0476C3C72Fa9032476e5E6Ca8B43F63",
+      "symbol": "INI",
+      "name": "INITIATIVE V2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 3,
+    "minor": 4,
     "patch": 46
   }
 }
