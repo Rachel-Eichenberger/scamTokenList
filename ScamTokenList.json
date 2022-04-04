@@ -26433,11 +26433,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc66D00EF57202Ccec9B7A09777741E7648070f0D",
+      "symbol": "DOTQOM",
+      "name": "Internet Hunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 44,
+    "minor": 45,
     "patch": 44
   }
 }
