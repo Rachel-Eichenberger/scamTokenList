@@ -26917,11 +26917,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE4C7aAF2604DA5857b69B0580F5D8cF95d39223",
+      "symbol": "THC",
+      "name": "Takeout Hunger Club",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 88,
+    "minor": 89,
     "patch": 44
   }
 }
