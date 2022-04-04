@@ -26961,11 +26961,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x077837db4bdBC5FfD23874099f18F3Fef11AC56e",
+      "symbol": "TEMPLES",
+      "name": "TEMPLE OF SHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7612dB207c268A9A41E386eDAeEb29CaD3680C4",
+      "symbol": "GC",
+      "name": "Galaxy Capital",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 92,
+    "minor": 94,
     "patch": 44
   }
 }
