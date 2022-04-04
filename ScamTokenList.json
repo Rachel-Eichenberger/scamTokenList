@@ -26268,11 +26268,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02e5dBBc18793061ab33Ac333ea26C7766328252",
+      "symbol": "MINICHURCH",
+      "name": "Mini Church DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 29,
+    "minor": 30,
     "patch": 44
   }
 }
