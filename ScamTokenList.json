@@ -26114,11 +26114,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0A38b2e1A7DD25Bc26f587FC04Edf743F43e6a7",
+      "symbol": "TEMPLE",
+      "name": "Temple DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 15,
+    "minor": 16,
     "patch": 44
   }
 }
