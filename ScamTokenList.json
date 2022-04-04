@@ -26048,11 +26048,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xedD6B61a2E060A6f3D701b6cDAc05F80CAC15D5a",
+      "symbol": "Nexon",
+      "name": "Nexon Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 9,
+    "minor": 10,
     "patch": 44
   }
 }
