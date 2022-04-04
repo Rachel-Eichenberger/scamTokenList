@@ -26477,11 +26477,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCc376B5f3BA022680aeF0562a85FbA405f9ac4A2",
+      "symbol": "TWE",
+      "name": "TWIELON Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 48,
+    "minor": 49,
     "patch": 44
   }
 }
