@@ -26235,11 +26235,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29Fa6D4b47FC52f5F67D7925A74aA4f9C4BCB2FA",
+      "symbol": "CLONEX",
+      "name": "CLONE X  X TAKASHI MURAKAMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 26,
+    "minor": 27,
     "patch": 44
   }
 }
