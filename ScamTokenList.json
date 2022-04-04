@@ -26290,11 +26290,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5410DA737379f93301C06b17c3C61fEc95eAC4c",
+      "symbol": "SECT",
+      "name": "Sect",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 31,
+    "minor": 32,
     "patch": 44
   }
 }
