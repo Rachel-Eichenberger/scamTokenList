@@ -26345,11 +26345,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a2FFE84A35a3F766997748017DD5D056F63bAf1",
+      "symbol": "VILLAINS",
+      "name": "Villains",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 36,
+    "minor": 37,
     "patch": 44
   }
 }
