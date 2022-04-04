@@ -26400,11 +26400,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEb3222261B5ae8C14cDF9afcE98B362EF182273A",
+      "symbol": "FreeMasons",
+      "name": "Freemasons",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 41,
+    "minor": 42,
     "patch": 44
   }
 }
