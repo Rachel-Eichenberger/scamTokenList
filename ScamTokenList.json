@@ -26939,11 +26939,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x418e5F19DA4BcD3d371076bf3826883D342ae832",
+      "symbol": "CULTGUARD",
+      "name": "Cult Guard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 90,
+    "minor": 91,
     "patch": 44
   }
 }
