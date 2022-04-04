@@ -27060,11 +27060,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeC4d93c3563A0336001640eE2f8b2180B288Cc17",
+      "symbol": "SUA",
+      "name": "SaveUAnimals",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 2,
+    "minor": 3,
     "patch": 46
   }
 }
