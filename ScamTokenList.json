@@ -26125,11 +26125,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90BB21b251c86b10Ded183a64D7141F957d4BcBA",
+      "symbol": "JESUS",
+      "name": "Jesus DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 16,
+    "minor": 17,
     "patch": 44
   }
 }
