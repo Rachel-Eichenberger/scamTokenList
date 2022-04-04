@@ -26422,11 +26422,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37203E3d4372aEa6205dbC6A1F77f596aA921894",
+      "symbol": "Capcom",
+      "name": "Capcom Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 43,
+    "minor": 44,
     "patch": 44
   }
 }
