@@ -26444,11 +26444,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d92daE55bD6DB2D84cE968D41Dd68Da7043f818",
+      "symbol": "42",
+      "name": "Universe DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 45,
+    "minor": 46,
     "patch": 44
   }
 }
