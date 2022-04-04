@@ -26763,11 +26763,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0FcB3A4967B1fE0e8b2c2f44C8cA2bba8149823c",
+      "symbol": "WAGYU",
+      "name": "WAGYU INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 74,
+    "minor": 75,
     "patch": 44
   }
 }
