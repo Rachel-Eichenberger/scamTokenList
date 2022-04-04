@@ -27115,11 +27115,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C5673002d854de18e9F6Feb7f9825F88c5bf1E4",
+      "symbol": "TERRAFORM",
+      "name": "Terraform DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 7,
+    "minor": 8,
     "patch": 46
   }
 }
