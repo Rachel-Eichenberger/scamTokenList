@@ -25916,11 +25916,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22Bc5ff693F5B5f1652Aa82e2f2769a1BB76338C",
+      "symbol": "Shinko",
+      "name": "ShinkoNoTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C2D36AbCB16EF57FB3624f3EBf9FA584E449E86",
+      "symbol": "EpicGames",
+      "name": "Epic Games Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 3,
+    "minor": 4,
     "patch": 44
   }
 }
