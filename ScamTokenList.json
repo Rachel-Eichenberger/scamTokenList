@@ -26169,11 +26169,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Dd9126ec84AEcEA6b0630E59B6E2c93A8F527FE",
+      "symbol": "Shim",
+      "name": "ShiMaria INU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 20,
+    "minor": 21,
     "patch": 44
   }
 }
