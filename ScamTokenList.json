@@ -25960,11 +25960,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0839F2c04a28C399F78f36a87CCf2fF0af8b383e",
+      "symbol": "BSI",
+      "name": "BabyShinaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02c9EaEA4E5457eA539d50CeA694841FfdD1250E",
+      "symbol": "SHIBE",
+      "name": "ShibElephant",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 5,
+    "minor": 6,
     "patch": 44
   }
 }
