@@ -26785,11 +26785,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFfC09637CA934c42823179f4541afc63cFfa3096",
+      "symbol": "QOMTHUG",
+      "name": "QOM Thug",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 76,
+    "minor": 77,
     "patch": 44
   }
 }
