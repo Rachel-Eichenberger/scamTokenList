@@ -26081,11 +26081,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ed867F59459f2e163dEcdE2d63F0F770b3c5429",
+      "symbol": "AVEX",
+      "name": "ApeX VulturE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 12,
+    "minor": 13,
     "patch": 44
   }
 }
