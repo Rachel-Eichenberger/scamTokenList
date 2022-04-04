@@ -26026,11 +26026,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x310e2d5D0e624E54Af14CcFc8022143ee0234fB1",
+      "symbol": "AKUMA",
+      "name": "Akuma Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b8f7f9Ee4f3BB1F3D827156297dBa01b85BA15f",
+      "symbol": "BASE64",
+      "name": "Cryptology",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 8,
+    "minor": 9,
     "patch": 44
   }
 }
