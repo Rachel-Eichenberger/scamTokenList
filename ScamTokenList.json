@@ -26708,11 +26708,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d3d5aC7590201Cec07e7088145D17dA535645e3",
+      "symbol": "Shazam",
+      "name": "Shazam Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 69,
+    "minor": 70,
     "patch": 44
   }
 }
