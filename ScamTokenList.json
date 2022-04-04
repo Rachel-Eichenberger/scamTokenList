@@ -26675,11 +26675,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96BA8068b40400660d0175d61eb5a57055ceFC73",
+      "symbol": "CULTSHIBAPE",
+      "name": "Cult Shib Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 66,
+    "minor": 67,
     "patch": 44
   }
 }
