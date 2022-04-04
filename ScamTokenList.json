@@ -27104,11 +27104,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a850ee144f6A2D82765a99a403f32121F00c41c",
+      "symbol": "CULTURAI",
+      "name": "CULTURAI ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 6,
+    "minor": 7,
     "patch": 46
   }
 }
