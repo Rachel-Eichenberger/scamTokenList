@@ -26202,11 +26202,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6129b2067291af34aE0eDA25d278a255A8d33e02",
+      "symbol": "EGG",
+      "name": "Bunny DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 23,
+    "minor": 24,
     "patch": 44
   }
 }
