@@ -27038,22 +27038,11 @@
       "tags": [
         "scam"
       ]
-    },
-    {
-      "chainId": 1,
-      "address": "0xAd131A56C66D43d1BE63EeDF5e0937C52Be9db66",
-      "symbol": "Oracle",
-      "name": "Oracle Metaverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
     }
   ],
   "version": {
-    "major": 83,
-    "minor": 0,
-    "patch": 45
+    "major": 82,
+    "minor": 99,
+    "patch": 44
   }
 }
