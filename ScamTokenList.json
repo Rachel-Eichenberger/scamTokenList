@@ -26598,11 +26598,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8010b7F17bB90e831ecc10f47905BC986054dB77",
+      "symbol": "LOL",
+      "name": "OH HI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 59,
+    "minor": 60,
     "patch": 44
   }
 }
