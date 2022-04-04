@@ -26466,11 +26466,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05732b6D78591E75B31022d71E55Aa810498A5a4",
+      "symbol": "SHiBGOTCHi",
+      "name": "SHiBGOTCHi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 47,
+    "minor": 48,
     "patch": 44
   }
 }
