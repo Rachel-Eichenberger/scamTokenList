@@ -26389,11 +26389,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1227cc37Bc4684B78eea130921af2a4E8734dB20",
+      "symbol": "QOMDOM",
+      "name": "Doge Hunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 40,
+    "minor": 41,
     "patch": 44
   }
 }
