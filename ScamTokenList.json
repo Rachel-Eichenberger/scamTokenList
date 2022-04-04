@@ -26851,11 +26851,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE3e86ea6672D3A570a9AEfC6CFFc4465885b4c8",
+      "symbol": "TheGenius",
+      "name": "TheGenius",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 82,
+    "minor": 83,
     "patch": 44
   }
 }
