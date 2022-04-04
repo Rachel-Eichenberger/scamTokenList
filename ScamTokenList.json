@@ -26884,11 +26884,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF2C84AAA9374239f53132A0e90B47B6584bB8a35",
+      "symbol": "Rockstar",
+      "name": "Rockstar Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 85,
+    "minor": 86,
     "patch": 44
   }
 }
