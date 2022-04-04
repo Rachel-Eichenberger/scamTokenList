@@ -26378,11 +26378,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7dC94903f28AB7B42c4287753AE9057c1666ba96",
+      "symbol": "SHIBIFY",
+      "name": "SHIBIFY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 39,
+    "minor": 40,
     "patch": 44
   }
 }
