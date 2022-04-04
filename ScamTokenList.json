@@ -26246,11 +26246,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f895798ABA2405b817691667AAa04b4Fe5c58D8",
+      "symbol": "BABYCHURCH",
+      "name": "Baby Church",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 27,
+    "minor": 28,
     "patch": 44
   }
 }
