@@ -26697,11 +26697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E0517f9e9B2736D4D94e0a632d6C257e431941b",
+      "symbol": "SBER",
+      "name": "Sbercoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 68,
+    "minor": 69,
     "patch": 44
   }
 }
