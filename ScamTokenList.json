@@ -26862,11 +26862,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd73EE6D223da248C7fff8f7B8a471Ac413d784a0",
+      "symbol": "ZSB",
+      "name": "Zombie Shiba Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 83,
+    "minor": 84,
     "patch": 44
   }
 }
