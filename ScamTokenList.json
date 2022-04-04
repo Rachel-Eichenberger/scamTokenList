@@ -27016,11 +27016,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x665fa721F7ea503c26AdD107Da7D2e72606Be0d9",
+      "symbol": "MNB",
+      "name": "Million Bucks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 97,
+    "minor": 98,
     "patch": 44
   }
 }
