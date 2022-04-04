@@ -26796,11 +26796,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1284249C7c9BA0B9AF4C2d14CFfAD5F7B770CA1",
+      "symbol": "PD",
+      "name": "Project Destroyer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 77,
+    "minor": 78,
     "patch": 44
   }
 }
