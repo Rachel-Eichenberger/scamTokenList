@@ -26895,11 +26895,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x170e8A3fFef803e6a521fe8552418AB89c18906B",
+      "symbol": "UFO",
+      "name": "UFO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 86,
+    "minor": 87,
     "patch": 44
   }
 }
