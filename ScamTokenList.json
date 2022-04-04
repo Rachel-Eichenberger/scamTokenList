@@ -26543,11 +26543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30C2115dC008A3A7A742b9056735Fe4F98Afb187",
+      "symbol": "CYC",
+      "name": "CultYachtClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 54,
+    "minor": 55,
     "patch": 44
   }
 }
