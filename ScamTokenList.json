@@ -27665,11 +27665,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83BA3b8101795c90b3f597FCE1e3792D3Ad8A0B7",
+      "symbol": "MFER",
+      "name": "mfer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 58,
+    "minor": 59,
     "patch": 48
   }
 }
