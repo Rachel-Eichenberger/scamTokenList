@@ -27302,11 +27302,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22880114ae76F7EfD4ecBC80D27d328Ba0FcBA72",
+      "symbol": "MDAO",
+      "name": "Meme DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 24,
+    "minor": 25,
     "patch": 46
   }
 }
