@@ -27621,11 +27621,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5136A3ae746B2B1A9B05038FD416933f0c56f45",
+      "symbol": "test",
+      "name": "Dont buy",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 54,
+    "minor": 55,
     "patch": 48
   }
 }
