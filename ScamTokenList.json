@@ -27709,11 +27709,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7378B10F7dd72d6c21271549eBB371b8DF5E22C",
+      "symbol": "SITQOM",
+      "name": "Celebrity Hunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 62,
+    "minor": 63,
     "patch": 48
   }
 }
