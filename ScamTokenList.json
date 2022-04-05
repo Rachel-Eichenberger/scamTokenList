@@ -27588,11 +27588,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+      "symbol": "mVIXY",
+      "name": "Wrapped Mirror VIXY Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 51,
+    "minor": 52,
     "patch": 48
   }
 }
