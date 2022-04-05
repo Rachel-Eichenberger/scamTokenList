@@ -27192,11 +27192,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x035D818d51782671C06E56Eef0476E77cfD3a1f7",
+      "symbol": "PatekPhilippe",
+      "name": "Patek Philippe Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 14,
+    "minor": 15,
     "patch": 46
   }
 }
