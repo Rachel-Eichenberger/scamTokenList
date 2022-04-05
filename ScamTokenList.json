@@ -27731,11 +27731,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C5D5dfBd393e230f30e00eF02b71fa2e74b5Aa4",
+      "symbol": "REUNITE",
+      "name": "Reunite Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 64,
+    "minor": 65,
     "patch": 48
   }
 }
