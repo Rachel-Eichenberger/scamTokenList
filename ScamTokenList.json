@@ -27434,11 +27434,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA005aA62fED8104e0066a3197297933b26A4c4B",
+      "symbol": "CHURCH",
+      "name": "Church DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 36,
+    "minor": 37,
     "patch": 46
   }
 }
