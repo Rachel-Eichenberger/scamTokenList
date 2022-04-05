@@ -27148,11 +27148,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82C3346bfb2733d9aD42B9e0805958e4eed7bED3",
+      "symbol": "MOONWAR",
+      "name": "Moon War",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd87EE2cd7cd54eE8E5f0D73387215aAAC17Ec198",
+      "symbol": "SWISH",
+      "name": "SWISH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 10,
+    "minor": 12,
     "patch": 46
   }
 }
