@@ -28105,11 +28105,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41B41E92CA64C5869dd4C21122A2d8d4AC18A719",
+      "symbol": "CLIQUE",
+      "name": "Clique",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71925cdB9b07268fbE3aee99F10BB39d615A3785",
+      "symbol": "TWEELON",
+      "name": "TWEELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 86,
-    "minor": 98,
-    "patch": 48
+    "major": 87,
+    "minor": 0,
+    "patch": 49
   }
 }
