@@ -27445,11 +27445,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6008FDB3338c9ebf9eF4035B1ab91aA5fA0f055",
+      "symbol": "Costco",
+      "name": "Costco Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 37,
+    "minor": 38,
     "patch": 47
   }
 }
