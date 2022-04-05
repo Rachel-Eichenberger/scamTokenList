@@ -27335,11 +27335,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E778C719C60d18685C43F606bf8219c6B2560C8",
+      "symbol": "QOMMUNIST",
+      "name": "Communist Hunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 27,
+    "minor": 28,
     "patch": 46
   }
 }
