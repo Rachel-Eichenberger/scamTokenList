@@ -27379,11 +27379,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3709C4d2b7Be1AB88AC5173E8d802BDdB1b9628c",
+      "symbol": "QOMPUTER",
+      "name": "Binary Hunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 31,
+    "minor": 32,
     "patch": 46
   }
 }
