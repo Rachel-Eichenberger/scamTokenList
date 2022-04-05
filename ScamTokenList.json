@@ -28336,11 +28336,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2691949A2b3E77B0582699056Bdd5ebbE0A9031C",
+      "symbol": "SAITAMADAO",
+      "name": "SAITAMADAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 19,
+    "minor": 20,
     "patch": 49
   }
 }
