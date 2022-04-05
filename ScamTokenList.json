@@ -28259,11 +28259,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x054af23A2262231dEBB3fBE8688C32Be165f2fF5",
+      "symbol": "QOMOON",
+      "name": "Shiba Mooner",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 12,
+    "minor": 13,
     "patch": 49
   }
 }
