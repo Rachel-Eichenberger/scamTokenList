@@ -27742,11 +27742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6c3fa0c6F59640Da71AC4b4dbdD65A673d07c42",
+      "symbol": "KNIGHT",
+      "name": "Knights of the Round Table",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 65,
+    "minor": 66,
     "patch": 48
   }
 }
