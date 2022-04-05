@@ -27456,11 +27456,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x841D8aec4BE58ba4B5600CaA927B4c2dB788aA44",
+      "symbol": "MO",
+      "name": "Mysterious Organization",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 38,
+    "minor": 39,
     "patch": 47
   }
 }
