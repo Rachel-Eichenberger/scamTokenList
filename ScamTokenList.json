@@ -28138,11 +28138,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA496be2088880ab9467e81e0E5F1F82A09E5cf7",
+      "symbol": "UNKNWN",
+      "name": "UNKNWN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 1,
+    "minor": 2,
     "patch": 49
   }
 }
