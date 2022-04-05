@@ -27687,11 +27687,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40080E40f26155d379653FA2C883c78AA8D77e88",
+      "symbol": "QOH",
+      "name": "Doge Hunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 60,
+    "minor": 61,
     "patch": 48
   }
 }
