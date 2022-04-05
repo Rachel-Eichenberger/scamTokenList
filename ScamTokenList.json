@@ -27841,11 +27841,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe1A95890C92D46D63f31AC4A0Cb8244fEC2DF63",
+      "symbol": "LAMBO",
+      "name": "Lambo Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 74,
+    "minor": 75,
     "patch": 48
   }
 }
