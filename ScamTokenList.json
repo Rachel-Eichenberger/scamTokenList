@@ -27753,11 +27753,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb167D99000CEC6232e3b27f7F01D2b41C60f7Fdc",
+      "symbol": "BRENTLY",
+      "name": "Brently Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 66,
+    "minor": 67,
     "patch": 48
   }
 }
