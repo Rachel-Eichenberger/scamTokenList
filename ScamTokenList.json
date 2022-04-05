@@ -27610,11 +27610,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF552e7093cB3effFA31EDe7B8a1F119d62Be1D2B",
+      "symbol": "PHI GAMMA KAPPA",
+      "name": "PHI GAMMA KAPPA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 53,
+    "minor": 54,
     "patch": 48
   }
 }
