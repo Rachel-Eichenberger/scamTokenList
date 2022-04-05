@@ -28182,11 +28182,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e4D1481F87936fbF405b9513740B0DF3942b5EB",
+      "symbol": "NezukoDAO",
+      "name": "NezukoDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 5,
+    "minor": 6,
     "patch": 49
   }
 }
