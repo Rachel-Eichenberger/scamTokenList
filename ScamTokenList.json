@@ -27489,11 +27489,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc72a88B483995e3E5A949468A8e8B7Bee9E375eB",
+      "symbol": "LGIINU",
+      "name": "Lets Get It Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 42,
+    "minor": 43,
     "patch": 48
   }
 }
