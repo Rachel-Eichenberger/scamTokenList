@@ -27137,11 +27137,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82A5AA784c106Ab11e711C8B627e06de02c18da3",
+      "symbol": "SHRINE",
+      "name": "Shrine DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 9,
+    "minor": 10,
     "patch": 46
   }
 }
