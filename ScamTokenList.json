@@ -27874,11 +27874,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eDFB724Aa3D5E16a61975046Fb4f09693fD6B50",
+      "symbol": "DOZER",
+      "name": "DozerInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 77,
+    "minor": 78,
     "patch": 48
   }
 }
