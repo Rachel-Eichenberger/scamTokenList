@@ -27324,11 +27324,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B1D0a28215fb05889Bf2585c80090C37AE55d62",
+      "symbol": "RID",
+      "name": "RIDDANCE DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 26,
+    "minor": 27,
     "patch": 46
   }
 }
