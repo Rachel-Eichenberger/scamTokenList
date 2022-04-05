@@ -27819,11 +27819,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4846B0CCE69121e4D25b6Efe7738eAF27BCa7E7F",
+      "symbol": "SPLINT",
+      "name": "Splinter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 72,
+    "minor": 73,
     "patch": 48
   }
 }
