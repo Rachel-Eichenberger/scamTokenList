@@ -28281,11 +28281,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98FEc279d9c8D5207Cd9432ecA4c86068Ab255E6",
+      "symbol": "Wendys",
+      "name": "Wendys Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 14,
+    "minor": 15,
     "patch": 49
   }
 }
