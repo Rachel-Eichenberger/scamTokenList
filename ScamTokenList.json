@@ -27269,11 +27269,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB909C6044fEEc8ADc3331f23107CE184aBA93311",
+      "symbol": "ShibaHunter",
+      "name": "Falqom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 21,
+    "minor": 22,
     "patch": 46
   }
 }
