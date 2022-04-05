@@ -28193,11 +28193,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e279c94f85c69E8f5625b440E811a55eC1d8e85",
+      "symbol": "Divine",
+      "name": "Divine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 6,
+    "minor": 7,
     "patch": 49
   }
 }
