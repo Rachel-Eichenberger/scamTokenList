@@ -28061,11 +28061,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE970Fd6f921aa2d6d7D6b5fDEF155d8a3B71Eb29",
+      "symbol": "ELONCROSS",
+      "name": "Elon Cross",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 94,
+    "minor": 95,
     "patch": 48
   }
 }
