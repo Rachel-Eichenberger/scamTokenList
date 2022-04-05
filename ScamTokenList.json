@@ -28413,11 +28413,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFaa256267dc1c4F610Aa0fbB50Ee262dA69CE613",
+      "symbol": "SIT",
+      "name": "Shiba Titan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 26,
+    "minor": 27,
     "patch": 49
   }
 }
