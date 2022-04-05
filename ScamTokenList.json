@@ -27258,11 +27258,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7220eAa1bb260062ebA2cea04e283a224db1fF70",
+      "symbol": "BUTTON",
+      "name": "Edit Button",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 20,
+    "minor": 21,
     "patch": 46
   }
 }
