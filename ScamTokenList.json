@@ -28325,11 +28325,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x171D2cCa5a2f6F47F75b6c6EaC077f6D4c62F3Ce",
+      "symbol": "QOMZILLA",
+      "name": "Shiba Godzilla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 18,
+    "minor": 19,
     "patch": 49
   }
 }
