@@ -27236,11 +27236,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x905DAA2c8645582E3AbC8a656E9F39d838c15436",
+      "symbol": "DAPES",
+      "name": "DEAD APES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 18,
+    "minor": 19,
     "patch": 46
   }
 }
