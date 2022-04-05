@@ -27478,11 +27478,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDefba7E3eCc7BDB64AA327f607760D27c45c24A3",
+      "symbol": "UNIV2",
+      "name": "Uniswap V2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 40,
+    "minor": 41,
     "patch": 47
   }
 }
