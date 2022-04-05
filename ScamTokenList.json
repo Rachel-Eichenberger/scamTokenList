@@ -27962,11 +27962,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5875a4C8a7202f7ecd57029191A91DB8e9e3419B",
+      "symbol": "WARLOCK",
+      "name": "WARLOCK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 85,
+    "minor": 86,
     "patch": 48
   }
 }
