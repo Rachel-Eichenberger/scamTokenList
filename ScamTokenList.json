@@ -27720,11 +27720,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10EB37474B9f61D09C2495819EB99105052B307a",
+      "symbol": "RAMO",
+      "name": "Ramo Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 63,
+    "minor": 64,
     "patch": 48
   }
 }
