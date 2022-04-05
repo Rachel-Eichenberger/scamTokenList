@@ -27775,11 +27775,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85159E5ECF5D96148DEFA88152F7cb7FaDf5c5F5",
+      "symbol": "KP",
+      "name": "KryptoPal Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 68,
+    "minor": 69,
     "patch": 48
   }
 }
