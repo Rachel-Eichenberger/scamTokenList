@@ -27632,11 +27632,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE43260683016FB550c41FB90F2f170782687FA8d",
+      "symbol": "42",
+      "name": "Galaxy DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 55,
+    "minor": 56,
     "patch": 48
   }
 }
