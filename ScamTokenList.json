@@ -28050,11 +28050,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF39938e910e49747952226ED5C269537cdf654d0",
+      "symbol": "MESSIAH",
+      "name": "Messiah Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 93,
+    "minor": 94,
     "patch": 48
   }
 }
