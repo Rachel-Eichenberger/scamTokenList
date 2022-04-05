@@ -27654,11 +27654,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD897F1036Ad1E56bE576Eb0A742548348cB24E4",
+      "symbol": "LDAO",
+      "name": "LUFFY DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 57,
+    "minor": 58,
     "patch": 48
   }
 }
