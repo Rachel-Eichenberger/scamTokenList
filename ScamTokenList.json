@@ -27555,11 +27555,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38d29f02C9e2a62652e835A6FB90c94CF5D3ede7",
+      "symbol": "Samsung",
+      "name": "Samsung Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 48,
+    "minor": 49,
     "patch": 48
   }
 }
