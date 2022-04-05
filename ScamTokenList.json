@@ -27676,11 +27676,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68A6c77cFd9d54050d74B073e5cc7Ba6E3a54c76",
+      "symbol": "FAUNA",
+      "name": "Attenborough Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 59,
+    "minor": 60,
     "patch": 48
   }
 }
