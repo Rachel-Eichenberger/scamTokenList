@@ -27181,11 +27181,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x922A87297e8A8EF9AF22695dE76E66C8eED6E3b7",
+      "symbol": "Yogu",
+      "name": "Yogu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 13,
+    "minor": 14,
     "patch": 46
   }
 }
