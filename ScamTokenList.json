@@ -28094,11 +28094,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83b5302AB2B78D81d9af332f4f337eBd8e49aEE7",
+      "symbol": "TEMPLES",
+      "name": "TEMPLE OF SHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 97,
+    "minor": 98,
     "patch": 48
   }
 }
