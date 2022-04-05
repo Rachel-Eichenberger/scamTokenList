@@ -28226,11 +28226,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d6E3Cf86625D733dad7699D00C74a13630bC87f",
+      "symbol": "VIRGIN",
+      "name": "I am virgin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 9,
+    "minor": 10,
     "patch": 49
   }
 }
