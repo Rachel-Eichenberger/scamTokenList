@@ -27225,11 +27225,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x788464b527f7BA316d0c1B4c5dB5AB5F65E381B1",
+      "symbol": "TOLSTOY",
+      "name": "TOLSTOY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 17,
+    "minor": 18,
     "patch": 46
   }
 }
