@@ -27830,11 +27830,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x672e02fC5176282A5c9526d579aD6C0d96F94345",
+      "symbol": "AKATSUKINU",
+      "name": "AKATSUKINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 73,
+    "minor": 74,
     "patch": 48
   }
 }
