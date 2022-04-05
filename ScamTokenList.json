@@ -27412,11 +27412,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12dE0Cf8D3dA8BC6E3670E438590306B1652E84C",
+      "symbol": "SS",
+      "name": "Secret Society",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 34,
+    "minor": 35,
     "patch": 46
   }
 }
