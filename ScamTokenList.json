@@ -27170,11 +27170,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B9bb66F7B737BC2FFc02cb2b2fF7B538BD314b1",
+      "symbol": "ROME",
+      "name": "Rome DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 12,
+    "minor": 13,
     "patch": 46
   }
 }
