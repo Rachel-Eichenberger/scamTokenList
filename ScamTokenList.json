@@ -28292,11 +28292,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CAa25948Fd23f2121525616D010984797f40b50",
+      "symbol": "CARTEL",
+      "name": "Cartel DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 15,
+    "minor": 16,
     "patch": 49
   }
 }
