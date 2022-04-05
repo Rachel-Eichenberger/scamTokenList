@@ -28424,11 +28424,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x457AAC3f46C6047aEf54499910fE6382090d30eA",
+      "symbol": "GF",
+      "name": "GF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 27,
+    "minor": 28,
     "patch": 49
   }
 }
