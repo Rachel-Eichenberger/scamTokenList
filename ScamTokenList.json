@@ -27346,11 +27346,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd837e82631F9458dcAe2985159e272C52Fffae9e",
+      "symbol": "CULTOKI",
+      "name": "CULTOKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 28,
+    "minor": 29,
     "patch": 46
   }
 }
