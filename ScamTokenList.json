@@ -27500,11 +27500,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18Abac0BdCB151E89eAf4e2D9C438d84a9a4aa75",
+      "symbol": "BABYPARA",
+      "name": "BabyPara",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 43,
+    "minor": 44,
     "patch": 48
   }
 }
