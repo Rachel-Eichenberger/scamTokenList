@@ -28072,11 +28072,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x612a90CeC0209A163dEeDE0a429A84a163e3fc45",
+      "symbol": "BaKiBa",
+      "name": "BabyKibaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x190422a6FE480136A148d19E82e8AF68d300A879",
+      "symbol": "Kintaro",
+      "name": "Kintaro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 95,
+    "minor": 97,
     "patch": 48
   }
 }
