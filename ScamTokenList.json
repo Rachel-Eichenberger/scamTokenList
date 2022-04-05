@@ -27280,11 +27280,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19490165b420361563B809CA2A1C0E1811577259",
+      "symbol": "REVU",
+      "name": "RevWarriors",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 22,
+    "minor": 23,
     "patch": 46
   }
 }
