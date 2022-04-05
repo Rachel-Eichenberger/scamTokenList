@@ -27984,11 +27984,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34cb4379B864B19e55548878Ada100146c2A10Ea",
+      "symbol": "SATOSHI",
+      "name": "Satoshi Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 87,
+    "minor": 88,
     "patch": 48
   }
 }
