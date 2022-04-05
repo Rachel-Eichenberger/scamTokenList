@@ -28160,11 +28160,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc956490B39a5e52c52F4Ae1D14E0C51a6B6E3b24",
+      "symbol": "DEGEN",
+      "name": "deGenius",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 3,
+    "minor": 4,
     "patch": 49
   }
 }
