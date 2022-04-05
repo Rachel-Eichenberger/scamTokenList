@@ -28314,11 +28314,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7d87393cd193FFE47F3baa3D108903d5f046304",
+      "symbol": "Sabbath",
+      "name": "Sabbath",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 17,
+    "minor": 18,
     "patch": 49
   }
 }
