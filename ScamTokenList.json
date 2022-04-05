@@ -27764,11 +27764,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8De3Cb25F6c9c382C46B8510697C3D7216e252A",
+      "symbol": "QOMAPE",
+      "name": "QOMAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 67,
+    "minor": 68,
     "patch": 48
   }
 }
