@@ -27852,11 +27852,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdA61f461B0061bA610E869466f33D44b67d0D442",
+      "symbol": "Ax1",
+      "name": "Axiom Space",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 75,
+    "minor": 76,
     "patch": 48
   }
 }
