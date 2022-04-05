@@ -28215,11 +28215,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9D9869B2C7B1EEc43E632a72678085870c288c6",
+      "symbol": "SKINU",
+      "name": "Zelensky Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 8,
+    "minor": 9,
     "patch": 49
   }
 }
