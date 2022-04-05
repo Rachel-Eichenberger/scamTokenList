@@ -28017,11 +28017,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDeA025C7636e19B1c6265421F7552adDaFB23FdB",
+      "symbol": "WARFARE",
+      "name": "WARFARE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 90,
+    "minor": 91,
     "patch": 48
   }
 }
