@@ -27357,11 +27357,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19cA3A22ebA8969AEF943dbe79d4E1fC47C39640",
+      "symbol": "FALQOMv2",
+      "name": "Shiba Hunter v2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 29,
+    "minor": 30,
     "patch": 46
   }
 }
