@@ -27940,11 +27940,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e867De7338808e183815A84EaFFbF0F0c16582C",
+      "symbol": "QOMROCKET",
+      "name": "Shiba Sender",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 83,
+    "minor": 84,
     "patch": 48
   }
 }
