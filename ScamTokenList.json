@@ -27214,11 +27214,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3b127494ea679354a144e2F9dc688d1697b4735",
+      "symbol": "PROS",
+      "name": "PROSPERITY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 16,
+    "minor": 17,
     "patch": 46
   }
 }
