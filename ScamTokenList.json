@@ -28402,11 +28402,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5804Dd1bc942478028E9Dd81B77ee5b367A4eB9",
+      "symbol": "SHIROCKET",
+      "name": "Shiba Lover",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 25,
+    "minor": 26,
     "patch": 49
   }
 }
