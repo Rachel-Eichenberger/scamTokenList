@@ -28039,11 +28039,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b4267Da125bA8d75A4cbA20bA3af8D9f257859F",
+      "symbol": "tomahawk",
+      "name": "tomahawk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 92,
+    "minor": 93,
     "patch": 48
   }
 }
