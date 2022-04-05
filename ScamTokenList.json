@@ -27423,11 +27423,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA899E68dbfEe6E8a54229b84D3f3b131CCe28b94",
+      "symbol": "AURORA",
+      "name": "AURORA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 35,
+    "minor": 36,
     "patch": 46
   }
 }
