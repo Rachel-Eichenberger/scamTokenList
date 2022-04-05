@@ -27511,11 +27511,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1711576b6F705fE9D95f81F2Bba693fdaddE7a74",
+      "symbol": "Destiny",
+      "name": "Destiny",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 44,
+    "minor": 45,
     "patch": 48
   }
 }
