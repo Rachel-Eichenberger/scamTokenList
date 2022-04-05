@@ -28391,11 +28391,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x406dBd23D5324380d034e7c73cd3DfB3ad386d48",
+      "symbol": "GG",
+      "name": "GG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 24,
+    "minor": 25,
     "patch": 49
   }
 }
