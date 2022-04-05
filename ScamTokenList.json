@@ -27929,11 +27929,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcF17D923c4F1c7f1e9e7997564EB5a2A20AAb7d7",
+      "symbol": "WAGYU",
+      "name": "WAGYU INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 82,
+    "minor": 83,
     "patch": 48
   }
 }
