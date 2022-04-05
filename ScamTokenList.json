@@ -27786,11 +27786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD58Fffc5E3E4607D9715fCc5e3F97919BAA84477",
+      "symbol": "CRYPTOSKULL",
+      "name": "CRYPTOSKULL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 69,
+    "minor": 70,
     "patch": 48
   }
 }
