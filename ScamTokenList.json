@@ -27291,11 +27291,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6508e815A00790C6f61b1CdF189B12215f1d1755",
+      "symbol": "Konami",
+      "name": "Konami Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 23,
+    "minor": 24,
     "patch": 46
   }
 }
