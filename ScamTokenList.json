@@ -27390,11 +27390,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4a99DD9dAa2EF8dcC4E3F1E7a409961b81f314D",
+      "symbol": "ROYALS",
+      "name": "Royals Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 32,
+    "minor": 33,
     "patch": 46
   }
 }
