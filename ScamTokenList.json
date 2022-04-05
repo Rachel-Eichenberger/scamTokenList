@@ -27907,11 +27907,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x672C7938aBC5ea953757d10136deF594C56f2e5c",
+      "symbol": "To The Moon",
+      "name": "To The Moon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 80,
+    "minor": 81,
     "patch": 48
   }
 }
