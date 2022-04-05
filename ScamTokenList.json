@@ -27368,11 +27368,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9001417c1E02C5ed49897288b55CBFD70F98F694",
+      "symbol": "TGCENSORED_DAO",
+      "name": "Cult Power",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 30,
+    "minor": 31,
     "patch": 46
   }
 }
