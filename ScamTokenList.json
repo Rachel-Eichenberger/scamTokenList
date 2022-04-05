@@ -27995,11 +27995,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe38a6cB335859CC1d3c61Fa61fa7A7f8771E857B",
+      "symbol": "DOGITTER",
+      "name": "The Doge Twitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A19451e04383a6D8683D0A6337175501b8120a7",
+      "symbol": "CULTPEPE",
+      "name": "Cult Pepe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 86,
-    "minor": 88,
+    "minor": 90,
     "patch": 48
   }
 }
