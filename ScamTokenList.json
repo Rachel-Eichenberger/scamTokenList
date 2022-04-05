@@ -27247,11 +27247,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBb06A35d24E1d03308e4149566705659dd104Df8",
+      "symbol": "MERGE",
+      "name": "The Merge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 84,
-    "minor": 19,
+    "minor": 20,
     "patch": 46
   }
 }
