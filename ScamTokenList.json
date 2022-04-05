@@ -28303,11 +28303,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe30588fE5847A178b15402a0D0B11DAC7801dD27",
+      "symbol": "NOSE",
+      "name": "pINUchio",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 16,
+    "minor": 17,
     "patch": 49
   }
 }
