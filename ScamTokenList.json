@@ -28534,11 +28534,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92271A7F0d054b8e04F76F91C6e72ae2c1B6F1b1",
+      "symbol": "PRIEST",
+      "name": "Priest DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 37,
+    "minor": 38,
     "patch": 49
   }
 }
