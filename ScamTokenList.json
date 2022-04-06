@@ -28622,11 +28622,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34eE819305AD71934C77F7c8D34ed845552BB3B8",
+      "symbol": "VENOM",
+      "name": "VENOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 45,
+    "minor": 46,
     "patch": 49
   }
 }
