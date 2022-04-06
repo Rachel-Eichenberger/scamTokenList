@@ -29282,11 +29282,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67F41282b38813689E6C2F10FA45911f74Ea01EA",
+      "symbol": "One",
+      "name": "One",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x291eC7938eC183D1994Fee2870a019aAf2268b3D",
+      "symbol": "CULTMANIFESTO",
+      "name": "ReadTheManifesto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 5,
+    "minor": 7,
     "patch": 53
   }
 }
