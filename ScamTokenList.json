@@ -29249,11 +29249,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa64ccb1e0FF3Dd46A9F308923574cB7b12F17Cc",
+      "symbol": "Oblivion",
+      "name": "Oblivion",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 2,
+    "minor": 3,
     "patch": 53
   }
 }
