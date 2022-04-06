@@ -29040,11 +29040,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB1777BF3094Eb4dB120b06774c45fa734d3a5A4",
+      "symbol": "APYPROTOCOL",
+      "name": "APYProtocol",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 83,
+    "minor": 84,
     "patch": 52
   }
 }
