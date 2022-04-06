@@ -28908,11 +28908,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x542540D7755e1E948Aed8F9fe6548616D882ab85",
+      "symbol": "TC",
+      "name": "TheCounsel",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 71,
+    "minor": 72,
     "patch": 52
   }
 }
