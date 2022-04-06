@@ -29469,11 +29469,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x526a9Dd8C610aAD36B335094DA16dF31584C0469",
+      "symbol": "HITS",
+      "name": "HeIsSatoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 22,
+    "minor": 23,
     "patch": 53
   }
 }
