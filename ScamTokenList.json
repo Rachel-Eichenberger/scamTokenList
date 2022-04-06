@@ -29216,11 +29216,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d5D7e8DF7B0F1ac83f7e0e2D02be84cB14d7c77",
+      "symbol": "Zynga",
+      "name": "ZyngaMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 88,
-    "minor": 99,
-    "patch": 52
+    "major": 89,
+    "minor": 0,
+    "patch": 53
   }
 }
