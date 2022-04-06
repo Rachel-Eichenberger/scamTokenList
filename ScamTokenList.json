@@ -28688,11 +28688,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE71B4b69d8145487F9dEe940f5548AcaADA5C47F",
+      "symbol": "Cavalier",
+      "name": "Cavalier",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 51,
+    "minor": 52,
     "patch": 49
   }
 }
