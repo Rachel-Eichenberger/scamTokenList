@@ -29337,11 +29337,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C6F0f339E0fb37761e2FF30A853C23f0455eDd6",
+      "symbol": "Roblox",
+      "name": "RobloxMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 10,
+    "minor": 11,
     "patch": 53
   }
 }
