@@ -28897,11 +28897,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4842ABE69Ef7C6f511AD1a45d68EddDC35f9456",
+      "symbol": "CATTER",
+      "name": "CatterToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 70,
+    "minor": 71,
     "patch": 52
   }
 }
