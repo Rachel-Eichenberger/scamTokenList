@@ -29447,11 +29447,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C1F2814fbdA5209627Ca1eCba187979Aa787BBB",
+      "symbol": "XEON",
+      "name": "Sophie",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 20,
+    "minor": 21,
     "patch": 53
   }
 }
