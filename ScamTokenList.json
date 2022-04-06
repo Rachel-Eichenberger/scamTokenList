@@ -28754,11 +28754,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2444Dee26599504c04319e2EE88ADccb390F568B",
+      "symbol": "DolceGabbana",
+      "name": "Dolce Gabbana Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 57,
+    "minor": 58,
     "patch": 49
   }
 }
