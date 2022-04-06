@@ -29271,11 +29271,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f5a4354dD98F30ff3B5D3AC1dbb6D64ef25bf4b",
+      "symbol": "abyssal",
+      "name": "abyssal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 4,
+    "minor": 5,
     "patch": 53
   }
 }
