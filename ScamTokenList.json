@@ -29139,11 +29139,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19ED768DA39E69dA5039b9853BeE0DF806d802e2",
+      "symbol": "PCH",
+      "name": "PLUTUSCAPITALHOLDIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 92,
+    "minor": 93,
     "patch": 52
   }
 }
