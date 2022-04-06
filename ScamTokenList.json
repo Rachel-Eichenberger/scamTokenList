@@ -28435,11 +28435,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16395963a3BFb1582A555aE4Dc6c3fDa4c1cB35b",
+      "symbol": "SAIDAO",
+      "name": "Saitama DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 28,
+    "minor": 29,
     "patch": 49
   }
 }
