@@ -29095,11 +29095,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x553422bAdC1152202a77D0123cef4C9f8B8d749C",
+      "symbol": "OTM",
+      "name": "OhTaxMan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 88,
+    "minor": 89,
     "patch": 52
   }
 }
