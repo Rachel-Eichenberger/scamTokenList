@@ -29392,11 +29392,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D0e66Ef269137CF95481a12A68d9B7eE1Aa2E9e",
+      "symbol": "NKM",
+      "name": "NakaMoto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 15,
+    "minor": 16,
     "patch": 53
   }
 }
