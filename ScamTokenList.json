@@ -29161,11 +29161,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa75816ffd6A8Bf985f9D0E263a721fb2Ff18Cc26",
+      "symbol": "KiwiMoontk",
+      "name": "KiwiMoontk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 94,
+    "minor": 95,
     "patch": 52
   }
 }
