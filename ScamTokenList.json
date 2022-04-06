@@ -29414,11 +29414,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79dB5abC4D3e0740a17B60AE2215e5AE43a54Cc9",
+      "symbol": "VITS",
+      "name": "WeAreVitalik",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 17,
+    "minor": 18,
     "patch": 53
   }
 }
