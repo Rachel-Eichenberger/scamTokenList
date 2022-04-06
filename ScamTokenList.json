@@ -28985,11 +28985,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBaF1110B0A766A9eF633136Ad03748d0ED9AcdC7",
+      "symbol": "QOMCULT",
+      "name": "QOMCULT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 78,
+    "minor": 79,
     "patch": 52
   }
 }
