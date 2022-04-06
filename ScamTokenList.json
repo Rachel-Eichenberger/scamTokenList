@@ -28996,11 +28996,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F60e5FF2B534F48B44bf0661D090266f17A3688",
+      "symbol": "SPRKSN",
+      "name": "Sparksen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 79,
+    "minor": 80,
     "patch": 52
   }
 }
