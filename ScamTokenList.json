@@ -29007,11 +29007,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xabe4bE10c011D12Df591F533a1C5A839406Fd14f",
+      "symbol": "TSS",
+      "name": "TheSecretSect",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 80,
+    "minor": 81,
     "patch": 52
   }
 }
