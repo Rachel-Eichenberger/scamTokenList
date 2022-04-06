@@ -28798,11 +28798,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84D5702aa9548d69F2a12e23AC74F7A6435AD5b3",
+      "symbol": "LF",
+      "name": "Luna Foundation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 61,
+    "minor": 62,
     "patch": 49
   }
 }
