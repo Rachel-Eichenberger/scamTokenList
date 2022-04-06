@@ -28765,11 +28765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd2231EaCa6a871358110d36e7791f21cac8ACb6",
+      "symbol": "ALL",
+      "name": "ALLIANCE DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 58,
+    "minor": 59,
     "patch": 49
   }
 }
