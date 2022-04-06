@@ -29073,11 +29073,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fcEaFA13E5A4b92AeA1Ea080A92b1eb7F857336",
+      "symbol": "Templelon",
+      "name": "TempleElonDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 86,
+    "minor": 87,
     "patch": 52
   }
 }
