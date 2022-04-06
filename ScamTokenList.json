@@ -29194,11 +29194,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF194958F2bb49fD0bdfB413e487B9833dE433ec",
+      "symbol": "Ritual",
+      "name": "Ritual",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 97,
+    "minor": 98,
     "patch": 52
   }
 }
