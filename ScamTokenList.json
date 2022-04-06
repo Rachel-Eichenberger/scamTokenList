@@ -28556,11 +28556,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4616BBC4a9b34F6C3D205dE70487315d026E09ed",
+      "symbol": "Qombat",
+      "name": "Qombat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 39,
+    "minor": 40,
     "patch": 49
   }
 }
