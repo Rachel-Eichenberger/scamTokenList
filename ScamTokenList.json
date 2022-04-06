@@ -29326,11 +29326,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51b763Ac5d455d4B7deE41FA8Dd87E8Ccedd926e",
+      "symbol": "ELECTROPUMP",
+      "name": "ELECTROPUMP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 9,
+    "minor": 10,
     "patch": 53
   }
 }
