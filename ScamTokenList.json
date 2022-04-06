@@ -29436,11 +29436,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc7A8D4843B4fEd2880AeD2De3E99bBde8487759",
+      "symbol": "UOV2",
+      "name": "UpOnlyV2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 19,
+    "minor": 20,
     "patch": 53
   }
 }
