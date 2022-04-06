@@ -28468,11 +28468,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0726bd0B6aAA03F821bE90BbFe5b6939e803049F",
+      "symbol": "SAITAQOM",
+      "name": "Saitama Killer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 31,
+    "minor": 32,
     "patch": 49
   }
 }
