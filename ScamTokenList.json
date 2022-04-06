@@ -29018,11 +29018,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD10548F05D0579B39d40A7Bb233D9aA05e43Dc76",
+      "symbol": "DINOV",
+      "name": "DINOVERSE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 81,
+    "minor": 82,
     "patch": 52
   }
 }
