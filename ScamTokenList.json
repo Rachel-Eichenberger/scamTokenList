@@ -28743,11 +28743,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBEb0973f9289E526e29AfF36b672607bff6438b1",
+      "symbol": "QUMROCKET",
+      "name": "QumRocket",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 56,
+    "minor": 57,
     "patch": 49
   }
 }
