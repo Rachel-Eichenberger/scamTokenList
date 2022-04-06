@@ -28567,11 +28567,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAfd707E89495B38422fF13b532E757fc6900481d",
+      "symbol": "Doge",
+      "name": "Doge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 40,
+    "minor": 41,
     "patch": 49
   }
 }
