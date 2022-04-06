@@ -29051,11 +29051,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d9ef1d3977274f80C50a1cFc458CF972007eeBf",
+      "symbol": "CULTEMPLE",
+      "name": "TEMPLEOFCULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 84,
+    "minor": 85,
     "patch": 52
   }
 }
