@@ -28864,11 +28864,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16229A55B7AAae1112062E9E49716599e5BbB1fD",
+      "symbol": "QOMON",
+      "name": "QOMOnMe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 67,
+    "minor": 68,
     "patch": 52
   }
 }
