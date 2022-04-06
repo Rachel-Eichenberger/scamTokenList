@@ -29502,11 +29502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD92aE487b1ffbf6DaFcE78521aF15665C1Ff5C28",
+      "symbol": "DGT",
+      "name": "DogeAtron",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 25,
+    "minor": 26,
     "patch": 53
   }
 }
