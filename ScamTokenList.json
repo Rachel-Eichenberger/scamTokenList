@@ -28501,11 +28501,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbCDC4fAA88071Cbb7dd9820cC781FE98f23CC65b",
+      "symbol": "Bentley",
+      "name": "Bentley Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 34,
+    "minor": 35,
     "patch": 49
   }
 }
