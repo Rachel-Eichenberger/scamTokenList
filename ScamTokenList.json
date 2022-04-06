@@ -29183,11 +29183,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE906AbB8B130d878578257Dd321a6714fcb949c1",
+      "symbol": "WHALES",
+      "name": "whales",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 96,
+    "minor": 97,
     "patch": 52
   }
 }
