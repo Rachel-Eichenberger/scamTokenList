@@ -29348,11 +29348,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42dba4A50AF8f35FCf2073aCF9945538a6F73734",
+      "symbol": "SamuraiTama",
+      "name": "SamuraiTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 11,
+    "minor": 12,
     "patch": 53
   }
 }
