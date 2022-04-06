@@ -29370,11 +29370,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F9517849AdcA3D6f23BD03b67C7c81c7691d4BB",
+      "symbol": "Hush",
+      "name": "Silence",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 13,
+    "minor": 14,
     "patch": 53
   }
 }
