@@ -29315,11 +29315,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26766B24352d98842A2a15846C40992B0B4Ad151",
+      "symbol": "PhilDaian",
+      "name": "Occult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 8,
+    "minor": 9,
     "patch": 53
   }
 }
