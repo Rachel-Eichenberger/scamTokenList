@@ -28875,11 +28875,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97E9CbB5e6D7C88cb3901C8202e91C4f7C029D09",
+      "symbol": "DARK",
+      "name": "SunshineInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 68,
+    "minor": 69,
     "patch": 52
   }
 }
