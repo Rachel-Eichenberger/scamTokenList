@@ -28831,11 +28831,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4621937E3Dc4657BAd27e423b18f24F4400e93D",
+      "symbol": "Happy Shiba",
+      "name": "Happy Shiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 64,
+    "minor": 65,
     "patch": 51
   }
 }
