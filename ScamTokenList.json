@@ -28600,11 +28600,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6d2534D18Acfd8454AA886A0adbD494AFb4AcA1",
+      "symbol": "TIP",
+      "name": "TIPPIDUS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 43,
+    "minor": 44,
     "patch": 49
   }
 }
