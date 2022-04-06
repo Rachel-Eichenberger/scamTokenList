@@ -29062,11 +29062,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3230674D3c851e910c4AD6F540c1D4533FF7b65B",
+      "symbol": "QOMTemple",
+      "name": "QomTemple",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 85,
+    "minor": 86,
     "patch": 52
   }
 }
