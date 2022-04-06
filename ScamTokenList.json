@@ -28699,11 +28699,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb072D3c8c1d46D40F3be05641e8f8f080A69CEFB",
+      "symbol": "KATA",
+      "name": "KATAPULT    ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 52,
+    "minor": 53,
     "patch": 49
   }
 }
