@@ -28446,11 +28446,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x463eF516eEAeD47E6d38BfeB855897E9E4B40C49",
+      "symbol": "GRR",
+      "name": "Grizzly Chad",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 29,
+    "minor": 30,
     "patch": 49
   }
 }
