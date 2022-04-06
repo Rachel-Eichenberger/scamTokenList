@@ -28677,11 +28677,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1421E522bB0EeD30e0eb0e0139B1676A8065559A",
+      "symbol": "DESTINY",
+      "name": "Destiny",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 50,
+    "minor": 51,
     "patch": 49
   }
 }
