@@ -29381,11 +29381,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4790499AB80769e8806D7A531dCCD2cAF10b9dba",
+      "symbol": "NXT",
+      "name": "NXT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 14,
+    "minor": 15,
     "patch": 53
   }
 }
