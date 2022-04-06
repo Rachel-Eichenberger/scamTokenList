@@ -29491,11 +29491,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54C292Ad3E4BFD0Fe996f3Fba6A9946BC7D07C99",
+      "symbol": "BULL",
+      "name": "Rodeo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 24,
+    "minor": 25,
     "patch": 53
   }
 }
