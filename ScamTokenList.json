@@ -28633,11 +28633,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d60F380440004911D045e6ee33897F6e0D59960",
+      "symbol": "MASK",
+      "name": "Disguised",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 46,
+    "minor": 47,
     "patch": 49
   }
 }
