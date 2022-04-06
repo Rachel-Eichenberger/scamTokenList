@@ -28732,11 +28732,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe142e78D488351236d934097e04951387EcE4ED",
+      "symbol": "LFG",
+      "name": "Foundation Guard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 55,
+    "minor": 56,
     "patch": 49
   }
 }
