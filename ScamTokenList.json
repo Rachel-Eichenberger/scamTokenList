@@ -29238,11 +29238,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f9e8e26C223229d2D375Ae061E6B00Cc62B88E5",
+      "symbol": "AQMRI",
+      "name": "aquamarine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 1,
+    "minor": 2,
     "patch": 53
   }
 }
