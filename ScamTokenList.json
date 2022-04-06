@@ -29480,11 +29480,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0EB78a591e1251EE36a731821bdCEA079726887b",
+      "symbol": "TINYP",
+      "name": "TinyPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 23,
+    "minor": 24,
     "patch": 53
   }
 }
