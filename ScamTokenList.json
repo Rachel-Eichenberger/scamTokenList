@@ -29304,11 +29304,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa010e37405Eb57437a381DAAE88e5C3913D0796C",
+      "symbol": "SATS",
+      "name": "WeAreSatoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 7,
+    "minor": 8,
     "patch": 53
   }
 }
