@@ -28813,6 +28813,8 @@
     {
       "chainId": 1,
       "address": "0x0570AC256188AB45F68c14FBb131BE4055Cf2d37",
+      "symbol": "FD",
+      "name": "Forever Dollar",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -28823,6 +28825,6 @@
   "version": {
     "major": 87,
     "minor": 63,
-    "patch": 49
+    "patch": 50
   }
 }
