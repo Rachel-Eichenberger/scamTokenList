@@ -28963,11 +28963,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Def3cB68139156b0bfd19F155EF7A651E626AE9",
+      "symbol": "Thuglife",
+      "name": "TupacInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 76,
+    "minor": 77,
     "patch": 52
   }
 }
