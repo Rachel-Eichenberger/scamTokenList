@@ -29513,11 +29513,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4df91D66E50a08406a0B80f2fA67a25c54911Fb2",
+      "symbol": "thinker",
+      "name": "thinker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 26,
+    "minor": 27,
     "patch": 53
   }
 }
