@@ -28930,11 +28930,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B045155d76Bb10c511F4cfd51B96a3afb4B0C87",
+      "symbol": "HAPPY",
+      "name": "HappyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 73,
+    "minor": 74,
     "patch": 52
   }
 }
