@@ -29106,11 +29106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD296fA073eB94168acA179BA87F3134886d1F32B",
+      "symbol": "JOYBOY",
+      "name": "Joyboy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 89,
+    "minor": 90,
     "patch": 52
   }
 }
