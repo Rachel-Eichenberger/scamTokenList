@@ -28721,11 +28721,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd09231Fc5aA6Df617ca70fC9e31e073bDEAa0CF2",
+      "symbol": "PREY",
+      "name": "Prey",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 54,
+    "minor": 55,
     "patch": 49
   }
 }
