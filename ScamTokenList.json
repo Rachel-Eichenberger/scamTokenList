@@ -28809,11 +28809,20 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0570AC256188AB45F68c14FBb131BE4055Cf2d37",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 62,
+    "minor": 63,
     "patch": 49
   }
 }
