@@ -28952,11 +28952,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD06f53cACD0e71F8B96B0Fd463ff05CD44840a5",
+      "symbol": "MSPACEINU",
+      "name": "MSpaceINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 75,
+    "minor": 76,
     "patch": 52
   }
 }
