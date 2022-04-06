@@ -27614,7 +27614,7 @@
     {
       "chainId": 1,
       "address": "0xF552e7093cB3effFA31EDe7B8a1F119d62Be1D2B",
-      "symbol": "PHI GAMMA KAPPA",
+      "symbol": "PGK",
       "name": "PHI GAMMA KAPPA",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -27911,7 +27911,7 @@
     {
       "chainId": 1,
       "address": "0x672C7938aBC5ea953757d10136deF594C56f2e5c",
-      "symbol": "To The Moon",
+      "symbol": "TTM",
       "name": "To The Moon",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -28824,7 +28824,7 @@
     {
       "chainId": 1,
       "address": "0x31A15C165943C2D57ad12773C653833e6515fF32",
-      "symbol": " ADAO",
+      "symbol": "ADAO",
       "name": " AnaconDAO",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -28835,7 +28835,7 @@
     {
       "chainId": 1,
       "address": "0xb4621937E3Dc4657BAd27e423b18f24F4400e93D",
-      "symbol": "Happy Shiba",
+      "symbol": "HS",
       "name": "Happy Shiba",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -28845,8 +28845,8 @@
     }
   ],
   "version": {
-    "major": 87,
+    "major": 88,
     "minor": 65,
-    "patch": 51
+    "patch": 52
   }
 }
