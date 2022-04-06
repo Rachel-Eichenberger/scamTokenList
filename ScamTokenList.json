@@ -29150,11 +29150,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a8AABcb89e100Aa39CAEF89c0584Fa4f2F44aF8",
+      "symbol": "ELON2CULT",
+      "name": "Elon2Cult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 93,
+    "minor": 94,
     "patch": 52
   }
 }
