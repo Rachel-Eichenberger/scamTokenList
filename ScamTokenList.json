@@ -28523,11 +28523,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x536d83340B222427Dc8ab11b0E3a9Fb075ca7ED0",
+      "symbol": "CULTQOM",
+      "name": "Cult Killer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 36,
+    "minor": 37,
     "patch": 49
   }
 }
