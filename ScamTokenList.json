@@ -29172,11 +29172,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8fCbBAa13A204cCf459EE83E285ff26b06C20772",
+      "symbol": "KK",
+      "name": "KINGKING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 95,
+    "minor": 96,
     "patch": 52
   }
 }
