@@ -29425,11 +29425,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F742d38DDA8ae40f5c842b7D579347fF3E36C13",
+      "symbol": "SHIBAFORM",
+      "name": "ShibaformDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 18,
+    "minor": 19,
     "patch": 53
   }
 }
