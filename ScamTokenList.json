@@ -28842,11 +28842,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb6aae922b382862eC29Cf4601b63b653bBA1678",
+      "symbol": "DDAO",
+      "name": "DestinyDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 88,
-    "minor": 65,
+    "minor": 66,
     "patch": 52
   }
 }
