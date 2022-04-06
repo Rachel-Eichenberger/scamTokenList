@@ -28512,11 +28512,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EF5B0c9BF8D5C72AEe81b790Fe2BC9931F1d6f6",
+      "symbol": "DOTQOM",
+      "name": "Bubble Hunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 87,
-    "minor": 35,
+    "minor": 36,
     "patch": 49
   }
 }
