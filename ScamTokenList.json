@@ -30470,11 +30470,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B42e0e97590eaa1CCe3aa338d40649D6d656f6F",
+      "symbol": "PUBG",
+      "name": "PUBGMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 13,
+    "minor": 14,
     "patch": 54
   }
 }
