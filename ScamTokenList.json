@@ -29700,11 +29700,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39393D1E53E7E61c69acb58F8D3621E4818118Cb",
+      "symbol": "TSOP",
+      "name": "TheSearchOfPepe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 43,
+    "minor": 44,
     "patch": 53
   }
 }
