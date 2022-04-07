@@ -30140,11 +30140,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Fd67Ff1C90d2263ca6014637778C656F3cb2793",
+      "symbol": "TASM",
+      "name": "TASM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 83,
+    "minor": 84,
     "patch": 53
   }
 }
