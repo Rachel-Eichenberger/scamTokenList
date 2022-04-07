@@ -29612,11 +29612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7452E3fC2fE611C6B7761c6c393BECe059881aC7",
+      "symbol": "SAFE",
+      "name": "GnosisSafe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 35,
+    "minor": 36,
     "patch": 53
   }
 }
