@@ -30074,11 +30074,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x674C74dd7BC7aA90b26F0f6BDdB40B49d060aDcC",
+      "symbol": "BabySHiBGOTCHi",
+      "name": "BabySHiBGOTCHi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 77,
+    "minor": 78,
     "patch": 53
   }
 }
