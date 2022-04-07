@@ -29898,11 +29898,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9922E6DAAEa7ab7b6C8487749Ee797992A394986",
+      "symbol": "CRT",
+      "name": "CyberRodeoToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 61,
+    "minor": 62,
     "patch": 53
   }
 }
