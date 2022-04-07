@@ -29601,11 +29601,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Bcbf01178705202bfe41F990fE603798f2f2F81",
+      "symbol": "LUST",
+      "name": "Desire",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 34,
+    "minor": 35,
     "patch": 53
   }
 }
