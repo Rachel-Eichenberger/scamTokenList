@@ -30503,11 +30503,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa19692308E8Db095053634D13bABf1DFEb9E1B2b",
+      "symbol": "Whiskey",
+      "name": "Whiskey",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 16,
+    "minor": 17,
     "patch": 54
   }
 }
