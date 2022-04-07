@@ -29964,11 +29964,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf314294d13D6d097aE85901276D0f4595eFd19C2",
+      "symbol": "FRANK",
+      "name": "Whoisfrank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 67,
+    "minor": 68,
     "patch": 53
   }
 }
