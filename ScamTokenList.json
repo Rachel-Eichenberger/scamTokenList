@@ -29623,11 +29623,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9e6d05981E6BD78c34fe5E827d45C025aF994d5",
+      "symbol": "SETN",
+      "name": "SQUARETOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 36,
+    "minor": 37,
     "patch": 53
   }
 }
