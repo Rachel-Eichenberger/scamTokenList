@@ -30283,11 +30283,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67B90699CF96057E989182053Ff113080aCb7927",
+      "symbol": "Dumbledore",
+      "name": "Dumbledore",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 96,
+    "minor": 97,
     "patch": 53
   }
 }
