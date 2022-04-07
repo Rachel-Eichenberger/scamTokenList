@@ -30272,11 +30272,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4da7AD1F6BaE52b9c98AA76D178BA4D6830827E7",
+      "symbol": "GENESIS",
+      "name": "THEGENESIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 95,
+    "minor": 96,
     "patch": 53
   }
 }
