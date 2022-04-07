@@ -30448,11 +30448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4ca572843A19e06a9fBedDb79Fd293aA9608960",
+      "symbol": "recluse",
+      "name": "recluse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 11,
+    "minor": 12,
     "patch": 54
   }
 }
