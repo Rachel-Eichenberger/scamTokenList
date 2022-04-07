@@ -29997,11 +29997,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA633ba39d54eaA18eF10D98A4eE4FF9ccDe854Ed",
+      "symbol": "A3A",
+      "name": "A3A",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 70,
+    "minor": 71,
     "patch": 53
   }
 }
