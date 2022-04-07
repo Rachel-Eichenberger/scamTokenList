@@ -30250,11 +30250,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9c4617912F1b6cF83d7198663768feA34d0585f",
+      "symbol": "STRNGR",
+      "name": "Stronger",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 93,
+    "minor": 94,
     "patch": 53
   }
 }
