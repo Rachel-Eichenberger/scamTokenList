@@ -29546,11 +29546,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x057EC10780937167Ae19CD7a1DaE50f92B90Efe3",
+      "symbol": "MAY",
+      "name": "MaythousInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 29,
+    "minor": 30,
     "patch": 53
   }
 }
