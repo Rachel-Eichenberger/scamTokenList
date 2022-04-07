@@ -30338,11 +30338,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f2D491f39D836Fa0d2556Bed3e41F3787075E47",
+      "symbol": "Fish",
+      "name": "Fish",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 1,
+    "minor": 2,
     "patch": 54
   }
 }
