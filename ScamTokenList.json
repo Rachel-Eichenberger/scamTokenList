@@ -29678,11 +29678,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89EFf73372D84cB6Af19552293142f797743c62f",
+      "symbol": "SatoshiCult",
+      "name": "SatoshiCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 41,
+    "minor": 42,
     "patch": 53
   }
 }
