@@ -29733,11 +29733,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5CA5a5Efb57dBaF4462eDBD15dA889448b1919ED",
+      "symbol": "RKTN",
+      "name": "RocketTokenV2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 46,
+    "minor": 47,
     "patch": 53
   }
 }
