@@ -30129,11 +30129,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a9175F5b6413365759CB287e8dE7C59DcD9e409",
+      "symbol": "DINU",
+      "name": "DINOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 82,
+    "minor": 83,
     "patch": 53
   }
 }
