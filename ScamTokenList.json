@@ -30162,11 +30162,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf86E87bD97C8c088928C10A054dB842b16A382B7",
+      "symbol": "SAFARINU",
+      "name": "SAFARINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 85,
+    "minor": 86,
     "patch": 53
   }
 }
