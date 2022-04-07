@@ -29832,11 +29832,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB73eF437CA6B20eA874fce4E75D5F8455c2840cd",
+      "symbol": "GAZER",
+      "name": "thegazer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 55,
+    "minor": 56,
     "patch": 53
   }
 }
