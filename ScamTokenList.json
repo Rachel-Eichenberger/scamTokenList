@@ -30228,11 +30228,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f9f30f5E5d938eDf6335ab06D4D83F0ec06637b",
+      "symbol": "EnTH",
+      "name": "EnTHropy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 91,
+    "minor": 92,
     "patch": 53
   }
 }
