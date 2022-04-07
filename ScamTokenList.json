@@ -30327,11 +30327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19460357F317B43Cd4220Ef5e4DF8eC1C809F1fC",
+      "symbol": "Electrolux",
+      "name": "Electrolux",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 0,
+    "minor": 1,
     "patch": 54
   }
 }
