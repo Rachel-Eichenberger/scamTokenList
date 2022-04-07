@@ -30085,11 +30085,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bf2D598C4baE004BB963C5eF27226cD6Bd6bEC2",
+      "symbol": "Ananke",
+      "name": "Ananke",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 78,
+    "minor": 79,
     "patch": 53
   }
 }
