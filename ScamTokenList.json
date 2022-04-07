@@ -30030,11 +30030,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16453d7F62cA8A1a01873a894D9e195aBFCCcAe7",
+      "symbol": "EARTH",
+      "name": "RETURNTOEARTH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 73,
+    "minor": 74,
     "patch": 53
   }
 }
