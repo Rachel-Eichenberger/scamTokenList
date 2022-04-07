@@ -30305,11 +30305,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d6240c90D61f3D1dC385F476bAC84a85EFA01e9",
+      "symbol": "STORM",
+      "name": "Storm",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 98,
+    "minor": 99,
     "patch": 53
   }
 }
