@@ -29755,11 +29755,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCc1EA3FCc3913da2386E988C1d808A03350aB86c",
+      "symbol": "SLITHERC20",
+      "name": "SlitherERC20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 48,
+    "minor": 49,
     "patch": 53
   }
 }
