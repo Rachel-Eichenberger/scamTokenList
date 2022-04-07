@@ -29590,11 +29590,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x054fF5b52d749799ADc3bDDD7b649f357BFc1034",
+      "symbol": "legendary",
+      "name": "legendary",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 33,
+    "minor": 34,
     "patch": 53
   }
 }
