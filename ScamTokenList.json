@@ -30459,11 +30459,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E05a9B52bEF5f84f973B741FC604DBE2D91048F",
+      "symbol": "SCINU",
+      "name": "SurveyCorpsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 12,
+    "minor": 13,
     "patch": 54
   }
 }
