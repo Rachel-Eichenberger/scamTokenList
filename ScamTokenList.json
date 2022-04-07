@@ -30349,11 +30349,44 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x037bb4eB2b7A2331238E11c6c107e8Ac41825a79",
+      "symbol": "Wheat",
+      "name": "Wheat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7b8953c5ae8a757eA7122E4995712613d7dC39e",
+      "symbol": "Meat",
+      "name": "Meat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB982c924A8B9259eA3f05dfDac2099C182252b15",
+      "symbol": "Wood",
+      "name": "Wood",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 2,
+    "minor": 5,
     "patch": 54
   }
 }
