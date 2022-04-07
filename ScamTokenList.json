@@ -30118,11 +30118,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB90D0CAE4048b48Ad9E31Cd14f1c9849eAE4D114",
+      "symbol": "ZuckBucks",
+      "name": "ZuckBucks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 81,
+    "minor": 82,
     "patch": 53
   }
 }
