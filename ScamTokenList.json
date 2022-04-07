@@ -30173,11 +30173,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14F346D06BB11af765a78fB82E5C4d5a6FCd529f",
+      "symbol": "FLOKINA",
+      "name": "FlokinaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5bD0F19b1caD7D214feFEe94ef3910903d2Eb23D",
+      "symbol": "ODES",
+      "name": "ElectrodesXRToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 86,
+    "minor": 88,
     "patch": 53
   }
 }
