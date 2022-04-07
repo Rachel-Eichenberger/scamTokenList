@@ -29722,11 +29722,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf4967c6B4D31a98B320671c479Bad88Dc57f9C1",
+      "symbol": "SatoshiTama",
+      "name": "SatoshiTama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 45,
+    "minor": 46,
     "patch": 53
   }
 }
