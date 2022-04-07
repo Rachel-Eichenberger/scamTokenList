@@ -30415,11 +30415,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8ae9d1054a7c837b71B54563A10260eb3B816e1",
+      "symbol": "GIGA",
+      "name": "CyberRodeo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 8,
+    "minor": 9,
     "patch": 54
   }
 }
