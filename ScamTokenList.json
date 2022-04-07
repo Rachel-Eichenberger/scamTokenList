@@ -30492,11 +30492,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1Ad1cDc4F067186eC2C1326619Dd04Dd282C8AB",
+      "symbol": "GUARD",
+      "name": "GuardianBot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 15,
+    "minor": 16,
     "patch": 54
   }
 }
