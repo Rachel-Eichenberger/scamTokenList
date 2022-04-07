@@ -30096,11 +30096,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x933DB47Ad57fB7dc5Ed67BafDE5573AD4E2b8595",
+      "symbol": "SNIPERSUNION",
+      "name": "SnipersCivilLiberti",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 79,
+    "minor": 80,
     "patch": 53
   }
 }
