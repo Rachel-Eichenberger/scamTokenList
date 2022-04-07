@@ -30019,11 +30019,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7550C6bE15a496d04EB89b75E79E30D87d88B7e",
+      "symbol": "SPACERETURN",
+      "name": "ReturntoSpace",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 72,
+    "minor": 73,
     "patch": 53
   }
 }
