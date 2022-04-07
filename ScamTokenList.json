@@ -29953,11 +29953,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6De714cEB55C9b845F08cBFB74f8e85604758A6b",
+      "symbol": "Board",
+      "name": "TwitterBoardMeeting",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 66,
+    "minor": 67,
     "patch": 53
   }
 }
