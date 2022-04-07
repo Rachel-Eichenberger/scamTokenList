@@ -29634,11 +29634,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd66DA9Cbb10108B3D3Ea9cD336a1097c22c7617E",
+      "symbol": "LAMBO",
+      "name": "LamboInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x569B1DAF2eaC8594BF5Ae98f3E9519bF0b9649dd",
+      "symbol": "SatoshiForm",
+      "name": "SatoshiForm",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 37,
+    "minor": 39,
     "patch": 53
   }
 }
