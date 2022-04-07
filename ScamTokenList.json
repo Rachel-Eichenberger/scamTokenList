@@ -30217,11 +30217,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E880115f7B11958eA364acD09d66B38204266eC",
+      "symbol": "MAO",
+      "name": "SHAMAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 90,
+    "minor": 91,
     "patch": 53
   }
 }
