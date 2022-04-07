@@ -29821,11 +29821,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB282386b668Adf173f265501B32d22c260910FB",
+      "symbol": "GIGA",
+      "name": "GigaFactory",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 54,
+    "minor": 55,
     "patch": 53
   }
 }
