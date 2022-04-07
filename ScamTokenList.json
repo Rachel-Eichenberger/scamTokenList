@@ -30107,11 +30107,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fbd153d66D186A1d3E416447Ed9BBe256863032",
+      "symbol": "KOELTAMA",
+      "name": "KOELTAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 80,
+    "minor": 81,
     "patch": 53
   }
 }
