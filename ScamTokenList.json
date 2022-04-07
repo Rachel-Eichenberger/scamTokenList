@@ -29843,11 +29843,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b2B429D5b409d46647aAF66FC56705448627bcB",
+      "symbol": "AKIMU",
+      "name": "AkimoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 56,
+    "minor": 57,
     "patch": 53
   }
 }
