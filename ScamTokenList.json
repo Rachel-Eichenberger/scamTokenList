@@ -29887,11 +29887,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC142C20F72762786719b8B8063fa08c2dc63317",
+      "symbol": "0",
+      "name": "0TaxSeason",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 60,
+    "minor": 61,
     "patch": 53
   }
 }
