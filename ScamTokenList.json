@@ -30239,11 +30239,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12452eff3685e391A9e736d42283af5DD10B6Fb8",
+      "symbol": "Satoshiba",
+      "name": "Satoshiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 92,
+    "minor": 93,
     "patch": 53
   }
 }
