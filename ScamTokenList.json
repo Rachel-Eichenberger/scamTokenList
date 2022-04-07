@@ -30536,11 +30536,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD721337B62374c74cFE1c9Bf60255D389fd9a98",
+      "symbol": "SUN",
+      "name": "Sunshine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 19,
+    "minor": 20,
     "patch": 54
   }
 }
