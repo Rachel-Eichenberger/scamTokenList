@@ -29524,11 +29524,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf13FC7eD86620386f7515Ed4993894f34D0aE337",
+      "symbol": "QOMPUTE",
+      "name": "AnalogHunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 27,
+    "minor": 28,
     "patch": 53
   }
 }
