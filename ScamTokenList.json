@@ -30437,11 +30437,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA008677A33EbD3003402EB81F24CeE36983B5D15",
+      "symbol": "PANDAMA",
+      "name": "PANDAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 10,
+    "minor": 11,
     "patch": 54
   }
 }
