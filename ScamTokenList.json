@@ -29744,11 +29744,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65aF88070C589d7f73798DdBf976a4977270c726",
+      "symbol": "Atari",
+      "name": "AtariMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 47,
+    "minor": 48,
     "patch": 53
   }
 }
