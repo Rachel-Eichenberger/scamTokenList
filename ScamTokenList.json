@@ -29689,11 +29689,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ad2C5d44906eA05100e772323b1295b6B367EAc",
+      "symbol": "KWON",
+      "name": "WeAreKwon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 42,
+    "minor": 43,
     "patch": 53
   }
 }
