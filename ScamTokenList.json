@@ -30261,11 +30261,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77d3E6731527F6E6dC9BbeC8A78d2cB4Df7C60d4",
+      "symbol": "VATS",
+      "name": "WeAreVitalik",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 94,
+    "minor": 95,
     "patch": 53
   }
 }
