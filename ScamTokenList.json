@@ -30063,11 +30063,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaB2Ca8B821562ae6121583b6D8a606c7F8cA35c1",
+      "symbol": "SPACE",
+      "name": "ReturnToSpace",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 76,
+    "minor": 77,
     "patch": 53
   }
 }
