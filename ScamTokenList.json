@@ -29920,11 +29920,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x595A2385326265272D459B6A7660d440e966a307",
+      "symbol": "Boucheron",
+      "name": "BoucheronMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 63,
+    "minor": 64,
     "patch": 53
   }
 }
