@@ -30404,11 +30404,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5540851B830d2e0977C6eB460B2905C541695e0",
+      "symbol": "ARCAM",
+      "name": "ARCAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 7,
+    "minor": 8,
     "patch": 54
   }
 }
