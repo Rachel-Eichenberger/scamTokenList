@@ -29931,11 +29931,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3983130269dEa203c4cAb8C5C41C56F14bC04529",
+      "symbol": "ElonPls",
+      "name": "CanElonTweetSomethi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 64,
+    "minor": 65,
     "patch": 53
   }
 }
