@@ -29557,11 +29557,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1A0D79161C88e980F68bF058cDE5096f610F943",
+      "symbol": "SatoshisSecret",
+      "name": "SatoshisSecret",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b23E67D6E318fBA56A28bc40F31c14c49feD1bF",
+      "symbol": "MORB",
+      "name": "Morbius",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 30,
+    "minor": 32,
     "patch": 53
   }
 }
