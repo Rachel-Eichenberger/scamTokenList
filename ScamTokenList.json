@@ -29711,11 +29711,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81Af45C91AA225AB85d799d6B0E2463cD2E23D6b",
+      "symbol": "MIR",
+      "name": "MIRROR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 44,
+    "minor": 45,
     "patch": 53
   }
 }
