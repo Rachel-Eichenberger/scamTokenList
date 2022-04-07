@@ -29909,11 +29909,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcDe019EFB085c74A5d888F4cAbF056911Cba27d1",
+      "symbol": "FRANK",
+      "name": "frankfrank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 62,
+    "minor": 63,
     "patch": 53
   }
 }
