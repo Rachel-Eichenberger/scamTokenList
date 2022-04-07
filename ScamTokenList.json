@@ -30382,11 +30382,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FA5a7A35f0b672ca26A8a2e4e4fb48770b83f34",
+      "symbol": "TRENDITTER",
+      "name": "TRENDITTER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 5,
+    "minor": 6,
     "patch": 54
   }
 }
