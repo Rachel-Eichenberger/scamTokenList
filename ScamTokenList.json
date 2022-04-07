@@ -30558,11 +30558,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18F34DFdeAFa65bb59A94c2250F09D34C68DC15f",
+      "symbol": "JUDGE",
+      "name": "JUDGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 21,
+    "minor": 22,
     "patch": 54
   }
 }
