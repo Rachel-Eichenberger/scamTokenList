@@ -29667,11 +29667,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c98f8B20A18e6dc940f85026F92F969b2EbEBCb",
+      "symbol": "KiSHUGOTCHi",
+      "name": "KiSHUGOTCHi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 40,
+    "minor": 41,
     "patch": 53
   }
 }
