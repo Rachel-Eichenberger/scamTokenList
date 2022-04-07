@@ -29865,11 +29865,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cE5C3Ca5f424B5E849cE557d412509d13B09b40",
+      "symbol": "CYBERRODEO",
+      "name": "CYBERRODEO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 58,
+    "minor": 59,
     "patch": 53
   }
 }
