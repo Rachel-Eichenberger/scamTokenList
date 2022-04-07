@@ -30294,11 +30294,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFEa34Ec03884DE2Cd78D2F890a26B68300f5481d",
+      "symbol": "TelltaleGames",
+      "name": "TelltaleGamesMetave",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 89,
-    "minor": 97,
+    "minor": 98,
     "patch": 53
   }
 }
