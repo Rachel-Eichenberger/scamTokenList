@@ -31405,11 +31405,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4D04eFA8A9499f5e2e9E6F08cfc0F59bd6D6ab2",
+      "symbol": "BLUME",
+      "name": "BlumeCapital",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 90,
-    "minor": 99,
-    "patch": 55
+    "major": 91,
+    "minor": 0,
+    "patch": 56
   }
 }
