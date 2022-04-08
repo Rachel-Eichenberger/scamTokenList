@@ -31108,11 +31108,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1df5470483964c963bf3126C594A1865DF370c1",
+      "symbol": "SMOKEDOGE",
+      "name": "SMOKEDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 72,
+    "minor": 73,
     "patch": 55
   }
 }
