@@ -31207,11 +31207,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf48d642FFb2164C7369510170E5F6E93B1932438",
+      "symbol": "TDAO",
+      "name": "TheDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 81,
+    "minor": 82,
     "patch": 55
   }
 }
