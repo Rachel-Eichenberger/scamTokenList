@@ -31339,11 +31339,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Ede4BC4E002828EA9040Fc02E3292e60cB6a5a3",
+      "symbol": "MOONKI",
+      "name": "MoonKnightINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 93,
+    "minor": 94,
     "patch": 55
   }
 }
