@@ -30668,11 +30668,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x644e674ab4A967dB367567Af73d9895bd57E4BF1",
+      "symbol": "LOOKS",
+      "name": "LOOKS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 31,
+    "minor": 32,
     "patch": 54
   }
 }
