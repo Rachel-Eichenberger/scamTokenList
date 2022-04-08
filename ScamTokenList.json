@@ -30613,11 +30613,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A947d9EeC5194E6abb1eB8cF3866c050F097334",
+      "symbol": "AVANZA",
+      "name": "AvanzaDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 26,
+    "minor": 27,
     "patch": 54
   }
 }
