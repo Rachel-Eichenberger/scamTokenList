@@ -31185,11 +31185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f311B5D15Fd1dF2f2fCf525F64748085B85Cec1",
+      "symbol": "RyoDoge",
+      "name": "RyoDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 79,
+    "minor": 80,
     "patch": 55
   }
 }
