@@ -30800,11 +30800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2ea2CA699053e4e715CC37650bb8114390a1c74",
+      "symbol": "ANCIENT",
+      "name": "AncientOrder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 43,
+    "minor": 44,
     "patch": 54
   }
 }
