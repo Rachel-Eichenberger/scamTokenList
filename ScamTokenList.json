@@ -30580,11 +30580,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe300590bBC0328789De9792A3b435Bf85938EDDf",
+      "symbol": "MIR",
+      "name": "MIRROR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 23,
+    "minor": 24,
     "patch": 54
   }
 }
