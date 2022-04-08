@@ -31218,11 +31218,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4560aDc58a6A750Ea9B1aF862F450d67c5CE4F88",
+      "symbol": "CHIVALRY",
+      "name": "chivalry",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 82,
+    "minor": 83,
     "patch": 55
   }
 }
