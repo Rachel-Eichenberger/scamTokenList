@@ -30987,11 +30987,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFA3ef8f2b5463dC6064c99c378AE6AEba44f1E71",
+      "symbol": "CMIYC",
+      "name": "CatchMeIfYouCan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 60,
+    "minor": 61,
     "patch": 54
   }
 }
