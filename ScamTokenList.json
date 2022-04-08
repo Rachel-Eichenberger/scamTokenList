@@ -30932,11 +30932,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x419cfCbbB3ad700716756C6AEaD8D2EB873159D3",
+      "symbol": "DOP",
+      "name": "DogsOfPrey",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 55,
+    "minor": 56,
     "patch": 54
   }
 }
