@@ -31042,11 +31042,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa706787f5b3Be5CE8B5C67120d104a7DDC0Ced78",
+      "symbol": "CHADX",
+      "name": "CHADCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 65,
+    "minor": 66,
     "patch": 54
   }
 }
