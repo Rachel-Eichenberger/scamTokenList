@@ -30866,11 +30866,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x550E6000663Eaf96A65bBD930ec19b85f2392bf9",
+      "symbol": "SHINKNIGHT",
+      "name": "Shinknight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 49,
+    "minor": 50,
     "patch": 54
   }
 }
