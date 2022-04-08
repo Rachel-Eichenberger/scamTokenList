@@ -31317,11 +31317,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Aa9305ED8a4a9d3e042515297FFE3b7d1EB5bFD",
+      "symbol": "HXT",
+      "name": "Hexatron",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 91,
+    "minor": 92,
     "patch": 55
   }
 }
