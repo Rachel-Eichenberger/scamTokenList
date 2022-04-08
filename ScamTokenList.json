@@ -30778,11 +30778,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D3616B7745d5bc694BE1120cC3698cBCB107228",
+      "symbol": "SHIGUN",
+      "name": "SHIGUN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 41,
+    "minor": 42,
     "patch": 54
   }
 }
