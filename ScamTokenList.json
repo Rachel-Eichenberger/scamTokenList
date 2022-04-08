@@ -31020,11 +31020,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x616430C85397e8de9b7622d22f576eC352C3EF44",
+      "symbol": "HOUND",
+      "name": "GalaxyHound",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 63,
+    "minor": 64,
     "patch": 54
   }
 }
