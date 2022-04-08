@@ -30789,11 +30789,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeDA8d29b3877a0D4b65Eef0C8DFb0eEfDD12E446",
+      "symbol": "Rovio",
+      "name": "RovioMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 42,
+    "minor": 43,
     "patch": 54
   }
 }
