@@ -31416,11 +31416,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA688800EB6043c4FB3aEca3aE835aC58363e1DA",
+      "symbol": "SRNO",
+      "name": "SerranoDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 0,
+    "minor": 1,
     "patch": 56
   }
 }
