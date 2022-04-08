@@ -31251,11 +31251,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8A8f578D09263189769df6e917B675281e535a5",
+      "symbol": "TWI",
+      "name": "TigerWoodsInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 85,
+    "minor": 86,
     "patch": 55
   }
 }
