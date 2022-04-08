@@ -31097,11 +31097,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2A243c7ECB04d5ACEA04aFA256381C33b154eA2",
+      "symbol": "ENDOGEN",
+      "name": "ENDOGEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 71,
+    "minor": 72,
     "patch": 55
   }
 }
