@@ -31174,11 +31174,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x079d9f7F0FB022C7B85C8F35AEfEb6945c08CD9f",
+      "symbol": "CULTFLOKI",
+      "name": "CULTFLOKI",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 78,
+    "minor": 79,
     "patch": 55
   }
 }
