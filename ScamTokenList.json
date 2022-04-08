@@ -30712,11 +30712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB87fB441d8eB2E25D88c51dEF924EBD25CB58614",
+      "symbol": "HEDGE",
+      "name": "HEDGEFUND",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 35,
+    "minor": 36,
     "patch": 54
   }
 }
