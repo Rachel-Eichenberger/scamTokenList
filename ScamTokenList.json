@@ -31350,11 +31350,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE97b8C9eb732Ec6a9Cb8f103c27830640F07d1A",
+      "symbol": "WHITE",
+      "name": "whiteapple",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 94,
+    "minor": 95,
     "patch": 55
   }
 }
