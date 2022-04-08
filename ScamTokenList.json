@@ -30910,11 +30910,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE0BaB99EC9B5ED5aEda9BBC99a2e488F571678f9",
+      "symbol": "WAR",
+      "name": "TheShibaWar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 53,
+    "minor": 54,
     "patch": 54
   }
 }
