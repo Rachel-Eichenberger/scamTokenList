@@ -30976,11 +30976,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a2D0D418Fe43ebf1c79238D5C6FD3a051A51Be0",
+      "symbol": "HikoInu",
+      "name": "HikoInuToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 59,
+    "minor": 60,
     "patch": 54
   }
 }
