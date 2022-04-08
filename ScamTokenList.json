@@ -30569,11 +30569,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+      "symbol": "VOLT",
+      "name": "VoltInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 22,
+    "minor": 23,
     "patch": 54
   }
 }
