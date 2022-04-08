@@ -31306,11 +31306,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A65A46DC55AcaE3126D4254d19715bAcb89D892",
+      "symbol": "ANCIENT",
+      "name": "ANCIENTORDER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 90,
+    "minor": 91,
     "patch": 55
   }
 }
