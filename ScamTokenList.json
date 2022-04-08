@@ -31229,11 +31229,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x819700f332aFfAcB4f29595DDD3F05eEd2A20f9B",
+      "symbol": "MASTERCHAIN",
+      "name": "Masterchain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 83,
+    "minor": 84,
     "patch": 55
   }
 }
