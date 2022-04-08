@@ -31163,11 +31163,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf443787298B784A832d2b0374eFa0E3338b40CED",
+      "symbol": "METABUCKS",
+      "name": "MetaBucks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 77,
+    "minor": 78,
     "patch": 55
   }
 }
