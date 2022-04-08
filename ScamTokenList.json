@@ -31196,11 +31196,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe053F19d5bC0a669eD4e72c76aF2635373E70874",
+      "symbol": "MILKER",
+      "name": "Milkers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 80,
+    "minor": 81,
     "patch": 55
   }
 }
