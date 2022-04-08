@@ -30998,11 +30998,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6699a3b4E66b5F463e186Ef111889Feb62001439",
+      "symbol": "MTSINU",
+      "name": "MTSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 61,
+    "minor": 62,
     "patch": 54
   }
 }
