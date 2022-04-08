@@ -31383,11 +31383,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C8488Ea4ceC6524D728266Cce7fd9a04094A5c8",
+      "symbol": "GoldRace",
+      "name": "GoldRace",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 97,
+    "minor": 98,
     "patch": 55
   }
 }
