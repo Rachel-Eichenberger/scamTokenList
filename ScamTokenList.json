@@ -30679,11 +30679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC997318FC52aA66B0b5118f437322C52386cc9e0",
+      "symbol": "McDonalds",
+      "name": "McDonaldsMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 32,
+    "minor": 33,
     "patch": 54
   }
 }
