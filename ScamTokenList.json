@@ -30921,11 +30921,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD38a6a2DA1e839Fc6a475775d643Cfd3F3115B08",
+      "symbol": "ZETH",
+      "name": "ZombieETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 54,
+    "minor": 55,
     "patch": 54
   }
 }
