@@ -30701,11 +30701,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b7Ee616d145d5FC99AAF599a7D593E02C16c5BB",
+      "symbol": "FRANK",
+      "name": "FrankCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 34,
+    "minor": 35,
     "patch": 54
   }
 }
