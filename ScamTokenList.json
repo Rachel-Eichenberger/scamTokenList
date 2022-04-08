@@ -30888,11 +30888,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bbac69DA27a8447d6274354517DBD787c948f75",
+      "symbol": "PartnerDoge",
+      "name": "PartnerDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 51,
+    "minor": 52,
     "patch": 54
   }
 }
