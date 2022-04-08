@@ -31152,11 +31152,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71527b0a50Be46a3d2e822432773219F1d9288e6",
+      "symbol": "HINU",
+      "name": "HamsterInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 76,
+    "minor": 77,
     "patch": 55
   }
 }
