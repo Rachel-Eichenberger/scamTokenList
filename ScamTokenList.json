@@ -30657,11 +30657,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C2B4D1748fa09C95dB2014F43A9F521c5C2b43a",
+      "symbol": "rodeo",
+      "name": "CyberDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 30,
+    "minor": 31,
     "patch": 54
   }
 }
