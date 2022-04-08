@@ -30943,11 +30943,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5bf7948daD49fC74A22E92839AA98147F4cdFEC1",
+      "symbol": "CLOUD",
+      "name": "Metacloud",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 56,
+    "minor": 57,
     "patch": 54
   }
 }
