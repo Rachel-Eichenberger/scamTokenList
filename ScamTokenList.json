@@ -30767,11 +30767,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC37f8930258b6B4334A3ce1803bE567b603159EB",
+      "symbol": "CK",
+      "name": "CK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 40,
+    "minor": 41,
     "patch": 54
   }
 }
