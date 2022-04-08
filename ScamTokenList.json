@@ -30965,11 +30965,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8F44b910354008714c63BD8970C83056D88548f",
+      "symbol": "MOD",
+      "name": "MoonOrDust",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 58,
+    "minor": 59,
     "patch": 54
   }
 }
