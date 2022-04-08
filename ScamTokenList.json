@@ -30602,11 +30602,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82Bf38683935a84C2F62B1611e1b1ec5Eb66b1FE",
+      "symbol": "BBC",
+      "name": "BigBlackChihuahua",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 25,
+    "minor": 26,
     "patch": 54
   }
 }
