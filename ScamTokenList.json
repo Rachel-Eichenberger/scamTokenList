@@ -31372,11 +31372,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6866117c319a29355eA280c274E27466586DbB20",
+      "symbol": "UHTRED",
+      "name": "UHTRED",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 96,
+    "minor": 97,
     "patch": 55
   }
 }
