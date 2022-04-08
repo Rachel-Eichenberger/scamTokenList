@@ -31119,11 +31119,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbFB593E046F6c53F3809804a05e847f3282Daa4B",
+      "symbol": "RVNT",
+      "name": "Revanent",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 73,
+    "minor": 74,
     "patch": 55
   }
 }
