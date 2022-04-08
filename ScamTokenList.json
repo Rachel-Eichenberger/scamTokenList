@@ -30635,11 +30635,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x339529889Dab41cB6f175e2EEBCD688C73a4D57e",
+      "symbol": "CLASH",
+      "name": "ClashToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 28,
+    "minor": 29,
     "patch": 54
   }
 }
