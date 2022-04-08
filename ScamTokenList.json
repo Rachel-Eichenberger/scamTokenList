@@ -31240,11 +31240,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5809a68C2aE0cCAcb1602aFAb56bE668F3970b2b",
+      "symbol": "FLOSHI",
+      "name": "FLOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 84,
+    "minor": 85,
     "patch": 55
   }
 }
