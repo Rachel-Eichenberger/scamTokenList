@@ -31064,11 +31064,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C28654798fF898DB920543bb14701dc21Ba45a9",
+      "symbol": "INVCULT",
+      "name": "InvertedCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 67,
+    "minor": 68,
     "patch": 54
   }
 }
