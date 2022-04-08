@@ -30756,11 +30756,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7216025D547b3C31d1dC294B3d2B9690283BA02a",
+      "symbol": "HBT",
+      "name": "HABOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 39,
+    "minor": 40,
     "patch": 54
   }
 }
