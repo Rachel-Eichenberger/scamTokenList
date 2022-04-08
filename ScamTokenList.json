@@ -30591,11 +30591,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61532c6F06bb8EfF1465980036f6FDc4C0f51F6f",
+      "symbol": "ReAnime",
+      "name": "ReAnimationDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 24,
+    "minor": 25,
     "patch": 54
   }
 }
