@@ -30954,11 +30954,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11eF4931e6DCEffa2B136483BC053445194D84Db",
+      "symbol": "WOFFE",
+      "name": "WhalesOFfame",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 57,
+    "minor": 58,
     "patch": 54
   }
 }
