@@ -30745,11 +30745,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Dd1DbA4307Ff386429EcAFC49Cdb3871d45d780",
+      "symbol": "Punk",
+      "name": "Punk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 38,
+    "minor": 39,
     "patch": 54
   }
 }
