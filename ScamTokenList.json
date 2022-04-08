@@ -30822,11 +30822,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F1e8F0942f44E87A03cCf402fAb7f6bD13814C9",
+      "symbol": "Zilla",
+      "name": "Zilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 45,
+    "minor": 46,
     "patch": 54
   }
 }
