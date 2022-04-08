@@ -31284,11 +31284,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFff7a537B023Ab442B2F20da088a29Fd3B01edB4",
+      "symbol": "xAMC",
+      "name": "ShortsWillBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 88,
+    "minor": 89,
     "patch": 55
   }
 }
