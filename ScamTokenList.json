@@ -30833,11 +30833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc948bcCE21307a4A9EaBa3E69BD1aed20065daD1",
+      "symbol": "ALIENMUSK",
+      "name": "AlienMusk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 46,
+    "minor": 47,
     "patch": 54
   }
 }
