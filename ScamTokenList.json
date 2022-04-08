@@ -31394,11 +31394,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EccFB5aDDA8CA02cFdcf3AB9961E7Fea84882d1",
+      "symbol": "FADE",
+      "name": "Fade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 98,
+    "minor": 99,
     "patch": 55
   }
 }
