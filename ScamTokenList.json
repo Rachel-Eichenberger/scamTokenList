@@ -31427,11 +31427,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe62b9812E2eEE28B820A77e34114A596871e0Dcb",
+      "symbol": "XKD",
+      "name": "ShibMurderer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 1,
+    "minor": 2,
     "patch": 56
   }
 }
