@@ -30899,11 +30899,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x296233E84c1D7bfF11121BF6D60f0FFA39C3f0cf",
+      "symbol": "NOONE",
+      "name": "Noone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 52,
+    "minor": 53,
     "patch": 54
   }
 }
