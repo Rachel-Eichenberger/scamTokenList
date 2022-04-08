@@ -31328,11 +31328,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEaf4c73D298481f7a7AE48fdE653756b7622ab69",
+      "symbol": "10Y",
+      "name": "10YearsInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 90,
-    "minor": 92,
+    "minor": 93,
     "patch": 55
   }
 }
