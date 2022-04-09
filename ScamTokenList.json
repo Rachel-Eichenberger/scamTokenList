@@ -31658,11 +31658,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5EaEf63026ace53b7E7497FC8B019c3893D3dc36",
+      "symbol": "MILKY",
+      "name": "MilkyMeta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 22,
+    "minor": 23,
     "patch": 56
   }
 }
