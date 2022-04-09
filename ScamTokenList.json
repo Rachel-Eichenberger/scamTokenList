@@ -31647,11 +31647,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4171a3303Cb65c04e6ABA4D1AA1632C04A472960",
+      "symbol": "TEE",
+      "name": "TheExchange",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 21,
+    "minor": 22,
     "patch": 56
   }
 }
