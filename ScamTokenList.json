@@ -31834,11 +31834,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47bBe5F71008Be815de6b5c0230Afe43d96d5ab0",
+      "symbol": "ShibaSaitama",
+      "name": "ShibaSaitama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 38,
+    "minor": 39,
     "patch": 56
   }
 }
