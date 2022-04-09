@@ -32164,11 +32164,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2EEc91208EEF21e7b280444D11EA421C185f70D",
+      "symbol": "KHAMZINU",
+      "name": "KhamzatINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 68,
+    "minor": 69,
     "patch": 56
   }
 }
