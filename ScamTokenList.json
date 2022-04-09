@@ -31691,11 +31691,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCd9ae5F5cC8FeEA91E7101a2B3f56F03Ed4d41C6",
+      "symbol": "ICULT",
+      "name": "InterestingCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 25,
+    "minor": 26,
     "patch": 56
   }
 }
