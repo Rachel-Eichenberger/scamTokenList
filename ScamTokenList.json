@@ -31801,11 +31801,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ca9672817eCd2178D44F1041798a19E02430936",
+      "symbol": "Burberry",
+      "name": "BurberryMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 35,
+    "minor": 36,
     "patch": 56
   }
 }
