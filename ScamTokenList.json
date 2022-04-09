@@ -32098,11 +32098,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1De246d5A4fA0D3771a28c64D4113F7dF94adFE1",
+      "symbol": "NASA",
+      "name": "NasaProject",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 62,
+    "minor": 63,
     "patch": 56
   }
 }
