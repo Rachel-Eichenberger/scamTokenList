@@ -31922,11 +31922,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84E716A91CC02C07A39b1E556ED91228843EDf68",
+      "symbol": "GDINU",
+      "name": "GreenDragonInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 46,
+    "minor": 47,
     "patch": 56
   }
 }
