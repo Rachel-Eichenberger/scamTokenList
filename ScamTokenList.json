@@ -31680,11 +31680,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x452F7fD56De954539d23991953239Fb808B822a3",
+      "symbol": "CNIL",
+      "name": "TheCouncil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 24,
+    "minor": 25,
     "patch": 56
   }
 }
