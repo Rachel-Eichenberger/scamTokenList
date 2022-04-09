@@ -31504,11 +31504,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d7454e49b3A08C4d9e155D9842D23C31F7a188C",
+      "symbol": "KYUUBI",
+      "name": "Kyuubi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 8,
+    "minor": 9,
     "patch": 56
   }
 }
