@@ -31581,11 +31581,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DDB1e26cbb50Ff472D679D2257b267F579c9BC2",
+      "symbol": "YOLO",
+      "name": "YOLO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 15,
+    "minor": 16,
     "patch": 56
   }
 }
