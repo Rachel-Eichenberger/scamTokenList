@@ -31636,11 +31636,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF01B894D8EF3E006a2c00e1247d5598aadbC19dD",
+      "symbol": "LFGINU",
+      "name": "LFGINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 20,
+    "minor": 21,
     "patch": 56
   }
 }
