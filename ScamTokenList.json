@@ -31812,11 +31812,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4f2368BF64317E06EAbE108F054bDc9A4763FE4",
+      "symbol": "FOXCULT",
+      "name": "FoxCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 36,
+    "minor": 37,
     "patch": 56
   }
 }
