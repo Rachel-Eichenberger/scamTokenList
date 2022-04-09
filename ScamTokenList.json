@@ -31702,11 +31702,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7bA0957d07209AEDf9816e5EA3316286D6D2c93",
+      "symbol": "HLM",
+      "name": "Hallouminati",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 26,
+    "minor": 27,
     "patch": 56
   }
 }
