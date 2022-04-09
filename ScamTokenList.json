@@ -31449,11 +31449,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a22121BF75ecD066f9829711bEd79b4B38F8eC0",
+      "symbol": "GOLIATH",
+      "name": "Goliath",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 3,
+    "minor": 4,
     "patch": 56
   }
 }
