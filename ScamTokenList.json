@@ -31460,11 +31460,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25710C7C3575b8736264fcee2dB27150a2b77849",
+      "symbol": "TRASH",
+      "name": "racc00nsDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 4,
+    "minor": 5,
     "patch": 56
   }
 }
