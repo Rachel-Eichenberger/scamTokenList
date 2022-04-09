@@ -31669,11 +31669,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1aff154e1cbE54e47D07258E64De936bb87748a",
+      "symbol": "Niantic",
+      "name": "NianticMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 23,
+    "minor": 24,
     "patch": 56
   }
 }
