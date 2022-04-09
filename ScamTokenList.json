@@ -32142,11 +32142,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30B0B6f643010D61F66716963bC8ce1CdEa78e7C",
+      "symbol": "ASSEMBLY",
+      "name": "Assembly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 66,
+    "minor": 67,
     "patch": 56
   }
 }
