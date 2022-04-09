@@ -31878,11 +31878,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD17ebbaD39F3Fdf6A9770480aB05E11b2D62C885",
+      "symbol": "CEREBRUM",
+      "name": "CerebrumDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 42,
+    "minor": 43,
     "patch": 56
   }
 }
