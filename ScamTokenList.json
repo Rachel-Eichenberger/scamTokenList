@@ -32021,11 +32021,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x387C9E8276A803CB5fb2C9ffc0B52F3E00F17c36",
+      "symbol": "DMTINU",
+      "name": "DMTINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 55,
+    "minor": 56,
     "patch": 56
   }
 }
