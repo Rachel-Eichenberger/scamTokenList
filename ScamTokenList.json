@@ -31911,11 +31911,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8854713Db6Ef34eC3Ecf0876A742Fe72Da377BD3",
+      "symbol": "PlayStation",
+      "name": "PlayStationMetavers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 45,
+    "minor": 46,
     "patch": 56
   }
 }
