@@ -31856,11 +31856,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16C9628375FE641715E68B308d65a69f51FC5596",
+      "symbol": "BABYDOGGER",
+      "name": "BabyDoggerToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 40,
+    "minor": 41,
     "patch": 56
   }
 }
