@@ -31955,11 +31955,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC652ABBe2DC6f1Ef852A307cD74DA19357682512",
+      "symbol": "ARN",
+      "name": "Arenum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 49,
+    "minor": 50,
     "patch": 56
   }
 }
