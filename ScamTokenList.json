@@ -32065,11 +32065,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBBCB5edcB3446dF7d901Aa2012D16bE98a58ce2B",
+      "symbol": "Vivendi",
+      "name": "VivendiMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 59,
+    "minor": 60,
     "patch": 56
   }
 }
