@@ -32032,11 +32032,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9CFC912707e183cAbc45775c4d0dA6dc7a828f5",
+      "symbol": "KYUUB",
+      "name": "KyuubInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 56,
+    "minor": 57,
     "patch": 56
   }
 }
