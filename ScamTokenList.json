@@ -31559,11 +31559,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1005252977a8517ecf72E75c89474953Bae83D21",
+      "symbol": "CMSNTAMA",
+      "name": "TheCommissionDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 13,
+    "minor": 14,
     "patch": 56
   }
 }
