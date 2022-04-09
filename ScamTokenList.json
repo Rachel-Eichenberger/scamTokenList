@@ -32120,11 +32120,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcEF250C861FBCda9934C46699A5A50536979c215",
+      "symbol": "OZAI",
+      "name": "FirelordOzai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 64,
+    "minor": 65,
     "patch": 56
   }
 }
