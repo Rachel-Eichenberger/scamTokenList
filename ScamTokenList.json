@@ -31867,11 +31867,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0eB13aEDDB0a7807EEc692027E5257092E927C97",
+      "symbol": "SRN",
+      "name": "TheShrine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 41,
+    "minor": 42,
     "patch": 56
   }
 }
