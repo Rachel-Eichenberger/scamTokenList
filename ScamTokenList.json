@@ -32087,11 +32087,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5a015e5bcc349296D52aAAff0250E736Ecec4c0",
+      "symbol": "CASUALITY",
+      "name": "CASUALITYINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 61,
+    "minor": 62,
     "patch": 56
   }
 }
