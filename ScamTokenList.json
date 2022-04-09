@@ -31515,11 +31515,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D3aA73436Fa2a2468F4e81beA121A70AcC3E8aA",
+      "symbol": "SHIBOSHI",
+      "name": "Shiboshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 9,
+    "minor": 10,
     "patch": 56
   }
 }
