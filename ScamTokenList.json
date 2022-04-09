@@ -32131,11 +32131,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd902D2fAE4D5B87f1d8D08dF623e6Df19579b08A",
+      "symbol": "MAFIA",
+      "name": "MafiaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 65,
+    "minor": 66,
     "patch": 56
   }
 }
