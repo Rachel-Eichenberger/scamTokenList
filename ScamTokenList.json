@@ -32010,11 +32010,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA1176F8E2f66EB8b35445AF6A0B048C61724000",
+      "symbol": "MAD",
+      "name": "madness",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 54,
+    "minor": 55,
     "patch": 56
   }
 }
