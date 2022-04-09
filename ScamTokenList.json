@@ -32043,11 +32043,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E3e8761C02D97CE32651f28f055EF9C216b699C",
+      "symbol": "ALIS",
+      "name": "AcropolisDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 57,
+    "minor": 58,
     "patch": 56
   }
 }
