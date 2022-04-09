@@ -31779,11 +31779,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDAf4Acc36b635Fb3A0D170140850c1dA054C2686",
+      "symbol": "Shinata",
+      "name": "Shinata",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 33,
+    "minor": 34,
     "patch": 56
   }
 }
