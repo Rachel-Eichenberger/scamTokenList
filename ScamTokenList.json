@@ -31757,11 +31757,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83694AdA88a521D60C74209754724418b023f2BD",
+      "symbol": "BBANK",
+      "name": "BlockBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 31,
+    "minor": 32,
     "patch": 56
   }
 }
