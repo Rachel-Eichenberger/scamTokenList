@@ -32219,11 +32219,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff2B705c60316925559FcD931DC0df4407fE0842",
+      "symbol": "manipulator",
+      "name": "manipulator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 73,
+    "minor": 74,
     "patch": 56
   }
 }
