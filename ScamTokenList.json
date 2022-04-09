@@ -31548,11 +31548,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbc7622eff306A093a387Bf27974446e8b072fb8",
+      "symbol": "CULTure",
+      "name": "CULTure",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 12,
+    "minor": 13,
     "patch": 56
   }
 }
