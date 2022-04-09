@@ -31482,11 +31482,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x974aD1BF7F72f814FE620350e426A5BE4CD09D7F",
+      "symbol": "GRAIL",
+      "name": "GRAIL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 6,
+    "minor": 7,
     "patch": 56
   }
 }
