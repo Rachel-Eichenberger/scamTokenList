@@ -31592,11 +31592,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C1fa86c7150458EC56a9733301DC5fcDe873aD9",
+      "symbol": "Bvlgari",
+      "name": "Bvlgari Metaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 16,
+    "minor": 17,
     "patch": 56
   }
 }
