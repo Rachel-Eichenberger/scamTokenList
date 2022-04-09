@@ -31889,11 +31889,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76Cae4a280560E359D0B9bFD9994A7497d32A555",
+      "symbol": "BUBBLE",
+      "name": "BubbleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 43,
+    "minor": 44,
     "patch": 56
   }
 }
