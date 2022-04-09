@@ -32208,11 +32208,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e1d072580beC48DF5cf07AA2091B327af2A1F42",
+      "symbol": "ZDAO",
+      "name": "ZeroDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 72,
+    "minor": 73,
     "patch": 56
   }
 }
