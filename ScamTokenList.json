@@ -31966,11 +31966,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAFbC92Ab12f7f6C28F01E95c879b3B293fB1d62C",
+      "symbol": "SHINATA",
+      "name": "Shinata",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 50,
+    "minor": 51,
     "patch": 56
   }
 }
