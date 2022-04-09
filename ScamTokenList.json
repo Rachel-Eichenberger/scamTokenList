@@ -32197,11 +32197,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d7f6E0fAa1EfcCd47C8796c23ac38B0674849EA",
+      "symbol": "GODDAO",
+      "name": "GODDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 71,
+    "minor": 72,
     "patch": 56
   }
 }
