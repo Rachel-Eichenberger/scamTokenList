@@ -31768,11 +31768,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5a666f9aB19b447d2295Bd539dE5dB18A5b9560",
+      "symbol": "KONG",
+      "name": "KongInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 32,
+    "minor": 33,
     "patch": 56
   }
 }
