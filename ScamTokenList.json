@@ -31471,11 +31471,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc289fe0B376d74fFdAa5D2283Fc92A60D70e4e85",
+      "symbol": "TGDogeChargerInu",
+      "name": "DogeChargerInuDCI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 5,
+    "minor": 6,
     "patch": 56
   }
 }
