@@ -31713,11 +31713,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8AfcaD814339d5BeB32eDDeC477f21BFA3f34EdF",
+      "symbol": "DyingTwitter",
+      "name": "DyingTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 27,
+    "minor": 28,
     "patch": 56
   }
 }
