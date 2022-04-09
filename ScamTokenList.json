@@ -31724,11 +31724,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cf1Aa7F2896857aC8A2b365b2D8301B5005ca00",
+      "symbol": "LEGO",
+      "name": "LEGOMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 28,
+    "minor": 29,
     "patch": 56
   }
 }
