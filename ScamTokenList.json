@@ -31526,11 +31526,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10ADc556362665F5DdACC80B296fb4F7c88A73ec",
+      "symbol": "BabyCMSN",
+      "name": "TheBabyCommission",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 10,
+    "minor": 11,
     "patch": 56
   }
 }
