@@ -32186,11 +32186,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x502041993E77b3A31452A24602eB10924348949b",
+      "symbol": "Magnum",
+      "name": "MagnumInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 70,
+    "minor": 71,
     "patch": 56
   }
 }
