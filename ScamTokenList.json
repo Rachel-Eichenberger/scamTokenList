@@ -31944,11 +31944,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a6701F8F3B40c13E879148FB096F71578a3F527",
+      "symbol": "REFLECT",
+      "name": "Reflect",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 48,
+    "minor": 49,
     "patch": 56
   }
 }
