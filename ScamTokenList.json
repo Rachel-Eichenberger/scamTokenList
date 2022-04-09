@@ -31988,11 +31988,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5FC47458f8013aF887cDd47D2009F33d708FbE1",
+      "symbol": "AKALI",
+      "name": "AkaliInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 52,
+    "minor": 53,
     "patch": 56
   }
 }
