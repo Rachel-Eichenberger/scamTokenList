@@ -31735,11 +31735,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xACa225323bdb8bE6E5eBe316d7B025ae388A651A",
+      "symbol": "SPACED",
+      "name": "SPACEDRAGON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 29,
+    "minor": 30,
     "patch": 56
   }
 }
