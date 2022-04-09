@@ -31845,11 +31845,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbE8Cee66429035443024657356302fA26790B401",
+      "symbol": "BW",
+      "name": "BrainWash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 39,
+    "minor": 40,
     "patch": 56
   }
 }
