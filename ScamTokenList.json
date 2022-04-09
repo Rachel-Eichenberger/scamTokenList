@@ -32230,11 +32230,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEDA49243Dde3c82be41B5911eA4f7B878F42B3fA",
+      "symbol": "TGColonel_Doge",
+      "name": "ColonelDogeCDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 74,
+    "minor": 75,
     "patch": 56
   }
 }
