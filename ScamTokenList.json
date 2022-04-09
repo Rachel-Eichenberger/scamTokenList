@@ -31790,11 +31790,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcA555F3e00226f5fF3424b16394C0e063c35e549",
+      "symbol": "MAXBUYINU",
+      "name": "MAXBUYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 34,
+    "minor": 35,
     "patch": 56
   }
 }
