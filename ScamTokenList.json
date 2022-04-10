@@ -33121,11 +33121,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x302b655b5543f7d3CA9652C4FD1165d3Ca671E2F",
+      "symbol": "SHII",
+      "name": "Sushii",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 55,
+    "minor": 56,
     "patch": 57
   }
 }
