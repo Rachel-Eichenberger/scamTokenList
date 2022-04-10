@@ -32747,11 +32747,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39Efd687C33bAA4bA61c4AF04036125f316770B0",
+      "symbol": "ADMARKET",
+      "name": "AdmiralMarket",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 21,
+    "minor": 22,
     "patch": 57
   }
 }
