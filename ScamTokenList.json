@@ -32824,11 +32824,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6aD00398CCFadAB33208883a60ba16BCBC6A28b",
+      "symbol": "WALL",
+      "name": "GREENWALLSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FbC2af5fa3821A5aD3962c20648b37c09FbC520",
+      "symbol": "FASCHINATING",
+      "name": "Fascinating",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 28,
+    "minor": 30,
     "patch": 57
   }
 }
