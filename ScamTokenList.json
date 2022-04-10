@@ -32769,11 +32769,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xabFAB3b16F5Ab42156fBF650e9B4511941e9064f",
+      "symbol": "WOJAK",
+      "name": "WojakInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 23,
+    "minor": 24,
     "patch": 57
   }
 }
