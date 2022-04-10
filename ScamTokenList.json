@@ -32626,11 +32626,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x088EC20E6b6B935d6b9AaDa09095236cC068759d",
+      "symbol": "DINU",
+      "name": "DUMBLEDOREinu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 10,
+    "minor": 11,
     "patch": 57
   }
 }
