@@ -32659,11 +32659,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5753cEe012E6a6d708b790F2fBaCe9511cE6C45c",
+      "symbol": "ItTakesTwo",
+      "name": "ItTakesTwo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 13,
+    "minor": 14,
     "patch": 57
   }
 }
