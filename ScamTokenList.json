@@ -32395,11 +32395,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7054Dc09ad86A5D7A5f9DE2c7EacF37108EC40D1",
+      "symbol": "SONIC",
+      "name": "SonicTheHedgehog",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 89,
+    "minor": 90,
     "patch": 56
   }
 }
