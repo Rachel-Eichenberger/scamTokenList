@@ -33099,11 +33099,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5a0Aed1b1c76B6F8BE7e4f9B838944aDF38Dc5b",
+      "symbol": "Liones",
+      "name": "PrincessLiones",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 53,
+    "minor": 54,
     "patch": 57
   }
 }
