@@ -32428,11 +32428,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94d888d17adb0987bF6Ab1EAF2f10CA7bd3Dc8e3",
+      "symbol": "DMSN",
+      "name": "TheDogeMission",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 92,
+    "minor": 93,
     "patch": 56
   }
 }
