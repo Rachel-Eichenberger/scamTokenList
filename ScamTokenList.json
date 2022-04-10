@@ -32362,11 +32362,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe22e7ec815799ECDc75A3112B9B8CA93a15DC0ae",
+      "symbol": "SMI",
+      "name": "SaitaMission",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7C93563C2b8a1F42dFc1C82C3ac0CEC6199E5d4",
+      "symbol": "B2M",
+      "name": "Bit2MeToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 86,
+    "minor": 88,
     "patch": 56
   }
 }
