@@ -32285,11 +32285,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9753933eC7fd2e5241a3de0DdfA49E9CFd397c61",
+      "symbol": "HOMELESS",
+      "name": "HOMELESS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 79,
+    "minor": 80,
     "patch": 56
   }
 }
