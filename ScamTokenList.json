@@ -32945,11 +32945,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x183e4B9F2f105D2C7e1221aE9AFD10852471D446",
+      "symbol": "Fowl",
+      "name": "FowlDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 39,
+    "minor": 40,
     "patch": 57
   }
 }
