@@ -32274,11 +32274,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf2738798d0F9DfBb8f086177D027cb4b69584252",
+      "symbol": "CRYPTOFIN",
+      "name": "CryptoFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 78,
+    "minor": 79,
     "patch": 56
   }
 }
