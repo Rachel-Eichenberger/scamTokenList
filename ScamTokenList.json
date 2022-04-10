@@ -32637,11 +32637,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A86a39f5A230E36bb29440E6d92B9D29B4DbF93",
+      "symbol": "ET",
+      "name": "ElonTitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 11,
+    "minor": 12,
     "patch": 57
   }
 }
