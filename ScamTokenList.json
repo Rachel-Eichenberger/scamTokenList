@@ -32516,11 +32516,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C0dfFf97C682cF469b2A6e1CeAF858a89B4d4d4",
+      "symbol": "MYSTERIOsoon",
+      "name": "MYSTERIOsoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 0,
+    "minor": 1,
     "patch": 57
   }
 }
