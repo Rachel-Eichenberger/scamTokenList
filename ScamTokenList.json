@@ -32252,11 +32252,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2aFF631666a4f740398ab2A94488Ca73DD1Fa688",
+      "symbol": "AkamaruKiba",
+      "name": "AkamaruKiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 76,
+    "minor": 77,
     "patch": 56
   }
 }
