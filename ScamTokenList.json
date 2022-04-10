@@ -32648,11 +32648,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfAC9aAcD2cfEd30DC5E7B0CA4F99a59200edA182",
+      "symbol": "SORS",
+      "name": "SorsToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 12,
+    "minor": 13,
     "patch": 57
   }
 }
