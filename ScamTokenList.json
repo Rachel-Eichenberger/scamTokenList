@@ -32527,11 +32527,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2038D56BB0B3f8CC774E3b217b7c39bFA3D7227",
+      "symbol": "Cultitter",
+      "name": "CultTitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 1,
+    "minor": 2,
     "patch": 57
   }
 }
