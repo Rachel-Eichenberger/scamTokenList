@@ -33110,11 +33110,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2A0f595C355B96bB87461613B00c6E3B63b10dB",
+      "symbol": "Unicredit",
+      "name": "UnicreditDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 54,
+    "minor": 55,
     "patch": 57
   }
 }
