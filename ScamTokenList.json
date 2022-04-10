@@ -33088,11 +33088,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15398545fFa4F05Ece8A9756760f11643cc07c25",
+      "symbol": "MonolithSoft",
+      "name": "MonolithSoftMetaver",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 52,
+    "minor": 53,
     "patch": 57
   }
 }
