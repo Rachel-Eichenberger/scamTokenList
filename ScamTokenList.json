@@ -33022,11 +33022,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9071E521D76cE262d9fDE2C1Bf8fdf860f328A7",
+      "symbol": "GameStop",
+      "name": "GameStopMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 46,
+    "minor": 47,
     "patch": 57
   }
 }
