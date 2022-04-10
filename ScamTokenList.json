@@ -32923,11 +32923,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDb39a2a09ab06Ea8CfFb94d33BBDE630e0BF7480",
+      "symbol": "COBRA",
+      "name": "COBRA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 37,
+    "minor": 38,
     "patch": 57
   }
 }
