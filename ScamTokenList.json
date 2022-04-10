@@ -32725,11 +32725,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10bcFF8E6a3089be9A819A4FE759e278540a59E7",
+      "symbol": "INUCULT",
+      "name": "InuCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 19,
+    "minor": 20,
     "patch": 57
   }
 }
