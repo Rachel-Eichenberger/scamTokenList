@@ -32329,11 +32329,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dC32D28DA62edfFebF094F29326285C109A44Ce",
+      "symbol": "PLANAHEAD",
+      "name": "PLANAHEAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 83,
+    "minor": 84,
     "patch": 56
   }
 }
