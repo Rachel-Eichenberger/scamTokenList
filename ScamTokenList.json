@@ -32670,11 +32670,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76d41Ce9F4F2d3c854664b21472ed367FbF5Ab75",
+      "symbol": "QOMSN",
+      "name": "TheQOMMISSION",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 14,
+    "minor": 15,
     "patch": 57
   }
 }
