@@ -32934,11 +32934,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62dfe603638EB267B3a82a85182014Bfb0667c22",
+      "symbol": "4POOL",
+      "name": "4PoolReserve",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 38,
+    "minor": 39,
     "patch": 57
   }
 }
