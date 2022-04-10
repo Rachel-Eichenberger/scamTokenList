@@ -32384,11 +32384,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8AFBD413ef602E0501d81AE9493B7c4381002e8B",
+      "symbol": "SMSN",
+      "name": "ShibMission",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 88,
+    "minor": 89,
     "patch": 56
   }
 }
