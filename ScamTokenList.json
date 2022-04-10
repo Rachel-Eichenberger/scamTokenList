@@ -32450,11 +32450,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A3Eec53900f5e6076745b5718cD0f5FFbE1684F",
+      "symbol": "BTCInvest",
+      "name": "ChangeInvest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 94,
+    "minor": 95,
     "patch": 56
   }
 }
