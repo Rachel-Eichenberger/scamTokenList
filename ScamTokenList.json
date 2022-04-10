@@ -32989,11 +32989,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xED42ED7BFf65674dab25C5592A0638FD351EbA61",
+      "symbol": "MOMENTUM",
+      "name": "Momentum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 43,
+    "minor": 44,
     "patch": 57
   }
 }
