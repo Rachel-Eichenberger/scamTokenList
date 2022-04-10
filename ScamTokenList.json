@@ -32483,11 +32483,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33DE2233bfF58725491B375f8271B95EDE574Bad",
+      "symbol": "TITTER",
+      "name": "Titter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 97,
+    "minor": 98,
     "patch": 56
   }
 }
