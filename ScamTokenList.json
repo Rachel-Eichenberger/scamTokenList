@@ -32351,11 +32351,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f2aBd2448e3B2d8dA385d0F543A3e3C09a98B5E",
+      "symbol": "ballroom",
+      "name": "ballroom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 85,
+    "minor": 86,
     "patch": 56
   }
 }
