@@ -32263,11 +32263,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41AD34B2a43C932AeBD84979a9c4A2c4Cf752d8D",
+      "symbol": "SENTRY",
+      "name": "CMSNProtector",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 77,
+    "minor": 78,
     "patch": 56
   }
 }
