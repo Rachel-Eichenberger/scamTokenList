@@ -32714,11 +32714,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a3d6B8db350ABBd80F8b39C5417b931d2Bd3F1B",
+      "symbol": "ELGD",
+      "name": "ElevenGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 18,
+    "minor": 19,
     "patch": 57
   }
 }
