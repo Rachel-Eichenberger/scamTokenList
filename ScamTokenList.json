@@ -32604,11 +32604,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa562635990BbE022890724c9c79B2d72ccF54F00",
+      "symbol": "CULTHORUS",
+      "name": "CultHorus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 8,
+    "minor": 9,
     "patch": 57
   }
 }
