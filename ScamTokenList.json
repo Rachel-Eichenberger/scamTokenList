@@ -32406,11 +32406,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF05FDf9401ad701094f35038cb0DBF4044587F3C",
+      "symbol": "SSI",
+      "name": "ShinShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 90,
+    "minor": 91,
     "patch": 56
   }
 }
