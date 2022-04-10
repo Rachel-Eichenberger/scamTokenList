@@ -32307,11 +32307,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34026c53a1f10a5C61275472eB5984EafBcD766A",
+      "symbol": "VILLAGE",
+      "name": "TheVillage",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 81,
+    "minor": 82,
     "patch": 56
   }
 }
