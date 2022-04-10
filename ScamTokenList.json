@@ -32967,11 +32967,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa103954fF86cA32aC97962cD4541eA243555679B",
+      "symbol": "Goblincoin",
+      "name": "Goblincoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 41,
+    "minor": 42,
     "patch": 57
   }
 }
