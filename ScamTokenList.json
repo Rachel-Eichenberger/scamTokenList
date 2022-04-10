@@ -32901,11 +32901,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08e2AD0bfB96d6be9C5c08c0d7171a914ceFE106",
+      "symbol": "CULTCULT",
+      "name": "CULTivationCULTure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 35,
+    "minor": 36,
     "patch": 57
   }
 }
