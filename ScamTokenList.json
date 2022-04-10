@@ -32318,11 +32318,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46B8B8407679749280C7109A0298bA529728aBe9",
+      "symbol": "QOMSN",
+      "name": "TheQommission",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 82,
+    "minor": 83,
     "patch": 56
   }
 }
