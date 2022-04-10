@@ -32340,11 +32340,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE3955E9F40154df69d2cCd9361A8e3D70f7afc8",
+      "symbol": "Richemont",
+      "name": "RichemontMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 84,
+    "minor": 85,
     "patch": 56
   }
 }
