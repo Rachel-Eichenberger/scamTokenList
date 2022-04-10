@@ -32593,11 +32593,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa72E663e84f40e3b1891940adaB4aeD95a084B5B",
+      "symbol": "MuskCult",
+      "name": "MuskCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 7,
+    "minor": 8,
     "patch": 57
   }
 }
