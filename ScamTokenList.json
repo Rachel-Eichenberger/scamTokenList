@@ -32681,11 +32681,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38B1c1BE183a480835E9bc63c5aCFD18eEDD1cB0",
+      "symbol": "KOOK",
+      "name": "Jungkook",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 15,
+    "minor": 16,
     "patch": 57
   }
 }
