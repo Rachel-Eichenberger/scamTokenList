@@ -33044,11 +33044,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1042c0d3739B23adef451826e5B2F3c0cda1A6B9",
+      "symbol": "paddock",
+      "name": "paddock",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 48,
+    "minor": 49,
     "patch": 57
   }
 }
