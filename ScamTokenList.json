@@ -32241,11 +32241,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xABfc10D896f9a495b37eb2C32c4e7a5E246A9a1a",
+      "symbol": "UFCINU",
+      "name": "UFCINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 75,
+    "minor": 76,
     "patch": 56
   }
 }
