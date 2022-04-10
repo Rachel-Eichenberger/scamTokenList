@@ -32978,11 +32978,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf515b497554B414eB98A3c7c4EAb2deCCFB091F",
+      "symbol": "GoblinInu",
+      "name": "GoblinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 42,
+    "minor": 43,
     "patch": 57
   }
 }
