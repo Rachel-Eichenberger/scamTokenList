@@ -32890,11 +32890,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1c8116546f5EEef8334C4AF0089EcE3Eee6daE0",
+      "symbol": "ZOSHI",
+      "name": "Zoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 34,
+    "minor": 35,
     "patch": 57
   }
 }
