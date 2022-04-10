@@ -32472,11 +32472,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeBde60F258791AcAE316fe084735787e22Ed141E",
+      "symbol": "Ascension",
+      "name": "Ascension",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 96,
+    "minor": 97,
     "patch": 56
   }
 }
