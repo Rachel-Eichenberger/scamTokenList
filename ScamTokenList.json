@@ -33000,11 +33000,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c26fF3475621cb2628E6e72584d684854c99fAA",
+      "symbol": "CARTEL",
+      "name": "Cartel",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 44,
+    "minor": 45,
     "patch": 57
   }
 }
