@@ -32868,11 +32868,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x649d09ee0E86497e1327b2524A7CAa723C17849c",
+      "symbol": "SHIT",
+      "name": "SHIT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 32,
+    "minor": 33,
     "patch": 57
   }
 }
