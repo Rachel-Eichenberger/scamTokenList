@@ -32758,11 +32758,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39eD667742b197422C0996fF4dBC93B5f6e9Ef9D",
+      "symbol": "DPD",
+      "name": "DOGPOOLDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 22,
+    "minor": 23,
     "patch": 57
   }
 }
