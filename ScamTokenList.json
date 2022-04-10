@@ -33055,11 +33055,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb97922EBE8D76582b530F8148F9DE3067DAc0722",
+      "symbol": "MOONSOON",
+      "name": "MOONSOON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 49,
+    "minor": 50,
     "patch": 57
   }
 }
