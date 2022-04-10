@@ -32736,11 +32736,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb618D696C0779B18767dfb57A07C164FCD0a7548",
+      "symbol": "ElonMcult",
+      "name": "ElonMcult",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 20,
+    "minor": 21,
     "patch": 57
   }
 }
