@@ -32857,11 +32857,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28A9DDD23332c89cc90eb3C62e6DB16136aF8761",
+      "symbol": "COE",
+      "name": "CultOfElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 31,
+    "minor": 32,
     "patch": 57
   }
 }
