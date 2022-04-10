@@ -32571,11 +32571,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA23fD1ece81D2f05c06c1BBd92eB5FEF42Da83F9",
+      "symbol": "TEMPLES",
+      "name": "TEMPLEOFSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 5,
+    "minor": 6,
     "patch": 57
   }
 }
