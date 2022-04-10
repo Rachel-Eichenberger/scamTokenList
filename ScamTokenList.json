@@ -32791,11 +32791,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3Add7F9eb77648D1EDb8C2d1D8a0dF513eBEaa7",
+      "symbol": "POPSHIBA",
+      "name": "PopeyeShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 25,
+    "minor": 26,
     "patch": 57
   }
 }
