@@ -32296,11 +32296,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73BDB33352288132bda4226d67A74aE4cD171627",
+      "symbol": "Guardian",
+      "name": "EthGuardian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 91,
-    "minor": 80,
+    "minor": 81,
     "patch": 56
   }
 }
