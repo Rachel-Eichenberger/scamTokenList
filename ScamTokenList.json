@@ -32846,11 +32846,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE2f5Ba8F2AE59c2A4b840B835d5C8d585827969",
+      "symbol": "SHIBLAND",
+      "name": "ShibMeta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 30,
+    "minor": 31,
     "patch": 57
   }
 }
