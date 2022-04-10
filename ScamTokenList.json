@@ -33132,11 +33132,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9509572Adb505E7eF6a54b4dC03564d1a01e315",
+      "symbol": "PSHIBA",
+      "name": "PumpingShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 56,
+    "minor": 57,
     "patch": 57
   }
 }
