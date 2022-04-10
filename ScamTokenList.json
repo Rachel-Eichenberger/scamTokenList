@@ -32615,11 +32615,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Bc4E90C002C939d66183375AE3589c30067F612",
+      "symbol": "AURAA",
+      "name": "Auraa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 9,
+    "minor": 10,
     "patch": 57
   }
 }
