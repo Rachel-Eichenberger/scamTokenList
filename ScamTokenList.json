@@ -32538,11 +32538,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x017f2E0f52BeC01a2FE5632BA7D319d6876d6e0E",
+      "symbol": "BabyCULTure",
+      "name": "BabyCULTure",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 2,
+    "minor": 3,
     "patch": 57
   }
 }
