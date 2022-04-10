@@ -33066,11 +33066,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0d0a4ECA60Aa13DbBcfbbA0cDE97Ca92F6F45Ba",
+      "symbol": "TCULT",
+      "name": "TEMPLEOFCULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 50,
+    "minor": 51,
     "patch": 57
   }
 }
