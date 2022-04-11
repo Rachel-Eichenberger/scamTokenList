@@ -33983,7 +33983,7 @@
     {
       "chainId": 1,
       "address": "0x50990ce9e32F1cf1B8994E2d954de96603662fBb",
-      "symbol": "DC Comics",
+      "symbol": "DCC",
       "name": "DC Comics Metaverse",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -34059,8 +34059,8 @@
     }
   ],
   "version": {
-    "major": 93,
-    "minor": 40,
-    "patch": 59
+    "major": 94,
+    "minor": 41,
+    "patch": 60
   }
 }
