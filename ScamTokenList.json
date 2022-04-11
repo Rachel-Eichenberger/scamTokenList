@@ -33858,11 +33858,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDa829dF1e29d80f7354029C383CE5542AE5ec352",
+      "symbol": "CEO",
+      "name": "Cult Elon Organisat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 22,
+    "minor": 23,
     "patch": 59
   }
 }
