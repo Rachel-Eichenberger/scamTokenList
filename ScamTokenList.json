@@ -33550,11 +33550,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA61c7Daa26b64B53DE9c187b4c1a80899dE7Cb87",
+      "symbol": "STABLESHIB",
+      "name": "StableShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 94,
+    "minor": 95,
     "patch": 57
   }
 }
