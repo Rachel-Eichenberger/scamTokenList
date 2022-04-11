@@ -33715,11 +33715,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE08ee5d3960bcbc95085242986c6d8AD7AA6cfc6",
+      "symbol": "ELGD",
+      "name": "ElevenGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 9,
+    "minor": 10,
     "patch": 59
   }
 }
