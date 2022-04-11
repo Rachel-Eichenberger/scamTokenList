@@ -34067,11 +34067,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf41e84288595089E966a47149139a8987f3a388",
+      "symbol": "TAROT",
+      "name": "SATOSHITAROTCARDS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 42,
+    "minor": 43,
     "patch": 60
   }
 }
