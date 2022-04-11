@@ -33440,11 +33440,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a91C8ee8c5CeB702c5D0854db92BaDf12a12a25",
+      "symbol": "SHAMAN",
+      "name": "ShamanToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 84,
+    "minor": 85,
     "patch": 57
   }
 }
