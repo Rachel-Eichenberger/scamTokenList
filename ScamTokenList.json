@@ -33594,11 +33594,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D2bE6bBc563843B70cEd6CEac12143a650dF9Bd",
+      "symbol": "Project52net",
+      "name": "Project52",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 98,
+    "minor": 99,
     "patch": 57
   }
 }
