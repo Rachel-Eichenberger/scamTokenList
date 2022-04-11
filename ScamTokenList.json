@@ -33407,11 +33407,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf06c39Ea8cb338d5a550BA12819A8a6ACDBC9472",
+      "symbol": "SANIMOON",
+      "name": "SaninMoonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 81,
+    "minor": 82,
     "patch": 57
   }
 }
