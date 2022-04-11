@@ -33429,11 +33429,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41b0ebAa7A08599A30657E7Fbf9701a4e057EC6f",
+      "symbol": "FXPRO",
+      "name": "FXPROTrade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 83,
+    "minor": 84,
     "patch": 57
   }
 }
