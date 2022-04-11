@@ -33352,11 +33352,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5B3bA112358823E403372C6371aFC62A86FF746",
+      "symbol": "OMN",
+      "name": "Omnia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 76,
+    "minor": 77,
     "patch": 57
   }
 }
