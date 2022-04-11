@@ -33308,11 +33308,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA96157026942103f3FF7A1b7AEC2D3bAfE972DF6",
+      "symbol": "MYSTERY",
+      "name": "MysteryPresale",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 72,
+    "minor": 73,
     "patch": 57
   }
 }
