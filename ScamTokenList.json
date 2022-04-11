@@ -33891,11 +33891,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7537467C27e7cfD2c1969818C2d5bFAeb0Fa26ab",
+      "symbol": "CRYPTOKINGS",
+      "name": "CRYPTOKINGS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 25,
+    "minor": 26,
     "patch": 59
   }
 }
