@@ -33935,11 +33935,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79d41A33521a777aD0f448b98c5773E45890e26B",
+      "symbol": "CODEG",
+      "name": "Code Geass",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 29,
+    "minor": 30,
     "patch": 59
   }
 }
