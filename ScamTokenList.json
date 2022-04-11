@@ -33990,11 +33990,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C54cD042f6cA794EC20261cea42df3c794C7d8D",
+      "symbol": "AKINU",
+      "name": "AKATSUKINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 34,
+    "minor": 35,
     "patch": 59
   }
 }
