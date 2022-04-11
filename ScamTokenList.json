@@ -33616,11 +33616,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc93aDD01999eE0357Eb52A39A041F3aED79d84a2",
+      "symbol": "FKNB",
+      "name": "FUCKNOTBANKSY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 0,
+    "minor": 1,
     "patch": 58
   }
 }
