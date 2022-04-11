@@ -33253,11 +33253,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa06AE68fF70EC61d11e2416B42150B6045f6CCE0",
+      "symbol": "SENTRY",
+      "name": "SANIProtector",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 67,
+    "minor": 68,
     "patch": 57
   }
 }
