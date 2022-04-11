@@ -33319,11 +33319,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7213F6eA93ABA4E564d4E272Fc32328b5c7904db",
+      "symbol": "SOD",
+      "name": "SONOFDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 73,
+    "minor": 74,
     "patch": 57
   }
 }
