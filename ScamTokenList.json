@@ -33451,11 +33451,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x794B4A0F0D8957eA043D29dE0BCe393A0c08EBC2",
+      "symbol": "CNY",
+      "name": "ChineseYuan",
+      "decimals": 2,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 85,
+    "minor": 86,
     "patch": 57
   }
 }
