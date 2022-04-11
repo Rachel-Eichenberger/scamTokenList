@@ -33198,11 +33198,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD18C00B8BEaaf832382c94644e52f7c7eF2b4DA3",
+      "symbol": "MOE",
+      "name": "MOE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 62,
+    "minor": 63,
     "patch": 57
   }
 }
