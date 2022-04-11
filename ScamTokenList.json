@@ -33484,11 +33484,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5699e648A5c39f84591Ef51360B9d1d8590170c",
+      "symbol": "BASE58",
+      "name": "OriginDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 88,
+    "minor": 89,
     "patch": 57
   }
 }
