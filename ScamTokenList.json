@@ -33825,11 +33825,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91F3e0376226Af64d822D955F69442bbd86bac0c",
+      "symbol": "BORK",
+      "name": "RipGabe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 19,
+    "minor": 20,
     "patch": 59
   }
 }
