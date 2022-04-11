@@ -33605,11 +33605,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x336468d128b64423A701153Cc7Acf9dE87481658",
+      "symbol": "NAMI",
+      "name": "NamiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 92,
-    "minor": 99,
-    "patch": 57
+    "major": 93,
+    "minor": 0,
+    "patch": 58
   }
 }
