@@ -33814,11 +33814,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf2432f45be1B68C4944316486bd64710691b20d6",
+      "symbol": "AINU",
+      "name": "Aang Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 18,
+    "minor": 19,
     "patch": 59
   }
 }
