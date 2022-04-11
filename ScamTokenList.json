@@ -34045,11 +34045,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x516e0F955574893805C5B690a81D2Df3c6E274aE",
+      "symbol": "Gromit",
+      "name": "GROMITINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 39,
+    "minor": 40,
     "patch": 59
   }
 }
