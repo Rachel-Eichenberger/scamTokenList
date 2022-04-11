@@ -33176,11 +33176,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5B3CCBBf9Ce11BCc0f3d60e82303AB3A30fe9E4",
+      "symbol": "OPF",
+      "name": "OnePointFive",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 60,
+    "minor": 61,
     "patch": 57
   }
 }
