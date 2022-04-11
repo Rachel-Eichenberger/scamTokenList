@@ -33528,11 +33528,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a3f947A7De882C138F89171235AE4e34b396D61",
+      "symbol": "SUKO",
+      "name": "SukoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 92,
+    "minor": 93,
     "patch": 57
   }
 }
