@@ -33693,11 +33693,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67C85CbFd4Cd0D38aBa4561CF6B4f82CC7660707",
+      "symbol": "NCsoft",
+      "name": "NCsoftMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 7,
+    "minor": 8,
     "patch": 58
   }
 }
