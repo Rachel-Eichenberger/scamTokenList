@@ -33649,11 +33649,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e08e6D8D38ada3e37148379184C6Aa98c895A42",
+      "symbol": "CDT",
+      "name": "CoolDogToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7aA4890Cc24f95F92E3A3f3E2829f92f409D6D51",
+      "symbol": "HOOH",
+      "name": "ORDEROFTHEPHOENIX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 3,
+    "minor": 5,
     "patch": 58
   }
 }
