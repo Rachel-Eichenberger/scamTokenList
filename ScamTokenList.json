@@ -33363,11 +33363,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63f3B021B40a54D5a612b8dc3C0ff7DfA7da476D",
+      "symbol": "EXEC",
+      "name": "ExecutiveToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 77,
+    "minor": 78,
     "patch": 57
   }
 }
