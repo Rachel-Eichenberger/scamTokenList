@@ -33341,11 +33341,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC23382949c7ED3853505C5C0a0f28F16aFd07F3f",
+      "symbol": "SendIt",
+      "name": "SendIt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 75,
+    "minor": 76,
     "patch": 57
   }
 }
