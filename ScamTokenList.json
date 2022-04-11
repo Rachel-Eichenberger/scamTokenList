@@ -33880,11 +33880,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB90Cde87259Ff16e60e19182807Fad1e4609C6A",
+      "symbol": "Kugisaki",
+      "name": "Kugisaki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 24,
+    "minor": 25,
     "patch": 59
   }
 }
