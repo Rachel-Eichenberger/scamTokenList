@@ -33924,11 +33924,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x410CD9C2a530dEcE8779B261cDEaC73fc85D1A3b",
+      "symbol": "ANIME",
+      "name": "Anime Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 28,
+    "minor": 29,
     "patch": 59
   }
 }
