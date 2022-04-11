@@ -33561,11 +33561,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E117b0300060b76B7cAd295325a01c75396c3B7",
+      "symbol": "Heineken",
+      "name": "HeinekenMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 95,
+    "minor": 96,
     "patch": 57
   }
 }
