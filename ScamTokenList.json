@@ -33517,11 +33517,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25e13fCe6cbb8cF754db285eEa59633e0B648363",
+      "symbol": "SENTINEL",
+      "name": "SentinelToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 91,
+    "minor": 92,
     "patch": 57
   }
 }
