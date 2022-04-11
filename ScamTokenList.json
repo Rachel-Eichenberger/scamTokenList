@@ -33495,11 +33495,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C81dC8473a321C7919cEffbbF75d212e9096cF3",
+      "symbol": "GDBX",
+      "name": "GoldBux",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 89,
+    "minor": 90,
     "patch": 57
   }
 }
