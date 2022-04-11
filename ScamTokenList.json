@@ -33385,11 +33385,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ff16036668c7fF79fbf7fE55DF6EdDa4b921A4b",
+      "symbol": "babySANI",
+      "name": "BabySaninInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 79,
+    "minor": 80,
     "patch": 57
   }
 }
