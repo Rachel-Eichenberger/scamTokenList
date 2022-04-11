@@ -33759,11 +33759,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b51584e43868F6149170C26879FeAC3b1E09CB7",
+      "symbol": "MASTERMIND",
+      "name": "MasterMind",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 13,
+    "minor": 14,
     "patch": 59
   }
 }
