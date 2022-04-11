@@ -33143,11 +33143,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB09aB41Ab1E46035Fd1318C1fCC59A96C67A055f",
+      "symbol": "PUPPER",
+      "name": "PUPPER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 57,
+    "minor": 58,
     "patch": 57
   }
 }
