@@ -34012,11 +34012,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51664F7A7F404c99485da429031e29172e5E5d22",
+      "symbol": "HARUME",
+      "name": "Gintoki Sakata",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 36,
+    "minor": 37,
     "patch": 59
   }
 }
