@@ -33902,11 +33902,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a73762Ea8593f3f61D93638f8A1697Df37BF689",
+      "symbol": "KCAL",
+      "name": "Stepapp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 26,
+    "minor": 27,
     "patch": 59
   }
 }
