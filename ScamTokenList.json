@@ -33154,11 +33154,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x021a475097296C349aE8b395F99092f3D567F117",
+      "symbol": "SIA",
+      "name": "SIA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 58,
+    "minor": 59,
     "patch": 57
   }
 }
