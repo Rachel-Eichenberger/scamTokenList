@@ -33770,11 +33770,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17178f03Bba087601Fc16dEA05a4452a3b2eFf11",
+      "symbol": "Ti",
+      "name": "Titanium Finance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 14,
+    "minor": 15,
     "patch": 59
   }
 }
