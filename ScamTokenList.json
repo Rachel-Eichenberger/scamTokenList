@@ -33220,11 +33220,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5A003DC67Db208C8798463494F5293208702acc",
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 64,
+    "minor": 65,
     "patch": 57
   }
 }
