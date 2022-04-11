@@ -33286,11 +33286,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x906dDCd1Dbd5E6b28b654088381122C241065603",
+      "symbol": "SANITAMA",
+      "name": "SaninSaitamaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 70,
+    "minor": 71,
     "patch": 57
   }
 }
