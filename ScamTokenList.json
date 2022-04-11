@@ -33847,11 +33847,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE60BCE6946313991e2194C90f08840777329fFCF",
+      "symbol": "SOC",
+      "name": "SOC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 21,
+    "minor": 22,
     "patch": 59
   }
 }
