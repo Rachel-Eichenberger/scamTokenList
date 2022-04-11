@@ -33506,11 +33506,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc43FeC97b2a8D5940fa6802Be9031274c3F5C067",
+      "symbol": "SEGA",
+      "name": "SEGA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 90,
+    "minor": 91,
     "patch": 57
   }
 }
