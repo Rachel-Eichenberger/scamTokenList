@@ -34111,11 +34111,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3554815E802FFB950972C83bDD8e0Ba30BD4313",
+      "symbol": "Spartan",
+      "name": "PROJECTSPARTAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 46,
+    "minor": 47,
     "patch": 60
   }
 }
