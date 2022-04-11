@@ -33726,11 +33726,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE841daE93dDC1803F5A405D4cAfB149eA434936",
+      "symbol": "APPA",
+      "name": "Appa Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 10,
+    "minor": 11,
     "patch": 59
   }
 }
