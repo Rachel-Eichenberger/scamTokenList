@@ -33957,11 +33957,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf3c46c382894Db283c054863c335e39cdfaa234",
+      "symbol": "EAT0",
+      "name": "EAT ZERO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 31,
+    "minor": 32,
     "patch": 59
   }
 }
