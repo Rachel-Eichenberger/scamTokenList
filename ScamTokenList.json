@@ -34034,11 +34034,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF70328D6Adc2C3B95c056C2B3d88E02205ea4750",
+      "symbol": "TUN",
+      "name": "TUNDRA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 38,
+    "minor": 39,
     "patch": 59
   }
 }
