@@ -33275,11 +33275,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB58EB6AF85488b8175B1AF4DeF26445aD8d996c7",
+      "symbol": "K0",
+      "name": "Kill0",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 69,
+    "minor": 70,
     "patch": 57
   }
 }
