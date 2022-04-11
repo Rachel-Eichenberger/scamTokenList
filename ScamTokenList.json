@@ -33374,11 +33374,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35b21f354e1b35298707E173C35a120d244640d9",
+      "symbol": "ORANGE",
+      "name": "OrangeToken_info",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 78,
+    "minor": 79,
     "patch": 57
   }
 }
