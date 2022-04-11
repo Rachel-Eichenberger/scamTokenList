@@ -33869,11 +33869,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd5734Addbca9a55c3ddE205B72072159ACF8D9e",
+      "symbol": "CUMQOM",
+      "name": "Jeets Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 23,
+    "minor": 24,
     "patch": 59
   }
 }
