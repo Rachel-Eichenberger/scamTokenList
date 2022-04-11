@@ -33946,11 +33946,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFDaC9587a384cA684E4F3Bace67981d885C28a2d",
+      "symbol": "SANJIN",
+      "name": "Sanjin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 30,
+    "minor": 31,
     "patch": 59
   }
 }
