@@ -33462,11 +33462,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa244A2893C32Be1C3dE39b4179c0e3a6A790D1e5",
+      "symbol": "NJSB",
+      "name": "NinjShib",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 86,
+    "minor": 87,
     "patch": 57
   }
 }
