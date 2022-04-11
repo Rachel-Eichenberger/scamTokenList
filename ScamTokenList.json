@@ -33396,11 +33396,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA98581d753f026A681f7DbE239CF9655b4eC18E",
+      "symbol": "RIPGABE",
+      "name": "RIPGABE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 80,
+    "minor": 81,
     "patch": 57
   }
 }
