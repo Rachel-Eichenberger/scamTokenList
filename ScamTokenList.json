@@ -26812,7 +26812,7 @@
       "chainId": 1,
       "address": "0x5B23163F9134a4F0f6B105fb4Df3E68B07E75d16",
       "symbol": "GENOME",
-      "name": "NG_0294721",
+      "name": "NG 0294721",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -32234,7 +32234,7 @@
     {
       "chainId": 1,
       "address": "0xEDA49243Dde3c82be41B5911eA4f7B878F42B3fA",
-      "symbol": "TGColonel_Doge",
+      "symbol": "TGColonel",
       "name": "ColonelDogeCDOGE",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
@@ -33704,11 +33704,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x531f14Af074F216420c39dFf3DD202dE589784aC",
+      "symbol": "SOKKA",
+      "name": "SOKKA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 8,
-    "patch": 58
+    "minor": 9,
+    "patch": 59
   }
 }
