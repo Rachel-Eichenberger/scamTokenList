@@ -33704,11 +33704,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x531f14Af074F216420c39dFf3DD202dE589784aC",
+      "symbol": "SOKKA",
+      "name": "SOKKA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 93,
-    "minor": 8,
+    "minor": 9,
     "patch": 58
   }
 }
