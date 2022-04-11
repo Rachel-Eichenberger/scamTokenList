@@ -33297,11 +33297,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d241f40D9ddc94A4b1bAD964d73010aa0c0a552",
+      "symbol": "INCH",
+      "name": "INCH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 71,
+    "minor": 72,
     "patch": 57
   }
 }
