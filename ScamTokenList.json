@@ -33418,11 +33418,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c0352A53f3e13f34fCe89fde9c1e564217ef849",
+      "symbol": "Atlus",
+      "name": "AtlusMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 82,
+    "minor": 83,
     "patch": 57
   }
 }
