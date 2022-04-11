@@ -33572,11 +33572,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c9Ded5B4b42b3E308ee46dCfE3819104772Aad3",
+      "symbol": "URBANINU",
+      "name": "URBANINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 96,
+    "minor": 97,
     "patch": 57
   }
 }
