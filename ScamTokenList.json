@@ -34078,11 +34078,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ca06D0A10154012637fA1272D5a40399bB67BD7",
+      "symbol": "UniversalPictures",
+      "name": "UNIVERSALPICTURESME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 43,
+    "minor": 44,
     "patch": 60
   }
 }
