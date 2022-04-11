@@ -33209,11 +33209,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85edA5FaFB110316324Cd010E35Bf3b97182568D",
+      "symbol": "LILU",
+      "name": "LickLuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 92,
-    "minor": 63,
+    "minor": 64,
     "patch": 57
   }
 }
