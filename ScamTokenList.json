@@ -34089,11 +34089,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AedCFC3f102213Ac635d66E64e3621944717699",
+      "symbol": "KET",
+      "name": "KETAMINE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 44,
+    "minor": 45,
     "patch": 60
   }
 }
