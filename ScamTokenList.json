@@ -34100,11 +34100,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ec9CBF7906fa6943C9fe817CE831e28788845b8",
+      "symbol": "Inclusion",
+      "name": "INCLUSION",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 45,
+    "minor": 46,
     "patch": 60
   }
 }
