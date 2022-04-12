@@ -34947,11 +34947,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA6bE69c2fe54631267F8e2b7061739573c15de1E",
+      "symbol": "FAY",
+      "name": "FAY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 22,
+    "minor": 23,
     "patch": 61
   }
 }
