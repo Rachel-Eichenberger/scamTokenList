@@ -34254,11 +34254,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBa5835400AE24F6A986BdCCECaF457aD19710463",
+      "symbol": "FUTURE",
+      "name": "THEFUTURE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 59,
+    "minor": 60,
     "patch": 60
   }
 }
