@@ -34650,11 +34650,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDAdb772353E946A02C9AE61F37B2D2f9a7441df8",
+      "symbol": "salution",
+      "name": "SALUTION",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 95,
+    "minor": 96,
     "patch": 60
   }
 }
