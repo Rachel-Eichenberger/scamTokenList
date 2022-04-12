@@ -34991,11 +34991,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e6122ee834aeE359397D56a6d6e8de8db72c8a0",
+      "symbol": "UnitedInternational",
+      "name": "UNITEDINTERNATIONAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 26,
+    "minor": 27,
     "patch": 61
   }
 }
