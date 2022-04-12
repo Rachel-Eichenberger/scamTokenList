@@ -34232,11 +34232,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fCe9Fc9B5d62aF082A59D0823A062F7529eFA5a",
+      "symbol": "SHAMAN",
+      "name": "SHAMAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 57,
+    "minor": 58,
     "patch": 60
   }
 }
