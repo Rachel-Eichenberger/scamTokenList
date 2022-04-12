@@ -35046,11 +35046,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x975F037C2f0e1F183d0E6529dcC3270072E10f00",
+      "symbol": "FEDERAL",
+      "name": "THEFEDERALIST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 31,
+    "minor": 32,
     "patch": 61
   }
 }
