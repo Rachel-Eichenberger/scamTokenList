@@ -34276,11 +34276,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2114Cc2aD11B2D7B3Cea03284FEB1dc2d21DaB36",
+      "symbol": "SHIK",
+      "name": "SHIKUSAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 61,
+    "minor": 62,
     "patch": 60
   }
 }
