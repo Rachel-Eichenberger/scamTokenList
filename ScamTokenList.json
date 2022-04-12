@@ -34672,11 +34672,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f911A0031d749651401CFd60DC6BdFd87EddcF0",
+      "symbol": "LUGIA",
+      "name": "LUGIAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 97,
+    "minor": 98,
     "patch": 60
   }
 }
