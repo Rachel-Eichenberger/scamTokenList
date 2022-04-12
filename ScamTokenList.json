@@ -35101,11 +35101,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B14CAC97a1b39Ddf0bFfa4101b749eE842823b1",
+      "symbol": "TGDOGEUSA",
+      "name": "PATRIOTDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 36,
+    "minor": 37,
     "patch": 61
   }
 }
