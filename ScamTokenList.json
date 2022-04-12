@@ -34914,11 +34914,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06aE21d6B1c11FD3260339D91dAc142f33eFbB06",
+      "symbol": "PHOENIX",
+      "name": "ORDEROFTHEPHOENIX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 19,
+    "minor": 20,
     "patch": 61
   }
 }
