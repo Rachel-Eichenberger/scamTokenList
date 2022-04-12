@@ -34980,11 +34980,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47b604CE93525136a753F0a387F7Efa289b25208",
+      "symbol": "DARE",
+      "name": "DARE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 25,
+    "minor": 26,
     "patch": 61
   }
 }
