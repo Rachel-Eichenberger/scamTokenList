@@ -34628,11 +34628,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc89E566653223154f5dE35506730Ac9c4d359e42",
+      "symbol": "KakashiInu",
+      "name": "KAKASHIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 93,
+    "minor": 94,
     "patch": 60
   }
 }
