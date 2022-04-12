@@ -34859,11 +34859,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B16ad32327e3145F66260cf9a1E69c9FAF2fBdc",
+      "symbol": "SAITAKING",
+      "name": "SAITAKINGINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 14,
+    "minor": 15,
     "patch": 61
   }
 }
