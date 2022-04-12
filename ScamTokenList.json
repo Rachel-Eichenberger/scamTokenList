@@ -34331,11 +34331,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3cf31C7285440B2938acf63dC5F25613f18633c",
+      "symbol": "ETHDOX",
+      "name": "ETHDOX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 66,
+    "minor": 67,
     "patch": 60
   }
 }
