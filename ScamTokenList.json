@@ -34738,11 +34738,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E5f3F92B728cFC4a9d7C1Cc12D0a75678Af54cD",
+      "symbol": "NWO",
+      "name": "THEELITE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 3,
+    "minor": 4,
     "patch": 61
   }
 }
