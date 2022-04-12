@@ -35112,11 +35112,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02C65A154a191ff9Fa449b4a1302550275942951",
+      "symbol": "GOLIATH",
+      "name": "GOLIATH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 37,
+    "minor": 38,
     "patch": 61
   }
 }
