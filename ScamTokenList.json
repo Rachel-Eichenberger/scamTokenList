@@ -34441,11 +34441,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDDbB5CD6Fc760b6ab9c0BeB21365362B79a190D9",
+      "symbol": "IBI",
+      "name": "IRONBEARINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 76,
+    "minor": 77,
     "patch": 60
   }
 }
