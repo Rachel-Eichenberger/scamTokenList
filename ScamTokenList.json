@@ -34771,11 +34771,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29355E5e590ADd0D01082c81D5b6d6575B86cF45",
+      "symbol": "TSUNADE",
+      "name": "TSUNADEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 6,
+    "minor": 7,
     "patch": 61
   }
 }
