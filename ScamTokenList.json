@@ -34320,11 +34320,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAB5e2c716B9641b4290587977eAE1F643c008e0E",
+      "symbol": "KIRK",
+      "name": "CHURCHPROTECTOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 65,
+    "minor": 66,
     "patch": 60
   }
 }
