@@ -35068,11 +35068,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x918fbDA6Aaa453B6dAfb4825e376Eb4DAffC1764",
+      "symbol": "TINU",
+      "name": "TOPHINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 33,
+    "minor": 34,
     "patch": 61
   }
 }
