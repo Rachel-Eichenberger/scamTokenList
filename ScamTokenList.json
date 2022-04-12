@@ -34595,11 +34595,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x545c1c502B4Ef71105879f8cf8398974F1970d8A",
+      "symbol": "MIKASA",
+      "name": "MIKASAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 90,
+    "minor": 91,
     "patch": 60
   }
 }
