@@ -34870,11 +34870,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fBE87C1573990600502Ee5E44f16759FDE1b7a0",
+      "symbol": "Troll",
+      "name": "STRONGHOLD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 15,
+    "minor": 16,
     "patch": 61
   }
 }
