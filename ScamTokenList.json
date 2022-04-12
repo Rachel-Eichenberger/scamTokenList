@@ -35156,11 +35156,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1a324524dAa99b7661B090bbA0FE74355d183d0",
+      "symbol": "ANOTE",
+      "name": "APENOTE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 41,
+    "minor": 42,
     "patch": 61
   }
 }
