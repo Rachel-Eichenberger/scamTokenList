@@ -34298,11 +34298,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E45de65356974383b53c82306dD596e8d38203c",
+      "symbol": "Musk",
+      "name": "MUSKMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 63,
+    "minor": 64,
     "patch": 60
   }
 }
