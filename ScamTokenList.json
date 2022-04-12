@@ -34848,11 +34848,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19d8855b280Eb725A328351564e838BDf3Eba354",
+      "symbol": "SHINSAMA",
+      "name": "SHINSAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 13,
+    "minor": 14,
     "patch": 61
   }
 }
