@@ -34507,11 +34507,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3Ca195613cC9b39de0Aea95E9b32ba64192EEa3",
+      "symbol": "OSHINU",
+      "name": "OSHINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 82,
+    "minor": 83,
     "patch": 60
   }
 }
