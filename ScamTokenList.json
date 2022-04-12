@@ -34716,11 +34716,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82beB884e3997A44FBa42620dC5fab0A86105C60",
+      "symbol": "SHIDO",
+      "name": "BUSHIDO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 1,
+    "minor": 2,
     "patch": 61
   }
 }
