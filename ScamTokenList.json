@@ -34177,11 +34177,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x602a657FD10e4dd4ae31117265De928e3f321D8E",
+      "symbol": "SHAMAN",
+      "name": "SHAMANTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 52,
+    "minor": 53,
     "patch": 60
   }
 }
