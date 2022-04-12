@@ -34342,11 +34342,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51c24242949A5B6E89b8d5E54D9CF2F8064079af",
+      "symbol": "NBA",
+      "name": "NATIONALBASKETBALLA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 67,
+    "minor": 68,
     "patch": 60
   }
 }
