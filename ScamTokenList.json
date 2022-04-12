@@ -34705,11 +34705,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xacf1651B2455C9A3D862E4786B6fc7e760bd7330",
+      "symbol": "CULTCHUCKY",
+      "name": "CULTCHUCKY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 0,
+    "minor": 1,
     "patch": 61
   }
 }
