@@ -34903,11 +34903,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9eB68308f8909D427cf847E196cE50Aad5d0D402",
+      "symbol": "EREN",
+      "name": "ATTACKONTITAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 18,
+    "minor": 19,
     "patch": 61
   }
 }
