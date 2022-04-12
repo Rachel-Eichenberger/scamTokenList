@@ -34573,11 +34573,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF50A709aeBE1C737F4d6afeaC63fCE8da19C6020",
+      "symbol": "Zynga",
+      "name": "ZYNGAMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 88,
+    "minor": 89,
     "patch": 60
   }
 }
