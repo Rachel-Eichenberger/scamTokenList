@@ -34749,11 +34749,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CB56AE8b92DC4b2F62f32487Bee348cEb2a26C2",
+      "symbol": "INSTE",
+      "name": "INSTITUTE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 4,
+    "minor": 5,
     "patch": 61
   }
 }
