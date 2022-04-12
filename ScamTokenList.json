@@ -34518,11 +34518,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8020265F487C7A4589e28bBA42bfB6357c994B4",
+      "symbol": "IKAI",
+      "name": "IKAIKAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 83,
+    "minor": 84,
     "patch": 60
   }
 }
