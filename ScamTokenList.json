@@ -35024,11 +35024,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x188B8d18D969BF3a346A5C82eA5f141fE6a5777D",
+      "symbol": "GONOBI",
+      "name": "HASHIRAMAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 29,
+    "minor": 30,
     "patch": 61
   }
 }
