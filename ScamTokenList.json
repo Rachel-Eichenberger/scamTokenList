@@ -34210,11 +34210,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f5814839B651b64F82c081D4A3A1F356bBEdD3A",
+      "symbol": "NikeRTFKT",
+      "name": "NIKERTFKTMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 55,
+    "minor": 56,
     "patch": 60
   }
 }
