@@ -34958,11 +34958,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd67f31C79209b375f43239adCAE2ec8f1535E7e0",
+      "symbol": "TOE",
+      "name": "TEMPLEOFELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 23,
+    "minor": 24,
     "patch": 61
   }
 }
