@@ -35123,11 +35123,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40026A6DD4FdFAbC006EF2A27b3232d9Bc2F3E5d",
+      "symbol": "SANIBANK",
+      "name": "BANKOFMOONTOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 38,
+    "minor": 39,
     "patch": 61
   }
 }
