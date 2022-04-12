@@ -35002,11 +35002,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3954CEf10d35712E1F7C40536C99A73eADbc8C0f",
+      "symbol": "TOMODACHI",
+      "name": "TOMODACHIGAMES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 27,
+    "minor": 28,
     "patch": 61
   }
 }
