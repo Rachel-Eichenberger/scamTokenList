@@ -34430,11 +34430,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4AE327a28221439425eC376B95a0FeDd08DB4f49",
+      "symbol": "DOD",
+      "name": "DOGEOFDUTY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 75,
+    "minor": 76,
     "patch": 60
   }
 }
