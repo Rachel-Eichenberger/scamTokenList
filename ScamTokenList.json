@@ -34188,11 +34188,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD38Cf9138CE518959366b0F0229F364C049F4e94",
+      "symbol": "FUTURE",
+      "name": "THEFUTURE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 53,
+    "minor": 54,
     "patch": 60
   }
 }
