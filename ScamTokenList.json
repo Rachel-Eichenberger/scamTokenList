@@ -34815,11 +34815,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FD130266dD474a0F1c93F3309f80c506915a364",
+      "symbol": "SmileGate",
+      "name": "SMILEGATEMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 10,
+    "minor": 11,
     "patch": 61
   }
 }
