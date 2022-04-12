@@ -34639,11 +34639,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06f4884B04A4b5459D2CDf4f85Ca002634a58F8B",
+      "symbol": "SHYOJI",
+      "name": "SHIBAONMYOJI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 94,
+    "minor": 95,
     "patch": 60
   }
 }
