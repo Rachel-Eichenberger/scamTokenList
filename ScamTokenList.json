@@ -34463,11 +34463,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15eb0162611D4629e99c2716204E5E95977c3e91",
+      "symbol": "Ti",
+      "name": "TITANIUMFINANCE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 78,
+    "minor": 79,
     "patch": 60
   }
 }
