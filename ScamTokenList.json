@@ -35167,11 +35167,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e017E420E8fbe9e3acafE3cd9B65D942B0EDeF3",
+      "symbol": "NotArt",
+      "name": "ITSNOTART",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 42,
+    "minor": 43,
     "patch": 61
   }
 }
