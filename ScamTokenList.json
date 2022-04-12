@@ -34133,11 +34133,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6B1514f093E3619E1b6dE7baCe3DE21004A5311",
+      "symbol": "TITAN",
+      "name": "TITAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 48,
+    "minor": 49,
     "patch": 60
   }
 }
