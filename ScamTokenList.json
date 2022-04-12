@@ -34892,11 +34892,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xedbAC6959ea5F319A64C77C82ccD56b0FA65a3f9",
+      "symbol": "INFLATION",
+      "name": "INFLATIONDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 17,
+    "minor": 18,
     "patch": 61
   }
 }
