@@ -34309,11 +34309,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E4751705De73f6712B8d43804871D1F95C7cE90",
+      "symbol": "CHURCHBANK",
+      "name": "BANKOFCHURCH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 64,
+    "minor": 65,
     "patch": 60
   }
 }
