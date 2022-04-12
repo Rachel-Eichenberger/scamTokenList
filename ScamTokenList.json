@@ -34540,11 +34540,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72beb5237ba1bad56CB406ed946EeC120F767cdb",
+      "symbol": "KYOSHI",
+      "name": "KYOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 85,
+    "minor": 86,
     "patch": 60
   }
 }
