@@ -34485,11 +34485,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x213035D59907C40E1dA7E38B16690c919C95B918",
+      "symbol": "ZORO",
+      "name": "ZOROINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 80,
+    "minor": 81,
     "patch": 60
   }
 }
