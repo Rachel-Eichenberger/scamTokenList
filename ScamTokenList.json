@@ -34925,11 +34925,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5AeeB8CcA5916EA4BDa3d46BA89d1eA19AA035Cb",
+      "symbol": "COLLECTION",
+      "name": "COLLECTIONPLATE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 20,
+    "minor": 21,
     "patch": 61
   }
 }
