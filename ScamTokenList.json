@@ -34419,11 +34419,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C67422928b25afd733084DeE0ff928F1b5edc99",
+      "symbol": "QOH",
+      "name": "DOGEHUNTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 74,
+    "minor": 75,
     "patch": 60
   }
 }
