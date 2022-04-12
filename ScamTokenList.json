@@ -34837,11 +34837,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09A420120aafAb5438Bd56c1790f6fc95B0760BE",
+      "symbol": "TUNGSTEN",
+      "name": "TUNGSTEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 12,
+    "minor": 13,
     "patch": 61
   }
 }
