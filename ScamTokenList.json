@@ -34782,11 +34782,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcdFaff659Bbc870B572E5D273045e4a1d14cB6A7",
+      "symbol": "Viacom",
+      "name": "VIACOMMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 7,
+    "minor": 8,
     "patch": 61
   }
 }
