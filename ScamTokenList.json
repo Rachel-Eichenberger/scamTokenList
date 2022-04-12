@@ -34936,11 +34936,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF468fa86b34b479e347B9bfAdB9D0254aD94283D",
+      "symbol": "TITAN",
+      "name": "TITAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 21,
+    "minor": 22,
     "patch": 61
   }
 }
