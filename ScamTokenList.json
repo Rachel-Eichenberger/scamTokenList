@@ -34881,11 +34881,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43066E451235b65232d71700edEec58CF31D3dc1",
+      "symbol": "G8",
+      "name": "GROUPOFEIGHT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 16,
+    "minor": 17,
     "patch": 61
   }
 }
