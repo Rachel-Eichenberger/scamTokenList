@@ -34793,11 +34793,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x445393dcDbe6Deb7DB2DD6B6AB1a00c6AEcbD7Dd",
+      "symbol": "CMMRY",
+      "name": "CRYPTOMEMORY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 8,
+    "minor": 9,
     "patch": 61
   }
 }
