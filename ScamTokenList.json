@@ -34804,11 +34804,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcca3E26Be51b8905f1A01872524f17eb55Bd02fb",
+      "symbol": "PARA",
+      "name": "PARABOLIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 9,
+    "minor": 10,
     "patch": 61
   }
 }
