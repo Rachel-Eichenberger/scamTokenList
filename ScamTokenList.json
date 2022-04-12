@@ -34551,11 +34551,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D58Aba202E0e04D7bFf7f9B1379CDB6c38222aa",
+      "symbol": "SHIBIGAMI",
+      "name": "SHIBIGAMI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 86,
+    "minor": 87,
     "patch": 60
   }
 }
