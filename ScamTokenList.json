@@ -34386,11 +34386,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94A281BE11fDCfe9849f817Bc1f92A4aaA00E07d",
+      "symbol": "BabyCHURCH",
+      "name": "BABYCHURCHDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 71,
+    "minor": 72,
     "patch": 60
   }
 }
