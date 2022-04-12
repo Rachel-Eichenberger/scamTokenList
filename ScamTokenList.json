@@ -34474,11 +34474,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90D33AFf810f15AC0e5247e7B93c1F225cb1b884",
+      "symbol": "ULV",
+      "name": "UNISWAPLABSVENTURES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 79,
+    "minor": 80,
     "patch": 60
   }
 }
