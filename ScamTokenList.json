@@ -34694,11 +34694,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71dB4b09E3013AeD6aC674480963576bd3D2e68A",
+      "symbol": "CULTMAN",
+      "name": "CULTMAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 94,
-    "minor": 99,
-    "patch": 60
+    "major": 95,
+    "minor": 0,
+    "patch": 61
   }
 }
