@@ -34606,11 +34606,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x723862b5B7b55d58d98307dF2ccb080aA1bf5d26",
+      "symbol": "MIKASA",
+      "name": "MIKASAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 94,
-    "minor": 91,
+    "minor": 92,
     "patch": 60
   }
 }
