@@ -34727,11 +34727,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11dcd008136B75419778c587bCE1f2C97b65839f",
+      "symbol": "BSHIB",
+      "name": "BLACKSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 2,
+    "minor": 3,
     "patch": 61
   }
 }
