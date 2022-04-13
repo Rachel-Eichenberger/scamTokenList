@@ -36091,11 +36091,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeB5b7b5874559D73fF2466E2B06C18d411d9d8d8",
+      "symbol": "THRONE",
+      "name": "THETHRONE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 26,
+    "minor": 27,
     "patch": 62
   }
 }
