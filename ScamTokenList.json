@@ -35563,11 +35563,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBaed60273BE719595E5416835a99Fa7B1Bd41F16",
+      "symbol": "LuffyShiba",
+      "name": "LUFFYSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 78,
+    "minor": 79,
     "patch": 61
   }
 }
