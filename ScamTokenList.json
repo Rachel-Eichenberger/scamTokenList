@@ -35244,11 +35244,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39Ff02669ad11Fd46674150CbfcA6B46b4e4b908",
+      "symbol": "Paramount",
+      "name": "PARAMOUNTPICTURES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 49,
+    "minor": 50,
     "patch": 61
   }
 }
