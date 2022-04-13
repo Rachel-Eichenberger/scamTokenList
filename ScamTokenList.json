@@ -35387,11 +35387,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32BB97d3E481694CF954a937088D5f12F0508bDD",
+      "symbol": "yourdao",
+      "name": "YOURDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 62,
+    "minor": 63,
     "patch": 61
   }
 }
