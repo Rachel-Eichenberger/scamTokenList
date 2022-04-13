@@ -35750,11 +35750,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A94d1B4b7e9b6B438C9AdAC052D66e53e26513c",
+      "symbol": "CEO",
+      "name": "CULTELONORGANISATIO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 95,
+    "minor": 96,
     "patch": 61
   }
 }
