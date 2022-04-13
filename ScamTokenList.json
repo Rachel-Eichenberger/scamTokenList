@@ -35816,11 +35816,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0114EEc2BC0F2f4990A9e4c29990dE02C4816E7",
+      "symbol": "STOGE",
+      "name": "STONERDOGE",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 1,
+    "minor": 2,
     "patch": 62
   }
 }
