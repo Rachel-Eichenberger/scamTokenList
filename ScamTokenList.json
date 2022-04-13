@@ -35200,11 +35200,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD95b0640A49A4b150ce1f855D3690FE96e04c50f",
+      "symbol": "KURAICULT",
+      "name": "KURAICULT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 45,
+    "minor": 46,
     "patch": 61
   }
 }
