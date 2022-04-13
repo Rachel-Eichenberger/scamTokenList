@@ -35717,11 +35717,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e907F220629983f5816e495331B91FA4dC45EA0",
+      "symbol": "AAAC",
+      "name": "ANTIAPEAPECLUB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 92,
+    "minor": 93,
     "patch": 61
   }
 }
