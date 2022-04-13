@@ -35981,11 +35981,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E0a358956A7eaCF5f61D219f315d1E0530EAdB2",
+      "symbol": "FAYE",
+      "name": "FAYEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 16,
+    "minor": 17,
     "patch": 62
   }
 }
