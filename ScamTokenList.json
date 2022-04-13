@@ -35310,11 +35310,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92e877Fc8F0dCEfA416897d622bD9477E1a3d2D2",
+      "symbol": "PROLIEN",
+      "name": "ALIENPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 55,
+    "minor": 56,
     "patch": 61
   }
 }
