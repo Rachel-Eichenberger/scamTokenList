@@ -36025,11 +36025,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86Ac2BefE0e8E259E0e5E82E1bFb0EeBF73d5d3e",
+      "symbol": "MINU",
+      "name": "MISAKAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 20,
+    "minor": 21,
     "patch": 62
   }
 }
