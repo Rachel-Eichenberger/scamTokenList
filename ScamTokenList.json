@@ -36146,11 +36146,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3383d1251662D3859cC54Cd0150630C536FaF10E",
+      "symbol": "DadE",
+      "name": "DADE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 31,
+    "minor": 32,
     "patch": 62
   }
 }
