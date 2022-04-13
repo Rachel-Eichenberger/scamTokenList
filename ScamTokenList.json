@@ -36003,11 +36003,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3608A295680DfD69D3a0fCFb6304D7EEc0313614",
+      "symbol": "NINU",
+      "name": "NIFFLERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 18,
+    "minor": 19,
     "patch": 62
   }
 }
