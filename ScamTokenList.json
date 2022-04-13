@@ -36333,11 +36333,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B49d5D870e1980BEEA82aD37813b9EF4D02dd53",
+      "symbol": "FatherofSafeMoon",
+      "name": "FATHEROFSAFEMOONCOM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 48,
+    "minor": 49,
     "patch": 62
   }
 }
