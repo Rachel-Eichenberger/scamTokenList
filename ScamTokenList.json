@@ -36245,11 +36245,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72E937E194aA6E2d124b5750DA945872cD7E164a",
+      "symbol": "Line",
+      "name": "LINEMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 40,
+    "minor": 41,
     "patch": 62
   }
 }
