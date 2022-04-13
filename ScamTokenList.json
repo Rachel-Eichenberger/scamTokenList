@@ -36223,11 +36223,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c5d55Aa9236aeD05Ee8d6E610EaeC9809e057d9",
+      "symbol": "OMNI",
+      "name": "OMNIINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 38,
+    "minor": 39,
     "patch": 62
   }
 }
