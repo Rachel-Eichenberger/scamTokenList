@@ -36069,11 +36069,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x051B1133B65432CC19fF4668aBa0e333f8A60E34",
+      "symbol": "PeakGames",
+      "name": "PEAKGAMESMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 24,
+    "minor": 25,
     "patch": 62
   }
 }
