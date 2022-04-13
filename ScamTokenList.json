@@ -36058,11 +36058,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D4de1245c854Ca8baB4c84fAdaDA5F9491F7912",
+      "symbol": "Zuka",
+      "name": "AZUKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 23,
+    "minor": 24,
     "patch": 62
   }
 }
