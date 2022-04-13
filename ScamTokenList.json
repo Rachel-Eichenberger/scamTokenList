@@ -36113,11 +36113,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4eBCE9E095cDe12533AA6aAC22f99a62Dc047CE9",
+      "symbol": "NINJABANK",
+      "name": "NINJABANK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 28,
+    "minor": 29,
     "patch": 62
   }
 }
