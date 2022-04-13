@@ -35882,11 +35882,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbff99eC817504978aD79D5D711234d12Eb5f44BB",
+      "symbol": "GOLDENELON",
+      "name": "GOLDENELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 7,
+    "minor": 8,
     "patch": 62
   }
 }
