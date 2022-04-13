@@ -36278,11 +36278,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32Fb5Fe3eCdB440Cef1674f8858192c79cC5A8F5",
+      "symbol": "SBBQ",
+      "name": "SHIBBQ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 43,
+    "minor": 44,
     "patch": 62
   }
 }
