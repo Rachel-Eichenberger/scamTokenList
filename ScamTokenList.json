@@ -35794,11 +35794,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAC3392cf472804CbCf5Ce805c0728d164E386253",
+      "symbol": "NewLineCinema",
+      "name": "NEWLINECINEMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 95,
-    "minor": 99,
-    "patch": 61
+    "major": 96,
+    "minor": 0,
+    "patch": 62
   }
 }
