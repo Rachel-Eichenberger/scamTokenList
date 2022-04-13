@@ -36080,11 +36080,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26Ab960F20839766A84606abf6A885FF7b527073",
+      "symbol": "LAWLIET",
+      "name": "LORDLAWLIET",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 25,
+    "minor": 26,
     "patch": 62
   }
 }
