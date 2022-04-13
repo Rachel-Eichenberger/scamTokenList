@@ -35849,11 +35849,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBbFec8Eb2F9623479a281b190beA80F2DE162905",
+      "symbol": "NEJI",
+      "name": "NEJIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 4,
+    "minor": 5,
     "patch": 62
   }
 }
