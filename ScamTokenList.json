@@ -36311,11 +36311,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19E2234007D22c9898AC55e61CdEDe27FC6D73ea",
+      "symbol": "SPACEDAO",
+      "name": "SPACEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 46,
+    "minor": 47,
     "patch": 62
   }
 }
