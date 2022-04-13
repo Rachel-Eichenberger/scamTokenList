@@ -35926,11 +35926,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8E292bb66A3d6476dC20294642de65aE2b0a9C7",
+      "symbol": "MOMO",
+      "name": "MOMOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 11,
+    "minor": 12,
     "patch": 62
   }
 }
