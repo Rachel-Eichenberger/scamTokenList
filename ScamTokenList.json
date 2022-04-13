@@ -36168,11 +36168,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8142cA548ad503B5325D0ea6523ABfCAa578625D",
+      "symbol": "OLE",
+      "name": "OPULENCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 33,
+    "minor": 34,
     "patch": 62
   }
 }
