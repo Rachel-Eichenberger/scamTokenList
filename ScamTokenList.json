@@ -35992,11 +35992,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A5E3125E21EBf6b6671ba4341DA0523D4f7220f",
+      "symbol": "KUMI",
+      "name": "KUMITOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 17,
+    "minor": 18,
     "patch": 62
   }
 }
