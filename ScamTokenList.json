@@ -35497,11 +35497,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5401F6EAb46cBa5a8151D1132c022a311d9AEAE",
+      "symbol": "CZR",
+      "name": "CZRETIREMENTPKG",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 72,
+    "minor": 73,
     "patch": 61
   }
 }
