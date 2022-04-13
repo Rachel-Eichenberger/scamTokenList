@@ -35827,11 +35827,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1faE2990760664596549ef16e97226aAF6FEf7d",
+      "symbol": "KILL",
+      "name": "KILLERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 2,
+    "minor": 3,
     "patch": 62
   }
 }
