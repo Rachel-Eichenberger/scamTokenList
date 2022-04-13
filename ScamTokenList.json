@@ -35343,11 +35343,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F325ea1Ef1B66D21b641b23eF7532A17De01310",
+      "symbol": "TOSHIRO",
+      "name": "TOSHIROINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 58,
+    "minor": 59,
     "patch": 61
   }
 }
