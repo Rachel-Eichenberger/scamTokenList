@@ -35959,11 +35959,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07eC1A790127210330c1511AeC4B38e04B4F2bf3",
+      "symbol": "SOAR",
+      "name": "SOAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 14,
+    "minor": 15,
     "patch": 62
   }
 }
