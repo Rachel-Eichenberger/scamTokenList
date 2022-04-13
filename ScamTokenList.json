@@ -35574,11 +35574,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaE74ee2d6b1458C6Df8cE9b97d4541b61E5C815d",
+      "symbol": "FLC",
+      "name": "FOREVERLOVECOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 79,
+    "minor": 80,
     "patch": 61
   }
 }
