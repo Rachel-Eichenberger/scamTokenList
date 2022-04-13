@@ -35629,11 +35629,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x543764E250f00D6e90Eb8489e15e7277Baf94F39",
+      "symbol": "SMOL",
+      "name": "SMOLTINGINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 84,
+    "minor": 85,
     "patch": 61
   }
 }
