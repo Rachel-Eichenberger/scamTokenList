@@ -35662,11 +35662,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6408E32b2006F7f856690Cd3171d9737d681A492",
+      "symbol": "KINO",
+      "name": "KINOICHIINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 87,
+    "minor": 88,
     "patch": 61
   }
 }
