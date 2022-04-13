@@ -36201,11 +36201,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFEB96025F0aA499ebE6a3Cc7d8e1F43073F7771E",
+      "symbol": "FEARLESS",
+      "name": "FEARLESSDEGEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 36,
+    "minor": 37,
     "patch": 62
   }
 }
