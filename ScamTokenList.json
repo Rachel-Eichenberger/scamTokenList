@@ -35222,11 +35222,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B1c58aA5FA7678Aa4c04c4C8B17F93DEf6328ce",
+      "symbol": "SANIBANK",
+      "name": "BANKOFMOONOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 47,
+    "minor": 48,
     "patch": 61
   }
 }
