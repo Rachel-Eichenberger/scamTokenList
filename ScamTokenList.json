@@ -35332,11 +35332,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x145d50b0cc5e1ad0eC242e0aFbdc59fa7EdB1725",
+      "symbol": "1984",
+      "name": "FREEDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 57,
+    "minor": 58,
     "patch": 61
   }
 }
