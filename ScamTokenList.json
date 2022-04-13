@@ -35277,11 +35277,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C367e6941590B3DB86Ac4abB245b2732Ca9F443",
+      "symbol": "CAT22",
+      "name": "CATCH22",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 52,
+    "minor": 53,
     "patch": 61
   }
 }
