@@ -35475,11 +35475,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe662F2FE0fEF7dB2DD422dE736603fD4b38e6fE5",
+      "symbol": "OnePunchINU",
+      "name": "ONEPUNCHINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 70,
+    "minor": 71,
     "patch": 61
   }
 }
