@@ -36179,11 +36179,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Deb8E8BE7FdCDe0Cb1b0aa3A1AA70CddA4aDa61",
+      "symbol": "SHIKAMARU",
+      "name": "SHIKAMARUINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 34,
+    "minor": 35,
     "patch": 62
   }
 }
