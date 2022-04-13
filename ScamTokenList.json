@@ -35651,11 +35651,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7457109d8253D4C1e329429D0A90834a3A9102ea",
+      "symbol": "YDAO",
+      "name": "YOURDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 86,
+    "minor": 87,
     "patch": 61
   }
 }
