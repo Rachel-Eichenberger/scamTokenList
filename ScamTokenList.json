@@ -35508,11 +35508,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC585a2AC1dfB547fEc60660e8475000C45Be47B",
+      "symbol": "MAYTHOUS",
+      "name": "MAYTHOUSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 73,
+    "minor": 74,
     "patch": 61
   }
 }
