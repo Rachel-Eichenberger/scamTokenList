@@ -35673,11 +35673,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE5c3383eaEad13E25Da71835eFfd7d8E4D90C07",
+      "symbol": "Akira",
+      "name": "AKIRAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 88,
+    "minor": 89,
     "patch": 61
   }
 }
