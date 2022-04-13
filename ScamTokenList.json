@@ -35233,11 +35233,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b5B6fBd04d4e8FCA27A9B55AE1a78ce013e41af",
+      "symbol": "CMD",
+      "name": "COMMANDO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 48,
+    "minor": 49,
     "patch": 61
   }
 }
