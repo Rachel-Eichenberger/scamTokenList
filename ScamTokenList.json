@@ -36234,11 +36234,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7d411B263671a210332E00E58326E7D743A472b",
+      "symbol": "Asatan",
+      "name": "ASATAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 39,
+    "minor": 40,
     "patch": 62
   }
 }
