@@ -36300,11 +36300,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe54eFD7C803F29d646A9087885a683d2506D6D69",
+      "symbol": "PAXW",
+      "name": "PAXWORLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 45,
+    "minor": 46,
     "patch": 62
   }
 }
