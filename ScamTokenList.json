@@ -35211,11 +35211,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d4f014AcfffcB9Ae0b7b52d46988ae72988B028",
+      "symbol": "TAO",
+      "name": "TEMPLEDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 46,
+    "minor": 47,
     "patch": 61
   }
 }
