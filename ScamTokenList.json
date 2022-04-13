@@ -36124,11 +36124,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04aA07d152F87Bc69D60b87dEccd97648a76e91b",
+      "symbol": "ROBININU",
+      "name": "ROBININU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 29,
+    "minor": 30,
     "patch": 62
   }
 }
