@@ -35684,11 +35684,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c66E4C18ad9A983aB61656f70888ECdF523F3d5",
+      "symbol": "DLAND",
+      "name": "DEMOCRACYLAND",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 89,
+    "minor": 90,
     "patch": 61
   }
 }
