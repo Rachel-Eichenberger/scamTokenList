@@ -35915,11 +35915,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x943F7a25E8704399430e89c1194510BA19Bb25D1",
+      "symbol": "SAIKI",
+      "name": "SAIKIINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 10,
+    "minor": 11,
     "patch": 62
   }
 }
