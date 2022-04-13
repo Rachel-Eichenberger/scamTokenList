@@ -35409,11 +35409,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6077948AF2D09Ad99e6F5096049205551CBb361",
+      "symbol": "LETS",
+      "name": "OKLETSPLAY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 64,
+    "minor": 65,
     "patch": 61
   }
 }
