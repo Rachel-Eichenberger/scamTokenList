@@ -35519,11 +35519,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e9A2c0c5001C83A223320c4ac1eb8e06123b241",
+      "symbol": "CELESTIAL",
+      "name": "CELESTIALTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 74,
+    "minor": 75,
     "patch": 61
   }
 }
