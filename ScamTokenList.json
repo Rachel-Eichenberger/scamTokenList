@@ -36190,11 +36190,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d6905ACDb5eE766810269228aF2B1781c602e85",
+      "symbol": "BEEP",
+      "name": "BEEPBEEPTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 35,
+    "minor": 36,
     "patch": 62
   }
 }
