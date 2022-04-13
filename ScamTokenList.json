@@ -35431,11 +35431,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbE715cf37b620220a826F3aD918354898520853",
+      "symbol": "TheMatrix",
+      "name": "THEMATRIXMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 66,
+    "minor": 67,
     "patch": 61
   }
 }
