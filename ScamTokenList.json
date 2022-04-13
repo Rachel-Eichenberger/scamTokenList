@@ -35530,11 +35530,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb945933CBDB6bc23CdC8481a9675bF371BE87eb1",
+      "symbol": "ZERO",
+      "name": "ZEROINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 75,
+    "minor": 76,
     "patch": 61
   }
 }
