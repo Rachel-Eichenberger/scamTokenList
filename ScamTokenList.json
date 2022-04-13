@@ -35255,11 +35255,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDf164a4B335830eB561d1DE23E68fe3eb139f575",
+      "symbol": "ORLY",
+      "name": "ORLY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 50,
+    "minor": 51,
     "patch": 61
   }
 }
