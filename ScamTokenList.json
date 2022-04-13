@@ -35442,11 +35442,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46673f38a5F4b559D3aF32F7303b5065d55aC5D2",
+      "symbol": "MAAP",
+      "name": "MAGICAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 67,
+    "minor": 68,
     "patch": 61
   }
 }
