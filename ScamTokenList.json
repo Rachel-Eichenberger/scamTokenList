@@ -35189,11 +35189,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8834EfceEE598312FE172F1A339287C1B6c37D73",
+      "symbol": "CULTFU",
+      "name": "CULTFU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 44,
+    "minor": 45,
     "patch": 61
   }
 }
