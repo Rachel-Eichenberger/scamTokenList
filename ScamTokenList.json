@@ -35552,11 +35552,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0465eB22cB8d9626AC3508C392dA4B3720887780",
+      "symbol": "YUZU",
+      "name": "INORI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 77,
+    "minor": 78,
     "patch": 61
   }
 }
