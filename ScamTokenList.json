@@ -36267,11 +36267,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42D512f407bbFfeaF586a4942dF9ED9AC2fE05e7",
+      "symbol": "HASHIRA",
+      "name": "HASHIRAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 42,
+    "minor": 43,
     "patch": 62
   }
 }
