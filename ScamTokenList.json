@@ -36212,11 +36212,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7788D3D4cce007d6B5159B0904Dc66eF510b998",
+      "symbol": "NCRYPT",
+      "name": "ENCRYPT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 37,
+    "minor": 38,
     "patch": 62
   }
 }
