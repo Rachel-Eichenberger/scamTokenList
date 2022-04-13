@@ -36322,11 +36322,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F695c4EE37FAc3161189d9D6A7FD7717C6Fa422",
+      "symbol": "LINUX",
+      "name": "LINUX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 47,
+    "minor": 48,
     "patch": 62
   }
 }
