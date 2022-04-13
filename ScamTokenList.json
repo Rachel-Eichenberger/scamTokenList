@@ -35453,11 +35453,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13a21CE4eBb5B608771c3C18D5325C4E721Eb333",
+      "symbol": "2077",
+      "name": "CYBERPUNKDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 68,
+    "minor": 69,
     "patch": 61
   }
 }
