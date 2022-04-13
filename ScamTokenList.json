@@ -35299,11 +35299,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7185e6D5533A954C9d25906C0536109d401b813d",
+      "symbol": "LFG",
+      "name": "HODLDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 54,
+    "minor": 55,
     "patch": 61
   }
 }
