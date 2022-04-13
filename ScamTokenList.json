@@ -35541,11 +35541,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d0BaC40027FDCeDc4A4c938f65F40eA02784094",
+      "symbol": "NBA",
+      "name": "NBAMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 76,
+    "minor": 77,
     "patch": 61
   }
 }
