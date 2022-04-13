@@ -36289,11 +36289,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfD7fAA65F98309c242D64e53729b717cC587258B",
+      "symbol": "ITANU",
+      "name": "ITACHIINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 44,
+    "minor": 45,
     "patch": 62
   }
 }
