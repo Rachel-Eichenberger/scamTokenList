@@ -35464,11 +35464,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5141fF5f820B81256028412b398EAad998048fEB",
+      "symbol": "SMOL",
+      "name": "SMOLTINGINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 69,
+    "minor": 70,
     "patch": 61
   }
 }
