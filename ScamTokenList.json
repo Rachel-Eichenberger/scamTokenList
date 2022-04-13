@@ -35420,11 +35420,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcF4399dc797674C501da6999c37D237686c27214",
+      "symbol": "MGM",
+      "name": "METROGOLDWYNMAYERPI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 95,
-    "minor": 65,
+    "minor": 66,
     "patch": 61
   }
 }
