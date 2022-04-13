@@ -35948,11 +35948,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42D6a6b735a0dF6a995c2847e435a57Bc10f96Ef",
+      "symbol": "TANJIROKAMADO",
+      "name": "TANJIROKAMADO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 13,
+    "minor": 14,
     "patch": 62
   }
 }
