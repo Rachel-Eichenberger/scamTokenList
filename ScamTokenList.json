@@ -35904,11 +35904,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa886B7b9504c4E82127b31E0e57806b43486cb36",
+      "symbol": "AZKABANINU",
+      "name": "AZKABANINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 9,
+    "minor": 10,
     "patch": 62
   }
 }
