@@ -36355,11 +36355,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Ba0fBfe969f73B2d71d567bc1D33826F488Df06",
+      "symbol": "SPACEAPES",
+      "name": "SPACEAPES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 50,
+    "minor": 51,
     "patch": 62
   }
 }
