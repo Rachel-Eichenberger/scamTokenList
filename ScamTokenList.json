@@ -37224,11 +37224,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8BC49e1869e90090392cC345265c2379C4CfA0bB",
+      "symbol": "2KGames",
+      "name": "2KGAMESMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 38,
+    "minor": 39,
     "patch": 64
   }
 }
