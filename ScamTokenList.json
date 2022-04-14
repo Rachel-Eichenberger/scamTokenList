@@ -37213,11 +37213,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23289FdE48384E546aE1eF52390A3CA9277C8190",
+      "symbol": "ZoroDoge",
+      "name": "ZORODOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 37,
+    "minor": 38,
     "patch": 64
   }
 }
