@@ -36949,11 +36949,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Cf5c1D18Ff7daf00435AbF6A85b0f7fa0E3B2F0",
+      "symbol": "DAT",
+      "name": "DATREON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 13,
+    "minor": 14,
     "patch": 64
   }
 }
