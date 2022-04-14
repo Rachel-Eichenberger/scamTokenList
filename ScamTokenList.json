@@ -36575,11 +36575,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A7D45a330C74D8cF1d7520B3Cad64e4f408b625",
+      "symbol": "FINU",
+      "name": "FALCONINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 79,
+    "minor": 80,
     "patch": 63
   }
 }
