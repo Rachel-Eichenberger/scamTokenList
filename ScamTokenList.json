@@ -37081,11 +37081,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaD230200a0507a431A8fe7414c4E3f5397c4C91B",
+      "symbol": "Omega",
+      "name": "OMEGAMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 25,
+    "minor": 26,
     "patch": 64
   }
 }
