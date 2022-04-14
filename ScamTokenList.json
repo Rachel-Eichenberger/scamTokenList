@@ -36498,11 +36498,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE53825d21931A29C49999358A04e1b83f9123d14",
+      "symbol": "DAD",
+      "name": "DIAMONDALPHATOKEN",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 63,
+    "minor": 64,
     "patch": 62
   }
 }
