@@ -37114,11 +37114,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5B31F1d9d5d94cabcE8D8892492373630c58e62",
+      "symbol": "TTP",
+      "name": "TAKINGTWITTERPRIVAT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 28,
+    "minor": 29,
     "patch": 64
   }
 }
