@@ -36828,11 +36828,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9db4fCe33E4A97b3Be732acCC33d5111a3628A96",
+      "symbol": "SHIBSQUAWK",
+      "name": "SQUAWKOFFICIAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 2,
+    "minor": 3,
     "patch": 64
   }
 }
