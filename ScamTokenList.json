@@ -36740,11 +36740,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbDf8184b25c0976231Ee748bE3396E9FB7c7969",
+      "symbol": "WOW",
+      "name": "WOWMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 94,
+    "minor": 95,
     "patch": 63
   }
 }
