@@ -36597,11 +36597,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41a608D50DD254cF3204506F8b30f52aFA9df767",
+      "symbol": "IROHINU",
+      "name": "IROHINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 81,
+    "minor": 82,
     "patch": 63
   }
 }
