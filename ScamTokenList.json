@@ -37092,11 +37092,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x602c999Bfa7dDeEB4e5435C858583ab4Fb59C617",
+      "symbol": "LUFFYREFLECT",
+      "name": "LUFFYREFLECT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 26,
+    "minor": 27,
     "patch": 64
   }
 }
