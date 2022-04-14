@@ -36883,11 +36883,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6F96D0c2b4Bd0197D94Dba72fC02B74407093bD",
+      "symbol": "DAZUKI",
+      "name": "DAZUKIWRAPPED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 7,
+    "minor": 8,
     "patch": 64
   }
 }
