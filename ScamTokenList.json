@@ -36399,11 +36399,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B96485a623e918C959C13d16d31f089836bFb6d",
+      "symbol": "DDI",
+      "name": "DOGDAOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 54,
+    "minor": 55,
     "patch": 62
   }
 }
