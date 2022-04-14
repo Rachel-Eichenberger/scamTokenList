@@ -37026,11 +37026,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A92f206478e375dd97404F27a9f1B35DBCd25F7",
+      "symbol": "KOM",
+      "name": "KILLUAHUNTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 20,
+    "minor": 21,
     "patch": 64
   }
 }
