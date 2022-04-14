@@ -36927,11 +36927,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa15114E21c657782ab5d1aD772b21648c70a2143",
+      "symbol": "GORILLANOBI",
+      "name": "GORILLANOBI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 11,
+    "minor": 12,
     "patch": 64
   }
 }
