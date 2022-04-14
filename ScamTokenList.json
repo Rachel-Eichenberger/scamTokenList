@@ -37246,11 +37246,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94624B7fA65aD92e8D26bB6ad5842EC5770AC455",
+      "symbol": "HERO",
+      "name": "HERO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 40,
+    "minor": 41,
     "patch": 64
   }
 }
