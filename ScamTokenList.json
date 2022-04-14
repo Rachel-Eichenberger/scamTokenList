@@ -36553,11 +36553,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe28868991769c216A24A1737f225c73CD4c23D82",
+      "symbol": "SYNAGOGUE",
+      "name": "SYNAGOGUEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 77,
+    "minor": 78,
     "patch": 63
   }
 }
