@@ -36586,11 +36586,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37b1f621d6bAa7cdB3517aF17dA0E48283F773C9",
+      "symbol": "MINISQUAWK",
+      "name": "MINISQUAWK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 71,
+    "minor": 72,
     "patch": 62
   }
 }
