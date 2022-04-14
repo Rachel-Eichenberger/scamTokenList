@@ -37268,11 +37268,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x130537Fd246c966C9adA0B7E459BB57d50EA8160",
+      "symbol": "SadaharuInu",
+      "name": "SADAHARUINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 42,
+    "minor": 43,
     "patch": 64
   }
 }
