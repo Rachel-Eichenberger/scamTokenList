@@ -36674,11 +36674,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0420CccF76cf6B3a4e50F940779F62d954183df6",
+      "symbol": "BYK",
+      "name": "BYAKKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 88,
+    "minor": 89,
     "patch": 63
   }
 }
