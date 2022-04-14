@@ -36817,11 +36817,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fbEf2D05c3f4947DE8feEBBd2EA94b3B24C21c5",
+      "symbol": "YUTA",
+      "name": "YUTAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 1,
+    "minor": 2,
     "patch": 64
   }
 }
