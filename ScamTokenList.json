@@ -36443,11 +36443,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0dd7c5FAd57fB9043813b741dB48832a21128960",
+      "symbol": "DaonBad",
+      "name": "DAONBAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 58,
+    "minor": 59,
     "patch": 62
   }
 }
