@@ -36806,11 +36806,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x703978CF8e2c6Bdc6788Ba7c1472F3E0796a512b",
+      "symbol": "BONES",
+      "name": "SAKURAKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 0,
+    "minor": 1,
     "patch": 64
   }
 }
