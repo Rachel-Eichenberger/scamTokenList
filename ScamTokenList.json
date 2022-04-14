@@ -36905,11 +36905,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F25c0f07B6cAf2CE1dc839f420d64859773BE2F",
+      "symbol": "AAang",
+      "name": "AVATARAANG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 9,
+    "minor": 10,
     "patch": 64
   }
 }
