@@ -36388,11 +36388,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0eF7A639BeD96D843198C8Bdf02A516673ECF65",
+      "symbol": "NEZUKO",
+      "name": "NEZUKOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 53,
+    "minor": 54,
     "patch": 62
   }
 }
