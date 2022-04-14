@@ -37279,11 +37279,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF249A592f09aA6df18eE921F247C1933F089F6A2",
+      "symbol": "SquawkBurn",
+      "name": "SQUAWKBURN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 43,
+    "minor": 44,
     "patch": 64
   }
 }
