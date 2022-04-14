@@ -36663,11 +36663,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf65683FCb60b74C4c03CCF5FfF3654FFCC5aC725",
+      "symbol": "ERZA",
+      "name": "ERZAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 87,
+    "minor": 88,
     "patch": 63
   }
 }
