@@ -36696,11 +36696,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92A6F82ADbA2cB4BD79003b04180DDBCBEAC63DC",
+      "symbol": "TATSUMAKINU",
+      "name": "TATSUMAKINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 90,
+    "minor": 91,
     "patch": 63
   }
 }
