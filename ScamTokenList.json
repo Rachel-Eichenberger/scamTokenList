@@ -36630,11 +36630,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e8322B0941c5387d44f20D738B11072937e8Dc2",
+      "symbol": "C2C",
+      "name": "C2C",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 84,
+    "minor": 85,
     "patch": 63
   }
 }
