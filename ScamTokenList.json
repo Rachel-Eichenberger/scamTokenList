@@ -37202,11 +37202,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6Ae2aE030E70759C26f7fD50685fbdcb6a6fb4C",
+      "symbol": "GCE",
+      "name": "GREENCANDLEELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 36,
+    "minor": 37,
     "patch": 64
   }
 }
