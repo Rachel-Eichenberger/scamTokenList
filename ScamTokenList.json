@@ -37059,11 +37059,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Df6ab1B4d52418d1F0Ef79Fe828271e5F59707F",
+      "symbol": "ALPHONSE",
+      "name": "ALPHONSEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 23,
+    "minor": 24,
     "patch": 64
   }
 }
