@@ -36377,11 +36377,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb8B033DC6B4d87B29F11Dc9e13CB08F2da25f13",
+      "symbol": "APEGENE",
+      "name": "APEGENE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 52,
+    "minor": 53,
     "patch": 62
   }
 }
