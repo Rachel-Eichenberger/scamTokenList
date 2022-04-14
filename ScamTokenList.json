@@ -36520,11 +36520,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa61f6E21700648316DA822CFDAAD05211E9e297a",
+      "symbol": "BabySquawk",
+      "name": "BABYSQUAWK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 65,
+    "minor": 66,
     "patch": 62
   }
 }
