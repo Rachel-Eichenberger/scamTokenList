@@ -36773,11 +36773,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21D7B2a90a78AF198bbE73deea173D6FF27dC905",
+      "symbol": "SHOOD",
+      "name": "SHIBAHOOD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 97,
+    "minor": 98,
     "patch": 63
   }
 }
