@@ -36531,11 +36531,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05F80E9015E85D74c94922Ab7C0367ec91A00577",
+      "symbol": "FEATHER",
+      "name": "FEATHER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 66,
+    "minor": 67,
     "patch": 62
   }
 }
