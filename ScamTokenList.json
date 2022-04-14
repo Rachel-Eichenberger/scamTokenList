@@ -37158,11 +37158,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFd77A58CbEBACE47130435D70a7EEF304fc3fbA9",
+      "symbol": "DARK",
+      "name": "INTHEDARK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 32,
+    "minor": 33,
     "patch": 64
   }
 }
