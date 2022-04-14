@@ -37048,11 +37048,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A83deAbB6d818B4eA2628E25C3fCF1fCB0b93Dd",
+      "symbol": "GOODGIRL",
+      "name": "GOODGIRLINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 22,
+    "minor": 23,
     "patch": 64
   }
 }
