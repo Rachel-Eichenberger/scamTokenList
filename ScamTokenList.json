@@ -37147,11 +37147,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x232084272B5679F2A7c775b1A86160Ae71d235b4",
+      "symbol": "UTA",
+      "name": "UTAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 31,
+    "minor": 32,
     "patch": 64
   }
 }
