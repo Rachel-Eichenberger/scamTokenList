@@ -36509,11 +36509,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x693851a85C286eB838023ec45528C633b54A0B11",
+      "symbol": "CAW",
+      "name": "CAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 64,
+    "minor": 65,
     "patch": 62
   }
 }
