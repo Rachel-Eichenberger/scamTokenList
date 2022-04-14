@@ -37257,11 +37257,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x034421871920fb907a26247A3808823d50BD7A6d",
+      "symbol": "PUCHAO",
+      "name": "PUCHAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 41,
+    "minor": 42,
     "patch": 64
   }
 }
