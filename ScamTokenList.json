@@ -36432,11 +36432,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe31a4eCEC4396aD6747bB5578C138ECF0737A063",
+      "symbol": "SPA",
+      "name": "SENPAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 57,
+    "minor": 58,
     "patch": 62
   }
 }
