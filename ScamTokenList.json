@@ -37235,11 +37235,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x505d70f5bBFd65d4430e7A28f0816FDCbdb59C5f",
+      "symbol": "NANE",
+      "name": "INANE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 39,
+    "minor": 40,
     "patch": 64
   }
 }
