@@ -36707,11 +36707,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x597775fB0E3c9300Eb6DF3277D2f620fdF31c680",
+      "symbol": "Legendary",
+      "name": "LEGENDARYPICTURESME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 91,
+    "minor": 92,
     "patch": 63
   }
 }
