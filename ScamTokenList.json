@@ -36454,11 +36454,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4Ef247829556E99ed373f4E8fe359b9f42b1Ccd",
+      "symbol": "TOKI",
+      "name": "GINTOKITOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 59,
+    "minor": 60,
     "patch": 62
   }
 }
