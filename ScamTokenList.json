@@ -36850,11 +36850,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03AF4e87167ca9394F25D93a352a8e0E6FA497C9",
+      "symbol": "NINJAKONG",
+      "name": "NINJAKONG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 4,
+    "minor": 5,
     "patch": 64
   }
 }
