@@ -36410,11 +36410,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c6670ef178faa24e53Cc96C1AAB9521a248E978",
+      "symbol": "MINU",
+      "name": "MIKUINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 55,
+    "minor": 56,
     "patch": 62
   }
 }
