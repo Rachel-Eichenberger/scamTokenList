@@ -37004,11 +37004,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b6Dd053dd35aBfE25ded12755692c7482F52FDc",
+      "symbol": "GINU",
+      "name": "GRUMPY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 18,
+    "minor": 19,
     "patch": 64
   }
 }
