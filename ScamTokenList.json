@@ -36465,11 +36465,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bd0E2Aa40e0481EcAC374d4049Be0f6a64aDDE6",
+      "symbol": "HENTAI",
+      "name": "HENTAIDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 60,
+    "minor": 61,
     "patch": 62
   }
 }
