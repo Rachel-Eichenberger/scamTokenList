@@ -36575,11 +36575,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAc6f1E26c9AA3aE78b2cBd8A4F2CBE2bE0012AD7",
+      "symbol": "SQUAWKBANK",
+      "name": "BANKOFSQUAWK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 70,
+    "minor": 71,
     "patch": 62
   }
 }
