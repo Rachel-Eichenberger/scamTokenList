@@ -36872,11 +36872,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04BE6EC0ab8Aa51Bb8A51e666e1d659F19C19B28",
+      "symbol": "OINU",
+      "name": "OFFERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 6,
+    "minor": 7,
     "patch": 64
   }
 }
