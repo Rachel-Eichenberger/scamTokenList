@@ -36597,11 +36597,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x349C0eaa0c6495C23ca56DC4741C5CFd20591bE0",
+      "symbol": "RWTD",
+      "name": "RONINWITHTHEDEVIL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 72,
+    "minor": 73,
     "patch": 62
   }
 }
