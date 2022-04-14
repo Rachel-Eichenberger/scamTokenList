@@ -36960,11 +36960,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06269F0b4824E5b0Ad7bF654eaa69Bf67908DaD6",
+      "symbol": "SHARKI",
+      "name": "SHARKINUTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 14,
+    "minor": 15,
     "patch": 64
   }
 }
