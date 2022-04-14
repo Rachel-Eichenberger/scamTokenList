@@ -37312,11 +37312,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3904603D37f67126aC9A7Bf035e2772EB8b745AF",
+      "symbol": "MTI",
+      "name": "MARSTYSONINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 46,
+    "minor": 47,
     "patch": 64
   }
 }
