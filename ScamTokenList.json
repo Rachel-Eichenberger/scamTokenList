@@ -36476,11 +36476,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DEcb1D2c6a77E44B80E423364a7762CE47E8aD6",
+      "symbol": "SHRIEK",
+      "name": "SHRIEK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 61,
+    "minor": 62,
     "patch": 62
   }
 }
