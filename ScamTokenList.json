@@ -36542,11 +36542,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x256053A043D48D21FEFDf06DBA1402Cb91D1d64d",
+      "symbol": "PatekPhilippe",
+      "name": "PATEKPHILIPPEMETAVE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 97,
-    "minor": 76,
+    "minor": 77,
     "patch": 63
   }
 }
