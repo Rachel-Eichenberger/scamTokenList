@@ -36487,11 +36487,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2766DCBDCDa3F8a0369e970f02A3895C57603001",
+      "symbol": "Columbia",
+      "name": "COLUMBIAPICTURESMET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 62,
+    "minor": 63,
     "patch": 62
   }
 }
