@@ -37191,11 +37191,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE5E9615d1fBc63718DB4e19e637325eCa11c0AF",
+      "symbol": "TUXEDO",
+      "name": "THETUXEDO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 35,
+    "minor": 36,
     "patch": 64
   }
 }
