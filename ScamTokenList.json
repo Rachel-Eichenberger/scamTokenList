@@ -37070,11 +37070,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Be06aa55c882eF44Bc292ddd7157D7fb4B72E3a",
+      "symbol": "AKULA",
+      "name": "AKULA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 24,
+    "minor": 25,
     "patch": 64
   }
 }
