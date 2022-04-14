@@ -37125,11 +37125,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4863A97613FA444717fdc29Af0629B2845ba6cF4",
+      "symbol": "AMOGUS",
+      "name": "AMOGUS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 29,
+    "minor": 30,
     "patch": 64
   }
 }
