@@ -36861,11 +36861,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee345891Bb9EE427404C30ebC0E8Db90B8110F52",
+      "symbol": "OPM",
+      "name": "ONEPUNCHMAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 5,
+    "minor": 6,
     "patch": 64
   }
 }
