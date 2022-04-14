@@ -37015,11 +37015,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a3Dd35b38B77aB8a3AC416273b2B4DF48829718",
+      "symbol": "ROSHI",
+      "name": "ROSHIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 19,
+    "minor": 20,
     "patch": 64
   }
 }
