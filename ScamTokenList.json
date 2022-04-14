@@ -36366,11 +36366,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A97b456a7E654435241555B4D5252Cdc0807439",
+      "symbol": "PLNT",
+      "name": "PLATINUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 96,
-    "minor": 51,
+    "minor": 52,
     "patch": 62
   }
 }
