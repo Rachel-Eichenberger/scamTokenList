@@ -15271,17 +15271,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x7a9287ffbc8632a38396cB1d87a28959261F6cF8",
-      "symbol": "DINU",
-      "name": "Danke Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 137,
       "address": "0x0CafC7BB27822241884564615CF1BBa8e566F74E",
       "symbol": "DINU",
       "name": "Danke Inu",
@@ -32827,17 +32816,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xE6aD00398CCFadAB33208883a60ba16BCBC6A28b",
-      "symbol": "WALL",
-      "name": "GREENWALLSHIBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1FbC2af5fa3821A5aD3962c20648b37c09FbC520",
       "symbol": "FASCHINATING",
       "name": "Fascinating",
@@ -33633,17 +33611,6 @@
       "address": "0xDbF48E3B02Deb2fD65Ad0A39FFb874f142B52785",
       "symbol": "PokemonGo",
       "name": "PokemonGoINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x6e08e6D8D38ada3e37148379184C6Aa98c895A42",
-      "symbol": "CDT",
-      "name": "CoolDogToken",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -35610,17 +35577,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x2dfe83E778396a918Fa55Bc40D221E193ab73E6f",
-      "symbol": "PHRASE",
-      "name": "NEEDFORSEED",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13a458b4aA25eBa8c126fE6437d4f867F455FcA3",
       "symbol": "SMOL",
       "name": "SMOLTINGINU",
@@ -35635,17 +35591,6 @@
       "address": "0x543764E250f00D6e90Eb8489e15e7277Baf94F39",
       "symbol": "SMOL",
       "name": "SMOLTINGINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x7457109d8253D4C1e329429D0A90834a3A9102ea",
-      "symbol": "YDAO",
-      "name": "YOURDAO",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -35778,17 +35723,6 @@
       "address": "0x3ADbc73e9632F56fd51F6F97BfcF1f1aF5d398d6",
       "symbol": "APEGENE",
       "name": "APEGENE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0xAC3392cf472804CbCf5Ce805c0728d164E386253",
-      "symbol": "NewLineCinema",
-      "name": "NEWLINECINEMA",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -35998,17 +35932,6 @@
       "address": "0x9A5E3125E21EBf6b6671ba4341DA0523D4f7220f",
       "symbol": "KUMI",
       "name": "KUMITOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x3608A295680DfD69D3a0fCFb6304D7EEc0313614",
-      "symbol": "NINU",
-      "name": "NIFFLERINU",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
@@ -36619,22 +36542,11 @@
       "tags": [
         "scam"
       ]
-    },
-    {
-      "chainId": 1,
-      "address": "0xc0EbC8AF3d48AAe185E466c6A8fB8C7245858C86",
-      "symbol": "QRD",
-      "name": "QUORDLE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
     }
   ],
   "version": {
-    "major": 96,
-    "minor": 75,
-    "patch": 62
+    "major": 97,
+    "minor": 76,
+    "patch": 63
   }
 }
