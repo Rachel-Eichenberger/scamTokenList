@@ -37840,11 +37840,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x714d87cf6bB92c049e1cefC51b5a8FE348D6d686",
+      "symbol": "Gotenks",
+      "name": "GOTENKS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 94,
+    "minor": 95,
     "patch": 64
   }
 }
