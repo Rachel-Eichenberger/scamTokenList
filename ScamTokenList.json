@@ -37532,11 +37532,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF8a5252E304267b8E8435603406A1043b4Fe61c0",
+      "symbol": "CryptoPunks",
+      "name": "CRYPTOPUNKS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 66,
+    "minor": 67,
     "patch": 64
   }
 }
