@@ -37708,11 +37708,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30A7fEf95BfEF6B8813ebe0ac8F71B1fec4Fa5Db",
+      "symbol": "LENNY",
+      "name": "LENNYFEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 82,
+    "minor": 83,
     "patch": 64
   }
 }
