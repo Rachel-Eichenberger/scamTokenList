@@ -37719,11 +37719,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCB549c44F8aC2a84a2d09d5E6d63975E793bE42E",
+      "symbol": "JOYBOY",
+      "name": "JOYBOY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 83,
+    "minor": 84,
     "patch": 64
   }
 }
