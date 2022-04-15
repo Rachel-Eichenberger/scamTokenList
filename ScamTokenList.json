@@ -37543,11 +37543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd689EF7820a88A9C7468F823176F1CAaD36e761D",
+      "symbol": "StarCraft",
+      "name": "STARCRAFTMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 67,
+    "minor": 68,
     "patch": 64
   }
 }
