@@ -38005,11 +38005,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCe12b23Fda5194732C1848e127566c368Fd74b89",
+      "symbol": "MESSIAH",
+      "name": "MESSIAH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 9,
+    "minor": 10,
     "patch": 65
   }
 }
