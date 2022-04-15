@@ -37389,11 +37389,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56909D149a3FD12eFea80D4fa7eb021310c6a1a7",
+      "symbol": "ANGRYBIRDS",
+      "name": "ANGRYBIRDS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 53,
+    "minor": 54,
     "patch": 64
   }
 }
