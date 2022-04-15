@@ -37752,11 +37752,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x042bdD265eE7FC9E1040C6bdDC4F252B179CDc89",
+      "symbol": "STABLE",
+      "name": "STABLEGAINS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 86,
+    "minor": 87,
     "patch": 64
   }
 }
