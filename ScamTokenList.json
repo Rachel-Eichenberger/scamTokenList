@@ -37961,11 +37961,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2570eBD008Ec14ddAf66849B0c2D1Dd501B31D27",
+      "symbol": "SHiBCAW",
+      "name": "SHIBACAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 5,
+    "minor": 6,
     "patch": 65
   }
 }
