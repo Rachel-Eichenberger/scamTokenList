@@ -37411,11 +37411,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d7E71bc995691a42616Cb18e19EAB5445097BD6",
+      "symbol": "UltraAlpha",
+      "name": "ULTRAALPHA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 55,
+    "minor": 56,
     "patch": 64
   }
 }
