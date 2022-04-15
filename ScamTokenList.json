@@ -38060,11 +38060,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F53c1fdd241E00FeB636fd6E057449b28920Cf8",
+      "symbol": "Pornhub",
+      "name": "PORNHUBDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 14,
+    "minor": 15,
     "patch": 65
   }
 }
