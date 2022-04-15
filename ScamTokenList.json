@@ -37642,11 +37642,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D371C47d4A654587AdA14612e41CAc24a77B910",
+      "symbol": "SpaceTroops",
+      "name": "SPACETROOPS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 76,
+    "minor": 77,
     "patch": 64
   }
 }
