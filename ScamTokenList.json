@@ -37334,11 +37334,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38ed7fa1FADF77b361eeB5fCb79051Ee71B9d688",
+      "symbol": "AoT",
+      "name": "ATTACKONTITANINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 48,
+    "minor": 49,
     "patch": 64
   }
 }
