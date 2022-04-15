@@ -38071,11 +38071,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa492Ad124C78AfCc044891F137Fe7606e314DdE2",
+      "symbol": "MESS",
+      "name": "MESSIAH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 15,
+    "minor": 16,
     "patch": 65
   }
 }
