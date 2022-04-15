@@ -37653,11 +37653,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7E167EdeA4099Aa1a02b36C5A8D9E8d3C14f86d",
+      "symbol": "GameofThrones",
+      "name": "GAMEOFTHRONES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 77,
+    "minor": 78,
     "patch": 64
   }
 }
