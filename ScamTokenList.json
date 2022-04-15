@@ -37796,11 +37796,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D3289F4B1ba7093c66a81f29aa012A42De3eB83",
+      "symbol": "CAPE",
+      "name": "CAPITANAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 90,
+    "minor": 91,
     "patch": 64
   }
 }
