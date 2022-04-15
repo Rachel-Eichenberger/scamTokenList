@@ -37785,11 +37785,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7dE45D86199a2e4F9D8bf45bFD4a578886b48d3c",
+      "symbol": "TakashiMurakami",
+      "name": "TAKASHIMURAKAMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 89,
+    "minor": 90,
     "patch": 64
   }
 }
