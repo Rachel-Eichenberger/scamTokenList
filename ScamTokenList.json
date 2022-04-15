@@ -37631,11 +37631,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78b3dDD57616DEDF37a596Bf74Eec81fab68740f",
+      "symbol": "MAC",
+      "name": "MILLIONAIRESAPECLUB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 75,
+    "minor": 76,
     "patch": 64
   }
 }
