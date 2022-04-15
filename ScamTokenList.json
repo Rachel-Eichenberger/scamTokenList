@@ -37697,11 +37697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1b0cb93aE4167C704Ad494366914a9fCcD8BaE4",
+      "symbol": "Kangaroo",
+      "name": "KANGAROOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 81,
+    "minor": 82,
     "patch": 64
   }
 }
