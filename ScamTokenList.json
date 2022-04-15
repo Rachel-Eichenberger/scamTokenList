@@ -37686,11 +37686,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc13992691Ab2FC28206108767f76D864C73D4a6A",
+      "symbol": "AKA",
+      "name": "AKAMARU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 80,
+    "minor": 81,
     "patch": 64
   }
 }
