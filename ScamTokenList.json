@@ -37939,11 +37939,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE4eC940C2412C048be742B41f2615Ee2eDF6369",
+      "symbol": "YATO",
+      "name": "YABOKUINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 3,
+    "minor": 4,
     "patch": 65
   }
 }
