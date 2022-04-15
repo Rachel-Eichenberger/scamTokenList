@@ -37829,11 +37829,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE878d5E2bb6BD91bdc2eD54e7F58282eaF9E1E66",
+      "symbol": "ANOM",
+      "name": "ANOMANET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 93,
+    "minor": 94,
     "patch": 64
   }
 }
