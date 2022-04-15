@@ -37466,11 +37466,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9900080bfb1C62a5DeaA8BAE3a37b4B9868C123",
+      "symbol": "Up",
+      "name": "UP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 60,
+    "minor": 61,
     "patch": 64
   }
 }
