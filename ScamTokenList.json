@@ -37884,11 +37884,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x908Bd6F11A1C1806a44f50E4F697B8d0Ef289377",
+      "symbol": "BRUH",
+      "name": "BRUHINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 98,
+    "minor": 99,
     "patch": 64
   }
 }
