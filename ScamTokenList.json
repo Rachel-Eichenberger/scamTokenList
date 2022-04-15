@@ -37983,11 +37983,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaB16CA73a7ABD8Fff781C909663a63023a4E75fA",
+      "symbol": "KLEE",
+      "name": "KLEEKAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 7,
+    "minor": 8,
     "patch": 65
   }
 }
