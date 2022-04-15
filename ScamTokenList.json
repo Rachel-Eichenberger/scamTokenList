@@ -37851,11 +37851,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44Bc2c46aF7021da75eE1668d0B3f01de6E19e3b",
+      "symbol": "Yubaba",
+      "name": "YUBABA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 95,
+    "minor": 96,
     "patch": 64
   }
 }
