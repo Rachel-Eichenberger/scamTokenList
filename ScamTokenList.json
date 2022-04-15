@@ -38104,11 +38104,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x024c9568A0EB3A94340A76e2365aE9B35d2F72a5",
+      "symbol": "Shogun",
+      "name": "SHOGUN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 18,
+    "minor": 19,
     "patch": 65
   }
 }
