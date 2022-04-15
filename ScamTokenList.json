@@ -37620,11 +37620,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aEE15E0BE0D426646e32cf0F1E5360d309109a5",
+      "symbol": "TOMBOY",
+      "name": "TOMBOYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 74,
+    "minor": 75,
     "patch": 64
   }
 }
