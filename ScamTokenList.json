@@ -37741,11 +37741,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA0ce86c14d6B287Cc8c69340A520ebCbb90ff43",
+      "symbol": "VDAO",
+      "name": "VOLCANODAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 85,
+    "minor": 86,
     "patch": 64
   }
 }
