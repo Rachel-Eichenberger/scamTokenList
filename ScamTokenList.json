@@ -37521,11 +37521,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13f76ad9dD9EAE37df12F4251FD47B469C5B5240",
+      "symbol": "Sluper",
+      "name": "SUMMON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 65,
+    "minor": 66,
     "patch": 64
   }
 }
