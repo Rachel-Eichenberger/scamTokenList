@@ -37576,11 +37576,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCBa245709eE104044930ED71cc63d4dCA0b93963",
+      "symbol": "fengari",
+      "name": "FENGARI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 70,
+    "minor": 71,
     "patch": 64
   }
 }
