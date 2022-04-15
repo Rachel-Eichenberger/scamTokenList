@@ -37862,11 +37862,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6314557A80934e0c6532aac6066CfAD058a52057",
+      "symbol": "NAME",
+      "name": "NAME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 96,
+    "minor": 97,
     "patch": 64
   }
 }
