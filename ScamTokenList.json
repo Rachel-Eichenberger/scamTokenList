@@ -37906,11 +37906,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf59882a3A2A23E6F7001745cD224995B558E413E",
+      "symbol": "ISAPE",
+      "name": "INFINITESPACEAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 0,
+    "minor": 1,
     "patch": 65
   }
 }
