@@ -37587,11 +37587,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0436b2249AC6AfcDbDdb595d204dA341231cBD6D",
+      "symbol": "CAPAPE",
+      "name": "ALCAPAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 71,
+    "minor": 72,
     "patch": 64
   }
 }
