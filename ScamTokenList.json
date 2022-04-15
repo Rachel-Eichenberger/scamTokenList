@@ -37873,11 +37873,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86D603adbaDb9081430bf3Bb171966cd99Fb3217",
+      "symbol": "EEP",
+      "name": "EASTEREGGSOFPREY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 97,
+    "minor": 98,
     "patch": 64
   }
 }
