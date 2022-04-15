@@ -37444,11 +37444,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC89C998a838d9A87c09410faC69FF575CB42Af3c",
+      "symbol": "Dariako",
+      "name": "DARIAKOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 58,
+    "minor": 59,
     "patch": 64
   }
 }
