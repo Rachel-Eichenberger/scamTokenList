@@ -37356,11 +37356,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d01e783D35C214DA190015D0AA3C1aBb73b6360",
+      "symbol": "SENKO",
+      "name": "SENKOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 50,
+    "minor": 51,
     "patch": 64
   }
 }
