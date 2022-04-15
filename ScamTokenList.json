@@ -37972,11 +37972,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x065747b26FfdF65ff160eB1ff3519a088B626c3D",
+      "symbol": "Yato",
+      "name": "YATO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 6,
+    "minor": 7,
     "patch": 65
   }
 }
