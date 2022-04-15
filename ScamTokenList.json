@@ -37554,11 +37554,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e27D8C6F7EC0124013f2F8fb6eCd178aB068e8C",
+      "symbol": "JSC",
+      "name": "JETSETCULTCOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 68,
+    "minor": 69,
     "patch": 64
   }
 }
