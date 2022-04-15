@@ -37510,11 +37510,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x329E67bE6f22EC48852310648383959689719aD3",
+      "symbol": "YATO",
+      "name": "YATOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 64,
+    "minor": 65,
     "patch": 64
   }
 }
