@@ -37488,11 +37488,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdA032203c0BbEdC4B9Dcb2E504a3D0B69528fa1c",
+      "symbol": "Opera",
+      "name": "OPERADAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 62,
+    "minor": 63,
     "patch": 64
   }
 }
