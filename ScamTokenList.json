@@ -37818,11 +37818,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17e4c52B01f21046784e8A45F1DE26997989b749",
+      "symbol": "SHIG",
+      "name": "SHIGERUINUNEWTOKYOI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 92,
+    "minor": 93,
     "patch": 64
   }
 }
