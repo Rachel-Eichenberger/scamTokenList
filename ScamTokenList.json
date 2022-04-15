@@ -37807,11 +37807,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x395DF9A1a7224DF0b2382F3c0fDD9A6180a30B72",
+      "symbol": "EOS",
+      "name": "THEEDITOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 91,
+    "minor": 92,
     "patch": 64
   }
 }
