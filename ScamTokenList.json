@@ -38049,11 +38049,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d7d14d78E688c588BA11953501Ed4B0877e01B0",
+      "symbol": "SAILOR",
+      "name": "SAILORMOON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 13,
+    "minor": 14,
     "patch": 65
   }
 }
