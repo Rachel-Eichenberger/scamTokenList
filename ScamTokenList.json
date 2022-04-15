@@ -37433,11 +37433,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x596DC9F2F7847958f6Ef9F121AA7150764058C80",
+      "symbol": "SQUEAK",
+      "name": "SQUEAKDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 57,
+    "minor": 58,
     "patch": 64
   }
 }
