@@ -37345,11 +37345,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA708d3c0f22A842cE31A62031cEAdaA851618dd",
+      "symbol": "GNJI",
+      "name": "GENJI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 49,
+    "minor": 50,
     "patch": 64
   }
 }
