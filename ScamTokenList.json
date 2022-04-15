@@ -37664,11 +37664,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdBcdDf89453c8906A5285773E8A09a93d7c69F6A",
+      "symbol": "CLINU",
+      "name": "CLANNADINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 98,
-    "minor": 78,
+    "minor": 79,
     "patch": 64
   }
 }
