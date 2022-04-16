@@ -38181,11 +38181,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF14bCd50f7f5EaB2FaD6f828E432F75d3caFC62e",
+      "symbol": "BULMA",
+      "name": "BULMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 25,
+    "minor": 26,
     "patch": 65
   }
 }
