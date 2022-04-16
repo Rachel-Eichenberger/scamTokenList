@@ -38797,11 +38797,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1c7f6670C5Ad547939FA11017ac606979d83E80",
+      "symbol": "WATT",
+      "name": "WATTINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 81,
+    "minor": 82,
     "patch": 65
   }
 }
