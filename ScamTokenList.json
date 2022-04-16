@@ -38368,11 +38368,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6cE5cBA3f3aB05A2F4E4523aBCE27bE5d5BF11c",
+      "symbol": "CHINU",
+      "name": "CHAINSAWINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 42,
+    "minor": 43,
     "patch": 65
   }
 }
