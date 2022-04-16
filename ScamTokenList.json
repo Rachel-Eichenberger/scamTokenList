@@ -38236,11 +38236,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA704774bEd79f4CFDF5eF3fF244d1268aE6bA4f4",
+      "symbol": "Hogwired",
+      "name": "HOGWIRED",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 30,
+    "minor": 31,
     "patch": 65
   }
 }
