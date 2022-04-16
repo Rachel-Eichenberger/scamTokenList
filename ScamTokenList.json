@@ -38687,11 +38687,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f129f0F7599Fdd8B50E8CA6C89Dd1FCd0490668",
+      "symbol": "NOTORIOUS",
+      "name": "NOTORIOUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 71,
+    "minor": 72,
     "patch": 65
   }
 }
