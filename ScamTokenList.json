@@ -38401,11 +38401,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFA9F9E2A0eDc029C3DCAF4B6836AC1473F9dF604",
+      "symbol": "Syoto",
+      "name": "SYOTO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 45,
+    "minor": 46,
     "patch": 65
   }
 }
