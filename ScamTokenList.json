@@ -38863,11 +38863,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1098102c1739C453d1d00B6219785389397cC993",
+      "symbol": "EGGS",
+      "name": "EASTERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 87,
+    "minor": 88,
     "patch": 65
   }
 }
