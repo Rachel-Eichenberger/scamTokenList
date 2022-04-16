@@ -38258,11 +38258,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25B5fF0fb716aCE4b0c0554E1e6F644F2Fa51378",
+      "symbol": "HINU",
+      "name": "HINASANINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 32,
+    "minor": 33,
     "patch": 65
   }
 }
