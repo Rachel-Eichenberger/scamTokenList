@@ -38830,11 +38830,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbFe2b72375E1b0546210D0032066aBBE74E80a19",
+      "symbol": "YAMATO",
+      "name": "YAMATO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 84,
+    "minor": 85,
     "patch": 65
   }
 }
