@@ -38203,11 +38203,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb34a2D8f706AF501ea2c5461Aa9CD59284b3bb94",
+      "symbol": "ANIMESZN",
+      "name": "ANIMESEASON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 27,
+    "minor": 28,
     "patch": 65
   }
 }
