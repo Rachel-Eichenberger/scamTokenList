@@ -38918,11 +38918,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1683C15eD1Def06722160376021f3d1Be017568C",
+      "symbol": "STAR",
+      "name": "STARSHUINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 92,
+    "minor": 93,
     "patch": 65
   }
 }
