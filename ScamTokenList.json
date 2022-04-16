@@ -38753,11 +38753,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6800580b5E47Eb4fc49dA289E320a866744bEFe",
+      "symbol": "WinniethePooh",
+      "name": "WINNIETHEPOOH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 77,
+    "minor": 78,
     "patch": 65
   }
 }
