@@ -38280,11 +38280,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d057a9B3cefa3d14d9B91D95290C8B80562f28d",
+      "symbol": "RYOSHICHADS",
+      "name": "RYOSHISCHADS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 34,
+    "minor": 35,
     "patch": 65
   }
 }
