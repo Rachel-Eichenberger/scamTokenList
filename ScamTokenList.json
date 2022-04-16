@@ -38302,11 +38302,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE36215817E21dBc9924097C07391f834ECD5D213",
+      "symbol": "Himiko",
+      "name": "HIMIKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 36,
+    "minor": 37,
     "patch": 65
   }
 }
