@@ -38852,11 +38852,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40662A634aB50a562A87243B5b3Fe51ECF1d9f22",
+      "symbol": "IROH",
+      "name": "IROHINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 86,
+    "minor": 87,
     "patch": 65
   }
 }
