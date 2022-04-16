@@ -38896,11 +38896,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c5d223986D16A657eF6b1D5D4FFc8A1f75f3cf6",
+      "symbol": "POS",
+      "name": "PIECEOFSHIB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 90,
+    "minor": 91,
     "patch": 65
   }
 }
