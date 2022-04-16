@@ -38467,11 +38467,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x085B0E9a033a3961E10E69CB52c271E380d7E8dc",
+      "symbol": "JES",
+      "name": "JESSEY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 51,
+    "minor": 52,
     "patch": 65
   }
 }
