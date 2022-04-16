@@ -38665,11 +38665,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1415ac52B41095C17Abc7cbF3340E09Fcad17acE",
+      "symbol": "ELONMOON",
+      "name": "ELONMOON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 69,
+    "minor": 70,
     "patch": 65
   }
 }
