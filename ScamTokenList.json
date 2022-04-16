@@ -38555,11 +38555,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x412f74cfA3E689a281B7AeC501c3fb7aAA358E42",
+      "symbol": "GINU",
+      "name": "GONGINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 59,
+    "minor": 60,
     "patch": 65
   }
 }
