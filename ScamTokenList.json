@@ -38610,11 +38610,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F4ee60c11219B6b022E7dD855Ea3D02A093d990",
+      "symbol": "RYU",
+      "name": "RYUKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 64,
+    "minor": 65,
     "patch": 65
   }
 }
