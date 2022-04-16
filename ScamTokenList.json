@@ -38148,11 +38148,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5C1d12375fb984Dd0868710dc1B79e536B48F62",
+      "symbol": "RFM",
+      "name": "RAREFISHMARKET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 22,
+    "minor": 23,
     "patch": 65
   }
 }
