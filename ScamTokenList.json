@@ -38423,11 +38423,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C9D6f410CaDb95151Bde89459316E0dBb937F85",
+      "symbol": "LorealParis",
+      "name": "LOREALPARISMETAVERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 47,
+    "minor": 48,
     "patch": 65
   }
 }
