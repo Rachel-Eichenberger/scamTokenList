@@ -38709,11 +38709,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96d7f29c1f56744849D3a23014dec90a2cc9FDe0",
+      "symbol": "Kyoshi",
+      "name": "KYOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 73,
+    "minor": 74,
     "patch": 65
   }
 }
