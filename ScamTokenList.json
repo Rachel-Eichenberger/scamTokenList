@@ -38742,11 +38742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf63ead8430819a4B2C3500E54c185209175fEF6C",
+      "symbol": "RB",
+      "name": "RUGSBUNNY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 76,
+    "minor": 77,
     "patch": 65
   }
 }
