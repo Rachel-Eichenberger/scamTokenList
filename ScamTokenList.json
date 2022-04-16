@@ -38192,11 +38192,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b943C57Bb41fF6573D86DDC2031Db2D031eb85D",
+      "symbol": "WalkingDead",
+      "name": "WALKINGDEAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 26,
+    "minor": 27,
     "patch": 65
   }
 }
