@@ -38357,11 +38357,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF538c6e343d739772BD46f4c8d493BB17db30D78",
+      "symbol": "EBINU",
+      "name": "EASTERBUNNYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 41,
+    "minor": 42,
     "patch": 65
   }
 }
