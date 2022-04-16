@@ -38786,11 +38786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFEc6f3fCab9330B06DF9CA2Db9041cd1207F16a6",
+      "symbol": "RataInu",
+      "name": "RATAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 80,
+    "minor": 81,
     "patch": 65
   }
 }
