@@ -38544,11 +38544,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95a3913DBAf7D4fab5933e06c5F795A664DcA04B",
+      "symbol": "UTI",
+      "name": "ULTRAMANINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 58,
+    "minor": 59,
     "patch": 65
   }
 }
