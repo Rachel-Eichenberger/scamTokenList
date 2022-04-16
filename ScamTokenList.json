@@ -38225,11 +38225,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb83eC9EEAC2b3CF8Eb282f91c73C38159578697",
+      "symbol": "PNG",
+      "name": "PNGDGOVERNANCETOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 29,
+    "minor": 30,
     "patch": 65
   }
 }
