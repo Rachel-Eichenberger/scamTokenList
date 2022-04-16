@@ -38335,11 +38335,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8FED0865A8539A8a2A75fF2A7be7a2DF6557400b",
+      "symbol": "NezukoShiba",
+      "name": "NEZUKOSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 39,
+    "minor": 40,
     "patch": 65
   }
 }
