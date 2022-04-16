@@ -38577,11 +38577,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2CC9c315b404706251455b611D79493eB0f63e4",
+      "symbol": "knot",
+      "name": "KNOT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 61,
+    "minor": 62,
     "patch": 65
   }
 }
