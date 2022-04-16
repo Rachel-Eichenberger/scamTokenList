@@ -38566,11 +38566,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3590A38cdcB2f8F7650F84a72cfd6284332b85B",
+      "symbol": "Mattel",
+      "name": "MATTELMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 60,
+    "minor": 61,
     "patch": 65
   }
 }
