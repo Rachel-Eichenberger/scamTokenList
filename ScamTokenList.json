@@ -38621,11 +38621,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x838be753Dd292912b3BC396e71A01D4a6962BB24",
+      "symbol": "NFW",
+      "name": "NOTFEELINGWELL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 65,
+    "minor": 66,
     "patch": 65
   }
 }
