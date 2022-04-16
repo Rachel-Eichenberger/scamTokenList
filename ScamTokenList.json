@@ -38291,11 +38291,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb70b92335C408db2b50986Ffdf5E0Cf5e4496da2",
+      "symbol": "SPI",
+      "name": "SPRINGER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 35,
+    "minor": 36,
     "patch": 65
   }
 }
