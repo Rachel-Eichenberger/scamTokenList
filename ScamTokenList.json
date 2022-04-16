@@ -38500,11 +38500,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3baB61Ad5D103Bb5b203C9092Eb3a5e11677a5D0",
+      "symbol": "ETH2Daonet",
+      "name": "ETH2DAONET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 54,
+    "minor": 55,
     "patch": 65
   }
 }
