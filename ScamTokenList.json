@@ -38676,11 +38676,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBbbC727138927b87dE9d0334858581BcFdb7520f",
+      "symbol": "Oxcelo",
+      "name": "OXCELOTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 70,
+    "minor": 71,
     "patch": 65
   }
 }
