@@ -38511,11 +38511,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3f163e6650e76304520a217ce60FB0771C34dAA",
+      "symbol": "BINU",
+      "name": "BERSERKINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 55,
+    "minor": 56,
     "patch": 65
   }
 }
