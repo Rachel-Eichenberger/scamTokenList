@@ -38731,11 +38731,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAff1086CE7800b79bd1aFdf18Af401c57494b211",
+      "symbol": "TERA",
+      "name": "TERADAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 75,
+    "minor": 76,
     "patch": 65
   }
 }
