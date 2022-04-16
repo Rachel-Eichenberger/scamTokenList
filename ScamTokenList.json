@@ -38522,11 +38522,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8562F4F71c3Ba75a0E8B87cC783b8181f224e09",
+      "symbol": "Lionsgate",
+      "name": "LIONSGATEMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 56,
+    "minor": 57,
     "patch": 65
   }
 }
