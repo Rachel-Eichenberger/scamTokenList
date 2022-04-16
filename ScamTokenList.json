@@ -38808,11 +38808,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0AccF7A012fAcFdf279a88372D1FB0714184108",
+      "symbol": "TakeTwoInteractive",
+      "name": "TAKETWOINTERACTIVE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 82,
+    "minor": 83,
     "patch": 65
   }
 }
