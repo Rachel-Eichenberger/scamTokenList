@@ -38434,11 +38434,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa287d66B01b8D3d4FC713dd06A38cD86fb87fB90",
+      "symbol": "HVI",
+      "name": "HUNGRYVAMPIREINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 48,
+    "minor": 49,
     "patch": 65
   }
 }
