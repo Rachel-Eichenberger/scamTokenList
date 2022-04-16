@@ -38489,11 +38489,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22fb52C9BA9Da11D2604d91f500011b5C5669FA4",
+      "symbol": "2Pac",
+      "name": "2PACINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 53,
+    "minor": 54,
     "patch": 65
   }
 }
