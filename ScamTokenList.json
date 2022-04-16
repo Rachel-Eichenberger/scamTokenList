@@ -38379,11 +38379,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x093F8480185Bb15B9B06C02c261B2E8001B969eB",
+      "symbol": "PYRAMID",
+      "name": "PYRAMID",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 43,
+    "minor": 44,
     "patch": 65
   }
 }
