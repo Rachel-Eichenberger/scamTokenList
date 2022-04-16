@@ -38137,11 +38137,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bb6E2CcDD2e5D783F328D921d0A90ba195A74A2",
+      "symbol": "THESANCTUARY",
+      "name": "THESANCTUARY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 21,
+    "minor": 22,
     "patch": 65
   }
 }
