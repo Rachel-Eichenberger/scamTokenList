@@ -38170,11 +38170,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1110f3a7F37e2008Cd294c5bAe1f852C35d80dF",
+      "symbol": "EAGLE",
+      "name": "EAGLEDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 24,
+    "minor": 25,
     "patch": 65
   }
 }
