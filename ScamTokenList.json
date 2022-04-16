@@ -38698,11 +38698,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF939D0753A4E65B0F6FBE9A507637Bae65746b8D",
+      "symbol": "LINU",
+      "name": "LINOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 72,
+    "minor": 73,
     "patch": 65
   }
 }
