@@ -38819,11 +38819,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7C45eDD5A9cB85A5F23E0B44aF11357FeaC4aE4",
+      "symbol": "treasury",
+      "name": "TREASURY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 83,
+    "minor": 84,
     "patch": 65
   }
 }
