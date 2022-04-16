@@ -38533,11 +38533,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc24912AF2cc663AFFF6d070f135632AdDD543AaA",
+      "symbol": "BINU",
+      "name": "BONAPARTEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 57,
+    "minor": 58,
     "patch": 65
   }
 }
