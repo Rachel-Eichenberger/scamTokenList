@@ -38764,11 +38764,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7a869f3521D7EE95Be5833b8fdE22F691fC1299",
+      "symbol": "Sola",
+      "name": "SOLA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 78,
+    "minor": 79,
     "patch": 65
   }
 }
