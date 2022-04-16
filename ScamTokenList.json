@@ -38874,11 +38874,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8064dc067bA9Bd6A7230a3BD2F73f56A9273C64e",
+      "symbol": "SithShiba",
+      "name": "SITHLORDSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 88,
+    "minor": 89,
     "patch": 65
   }
 }
