@@ -38247,11 +38247,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6491bf441Cf9753E27b6CDBF09410204440Cfbaa",
+      "symbol": "BLANKA",
+      "name": "BLANKAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 31,
+    "minor": 32,
     "patch": 65
   }
 }
