@@ -38632,11 +38632,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD32f52EF1CB5F184186a6e2B4ac7A401cfd02907",
+      "symbol": "ETHDOX",
+      "name": "ETHDOX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 66,
+    "minor": 67,
     "patch": 65
   }
 }
