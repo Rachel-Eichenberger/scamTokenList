@@ -38324,11 +38324,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x705ec7E343fa31Cad7592009c1b826a15a5636FF",
+      "symbol": "Constantin",
+      "name": "CONSTANTINMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 38,
+    "minor": 39,
     "patch": 65
   }
 }
