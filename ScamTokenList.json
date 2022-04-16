@@ -38115,11 +38115,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0C23b44a80A425098D08F9afc1e2a8fC0ac99e0",
+      "symbol": "DANGO",
+      "name": "DANGO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 19,
+    "minor": 20,
     "patch": 65
   }
 }
