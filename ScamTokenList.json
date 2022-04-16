@@ -38643,11 +38643,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x430D0537bFF2066e3ea05FF947C5f7dB2e2ff255",
+      "symbol": "F",
+      "name": "FTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 67,
+    "minor": 68,
     "patch": 65
   }
 }
