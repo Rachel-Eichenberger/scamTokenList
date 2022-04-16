@@ -38456,11 +38456,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x933a25b9F99eDcc3999DEb825711BC688b84852B",
+      "symbol": "VOLT",
+      "name": "VOLTINUV2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 50,
+    "minor": 51,
     "patch": 65
   }
 }
