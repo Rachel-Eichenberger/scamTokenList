@@ -39083,11 +39083,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6bB883B5Fb7Ed2C15AF32fF90E3adC0bb7875FD",
+      "symbol": "FoxNinja",
+      "name": "FOXNINJA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 1
   }
 }
