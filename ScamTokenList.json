@@ -39215,11 +39215,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Add84260e63EECfbB4EB4D0B854452d927BF2A8",
+      "symbol": "Birb",
+      "name": "BIRB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 17,
+    "minor": 18,
     "patch": 1
   }
 }
