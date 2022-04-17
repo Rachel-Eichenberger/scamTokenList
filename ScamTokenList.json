@@ -39149,11 +39149,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95DF06F0d157D176cB8966e73772684F9FcCe8D3",
+      "symbol": "SHIBCAW",
+      "name": "SHIBAHUNTERDREAM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 11,
+    "minor": 12,
     "patch": 1
   }
 }
