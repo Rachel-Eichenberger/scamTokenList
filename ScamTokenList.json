@@ -39105,11 +39105,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f80f660Ef7590e19EbbCD439F4E47002A29395e",
+      "symbol": "Braindom",
+      "name": "BRAINDOMMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 1
   }
 }
