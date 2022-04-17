@@ -39644,11 +39644,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9552cCC1d0928F9b78bF8A34ABBc5BC4c1E3dA44",
+      "symbol": "trial",
+      "name": "TRIAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 56,
+    "minor": 57,
     "patch": 1
   }
 }
