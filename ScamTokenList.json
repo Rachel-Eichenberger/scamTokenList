@@ -39688,11 +39688,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a50c37720927f8aEEF648ed96Ad9B570c0b04d6",
+      "symbol": "CAWInu",
+      "name": "AHUNTERSMEME",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 60,
+    "minor": 61,
     "patch": 1
   }
 }
