@@ -39996,11 +39996,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x030F1D2b832f4CF6a9168Cc4Ac578d2316f1500b",
+      "symbol": "ZUKO",
+      "name": "PRINCEZUKOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 88,
+    "minor": 89,
     "patch": 1
   }
 }
