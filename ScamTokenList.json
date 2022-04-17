@@ -39479,11 +39479,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6D47d4604DB7eb7Bd85801E30C82Fd8D75ac003",
+      "symbol": "FALCAW",
+      "name": "AHUNTERSNIGHTMARE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 41,
+    "minor": 42,
     "patch": 1
   }
 }
