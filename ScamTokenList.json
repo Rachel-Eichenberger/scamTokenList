@@ -39446,11 +39446,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f0aDce4c6E69FCb5B3427E242C7AE4614f8E698",
+      "symbol": "GOGOBIRD",
+      "name": "GOGOBIRD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 38,
+    "minor": 39,
     "patch": 1
   }
 }
