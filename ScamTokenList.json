@@ -39743,11 +39743,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6deC5995ED91eF7675171A113BB451a338A5e23",
+      "symbol": "BARA",
+      "name": "BABYARAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 65,
+    "minor": 66,
     "patch": 1
   }
 }
