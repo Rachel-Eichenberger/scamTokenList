@@ -39413,11 +39413,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0048e4d0350f6F83f27edb6B627eC28A576a343",
+      "symbol": "TWEET",
+      "name": "AELONSDREAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 35,
+    "minor": 36,
     "patch": 1
   }
 }
