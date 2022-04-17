@@ -39358,11 +39358,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74d9cEeAf04D8aD14f0fcd380243b66b8d69492f",
+      "symbol": "FALCON",
+      "name": "FALCON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 30,
+    "minor": 31,
     "patch": 1
   }
 }
