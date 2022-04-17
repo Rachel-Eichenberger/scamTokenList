@@ -39369,11 +39369,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x692156c51fE98D5D2F9cD643a620541C59eAA0fC",
+      "symbol": "MOONBIRD",
+      "name": "MOONBIRDS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 31,
+    "minor": 32,
     "patch": 1
   }
 }
