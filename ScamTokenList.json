@@ -39721,11 +39721,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB01128ebe7FB76A669A72fC7741C30Ec90e240f5",
+      "symbol": "HOOT",
+      "name": "BIRDCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 63,
+    "minor": 64,
     "patch": 1
   }
 }
