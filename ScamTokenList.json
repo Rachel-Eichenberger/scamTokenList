@@ -39138,11 +39138,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fAEd5B8B2948084BA61B8845CAC5056235dB77A",
+      "symbol": "CAE",
+      "name": "AHUNTERSEGGS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 10,
+    "minor": 11,
     "patch": 1
   }
 }
