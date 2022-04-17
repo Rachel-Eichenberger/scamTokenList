@@ -39468,11 +39468,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d17b7007516698D1DaDF73323277a71F78B954b",
+      "symbol": "CAWDAO",
+      "name": "CAWDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 40,
+    "minor": 41,
     "patch": 1
   }
 }
