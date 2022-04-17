@@ -40062,11 +40062,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x390Ad530aa5D3095b9bb92Fd4175592159fc2846",
+      "symbol": "CamelCoin",
+      "name": "CAMELCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 94,
+    "minor": 95,
     "patch": 1
   }
 }
