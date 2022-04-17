@@ -39545,11 +39545,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd572e0f5dD0Ae4d9f9D5022BBD6c6771F3223f3",
+      "symbol": "Shibmonk",
+      "name": "SHIBMONK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 47,
+    "minor": 48,
     "patch": 1
   }
 }
