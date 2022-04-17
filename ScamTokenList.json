@@ -39006,11 +39006,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20A83d326734cf1510f04EB0041855a7A75Ef5f3",
+      "symbol": "EAKENO",
+      "name": "EASTERAKENO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 0,
-    "minor": 0,
+    "minor": 1,
     "patch": 66
   }
 }
