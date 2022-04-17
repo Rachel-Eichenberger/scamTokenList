@@ -39985,11 +39985,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x060665077856C471873F9A329175Fb655a361883",
+      "symbol": "ValveSoftware",
+      "name": "VALVESOFTWARE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 87,
+    "minor": 88,
     "patch": 1
   }
 }
