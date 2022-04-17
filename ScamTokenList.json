@@ -39941,11 +39941,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23164FC6F01702D0e6d632b99b8D1fffb8c93406",
+      "symbol": "Floppa",
+      "name": "FLOPPAGOLDTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 83,
+    "minor": 84,
     "patch": 1
   }
 }
