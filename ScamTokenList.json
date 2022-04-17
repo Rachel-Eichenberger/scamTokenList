@@ -39402,11 +39402,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5a6faA0D8C85Bfa0f2987BD752B8d5502eFDc07",
+      "symbol": "DODO",
+      "name": "DODOCAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 34,
+    "minor": 35,
     "patch": 1
   }
 }
