@@ -39754,11 +39754,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0bFd24bec7A7253dEa38C467A78090CCF8b44aF",
+      "symbol": "BIGBIRD",
+      "name": "BIGBIRD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 66,
+    "minor": 67,
     "patch": 1
   }
 }
