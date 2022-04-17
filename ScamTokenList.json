@@ -39050,11 +39050,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe4fB10e218Fefd5268649b1e89192F2bee6Ea04",
+      "symbol": "LVMH",
+      "name": "LVMHMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 1
   }
 }
