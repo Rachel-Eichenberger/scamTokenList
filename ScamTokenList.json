@@ -39347,11 +39347,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13AfDAd9A712B2E882656ee995Eb47B03377dfc1",
+      "symbol": "InfinityWard",
+      "name": "INFINITYWARDMETAVER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 29,
+    "minor": 30,
     "patch": 1
   }
 }
