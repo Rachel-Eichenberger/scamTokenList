@@ -38951,11 +38951,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e8e92aBEe2Ea6B4F09c163f8A8246C7440179E2",
+      "symbol": "KIBAKREW",
+      "name": "KIBAKREW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 99,
-    "minor": 95,
+    "minor": 96,
     "patch": 65
   }
 }
