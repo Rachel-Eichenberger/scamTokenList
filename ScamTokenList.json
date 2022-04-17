@@ -39886,11 +39886,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x717b36d8F7C76DE7363FD75F7C4f68D02DEb1EcB",
+      "symbol": "CLAW",
+      "name": "CLAW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 78,
+    "minor": 79,
     "patch": 1
   }
 }
