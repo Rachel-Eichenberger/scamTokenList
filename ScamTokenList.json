@@ -39039,11 +39039,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeD28b544332602Be5EBBC9F3FAc0D2BAda5A9664",
+      "symbol": "MDEFI",
+      "name": "MYSTERIOUSDEFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
