@@ -39710,11 +39710,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA306F13cd533e884d2F861a618638417331AC623",
+      "symbol": "TookieTookie",
+      "name": "TOUCAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 62,
+    "minor": 63,
     "patch": 1
   }
 }
