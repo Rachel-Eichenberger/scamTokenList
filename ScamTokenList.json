@@ -40029,11 +40029,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB2a668E357307376Bf31fECeF367F2ed21Eb96f",
+      "symbol": "KINU",
+      "name": "KAIKENINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 91,
+    "minor": 92,
     "patch": 1
   }
 }
