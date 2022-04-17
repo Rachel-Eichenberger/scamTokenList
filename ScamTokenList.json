@@ -39391,11 +39391,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c71171117e350F4A1CD883f9976419333b46e15",
+      "symbol": "CAW",
+      "name": "AHUNTERSDREAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 33,
+    "minor": 34,
     "patch": 1
   }
 }
