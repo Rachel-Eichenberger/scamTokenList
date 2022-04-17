@@ -39677,11 +39677,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf55836E55041568af0cdb6b3af914647bbd144F3",
+      "symbol": "EAPE",
+      "name": "EVERAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 59,
+    "minor": 60,
     "patch": 1
   }
 }
