@@ -39028,11 +39028,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa894797Ac687c31aaeEA4013EedDaC6cFeAd2D5a",
+      "symbol": "VOLDEMORT",
+      "name": "VOLDEMORTINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 66
   }
 }
