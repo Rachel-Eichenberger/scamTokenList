@@ -39072,11 +39072,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2dA644C68ECaf8122f05C27bF646EaE3A6651e34",
+      "symbol": "MARVIN",
+      "name": "ELONSMARVIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 1
   }
 }
