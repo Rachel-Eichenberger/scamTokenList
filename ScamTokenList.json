@@ -39831,11 +39831,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdF5f6A24e6DCF0C97F43f296F21B31660B289c94",
+      "symbol": "EsteeLauder",
+      "name": "ESTEELAUDERMETAVERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 73,
+    "minor": 74,
     "patch": 1
   }
 }
