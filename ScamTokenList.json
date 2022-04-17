@@ -39809,11 +39809,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63F3774A5855c05ce7E9C07C7035AD1180d37121",
+      "symbol": "UNIROOT",
+      "name": "UNIROOTTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 71,
+    "minor": 72,
     "patch": 1
   }
 }
