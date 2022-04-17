@@ -39919,11 +39919,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x822fBf94F723Df4C125EE2dF88CD8C5036E654F0",
+      "symbol": "AHuntersWetDream",
+      "name": "CROW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 81,
+    "minor": 82,
     "patch": 1
   }
 }
