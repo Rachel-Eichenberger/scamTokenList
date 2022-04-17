@@ -39226,11 +39226,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5885ccB227E898380aFaA9e7C847A9454a83a7cd",
+      "symbol": "CAWCROW",
+      "name": "CAWPROTECTOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 18,
+    "minor": 19,
     "patch": 1
   }
 }
