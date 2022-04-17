@@ -39578,11 +39578,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d96FFA2A659c61B1d5676DE5090736b8b9389B7",
+      "symbol": "MBIRD",
+      "name": "MOCKINGBIRDINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 50,
+    "minor": 51,
     "patch": 1
   }
 }
