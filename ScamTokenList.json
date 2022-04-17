@@ -39765,11 +39765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51cc9C7815A65243263B6ECe70AF25AA31Fc0FCF",
+      "symbol": "THEFATE",
+      "name": "THEFATE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 67,
+    "minor": 68,
     "patch": 1
   }
 }
