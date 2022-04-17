@@ -39116,11 +39116,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5349Ad76F250fA0b44681A74766Ce265F8dd8ed",
+      "symbol": "WAC",
+      "name": "AHUNTERSNIGHTMARE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 8,
+    "minor": 9,
     "patch": 1
   }
 }
