@@ -39523,11 +39523,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf23067E677769ba5252E6dc948f5241eEe450A75",
+      "symbol": "EX181",
+      "name": "SHEPHERD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 45,
+    "minor": 46,
     "patch": 1
   }
 }
