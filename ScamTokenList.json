@@ -39963,11 +39963,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2938E51096f33021Ba33BF033ae22d8360A0C88d",
+      "symbol": "QUACK",
+      "name": "HUNTINGSEASON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 85,
+    "minor": 86,
     "patch": 1
   }
 }
