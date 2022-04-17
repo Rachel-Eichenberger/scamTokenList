@@ -39490,11 +39490,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2178349B4158589155F08f630eB0892FAA16D23a",
+      "symbol": "ZuckBucks",
+      "name": "ZUCKBUCKS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 42,
+    "minor": 43,
     "patch": 1
   }
 }
