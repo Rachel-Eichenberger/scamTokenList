@@ -39501,11 +39501,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02DAE3b6f64A247a87c3B50fEdB7FD8648a9414f",
+      "symbol": "GRIFF",
+      "name": "GRIFFIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 43,
+    "minor": 44,
     "patch": 1
   }
 }
