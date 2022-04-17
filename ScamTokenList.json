@@ -39292,11 +39292,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24254FF0BFa6C56CcE0e557fb46554c1c23a8231",
+      "symbol": "CAWARD",
+      "name": "CAWREWARD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 24,
+    "minor": 25,
     "patch": 1
   }
 }
