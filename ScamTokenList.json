@@ -39600,11 +39600,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x431eAc079E552EB1A48458FFd607d4d3Aec62e7E",
+      "symbol": "CACAW",
+      "name": "CACAW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 52,
+    "minor": 53,
     "patch": 1
   }
 }
