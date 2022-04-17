@@ -39798,11 +39798,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D8B0FC7c79fe6082bcA087E50613a222f041222",
+      "symbol": "EYE",
+      "name": "THEOLDHUNTERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 70,
+    "minor": 71,
     "patch": 1
   }
 }
