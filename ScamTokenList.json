@@ -39776,11 +39776,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04904aa61CFB0aFFCb8d730a565cD9FB6c931e38",
+      "symbol": "ICHI",
+      "name": "ETHERICHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 68,
+    "minor": 69,
     "patch": 1
   }
 }
