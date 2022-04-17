@@ -38995,11 +38995,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D8F7d03546C1254D708D4Db0FEEf30DC43fafC4",
+      "symbol": "HISHA",
+      "name": "HISHA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 99,
-    "minor": 99,
-    "patch": 65
+    "major": 0,
+    "minor": 0,
+    "patch": 66
   }
 }
