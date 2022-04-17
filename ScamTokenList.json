@@ -39666,11 +39666,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8ad58d4046B4bDba546B19e400DC5562fd27a87",
+      "symbol": "Christies",
+      "name": "CHRISTIESMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 58,
+    "minor": 59,
     "patch": 1
   }
 }
