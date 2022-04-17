@@ -39655,11 +39655,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38675AF1Af3D9454838573A318776Cb30dA35E0c",
+      "symbol": "RICK",
+      "name": "RICKINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 57,
+    "minor": 58,
     "patch": 1
   }
 }
