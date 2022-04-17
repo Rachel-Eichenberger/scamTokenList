@@ -40051,11 +40051,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F70577daC489134fd74DA62E909a9fD55Ebaf88",
+      "symbol": "BIRDIE",
+      "name": "BIRDIE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 93,
+    "minor": 94,
     "patch": 1
   }
 }
