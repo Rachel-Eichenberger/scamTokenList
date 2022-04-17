@@ -39611,11 +39611,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x460Ba5A831b1aF7e5Df5b0D2C8d581804829C030",
+      "symbol": "DONALD",
+      "name": "DONALDDUCKTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 53,
+    "minor": 54,
     "patch": 1
   }
 }
