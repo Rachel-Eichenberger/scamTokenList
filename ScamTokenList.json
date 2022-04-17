@@ -39303,11 +39303,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65408A3110031104f6b16fE5884B21bb0a16D7bD",
+      "symbol": "CAWI",
+      "name": "CAWINUAMEMESDREAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 25,
+    "minor": 26,
     "patch": 1
   }
 }
