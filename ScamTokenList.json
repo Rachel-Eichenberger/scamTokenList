@@ -40073,11 +40073,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x608d8D0B09599b1F7587021d78F319A509529E6B",
+      "symbol": "ROLL",
+      "name": "ROLL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 95,
+    "minor": 96,
     "patch": 1
   }
 }
