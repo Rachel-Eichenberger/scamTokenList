@@ -39171,11 +39171,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF0b0e16b497b2B3fa783CD293be2d3A6441B9c9",
+      "symbol": "HOOT",
+      "name": "AHUNTERSDREAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 13,
+    "minor": 14,
     "patch": 1
   }
 }
