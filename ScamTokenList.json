@@ -39182,11 +39182,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63FbD444708d5e5a0EA39B12d5106Eb12635B619",
+      "symbol": "Starship",
+      "name": "STARSHIPTROOPERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 14,
+    "minor": 15,
     "patch": 1
   }
 }
