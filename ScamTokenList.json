@@ -40040,11 +40040,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc028e217ffEA96E6306d3cE515593720ac202E92",
+      "symbol": "Binu",
+      "name": "BUNNYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 92,
+    "minor": 93,
     "patch": 1
   }
 }
