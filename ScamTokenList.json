@@ -39281,11 +39281,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36E2aABf291e06Cf95AF76143888C2b918dd386F",
+      "symbol": "TenderInu",
+      "name": "TENDERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 23,
+    "minor": 24,
     "patch": 1
   }
 }
