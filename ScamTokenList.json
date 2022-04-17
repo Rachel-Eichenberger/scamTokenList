@@ -39160,11 +39160,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe8e3c9D32225D1366ee409efCA5327ACAA56Be7",
+      "symbol": "RYOSHI",
+      "name": "RYOSHI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 12,
+    "minor": 13,
     "patch": 1
   }
 }
