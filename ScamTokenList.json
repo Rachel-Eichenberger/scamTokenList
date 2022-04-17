@@ -39237,11 +39237,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a48B1787843b18895BF5dFca334Fa656bbF7d2a",
+      "symbol": "CCC",
+      "name": "CAWCULTCHURCH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 19,
+    "minor": 20,
     "patch": 1
   }
 }
