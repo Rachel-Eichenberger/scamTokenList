@@ -39259,11 +39259,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67fe7Fcc9acfAc3511276f6e59bcF3036340D6D6",
+      "symbol": "ELONSON",
+      "name": "Elonson Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 21,
+    "minor": 22,
     "patch": 1
   }
 }
