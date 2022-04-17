@@ -39787,11 +39787,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA67D84361B2A49abf3E3F7cA9dc70C49CC353102",
+      "symbol": "ALBUS",
+      "name": "DUMBLEDOREINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 69,
+    "minor": 70,
     "patch": 1
   }
 }
