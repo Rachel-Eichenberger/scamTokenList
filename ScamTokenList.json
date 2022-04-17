@@ -39435,11 +39435,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B549E35998Fb7d25c9d6Faaaa9A9b1858B4580E",
+      "symbol": "CINU",
+      "name": "CHICKENINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 37,
+    "minor": 38,
     "patch": 1
   }
 }
