@@ -39952,11 +39952,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03481F6b58c7680A0F193031C7F81da15cF904D2",
+      "symbol": "NEST",
+      "name": "ABIRDSDREAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 84,
+    "minor": 85,
     "patch": 1
   }
 }
