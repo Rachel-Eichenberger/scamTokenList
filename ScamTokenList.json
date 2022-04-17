@@ -40018,11 +40018,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC474e4c34e69302Ea7bF2Fd30AD52fBC3527F8d5",
+      "symbol": "HOOT",
+      "name": "HOOT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 90,
+    "minor": 91,
     "patch": 1
   }
 }
