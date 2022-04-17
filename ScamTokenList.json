@@ -39017,11 +39017,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8325627633a508E57fC726Cdb075F6e4B189695",
+      "symbol": "MOONKING",
+      "name": "MOONKING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 66
   }
 }
