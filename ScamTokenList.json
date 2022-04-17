@@ -39193,11 +39193,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1F265eCB912c70Ad41f245C3E4453eB4605a60c",
+      "symbol": "EMDOGE",
+      "name": "ELONMUSKDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 15,
+    "minor": 16,
     "patch": 1
   }
 }
