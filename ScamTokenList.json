@@ -39699,11 +39699,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x638d866596f3F84594773eB41606F15B46964d47",
+      "symbol": "LUM",
+      "name": "SLUMDOG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 61,
+    "minor": 62,
     "patch": 1
   }
 }
