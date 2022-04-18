@@ -40282,11 +40282,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a3D1dB2Afb099AfC9F00343C1886EaC408C26BE",
+      "symbol": "HOWL",
+      "name": "AHUNTERSPACK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 14,
+    "minor": 15,
     "patch": 2
   }
 }
