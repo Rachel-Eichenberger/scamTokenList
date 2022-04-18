@@ -41393,11 +41393,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9163095881E9231a55C481e21e2dbDCBB7b6461b",
+      "symbol": "FALCON",
+      "name": "FALCON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 15,
+    "minor": 16,
     "patch": 3
   }
 }
