@@ -40216,11 +40216,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32e7D11800648cF6deAB3902EE30C21a56dfE492",
+      "symbol": "EAGLE",
+      "name": "EAGLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 8,
+    "minor": 9,
     "patch": 2
   }
 }
