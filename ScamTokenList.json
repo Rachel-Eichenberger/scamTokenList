@@ -40612,11 +40612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x353E41E66F58ce91D07d778520685473f38A7125",
+      "symbol": "MDAO",
+      "name": "METAVERSEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 44,
+    "minor": 45,
     "patch": 2
   }
 }
