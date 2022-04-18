@@ -40436,11 +40436,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4ced7e24f74eC9E73675AdE84aCd31835C8019C",
+      "symbol": "EldenRing",
+      "name": "ELDENRINGMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 28,
+    "minor": 29,
     "patch": 2
   }
 }
