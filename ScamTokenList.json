@@ -40139,11 +40139,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f06D69b80e9262f31C43cD1D7459b1984f408e0",
+      "symbol": "PARROT",
+      "name": "APIRATESBESTFRIEND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 2
   }
 }
