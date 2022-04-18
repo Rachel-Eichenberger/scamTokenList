@@ -41151,11 +41151,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0d971AFD47a5973aaC6074211b61dEc3E76aF76",
+      "symbol": "ONLYFARMS",
+      "name": "ONLYFARMS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 93,
+    "minor": 94,
     "patch": 2
   }
 }
