@@ -40337,11 +40337,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D7E19fa254842011801D06FCE772A1562e4Bc86",
+      "symbol": "HOOT",
+      "name": "HOOT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 19,
+    "minor": 20,
     "patch": 2
   }
 }
