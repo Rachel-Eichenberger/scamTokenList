@@ -40326,11 +40326,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47bE445a162d1579581Ac14Af0E8745248A03791",
+      "symbol": "HAWK",
+      "name": "HAWK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 18,
+    "minor": 19,
     "patch": 2
   }
 }
