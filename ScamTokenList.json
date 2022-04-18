@@ -40975,11 +40975,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bd4a184B87b3935cEe67C6d77e9BA70F9eaD4Ea",
+      "symbol": "ZANO",
+      "name": "ZANOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 77,
+    "minor": 78,
     "patch": 2
   }
 }
