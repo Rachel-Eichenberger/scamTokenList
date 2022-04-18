@@ -40458,11 +40458,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5115A7cEa6B85d2eBBc261869C96490ac86CF4e",
+      "symbol": "SteveJobs",
+      "name": "STEVEJOBSDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 30,
+    "minor": 31,
     "patch": 2
   }
 }
