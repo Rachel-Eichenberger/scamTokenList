@@ -41195,11 +41195,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98D9ad18b08dDd63E6A3B58493973504B76F7d95",
+      "symbol": "BUCKSBUNNY",
+      "name": "BUCKSBUNNY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 97,
+    "minor": 98,
     "patch": 2
   }
 }
