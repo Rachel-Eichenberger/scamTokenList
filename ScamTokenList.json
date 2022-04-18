@@ -41250,11 +41250,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dFc0D61D3A7075435b218c62F1fE556F842f6b1",
+      "symbol": "YUGA",
+      "name": "ABAYCDREAM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 3,
     "patch": 3
   }
 }
