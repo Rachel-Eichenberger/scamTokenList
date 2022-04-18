@@ -41239,11 +41239,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x167216F9B0A9d15E4B7C22115C2b1Ca3F6f89f66",
+      "symbol": "FLIPPER",
+      "name": "FLIPPER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 1,
+    "minor": 2,
     "patch": 3
   }
 }
