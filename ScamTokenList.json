@@ -41052,11 +41052,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80c32eb237553EAF420D98fA86C44511F0b953a8",
+      "symbol": "CARDINAL",
+      "name": "CARDINAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 84,
+    "minor": 85,
     "patch": 2
   }
 }
