@@ -40425,11 +40425,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4441dC08Fa50E8a75e02Ae9B543542d4BE498C9",
+      "symbol": "HBO",
+      "name": "HOMEBOXOFFICEMETAVE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 27,
+    "minor": 28,
     "patch": 2
   }
 }
