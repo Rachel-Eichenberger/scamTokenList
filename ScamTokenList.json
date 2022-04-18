@@ -40535,11 +40535,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC34FCBb7319EA03529295096FFDC76e0546cAcA5",
+      "symbol": "CHEEP",
+      "name": "CHEEP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 37,
+    "minor": 38,
     "patch": 2
   }
 }
