@@ -41228,11 +41228,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFd2f81E724e2C6B69A68B36C324E8D495454a48B",
+      "symbol": "BIRDS",
+      "name": "BIRDCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 3
   }
 }
