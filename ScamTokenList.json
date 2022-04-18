@@ -41459,11 +41459,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23c45C33BE424CD2500323739bbA08a1CfD51217",
+      "symbol": "BLAZEIT",
+      "name": "FOURTWEETY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 21,
+    "minor": 22,
     "patch": 3
   }
 }
