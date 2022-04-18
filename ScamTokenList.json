@@ -40414,11 +40414,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54DCa8E624171EcA2D8351887B465451a46aaBf7",
+      "symbol": "Quack",
+      "name": "DUCKRABBIT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 26,
+    "minor": 27,
     "patch": 2
   }
 }
