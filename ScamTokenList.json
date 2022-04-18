@@ -40755,11 +40755,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5426B3e5AfF3f1C1Ba3F63950C34372A1B1005B",
+      "symbol": "TEST",
+      "name": "TESTTOKEN",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 57,
+    "minor": 58,
     "patch": 2
   }
 }
