@@ -40227,11 +40227,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB92435BD7b9b6EdC79035d9575124108a25257bC",
+      "symbol": "BLUEBIRD",
+      "name": "BLUEBIRDINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 9,
+    "minor": 10,
     "patch": 2
   }
 }
