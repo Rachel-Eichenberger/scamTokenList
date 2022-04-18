@@ -40623,11 +40623,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb8356Af8D0fc3f3BEE27956Db94448c208FBe3a",
+      "symbol": "Flamingo",
+      "name": "FLAMINGO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 45,
+    "minor": 46,
     "patch": 2
   }
 }
