@@ -40194,11 +40194,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa755EfbFF8FF8Dee5AdbFA7CDf91f0eBe24C17f3",
+      "symbol": "Birb",
+      "name": "BIRB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 6,
+    "minor": 7,
     "patch": 2
   }
 }
