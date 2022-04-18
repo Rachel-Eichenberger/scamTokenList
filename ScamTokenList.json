@@ -41096,11 +41096,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3395Ab0ab8B9f5896620B853Bf48827743202797",
+      "symbol": "TOUCAN",
+      "name": "TOUCANSAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 88,
+    "minor": 89,
     "patch": 2
   }
 }
