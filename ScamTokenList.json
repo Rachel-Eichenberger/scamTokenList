@@ -40920,11 +40920,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eFc535796696b894D5813e3E1dE3F6Fc23B0719",
+      "symbol": "SPARK",
+      "name": "SPARK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 72,
+    "minor": 73,
     "patch": 2
   }
 }
