@@ -40161,11 +40161,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4DeCF1b02f0144D025fD715733A52De7A3e5355",
+      "symbol": "CluckFI",
+      "name": "CLUCK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 3,
+    "minor": 4,
     "patch": 2
   }
 }
