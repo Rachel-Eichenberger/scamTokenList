@@ -40502,11 +40502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe791014Cff76C4a299E2600Dd0Ec0787342ED25D",
+      "symbol": "RealBird",
+      "name": "BIRDSARENTREAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 34,
+    "minor": 35,
     "patch": 2
   }
 }
