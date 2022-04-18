@@ -40843,11 +40843,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x054D3ec5cE84c54bbeab48753025685E3e126298",
+      "symbol": "ANGRYBIRDS",
+      "name": "ANGRYBIRDS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 65,
+    "minor": 66,
     "patch": 2
   }
 }
