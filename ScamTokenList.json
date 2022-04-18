@@ -40953,11 +40953,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC73783a38950623d1F24773230b5E42F0eBa123a",
+      "symbol": "Tweety",
+      "name": "TWEETYBIRD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 75,
+    "minor": 76,
     "patch": 2
   }
 }
