@@ -40568,11 +40568,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D6f7E0a641aa2923a7F0FA64259Db7a14B7fbF3",
+      "symbol": "WOW",
+      "name": "WORLDOFWARCRAFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 40,
+    "minor": 41,
     "patch": 2
   }
 }
