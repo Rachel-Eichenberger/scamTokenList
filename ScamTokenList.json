@@ -41448,11 +41448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x134fCd460285E3C9fA2AbC26700f64D5Abf14dCb",
+      "symbol": "SYD",
+      "name": "SYDNOVAIO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 20,
+    "minor": 21,
     "patch": 3
   }
 }
