@@ -40876,11 +40876,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF490Bd1e8DaE37fE862578E0D48bF767E726b66",
+      "symbol": "Tweety",
+      "name": "TWEETYBIRD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 68,
+    "minor": 69,
     "patch": 2
   }
 }
