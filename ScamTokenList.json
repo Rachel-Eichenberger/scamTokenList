@@ -40711,11 +40711,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08984Bc2a8BE92952B726552E7E0d437Df639F8D",
+      "symbol": "BIGCROW",
+      "name": "BIGWISDOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 53,
+    "minor": 54,
     "patch": 2
   }
 }
