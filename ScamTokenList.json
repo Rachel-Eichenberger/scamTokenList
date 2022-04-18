@@ -40733,11 +40733,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52a5b7354FA963618816FDd89993189377b9ECf0",
+      "symbol": "RAVEN",
+      "name": "COMPASSION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 55,
+    "minor": 56,
     "patch": 2
   }
 }
