@@ -41206,11 +41206,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC181FF6d7BDF58c17350a4EFF7c6AA43f7D04915",
+      "symbol": "Mashiro",
+      "name": "MASHIRO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 98,
+    "minor": 99,
     "patch": 2
   }
 }
