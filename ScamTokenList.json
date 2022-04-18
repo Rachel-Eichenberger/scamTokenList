@@ -41382,11 +41382,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a4A7503Edad6B7A12d344B0d09AA6a975E63656",
+      "symbol": "BUNNYCAW",
+      "name": "BUNNYCAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 14,
+    "minor": 15,
     "patch": 3
   }
 }
