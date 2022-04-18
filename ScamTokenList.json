@@ -41085,11 +41085,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA6d932d743a87a08E16D18E99a647874Cffb8a1",
+      "symbol": "BTIT",
+      "name": "BLUETIT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 87,
+    "minor": 88,
     "patch": 2
   }
 }
