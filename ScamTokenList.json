@@ -40997,11 +40997,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x605aBB8846F418673a6bB1Bb5e4aF01d449a8B3a",
+      "symbol": "SWAN",
+      "name": "PURITY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 79,
+    "minor": 80,
     "patch": 2
   }
 }
