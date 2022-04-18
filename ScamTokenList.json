@@ -40271,11 +40271,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE17c994Ffa75CE7870BCE80a31Ad6458A7FbB2AF",
+      "symbol": "RISEINU",
+      "name": "RESURRECTIONINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 13,
+    "minor": 14,
     "patch": 2
   }
 }
