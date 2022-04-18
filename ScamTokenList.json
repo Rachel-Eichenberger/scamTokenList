@@ -40678,11 +40678,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55",
+      "symbol": "ECC",
+      "name": "EMPIRECAPITAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 50,
+    "minor": 51,
     "patch": 2
   }
 }
