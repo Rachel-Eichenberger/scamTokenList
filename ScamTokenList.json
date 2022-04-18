@@ -40590,11 +40590,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4e905B3E488a244912Eb1f90613A58539858d53",
+      "symbol": "CROW",
+      "name": "WISDOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 42,
+    "minor": 43,
     "patch": 2
   }
 }
