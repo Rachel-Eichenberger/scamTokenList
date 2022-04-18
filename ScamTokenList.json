@@ -41338,11 +41338,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd443Ac05561CF72c3d89cbaBc058aC5E2B1A01C3",
+      "symbol": "DEV1L",
+      "name": "HATTORIHANZO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 10,
+    "minor": 11,
     "patch": 3
   }
 }
