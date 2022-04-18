@@ -41063,11 +41063,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA4Def55AA530269418d83204cC2635d5d1df9f7",
+      "symbol": "HoodS",
+      "name": "HOODSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 85,
+    "minor": 86,
     "patch": 2
   }
 }
