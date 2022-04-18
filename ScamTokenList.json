@@ -40909,11 +40909,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e8EF20c4608cc9BC3605eC0815DAA109AFE7B5B",
+      "symbol": "HUM",
+      "name": "HUMMINGBIRD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 71,
+    "minor": 72,
     "patch": 2
   }
 }
