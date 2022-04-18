@@ -41008,11 +41008,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbE56Eb68cBda322BB5d28774B9E1aC61231C8e77",
+      "symbol": "AQUA",
+      "name": "LIQUIDFINANCE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 80,
+    "minor": 81,
     "patch": 2
   }
 }
