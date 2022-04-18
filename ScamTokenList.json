@@ -40392,11 +40392,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x900f0AF1A0b4f945754791c25A11F8B38a7D606C",
+      "symbol": "EX",
+      "name": "EXISTENTIALISM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 24,
+    "minor": 25,
     "patch": 2
   }
 }
