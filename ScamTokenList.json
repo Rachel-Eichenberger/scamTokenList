@@ -40381,11 +40381,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9A388F7499d6867b02db0EDc7f812a1cE3f31f4",
+      "symbol": "IBD",
+      "name": "INBETWEENDESTINY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 23,
+    "minor": 24,
     "patch": 2
   }
 }
