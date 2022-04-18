@@ -40810,11 +40810,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb2E9959c33664E5744308fA571429f16BcF128A",
+      "symbol": "SKING",
+      "name": "SAITAKINGINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 62,
+    "minor": 63,
     "patch": 2
   }
 }
