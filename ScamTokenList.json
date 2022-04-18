@@ -40293,11 +40293,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x947466DE29950Cf8d31e5b1C3551b6c14D7B169c",
+      "symbol": "STREND",
+      "name": "SUPERTREND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 15,
+    "minor": 16,
     "patch": 2
   }
 }
