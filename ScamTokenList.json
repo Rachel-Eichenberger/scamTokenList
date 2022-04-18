@@ -41261,11 +41261,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6500Fd98CbA4707582b356F4Fa6E67998650AE61",
+      "symbol": "KUYA",
+      "name": "KUYA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 3,
+    "minor": 4,
     "patch": 3
   }
 }
