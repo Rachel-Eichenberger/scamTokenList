@@ -40931,11 +40931,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d33B7c92d70Ec5102c7422529e65A7EA867ed61",
+      "symbol": "TOM",
+      "name": "TOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 73,
+    "minor": 74,
     "patch": 2
   }
 }
