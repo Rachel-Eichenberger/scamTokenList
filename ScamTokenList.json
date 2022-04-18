@@ -40480,11 +40480,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x635757f2A0d995D619b7391A8073ae9e72e3ADF1",
+      "symbol": "GOOSE",
+      "name": "GOOSE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 32,
+    "minor": 33,
     "patch": 2
   }
 }
