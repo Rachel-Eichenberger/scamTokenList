@@ -40744,11 +40744,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B7aC3aE20C03BC4364076C7892fAed85FAbe7BF",
+      "symbol": "CHEEP",
+      "name": "CHEEP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 56,
+    "minor": 57,
     "patch": 2
   }
 }
