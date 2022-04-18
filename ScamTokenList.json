@@ -40634,11 +40634,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53F8334bD80937e1Cb3a0B175c7D40D9D8bb311d",
+      "symbol": "Twitter",
+      "name": "TWITTERDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 46,
+    "minor": 47,
     "patch": 2
   }
 }
