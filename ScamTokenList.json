@@ -40238,11 +40238,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC36A05a75A8d2937076452785C466d33Cc49c8AE",
+      "symbol": "CUCK",
+      "name": "CUCKOO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 10,
+    "minor": 11,
     "patch": 2
   }
 }
