@@ -41492,11 +41492,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37016E24752f77A60815BEd5f14C39058d58768b",
+      "symbol": "OWL",
+      "name": "OWLTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 24,
+    "minor": 25,
     "patch": 3
   }
 }
