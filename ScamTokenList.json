@@ -40205,11 +40205,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe84bD42e6436507D50Ed8f8B358547EeB7187B80",
+      "symbol": "ROSTAR",
+      "name": "ROSTAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 7,
+    "minor": 8,
     "patch": 2
   }
 }
