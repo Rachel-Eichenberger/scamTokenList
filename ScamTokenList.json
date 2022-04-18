@@ -40348,11 +40348,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1191663B3A3Fb51aAB599Bb4c751E9a57f30e468",
+      "symbol": "FLAPPY",
+      "name": "FLAPPYBIRD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 20,
+    "minor": 21,
     "patch": 2
   }
 }
