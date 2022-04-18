@@ -40403,11 +40403,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82b5cA7d3923e5f3231c234E780C20dB99a5e30b",
+      "symbol": "CAGE",
+      "name": "CAGEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 25,
+    "minor": 26,
     "patch": 2
   }
 }
