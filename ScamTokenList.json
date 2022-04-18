@@ -41162,11 +41162,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa372939Ac5Aa0aF7e6CBb7c6c749b816ce5Bf4FC",
+      "symbol": "PHOENIX",
+      "name": "PHOENIX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 94,
+    "minor": 95,
     "patch": 2
   }
 }
