@@ -40986,11 +40986,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fb798A123Cdd34B1C4297BdbFE997f6A4806440",
+      "symbol": "PERMISSION",
+      "name": "PERMISSIONLESS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 78,
+    "minor": 79,
     "patch": 2
   }
 }
