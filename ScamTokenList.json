@@ -40524,11 +40524,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd35cdC176169dA91C18bcC94f34A32e2b3876e7",
+      "symbol": "AKENO",
+      "name": "AKENOEASTER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 36,
+    "minor": 37,
     "patch": 2
   }
 }
