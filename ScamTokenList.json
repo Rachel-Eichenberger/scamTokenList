@@ -40546,11 +40546,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1499335B446B8a93CadB69bb60702A0b38b5019c",
+      "symbol": "KFC",
+      "name": "SANDERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 38,
+    "minor": 39,
     "patch": 2
   }
 }
