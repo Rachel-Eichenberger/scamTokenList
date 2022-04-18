@@ -41107,11 +41107,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B68c36823e381C88b722f5BA65aF40739bC11c8",
+      "symbol": "JamCity",
+      "name": "JAMCITYMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 89,
+    "minor": 90,
     "patch": 2
   }
 }
