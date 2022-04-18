@@ -40260,11 +40260,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd21AaDF86d3cACd304057636b640Cd51267747E2",
+      "symbol": "SEAGULL",
+      "name": "SEAGULL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 12,
+    "minor": 13,
     "patch": 2
   }
 }
