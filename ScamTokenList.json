@@ -40150,11 +40150,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5460b7A4473699276CD1D65345046EF229aA1292",
+      "symbol": "KAKASHI",
+      "name": "KAKASHIPORTAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 2,
+    "minor": 3,
     "patch": 2
   }
 }
