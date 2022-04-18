@@ -40249,11 +40249,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a7411B5dAEa096d9e6f8Ec820cfeE1338C4A596",
+      "symbol": "KAKAW",
+      "name": "RYOSHISWORSTNIGHTMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 11,
+    "minor": 12,
     "patch": 2
   }
 }
