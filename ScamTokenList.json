@@ -41316,11 +41316,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d64ef6217eb39871F66461Ab37d7E54a4aB816A",
+      "symbol": "GluMobile",
+      "name": "GLUMOBILEMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 8,
+    "minor": 9,
     "patch": 3
   }
 }
