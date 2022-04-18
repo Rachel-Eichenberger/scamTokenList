@@ -41041,11 +41041,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D6fb0258C3783b6dF9888C4CeA0DB3bB3Ce9C4E",
+      "symbol": "BOCK",
+      "name": "BOCK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 83,
+    "minor": 84,
     "patch": 2
   }
 }
