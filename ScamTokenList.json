@@ -41426,11 +41426,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x319E76b9F6AD5C00D4A51487626A8635ACFb0af3",
+      "symbol": "SOWL",
+      "name": "SAMURAIOWL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 18,
+    "minor": 19,
     "patch": 3
   }
 }
