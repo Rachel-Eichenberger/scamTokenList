@@ -40799,11 +40799,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d8400d8ec31eD55e6a7B527E82EE54605a803b2",
+      "symbol": "FALCON",
+      "name": "COMMANDEROFTHEBIRDS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 61,
+    "minor": 62,
     "patch": 2
   }
 }
