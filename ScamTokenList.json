@@ -40513,11 +40513,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf01ceC82FF71eD4610472355976d8Bab29a86166",
+      "symbol": "WOOFER",
+      "name": "WOOFER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 35,
+    "minor": 36,
     "patch": 2
   }
 }
