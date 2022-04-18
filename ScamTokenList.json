@@ -40106,11 +40106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6874b8ee2Eda2d65E39110B41d72e7534b92E4C4",
+      "symbol": "PIGEON",
+      "name": "PIGEON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 98,
+    "minor": 99,
     "patch": 1
   }
 }
