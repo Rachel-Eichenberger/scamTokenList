@@ -40359,11 +40359,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6C41B2c1a35E068BD1456aCAcA701E73662348c",
+      "symbol": "eApe",
+      "name": "APECOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 21,
+    "minor": 22,
     "patch": 2
   }
 }
