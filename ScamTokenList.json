@@ -40601,11 +40601,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40c59d90d15067375De20a0F11262Ee885f446ac",
+      "symbol": "NINKEN",
+      "name": "NINKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 43,
+    "minor": 44,
     "patch": 2
   }
 }
