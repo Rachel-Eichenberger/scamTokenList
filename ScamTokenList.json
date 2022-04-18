@@ -40656,11 +40656,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e9dB2dca4d5D4A9C64520D761F489B881E547e2",
+      "symbol": "Feather",
+      "name": "FEATHER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 48,
+    "minor": 49,
     "patch": 2
   }
 }
