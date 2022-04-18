@@ -41030,11 +41030,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x903f51438C1b39Da5dA400524DA2C0ED29f68F5c",
+      "symbol": "Rasengan",
+      "name": "RASENGAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 82,
+    "minor": 83,
     "patch": 2
   }
 }
