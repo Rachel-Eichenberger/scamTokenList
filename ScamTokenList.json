@@ -40865,11 +40865,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Ad1D89e26f001f994708F3EF526495de0588448",
+      "symbol": "EST",
+      "name": "ETHERSTREAM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 67,
+    "minor": 68,
     "patch": 2
   }
 }
