@@ -40084,11 +40084,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98325F82Fc72F5C4eb65b4E9eD1b6c73Df1C35DA",
+      "symbol": "Hummingbird",
+      "name": "HUMMINGBIRD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 96,
+    "minor": 97,
     "patch": 1
   }
 }
