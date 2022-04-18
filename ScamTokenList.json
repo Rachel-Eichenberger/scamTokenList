@@ -41272,11 +41272,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C2aE88EA27D0A50226c5F6830dc7bFf177Ce900",
+      "symbol": "BARK",
+      "name": "ADOGEDREAM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 4,
+    "minor": 5,
     "patch": 3
   }
 }
