@@ -41118,11 +41118,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93f2f60fc1cC8899fED331d37e92Fc3F7f19125C",
+      "symbol": "HERO",
+      "name": "HERO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 90,
+    "minor": 91,
     "patch": 2
   }
 }
