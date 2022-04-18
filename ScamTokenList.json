@@ -40095,11 +40095,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B07CFb4c26c5224caB36D583c1533eBc1A9346a",
+      "symbol": "RISEINU",
+      "name": "RESURRECTIONINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 2,
-    "minor": 97,
+    "minor": 98,
     "patch": 1
   }
 }
