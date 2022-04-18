@@ -41140,11 +41140,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9713a81dC86c1be769ce15D2dC7e16A42B0DEa63",
+      "symbol": "CRATER",
+      "name": "CRATERTREASURY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 92,
+    "minor": 93,
     "patch": 2
   }
 }
