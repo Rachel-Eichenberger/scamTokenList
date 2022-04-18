@@ -41173,11 +41173,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1EC1dcA2448e1946200C247Ff1F29797562fd87a",
+      "symbol": "HBIRD",
+      "name": "HUMMINGBIRD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 95,
+    "minor": 96,
     "patch": 2
   }
 }
