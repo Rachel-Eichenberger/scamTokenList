@@ -41327,11 +41327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45DC32219A18918570A70889B39752A78deCA695",
+      "symbol": "EASTER",
+      "name": "JESUSCRY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 9,
+    "minor": 10,
     "patch": 3
   }
 }
