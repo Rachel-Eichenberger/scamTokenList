@@ -40964,11 +40964,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x290be03aa81F20f994A01cD4D2A39D435717cD7c",
+      "symbol": "UchihaCaw",
+      "name": "UCHIHACAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 76,
+    "minor": 77,
     "patch": 2
   }
 }
