@@ -41019,11 +41019,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7436f2Fc5f6Dd5d5A946e494B9C6331275534251",
+      "symbol": "TURKEY",
+      "name": "COURAGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 81,
+    "minor": 82,
     "patch": 2
   }
 }
