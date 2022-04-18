@@ -40447,11 +40447,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0399CfeA5f0602dFF75e7Aa670e1f351b98EE763",
+      "symbol": "BabyBird",
+      "name": "CHRIPCHRIPCHRIP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 29,
+    "minor": 30,
     "patch": 2
   }
 }
