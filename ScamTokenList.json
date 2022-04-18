@@ -41470,11 +41470,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0366b6c0259B80487923811F68fC160cEaC1975E",
+      "symbol": "VTA",
+      "name": "VIRTUAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 22,
+    "minor": 23,
     "patch": 3
   }
 }
