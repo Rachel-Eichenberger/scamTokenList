@@ -41074,11 +41074,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fCa6274349428f0bEcA6C37E66A0555320D3705",
+      "symbol": "ROBIN",
+      "name": "REDBREAST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 86,
+    "minor": 87,
     "patch": 2
   }
 }
