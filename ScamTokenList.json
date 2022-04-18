@@ -41129,11 +41129,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF105abe0CAff57fABE1d4E82ee074E8Ac8b76Be6",
+      "symbol": "187",
+      "name": "THEPEREGRINEFALCON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 91,
+    "minor": 92,
     "patch": 2
   }
 }
