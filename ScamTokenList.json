@@ -40370,11 +40370,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4BDa1273d079780D11CCB5932Daa7Ee69E48751",
+      "symbol": "BLKBird",
+      "name": "BLACKBIRD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 22,
+    "minor": 23,
     "patch": 2
   }
 }
