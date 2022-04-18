@@ -40172,11 +40172,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e395d9d2DC4Ae35bAc0011f66846b5879a11585",
+      "symbol": "Gobble",
+      "name": "GOBBLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 4,
+    "minor": 5,
     "patch": 2
   }
 }
