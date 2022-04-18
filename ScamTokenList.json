@@ -40667,11 +40667,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F8F59B657a51169110C6698E38B7d954623394C",
+      "symbol": "DolceGabbana",
+      "name": "DOLCEGABBANAMETAVER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 3,
-    "minor": 49,
+    "minor": 50,
     "patch": 2
   }
 }
