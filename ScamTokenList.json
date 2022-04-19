@@ -41877,11 +41877,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c62682A5fe0157E54C06bCCF5B4751Ec793524b",
+      "symbol": "TENGU",
+      "name": "TENGU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 61,
+    "minor": 62,
     "patch": 2
   }
 }
