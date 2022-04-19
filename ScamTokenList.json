@@ -41679,11 +41679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90ABE4497abe11EbE5c431c84D34625c629f2276",
+      "symbol": "BIRDCULT",
+      "name": "BIRDCULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 43,
+    "minor": 44,
     "patch": 2
   }
 }
