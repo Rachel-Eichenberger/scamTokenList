@@ -41558,11 +41558,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Aff99a97cd35635d0Aff22c52aC9B7040cae81a",
+      "symbol": "GLAUX",
+      "name": "BIRDOFMINERVA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 30,
+    "minor": 31,
     "patch": 3
   }
 }
