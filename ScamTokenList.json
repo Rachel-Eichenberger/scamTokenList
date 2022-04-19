@@ -42559,11 +42559,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0842e1bb4b7588708da0b70e1637DeC1caA945B1",
+      "symbol": "420INU",
+      "name": "FOURTWENTYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 23,
+    "minor": 24,
     "patch": 3
   }
 }
