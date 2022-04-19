@@ -42075,11 +42075,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF789d908d8843531a8f45fa02cE691f07D314C5e",
+      "symbol": "FD",
+      "name": "FIVEDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 79,
+    "minor": 80,
     "patch": 2
   }
 }
