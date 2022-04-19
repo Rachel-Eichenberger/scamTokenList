@@ -42570,11 +42570,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAC0A99a12726C8C8688145aa3387632FFf3845B8",
+      "symbol": "DARKWINDS",
+      "name": "NIGHTINGALE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 24,
+    "minor": 25,
     "patch": 3
   }
 }
