@@ -41767,11 +41767,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A02498d170B4643C384cC05Ac3D2a419Bd42e25",
+      "symbol": "DODO",
+      "name": "DODO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 51,
+    "minor": 52,
     "patch": 2
   }
 }
