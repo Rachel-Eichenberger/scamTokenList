@@ -42130,11 +42130,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b3350414286a14439B395ba1e88FA91d1702020",
+      "symbol": "SNOOP",
+      "name": "SNOOPDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 84,
+    "minor": 85,
     "patch": 2
   }
 }
