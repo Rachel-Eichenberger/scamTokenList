@@ -41888,11 +41888,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5A6271Bb4f4EB7426aC1bCceB848Cfda95c6DFe",
+      "symbol": "GMT",
+      "name": "GREENMETAVERSETOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 62,
+    "minor": 63,
     "patch": 2
   }
 }
