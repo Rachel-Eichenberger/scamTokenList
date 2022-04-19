@@ -42240,11 +42240,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c5219C13674987fc6C65372997075F218CdAb15",
+      "symbol": "PEACAWK",
+      "name": "PEACAWK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 94,
+    "minor": 95,
     "patch": 2
   }
 }
