@@ -42262,11 +42262,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c3023e616867C75FA030639c742cfEFe89ff576",
+      "symbol": "BLAZED",
+      "name": "STONEDSHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 96,
+    "minor": 97,
     "patch": 2
   }
 }
