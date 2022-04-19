@@ -42306,11 +42306,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EA4E686029842Fafc51cfE55259729590602Bd9",
+      "symbol": "BLAZE",
+      "name": "BLAZEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 0,
+    "minor": 1,
     "patch": 3
   }
 }
