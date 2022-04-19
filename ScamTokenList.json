@@ -42163,11 +42163,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c0f90C55E3ff6Cd3A944cBaCecC929562D9e777",
+      "symbol": "EYE",
+      "name": "EAGLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 87,
+    "minor": 88,
     "patch": 2
   }
 }
