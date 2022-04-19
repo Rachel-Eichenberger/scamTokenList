@@ -42031,11 +42031,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68913e212a306664fcBc565210E8031058f42011",
+      "symbol": "CONDOR",
+      "name": "SCAVENGER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 75,
+    "minor": 76,
     "patch": 2
   }
 }
