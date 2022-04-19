@@ -42592,11 +42592,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19EA72630Fd923F15677D9F0B17B7cE443e873cD",
+      "symbol": "SCREECH",
+      "name": "SCREECH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 26,
+    "minor": 27,
     "patch": 3
   }
 }
