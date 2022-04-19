@@ -41954,11 +41954,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x528345428B83CEf133af80233FC085674e6DD1e1",
+      "symbol": "Destina",
+      "name": "DESTINA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 68,
+    "minor": 69,
     "patch": 2
   }
 }
