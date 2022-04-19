@@ -42152,11 +42152,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0C6340EEacDe83b6c109dECab4c14Dc282C477E",
+      "symbol": "LIQUID",
+      "name": "LIQUIDITY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 86,
+    "minor": 87,
     "patch": 2
   }
 }
