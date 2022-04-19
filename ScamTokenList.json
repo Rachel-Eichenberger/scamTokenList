@@ -41624,11 +41624,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0208ff78F781eB78b5b876ECDD6DC00Cc6974Ef3",
+      "symbol": "BC",
+      "name": "BIRDCALL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 36,
+    "minor": 37,
     "patch": 3
   }
 }
