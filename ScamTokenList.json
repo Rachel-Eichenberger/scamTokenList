@@ -41547,11 +41547,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2264cBbEFdf0D53857698D7a277CBFEB45970a5",
+      "symbol": "PitchBlack",
+      "name": "PITCHBLACKMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 29,
+    "minor": 30,
     "patch": 3
   }
 }
