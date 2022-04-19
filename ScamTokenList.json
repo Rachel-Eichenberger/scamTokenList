@@ -41580,11 +41580,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16401c66Ffa3A29494286476A53983c35f7b0020",
+      "symbol": "SHIBCULT",
+      "name": "SHIBCULTINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 32,
+    "minor": 33,
     "patch": 3
   }
 }
