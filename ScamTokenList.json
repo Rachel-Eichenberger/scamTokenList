@@ -42339,11 +42339,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x889BE0b59E72dFE478b17D20B1e468c671ab5cfB",
+      "symbol": "CHIRPLE",
+      "name": "CHIRPLEKUSH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 3,
+    "minor": 4,
     "patch": 3
   }
 }
