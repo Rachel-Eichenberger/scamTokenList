@@ -41569,11 +41569,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb333dB741b1dd3F299b6aeED0BC694921b521dc1",
+      "symbol": "ShibMoon",
+      "name": "SHIBMOON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 31,
+    "minor": 32,
     "patch": 3
   }
 }
