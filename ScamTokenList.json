@@ -41800,11 +41800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf743d6E13D7bE115BEDd2657F7F0614d15F7b963",
+      "symbol": "BLUEJAY",
+      "name": "BLUEJAY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 54,
+    "minor": 55,
     "patch": 2
   }
 }
