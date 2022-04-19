@@ -41910,11 +41910,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x322CEb6a1E9f9ddA933678BEdb18BC81d9f42c8C",
+      "symbol": "BBigbird",
+      "name": "BBIGBIRD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 64,
+    "minor": 65,
     "patch": 2
   }
 }
