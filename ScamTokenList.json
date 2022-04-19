@@ -41833,11 +41833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C151900C4F233ca243C0d4D8419d12d920F91b4",
+      "symbol": "BreakingBad",
+      "name": "BREAKINGBAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 57,
+    "minor": 58,
     "patch": 2
   }
 }
