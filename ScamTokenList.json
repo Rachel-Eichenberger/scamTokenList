@@ -41668,11 +41668,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6083900Db052ca106CCB785e5E595686bF830861",
+      "symbol": "BABYKODA",
+      "name": "BABYKODAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 40,
+    "minor": 41,
     "patch": 3
   }
 }
