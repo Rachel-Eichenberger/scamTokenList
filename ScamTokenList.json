@@ -42460,11 +42460,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa44E3961f80F11317b5B5B59C889B355641E2256",
+      "symbol": "BigBlackAss",
+      "name": "BIGBLACKASS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 14,
+    "minor": 15,
     "patch": 3
   }
 }
