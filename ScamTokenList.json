@@ -41965,11 +41965,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb558310550108b30DdA76fC58b768e00D5638370",
+      "symbol": "BUZZSHIBA",
+      "name": "BUZZSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 69,
+    "minor": 70,
     "patch": 2
   }
 }
