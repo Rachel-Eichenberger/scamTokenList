@@ -42449,11 +42449,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6609fc4dDefdfCFb7C124A55F7afE0476298fE6",
+      "symbol": "PUPPY",
+      "name": "PUPPYSHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 13,
+    "minor": 14,
     "patch": 3
   }
 }
