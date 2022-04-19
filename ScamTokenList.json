@@ -41602,11 +41602,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e8e4726a043D98E5FB3dD9A604E57c3c7e218F1",
+      "symbol": "CAWSWAP",
+      "name": "CAWSWAP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 34,
+    "minor": 35,
     "patch": 3
   }
 }
