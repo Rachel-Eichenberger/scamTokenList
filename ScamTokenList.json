@@ -41462,17 +41462,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x23c45C33BE424CD2500323739bbA08a1CfD51217",
-      "symbol": "BLAZEIT",
-      "name": "FOURTWEETY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0366b6c0259B80487923811F68fC160cEaC1975E",
       "symbol": "VTA",
       "name": "VIRTUAL",
@@ -41682,8 +41671,8 @@
     }
   ],
   "version": {
-    "major": 4,
-    "minor": 41,
-    "patch": 3
+    "major": 5,
+    "minor": 42,
+    "patch": 2
   }
 }
