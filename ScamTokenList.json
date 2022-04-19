@@ -41591,11 +41591,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x923A3B4E9c1C1DA42401f1bdED453d3ad5E54C5B",
+      "symbol": "GINU",
+      "name": "GUTSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 33,
+    "minor": 34,
     "patch": 3
   }
 }
