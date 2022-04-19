@@ -42108,11 +42108,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x156DEe62A465a05Bc2138C1eb13ab2D4977BF643",
+      "symbol": "BERSRK",
+      "name": "BERSERK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 82,
+    "minor": 83,
     "patch": 2
   }
 }
