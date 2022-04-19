@@ -42526,11 +42526,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x313Cca4b076693A5AB83860f90d0A3E80eB30676",
+      "symbol": "DOGE420DOGE",
+      "name": "DOGE420DOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 20,
+    "minor": 21,
     "patch": 3
   }
 }
