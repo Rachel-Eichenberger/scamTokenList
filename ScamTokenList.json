@@ -41514,11 +41514,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE77e5c817c527861EAf61bcC04e7b5E8081Da58C",
+      "symbol": "CORVIDAE",
+      "name": "FAMILY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 26,
+    "minor": 27,
     "patch": 3
   }
 }
