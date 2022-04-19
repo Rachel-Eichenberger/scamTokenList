@@ -42064,11 +42064,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b0f9eEeE7F60131a827EFA4120a14d68f79866C",
+      "symbol": "RIP",
+      "name": "RIP",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 78,
+    "minor": 79,
     "patch": 2
   }
 }
