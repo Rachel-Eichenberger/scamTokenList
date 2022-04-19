@@ -41613,11 +41613,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf24Ff4D2af9698A3aaC9E69c1F991eD638a6a866",
+      "symbol": "ShyBird",
+      "name": "SHYTOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 35,
+    "minor": 36,
     "patch": 3
   }
 }
