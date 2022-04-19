@@ -41943,11 +41943,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59b148421B27A94C494a38049f2Bd3219A17Eb19",
+      "symbol": "TheAviary",
+      "name": "THEAVIARY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 67,
+    "minor": 68,
     "patch": 2
   }
 }
