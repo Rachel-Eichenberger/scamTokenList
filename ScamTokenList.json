@@ -42020,11 +42020,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EfdA7Fd7C60388382d744a13329FF73535bA5F3",
+      "symbol": "CROWCAW",
+      "name": "CROWCAW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 74,
+    "minor": 75,
     "patch": 2
   }
 }
