@@ -42295,11 +42295,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbA6194138c463Cf398662b5B966477554d7b661E",
+      "symbol": "SUZUHA",
+      "name": "SUZUHAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 5,
-    "minor": 99,
-    "patch": 2
+    "major": 6,
+    "minor": 0,
+    "patch": 3
   }
 }
