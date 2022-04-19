@@ -41536,11 +41536,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFF2c3ddC42900feEb8BEb04aF3acD4cD51254b5A",
+      "symbol": "SHIBM",
+      "name": "SHIBMOON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 28,
+    "minor": 29,
     "patch": 3
   }
 }
