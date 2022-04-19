@@ -42174,11 +42174,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36652DcF38c88900Ac61b9F9779AE5BE300d3fa1",
+      "symbol": "DACA",
+      "name": "DACADAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 88,
+    "minor": 89,
     "patch": 2
   }
 }
