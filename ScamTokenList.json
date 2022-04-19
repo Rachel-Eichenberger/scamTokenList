@@ -42042,11 +42042,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F30b3A8237a87431231bD660131e2744D7b360C",
+      "symbol": "FLIGHT",
+      "name": "WINGS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 76,
+    "minor": 77,
     "patch": 2
   }
 }
