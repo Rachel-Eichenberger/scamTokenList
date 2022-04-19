@@ -41657,11 +41657,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3Dc1DBC05ec2C0ea127Ab962F3CE390b67Faf54",
+      "symbol": "Island",
+      "name": "ISLAND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 39,
+    "minor": 40,
     "patch": 3
   }
 }
