@@ -41503,11 +41503,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x422CccC96E3F08EbbF6D0aDfd44DCB4203Ea9940",
+      "symbol": "BBUST",
+      "name": "BIRDBUSTERS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 25,
+    "minor": 26,
     "patch": 3
   }
 }
