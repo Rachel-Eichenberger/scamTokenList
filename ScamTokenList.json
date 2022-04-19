@@ -41734,11 +41734,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05Cd2062B1858E964464a61487B4716196e25dc9",
+      "symbol": "STORK",
+      "name": "STORK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 48,
+    "minor": 49,
     "patch": 2
   }
 }
