@@ -42218,11 +42218,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28d83816753D26036E79B71d51C957A31E20f945",
+      "symbol": "PlayStation",
+      "name": "PLAYSTATIONMETAVERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 92,
+    "minor": 93,
     "patch": 2
   }
 }
