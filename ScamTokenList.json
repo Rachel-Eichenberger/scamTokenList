@@ -42229,11 +42229,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bF4135e6818F393bE412C7aF4857e7D391955a7",
+      "symbol": "GREY",
+      "name": "GREYGOOSE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 93,
+    "minor": 94,
     "patch": 2
   }
 }
