@@ -41756,11 +41756,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe77C06DdB7634Ef91Ca13A79976f29f5bA1cA66",
+      "symbol": "DreamWorks",
+      "name": "DREAMWORKSMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 50,
+    "minor": 51,
     "patch": 2
   }
 }
