@@ -42350,11 +42350,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF634f1c846ad06e9c05bd6015f15867020ed27dc",
+      "symbol": "FLOCKI",
+      "name": "FLOCKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 4,
+    "minor": 5,
     "patch": 3
   }
 }
