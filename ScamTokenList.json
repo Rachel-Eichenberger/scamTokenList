@@ -42317,11 +42317,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06317a7F49276d58B253D9cAd7b1260cf0A143eb",
+      "symbol": "RAVENCAW",
+      "name": "RAVENCAW",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 3
   }
 }
