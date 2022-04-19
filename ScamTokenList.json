@@ -42548,11 +42548,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bAc9b03627310673582e4c349D487223F840b8C",
+      "symbol": "VIBE",
+      "name": "VIBEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 22,
+    "minor": 23,
     "patch": 3
   }
 }
