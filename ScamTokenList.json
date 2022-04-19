@@ -42361,11 +42361,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD7542c1D483D7a77C9079B1aCb4F6411285128A",
+      "symbol": "KAZUMA",
+      "name": "KAZUMAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 5,
+    "minor": 6,
     "patch": 3
   }
 }
