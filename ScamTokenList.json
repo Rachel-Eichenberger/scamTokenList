@@ -42141,11 +42141,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Bf84288D56bFE59374935F05D4592d89C5532F2",
+      "symbol": "ER",
+      "name": "ELONROGAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 85,
+    "minor": 86,
     "patch": 2
   }
 }
