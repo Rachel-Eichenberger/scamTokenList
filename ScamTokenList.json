@@ -41811,11 +41811,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6435D1B3fb0Be1D78C8EDb5Fc9Ea0c4B30a43Ab",
+      "symbol": "PNT",
+      "name": "PHANTNETTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 55,
+    "minor": 56,
     "patch": 2
   }
 }
