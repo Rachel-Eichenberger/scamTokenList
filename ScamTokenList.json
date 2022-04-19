@@ -42185,11 +42185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50bBb389A7D4E7E0d85061F4E3b51e84D097EBCc",
+      "symbol": "RYUK",
+      "name": "RYUKINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 89,
+    "minor": 90,
     "patch": 2
   }
 }
