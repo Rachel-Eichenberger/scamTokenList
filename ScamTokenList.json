@@ -42009,11 +42009,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cDc7C5d50416CfE6CdEB55f8C35cc8AD068BFb4",
+      "symbol": "KINU",
+      "name": "KURUSUINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 73,
+    "minor": 74,
     "patch": 2
   }
 }
