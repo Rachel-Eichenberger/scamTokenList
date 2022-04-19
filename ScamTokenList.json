@@ -41525,11 +41525,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9242AFBC8438DC7fC706CC343F7B53C9004e037",
+      "symbol": "Killua",
+      "name": "KILLUA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 27,
+    "minor": 28,
     "patch": 3
   }
 }
