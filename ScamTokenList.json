@@ -42328,11 +42328,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80B6C45175B5edb61C3e0AAd83035f2c7AF70a29",
+      "symbol": "FLY",
+      "name": "APENGUINSDREAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 2,
+    "minor": 3,
     "patch": 3
   }
 }
