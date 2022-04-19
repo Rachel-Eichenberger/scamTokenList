@@ -42427,11 +42427,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e6cFE9044F33f4FEf64A407EdFf7bE2800a1AF8",
+      "symbol": "Optimism",
+      "name": "OPTIMISM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 11,
+    "minor": 12,
     "patch": 3
   }
 }
