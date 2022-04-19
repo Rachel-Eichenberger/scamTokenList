@@ -42086,11 +42086,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F69B8865ed30e6F5607aFFb6ab4856bf15c23f7",
+      "symbol": "Cockatoo",
+      "name": "COCKATOO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 80,
+    "minor": 81,
     "patch": 2
   }
 }
