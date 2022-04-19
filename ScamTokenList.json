@@ -41712,11 +41712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65B332DC4663E948c27108C58eE88Ef940Abea32",
+      "symbol": "BALANCE",
+      "name": "BALANCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 46,
+    "minor": 47,
     "patch": 2
   }
 }
