@@ -41646,11 +41646,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73d202412F3cac4f9aa2e4bb77af04070A49286e",
+      "symbol": "VIRO",
+      "name": "VIROINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 4,
-    "minor": 38,
+    "minor": 39,
     "patch": 3
   }
 }
