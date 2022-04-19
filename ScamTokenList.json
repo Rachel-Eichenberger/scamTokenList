@@ -42405,11 +42405,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A418833Ce7CcB5fEFe6C39aEa810F5cAfd57456",
+      "symbol": "HOOT",
+      "name": "MOONBIRDS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 9,
+    "minor": 10,
     "patch": 3
   }
 }
