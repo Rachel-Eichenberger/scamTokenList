@@ -42383,11 +42383,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x618120E5Fe67ae1cF23A0A5929312327B20658A8",
+      "symbol": "GIBBER",
+      "name": "ANAPESDREAM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 7,
+    "minor": 8,
     "patch": 3
   }
 }
