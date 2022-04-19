@@ -42284,11 +42284,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5B0206C8C8FE3FEad2f0469A32Ad6a7eA31Ee74",
+      "symbol": "CULT42069",
+      "name": "CULT42069",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 98,
+    "minor": 99,
     "patch": 2
   }
 }
