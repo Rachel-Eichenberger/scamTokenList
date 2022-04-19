@@ -41899,11 +41899,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF313F9D2124D9c3aff134b016f34CE4c7350370e",
+      "symbol": "CULTSHIBG",
+      "name": "CULTSHIBGENERAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 63,
+    "minor": 64,
     "patch": 2
   }
 }
