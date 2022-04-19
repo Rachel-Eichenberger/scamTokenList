@@ -42394,11 +42394,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3Ef1b93b3c7836C77Cca742D14d77c7A262240A",
+      "symbol": "PARASITE",
+      "name": "PARASITE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 8,
+    "minor": 9,
     "patch": 3
   }
 }
