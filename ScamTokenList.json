@@ -41921,11 +41921,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Db6EE3D2Dd715d049AD2C58da8A7E8b48f90090",
+      "symbol": "CULTSHIBG",
+      "name": "CULTSHIBGENERAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 5,
-    "minor": 65,
+    "minor": 66,
     "patch": 2
   }
 }
