@@ -42801,11 +42801,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31759c4E7Bafe50ac608C9760224c21a33674664",
+      "symbol": "WEED",
+      "name": "WEEDONOMICS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 45,
+    "minor": 46,
     "patch": 3
   }
 }
