@@ -43307,11 +43307,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32B4101f1A1b6201039e1b702A18966dcdecD724",
+      "symbol": "Marvel",
+      "name": "MARVELMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 91,
+    "minor": 92,
     "patch": 3
   }
 }
