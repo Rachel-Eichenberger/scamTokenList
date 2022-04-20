@@ -43230,11 +43230,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0dF666bDaDCf6E2cb4DbE0B39EE66812ba80206",
+      "symbol": "MAVERICK",
+      "name": "MAVERICK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 84,
+    "minor": 85,
     "patch": 3
   }
 }
