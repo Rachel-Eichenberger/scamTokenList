@@ -42757,11 +42757,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x237F94aAe818b4afF59676e635E803251E70896a",
+      "symbol": "BALDEAGLE",
+      "name": "BALDEAGLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 41,
+    "minor": 42,
     "patch": 3
   }
 }
