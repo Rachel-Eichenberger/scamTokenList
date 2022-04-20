@@ -43692,11 +43692,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEfAA65817DDE71057E9B69Ec8a465f8699b55F21",
+      "symbol": "COR",
+      "name": "PENGCOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 26,
+    "minor": 27,
     "patch": 4
   }
 }
