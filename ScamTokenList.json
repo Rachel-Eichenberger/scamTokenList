@@ -43021,11 +43021,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6030C0934281a6d524b9Fa30fc495e9300D77c94",
+      "symbol": "MUSIX",
+      "name": "MUSICOLOGY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 65,
+    "minor": 66,
     "patch": 3
   }
 }
