@@ -43714,11 +43714,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bC66E5E9a78ECF7bfBEceEAE6BABb5e17855353",
+      "symbol": "Harrier",
+      "name": "INTHESHALLOWS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 28,
+    "minor": 29,
     "patch": 4
   }
 }
