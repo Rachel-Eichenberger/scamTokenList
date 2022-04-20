@@ -43527,11 +43527,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcF26Bc4567c4a8fd2644331F4E2eeCb567d93427",
+      "symbol": "SUGARINU",
+      "name": "SUGARINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 11,
+    "minor": 12,
     "patch": 4
   }
 }
