@@ -43340,11 +43340,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4Fcd13203aeba87b23B75643Df21D91a0D21F30",
+      "symbol": "BUD",
+      "name": "BUD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 94,
+    "minor": 95,
     "patch": 3
   }
 }
