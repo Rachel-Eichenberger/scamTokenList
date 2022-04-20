@@ -43098,11 +43098,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E9C52CEe1Ff96bBc1b51BCEed3dC3dBE4f529cC",
+      "symbol": "WarnerBros",
+      "name": "WARNERBROSPICTURES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 72,
+    "minor": 73,
     "patch": 3
   }
 }
