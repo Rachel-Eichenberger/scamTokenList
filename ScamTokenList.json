@@ -43428,11 +43428,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf726C17Ecc9653E987aCF16bB8d98Ac1007D2b3F",
+      "symbol": "TrippyDoge",
+      "name": "TRIPPYDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 2,
+    "minor": 3,
     "patch": 4
   }
 }
