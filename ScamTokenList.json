@@ -43780,11 +43780,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91A1aF8EFCF1aDbc47A0651e4D5ED19DA0E4c2d8",
+      "symbol": "PLAGUE",
+      "name": "PLAGUEDOCTORTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 34,
+    "minor": 35,
     "patch": 4
   }
 }
