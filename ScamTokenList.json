@@ -43472,11 +43472,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84545f730D0CDC757AC66Fcf80d6888070fbb546",
+      "symbol": "FLUCKI",
+      "name": "FLUCKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 6,
+    "minor": 7,
     "patch": 4
   }
 }
