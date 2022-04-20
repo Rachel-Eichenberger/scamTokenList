@@ -43703,11 +43703,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c5eBbf75B7447DD2966dea2B85B54f2640012e6",
+      "symbol": "RTW",
+      "name": "RIDETHEWIND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 27,
+    "minor": 28,
     "patch": 4
   }
 }
