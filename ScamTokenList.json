@@ -43175,11 +43175,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA638048229F7A33EDd7119a219B51862F397EE40",
+      "symbol": "MiniShibaInu",
+      "name": "MINISHIBAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 79,
+    "minor": 80,
     "patch": 3
   }
 }
