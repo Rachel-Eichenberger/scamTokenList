@@ -42812,11 +42812,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1135776338fd97BBB744ed2A74C2334F73f7C6a",
+      "symbol": "Night",
+      "name": "ISTHENIGHT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 46,
+    "minor": 47,
     "patch": 3
   }
 }
