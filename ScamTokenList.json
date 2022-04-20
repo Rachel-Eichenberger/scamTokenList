@@ -43197,11 +43197,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0245075E5136eaeCD50ECc9e781174001EEd9717",
+      "symbol": "OP",
+      "name": "OPTIMISM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 81,
+    "minor": 82,
     "patch": 3
   }
 }
