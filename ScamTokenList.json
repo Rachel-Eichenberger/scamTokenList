@@ -43263,11 +43263,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x893377aa21f346D559FD045F7cb420a11687DcA2",
+      "symbol": "STONER",
+      "name": "STONERSDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 87,
+    "minor": 88,
     "patch": 3
   }
 }
