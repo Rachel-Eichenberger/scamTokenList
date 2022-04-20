@@ -43043,11 +43043,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8146A0eFfA7BAbF93c5a81F41105BCeA1f9a160F",
+      "symbol": "Tezuka",
+      "name": "TEZUKAPROMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 67,
+    "minor": 68,
     "patch": 3
   }
 }
