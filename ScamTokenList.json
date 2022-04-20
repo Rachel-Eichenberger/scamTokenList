@@ -42658,11 +42658,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3201dF274abcf3e799e97766b9A9058ef349044d",
+      "symbol": "420DOGE",
+      "name": "420DOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 32,
+    "minor": 33,
     "patch": 3
   }
 }
