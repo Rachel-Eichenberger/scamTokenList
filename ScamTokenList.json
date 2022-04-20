@@ -43791,11 +43791,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b7055Bb813F74daf38E839723ea9B2f38bb7e7B",
+      "symbol": "HOO",
+      "name": "ALLBIRDSAREGRAYBYNI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 35,
+    "minor": 36,
     "patch": 4
   }
 }
