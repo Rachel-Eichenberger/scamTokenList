@@ -42922,11 +42922,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b7d5aB58E578720022EbFCb28Fd4e61677cCC09",
+      "symbol": "frightened",
+      "name": "FRIGHTENED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 56,
+    "minor": 57,
     "patch": 3
   }
 }
