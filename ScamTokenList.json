@@ -43318,11 +43318,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6F9f292B564d9E3Ded16504c42F2aEd3c12E624",
+      "symbol": "SPLIFF",
+      "name": "SPLIFF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 92,
+    "minor": 93,
     "patch": 3
   }
 }
