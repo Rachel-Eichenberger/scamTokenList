@@ -43615,11 +43615,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71E5556FEF83Cb7656Bb2A29f5eD03d74031e964",
+      "symbol": "FLOCK",
+      "name": "AHUNTERSBLESS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 19,
+    "minor": 20,
     "patch": 4
   }
 }
