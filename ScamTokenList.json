@@ -42933,11 +42933,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ab9828bbF546ECA3c2e59638ac64Ded3bE06e58",
+      "symbol": "KOGE",
+      "name": "KUSHDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 57,
+    "minor": 58,
     "patch": 3
   }
 }
