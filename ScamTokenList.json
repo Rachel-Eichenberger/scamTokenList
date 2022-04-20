@@ -42955,11 +42955,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9FB4682099c1b73CC9DC41A9f8d9109a28757A21",
+      "symbol": "BONG",
+      "name": "WELOVEBONG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 59,
+    "minor": 60,
     "patch": 3
   }
 }
