@@ -43417,11 +43417,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ae4a3a04821cD69675431987A89c75AEDE62e1d",
+      "symbol": "BIRDSMACHINE",
+      "name": "BIRDSMACHINE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 1,
+    "minor": 2,
     "patch": 4
   }
 }
