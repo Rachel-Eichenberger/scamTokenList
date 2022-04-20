@@ -43142,11 +43142,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39308E1493d9b4800cdFA200D7B90BE9654c6cA9",
+      "symbol": "APELON",
+      "name": "APELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 76,
+    "minor": 77,
     "patch": 3
   }
 }
