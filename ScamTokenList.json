@@ -42647,11 +42647,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB92df5a50285a68CE5d5C2197F5be959F767216",
+      "symbol": "PELICAN",
+      "name": "PELICAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 31,
+    "minor": 32,
     "patch": 3
   }
 }
