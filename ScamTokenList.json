@@ -42779,11 +42779,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x749BE1efba7d7bdeF7403CbF06d3bDfE4031456F",
+      "symbol": "CROWS",
+      "name": "TEHPPL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 43,
+    "minor": 44,
     "patch": 3
   }
 }
