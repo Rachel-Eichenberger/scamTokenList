@@ -42845,11 +42845,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdEE6170e63F4CC207f7E9e36B9ee5E2097b62a68",
+      "symbol": "KingofBirds",
+      "name": "ALBATROS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 49,
+    "minor": 50,
     "patch": 3
   }
 }
