@@ -43120,11 +43120,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49F269Ec1F421e178359923B9c75D4927A0A3eB9",
+      "symbol": "SUTN",
+      "name": "SQUARETOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 74,
+    "minor": 75,
     "patch": 3
   }
 }
