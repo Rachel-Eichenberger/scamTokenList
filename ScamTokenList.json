@@ -43670,11 +43670,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e80Cbcda32C85546beFcB9B3038bBF56B5EF724",
+      "symbol": "REFLECT420",
+      "name": "REFLECT420",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 24,
+    "minor": 25,
     "patch": 4
   }
 }
