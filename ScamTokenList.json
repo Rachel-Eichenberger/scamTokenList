@@ -42911,11 +42911,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26A938CB75578c676519f62762e6b7e2D2705248",
+      "symbol": "Grass",
+      "name": "420GREENENERGY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 55,
+    "minor": 56,
     "patch": 3
   }
 }
