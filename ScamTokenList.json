@@ -43032,11 +43032,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2306aBE0F640D904f18FD28f730E01D28a73eA7",
+      "symbol": "ChronicDoge",
+      "name": "CHRONICDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 66,
+    "minor": 67,
     "patch": 3
   }
 }
