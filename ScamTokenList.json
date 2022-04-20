@@ -42636,11 +42636,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76670E0Ead789244AA7Fa111C7FdBC3aF9794C4a",
+      "symbol": "DarkShadow",
+      "name": "DARKSHADOW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 30,
+    "minor": 31,
     "patch": 3
   }
 }
