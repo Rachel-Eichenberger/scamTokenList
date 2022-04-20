@@ -42691,11 +42691,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B8FB4f1e94F848F30dA54ef29FfA6F5CAf1305a",
+      "symbol": "MRIB",
+      "name": "MRIBURN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 35,
+    "minor": 36,
     "patch": 3
   }
 }
