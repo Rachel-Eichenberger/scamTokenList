@@ -42680,11 +42680,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54BdB70e2e5278351376AE1DE7c781AfC8eDF9B7",
+      "symbol": "VULTURE",
+      "name": "VULTURE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 34,
+    "minor": 35,
     "patch": 3
   }
 }
