@@ -42988,11 +42988,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7CeF41035598Bbdca333fFFA8F251a07726e2ed4",
+      "symbol": "GANJA",
+      "name": "GANJA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 62,
+    "minor": 63,
     "patch": 3
   }
 }
