@@ -43010,11 +43010,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3D512ca830F76d342E81AB637f6B55C4f66F61cB",
+      "symbol": "LYI",
+      "name": "LIGHTYAGAMINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 64,
+    "minor": 65,
     "patch": 3
   }
 }
