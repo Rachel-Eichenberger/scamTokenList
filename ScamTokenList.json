@@ -42625,11 +42625,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac2C13a789f4b0F4988Bd4a531DE7DaF7967508b",
+      "symbol": "Phoenix",
+      "name": "ARABIANBIRD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 29,
+    "minor": 30,
     "patch": 3
   }
 }
