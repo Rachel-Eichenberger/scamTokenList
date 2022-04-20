@@ -42614,11 +42614,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98Ac47Ad7FC139494bB767d2aB29f06a63E3b3b2",
+      "symbol": "420",
+      "name": "420INU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 28,
+    "minor": 29,
     "patch": 3
   }
 }
