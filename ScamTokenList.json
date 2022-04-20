@@ -43483,11 +43483,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB6F53Edf9f2a035732d0D512cB16c238E6518E8",
+      "symbol": "RASTA",
+      "name": "RASTAMUSK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 7,
+    "minor": 8,
     "patch": 4
   }
 }
