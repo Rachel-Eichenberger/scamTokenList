@@ -43560,11 +43560,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73d5132F56f0CBBA43743374A7BBE9df005abDeB",
+      "symbol": "CHIB",
+      "name": "CHIBAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 14,
+    "minor": 15,
     "patch": 4
   }
 }
