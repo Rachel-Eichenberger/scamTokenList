@@ -42889,11 +42889,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2791578f9cEb9C8916d9350c35D37D558348564",
+      "symbol": "KUSH420",
+      "name": "KUSH420",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 53,
+    "minor": 54,
     "patch": 3
   }
 }
