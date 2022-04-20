@@ -43439,11 +43439,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84eEE6CAbcDbDf13C0442d1f7044F2f1020f82c2",
+      "symbol": "BIRDBOX",
+      "name": "YOURSTATEOFMIND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 3,
+    "minor": 4,
     "patch": 4
   }
 }
