@@ -43373,11 +43373,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad0899c439C1C0e78D72aE6039aCD0649D4eE41c",
+      "symbol": "EAGLE",
+      "name": "BIRDSEYEVIEW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 97,
+    "minor": 98,
     "patch": 3
   }
 }
