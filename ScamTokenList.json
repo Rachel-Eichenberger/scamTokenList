@@ -43494,11 +43494,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d0D616e8B1324B6094A4aCE0ABb59563ad8B5c1",
+      "symbol": "GORRILLAGLUE",
+      "name": "GORILLAGLUEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 8,
+    "minor": 9,
     "patch": 4
   }
 }
