@@ -42867,11 +42867,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8129aA2f65a861c465816fF778B5110B6a870F4",
+      "symbol": "NIGHTKING",
+      "name": "THREEEYEDCROW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 51,
+    "minor": 52,
     "patch": 3
   }
 }
