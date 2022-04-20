@@ -42735,11 +42735,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeF9C374d46fe850406205345487709EDC45971F5",
+      "symbol": "HOLD",
+      "name": "CLAW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 39,
+    "minor": 40,
     "patch": 3
   }
 }
