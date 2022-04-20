@@ -42746,11 +42746,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4711828bC60C2e3568C736Ae831Ace3b620E911b",
+      "symbol": "BLAZEIT",
+      "name": "420BLAZEIT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 40,
+    "minor": 41,
     "patch": 3
   }
 }
