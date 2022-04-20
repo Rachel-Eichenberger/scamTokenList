@@ -43637,11 +43637,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B05Bec4Be7c1EA82C269496E174f6DBF41f9CeF",
+      "symbol": "REHAB",
+      "name": "WEEDREHAB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 21,
+    "minor": 22,
     "patch": 4
   }
 }
