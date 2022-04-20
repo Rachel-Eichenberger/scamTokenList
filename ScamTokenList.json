@@ -43758,11 +43758,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC441A8eC694455618fEcAB8432436288608f87E2",
+      "symbol": "HIGH",
+      "name": "LETBRAINHIGH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 32,
+    "minor": 33,
     "patch": 4
   }
 }
