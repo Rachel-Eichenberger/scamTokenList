@@ -43549,11 +43549,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77F348bc4557A097244168e7c03649172a6C231c",
+      "symbol": "KOO",
+      "name": "MORNINGALWAYSCOMES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 13,
+    "minor": 14,
     "patch": 4
   }
 }
