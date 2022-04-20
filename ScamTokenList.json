@@ -43065,11 +43065,55 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e171967a07873D89ac767026a2d781B72572006",
+      "symbol": "GAMAKICHI",
+      "name": "GAMAKICHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79CbDABFb78b5A2293c4D16c39D8ea2E02fE4bcE",
+      "symbol": "APELAND",
+      "name": "APEOTHERSIDELAND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD32aab2EDCE70A94E05A37413929aB341aFe014",
+      "symbol": "SWED",
+      "name": "SMOKEWEEDEVERYDAY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E9C52CEe1Ff96bBc1b51BCEed3dC3dBE4f529cC",
+      "symbol": "WarnerBros",
+      "name": "WARNERBROSPICTURES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 69,
+    "minor": 73,
     "patch": 3
   }
 }
