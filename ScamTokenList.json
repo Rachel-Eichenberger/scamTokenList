@@ -42603,11 +42603,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc190F29291446a3B1d3C80d55c4BA999C506594f",
+      "symbol": "HIGH",
+      "name": "BECAUSEIGOT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 27,
+    "minor": 28,
     "patch": 3
   }
 }
