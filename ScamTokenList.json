@@ -43725,11 +43725,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35bA8966aa3D81E007d2CBC167172583a07dFf8C",
+      "symbol": "TAKE",
+      "name": "TAKEMICHIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 29,
+    "minor": 30,
     "patch": 4
   }
 }
