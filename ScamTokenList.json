@@ -43296,11 +43296,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30CE2c5F2D868a6fB015CD3031d8BD71A130f0D2",
+      "symbol": "Kush",
+      "name": "AHUNTERSKUSH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 90,
+    "minor": 91,
     "patch": 3
   }
 }
