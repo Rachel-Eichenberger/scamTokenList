@@ -42977,11 +42977,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66E622ab1eeD88Be6584d0c4a471c1124320316D",
+      "symbol": "420",
+      "name": "WEED",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 61,
+    "minor": 62,
     "patch": 3
   }
 }
