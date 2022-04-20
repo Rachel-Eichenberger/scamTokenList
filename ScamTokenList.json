@@ -42878,11 +42878,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2619d1074B762352Fe82471591C89df89a2c523c",
+      "symbol": "WEED",
+      "name": "WEENERWEED",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 52,
+    "minor": 53,
     "patch": 3
   }
 }
