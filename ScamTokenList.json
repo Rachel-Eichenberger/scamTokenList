@@ -43450,11 +43450,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Dc1c7d6dbBB3DE99d7c41407E507868090FC2A1",
+      "symbol": "KANA",
+      "name": "KANAKOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 4,
+    "minor": 5,
     "patch": 4
   }
 }
