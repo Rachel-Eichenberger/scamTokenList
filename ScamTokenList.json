@@ -43076,11 +43076,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79CbDABFb78b5A2293c4D16c39D8ea2E02fE4bcE",
+      "symbol": "APELAND",
+      "name": "APEOTHERSIDELAND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 70,
+    "minor": 71,
     "patch": 3
   }
 }
