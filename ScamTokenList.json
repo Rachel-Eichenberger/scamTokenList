@@ -43208,11 +43208,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25CE670244D0bf9E057C1f9812e00E94A97CAC9b",
+      "symbol": "ELT",
+      "name": "ELEMENTBLACK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 82,
+    "minor": 83,
     "patch": 3
   }
 }
