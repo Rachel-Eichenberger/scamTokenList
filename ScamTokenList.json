@@ -42669,11 +42669,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x420059305f0056fEeC2c205fe76F980c703d0420",
+      "symbol": "ZM",
+      "name": "ZAMORANT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 33,
+    "minor": 34,
     "patch": 3
   }
 }
