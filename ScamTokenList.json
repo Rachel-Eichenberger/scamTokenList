@@ -43252,11 +43252,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e670C5bf0e448dB2972De6270407aF9923F2935",
+      "symbol": "NEXT",
+      "name": "CONNEXTNETWORK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 86,
+    "minor": 87,
     "patch": 3
   }
 }
