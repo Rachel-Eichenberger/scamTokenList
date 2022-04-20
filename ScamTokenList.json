@@ -42856,11 +42856,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dE3Df97Ee5B6679BC0E290F23099d6fc3d62593",
+      "symbol": "THUG",
+      "name": "DAFFYTHUG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 50,
+    "minor": 51,
     "patch": 3
   }
 }
