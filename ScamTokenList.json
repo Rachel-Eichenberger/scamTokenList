@@ -43274,11 +43274,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d25eF7ee3C4e9bb2Dc55346fe87915636e49536",
+      "symbol": "xCAW",
+      "name": "TEHPPL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 88,
+    "minor": 89,
     "patch": 3
   }
 }
