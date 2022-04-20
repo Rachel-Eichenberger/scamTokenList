@@ -43362,11 +43362,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2BA764eB6E46Bba7F1656025229CC1FC404A9F89",
+      "symbol": "LYAN",
+      "name": "LYAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 96,
+    "minor": 97,
     "patch": 3
   }
 }
