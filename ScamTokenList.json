@@ -42823,11 +42823,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93Db838Eb20896753e9a59240cEfA94e6AE3771E",
+      "symbol": "420Nights",
+      "name": "FOURTWENTYISTHENIGH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 47,
+    "minor": 48,
     "patch": 3
   }
 }
