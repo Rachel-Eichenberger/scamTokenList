@@ -43329,11 +43329,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1693453E4be34F6ACAa1b858406fc5e997C3Db70",
+      "symbol": "BURN",
+      "name": "BURNDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 93,
+    "minor": 94,
     "patch": 3
   }
 }
