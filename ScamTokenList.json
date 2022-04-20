@@ -42999,11 +42999,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec02a00365aD0134d863B667a55F5fd4dB56C8dE",
+      "symbol": "WORM",
+      "name": "AHUNTERSBAIT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 63,
+    "minor": 64,
     "patch": 3
   }
 }
