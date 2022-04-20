@@ -43131,11 +43131,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12562d7b9c09ea5970300dc7538bac637eFB3489",
+      "symbol": "TDL",
+      "name": "THEDEVILSLETTUCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 75,
+    "minor": 76,
     "patch": 3
   }
 }
