@@ -42713,11 +42713,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4F351035AD19939Ce5031659DAAe9832A47F8CE",
+      "symbol": "CAWCULT",
+      "name": "CAWCULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 37,
+    "minor": 38,
     "patch": 3
   }
 }
