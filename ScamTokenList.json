@@ -43648,11 +43648,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4fFAE8c9e34C68688bD76EcAc4E97a000e5b136",
+      "symbol": "SOAD",
+      "name": "SOAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 22,
+    "minor": 23,
     "patch": 4
   }
 }
