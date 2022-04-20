@@ -43626,11 +43626,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3366A0919eaE250251632A75901662068a40F28",
+      "symbol": "SA",
+      "name": "STONERAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 20,
+    "minor": 21,
     "patch": 4
   }
 }
