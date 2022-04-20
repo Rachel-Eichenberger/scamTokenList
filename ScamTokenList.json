@@ -43109,11 +43109,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85460E02727a69a64157E36b11463b64d0360697",
+      "symbol": "BELON",
+      "name": "BIRDELON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 73,
+    "minor": 74,
     "patch": 3
   }
 }
