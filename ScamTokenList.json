@@ -43065,11 +43065,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e171967a07873D89ac767026a2d781B72572006",
+      "symbol": "GAMAKICHI",
+      "name": "GAMAKICHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 69,
+    "minor": 70,
     "patch": 3
   }
 }
