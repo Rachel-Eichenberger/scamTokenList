@@ -42944,11 +42944,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4bFDEE9DDe791F1416DB37FB857cff18ba7ba15",
+      "symbol": "BEANZ",
+      "name": "BEANZMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 58,
+    "minor": 59,
     "patch": 3
   }
 }
