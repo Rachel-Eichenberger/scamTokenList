@@ -43087,11 +43087,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD32aab2EDCE70A94E05A37413929aB341aFe014",
+      "symbol": "SWED",
+      "name": "SMOKEWEEDEVERYDAY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 6,
-    "minor": 71,
+    "minor": 72,
     "patch": 3
   }
 }
