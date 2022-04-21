@@ -44759,11 +44759,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd65EAd088a26782F0494fEA9f12F00d7bB19bA0",
+      "symbol": "GOLIATH",
+      "name": "BIRDEATER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 23,
+    "minor": 24,
     "patch": 5
   }
 }
