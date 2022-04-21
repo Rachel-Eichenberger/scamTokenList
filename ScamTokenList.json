@@ -44726,11 +44726,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3Cf3440E567F4045074595752bA9B2D8Ec85614",
+      "symbol": "FUCKOO",
+      "name": "FUCKKOO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 20,
+    "minor": 21,
     "patch": 5
   }
 }
