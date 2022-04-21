@@ -44594,11 +44594,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E44608b592B855e8346288640aac3be3fEa4B38",
+      "symbol": "IRUKA",
+      "name": "IRUKAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 8,
+    "minor": 9,
     "patch": 5
   }
 }
