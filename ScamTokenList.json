@@ -44638,11 +44638,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01a489A3D2cA557e5C6E0D53288bBa11945dC9D6",
+      "symbol": "SQUAWK",
+      "name": "SQUAWK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 12,
+    "minor": 13,
     "patch": 5
   }
 }
