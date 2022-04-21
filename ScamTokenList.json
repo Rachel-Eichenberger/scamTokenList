@@ -44583,11 +44583,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0fB37F6F2a6039C044bFFd1E446DD11Ee7E997D",
+      "symbol": "PUNCH",
+      "name": "TYSONPUNCH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 7,
+    "minor": 8,
     "patch": 5
   }
 }
