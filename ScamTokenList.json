@@ -43890,11 +43890,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf2AeD80360FCC4cb181727Bf69E8B9B5B42cADE",
+      "symbol": "ELONCAW",
+      "name": "ELONCAW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 44,
+    "minor": 45,
     "patch": 4
   }
 }
