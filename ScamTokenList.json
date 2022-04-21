@@ -44341,11 +44341,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x801d20cc9C011d24F6B0e69Ad8E607AAf3f1A91e",
+      "symbol": "BAYC",
+      "name": "BAYC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 85,
+    "minor": 86,
     "patch": 4
   }
 }
