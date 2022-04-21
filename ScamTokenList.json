@@ -44187,11 +44187,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x310A0760630Ea90C1c30FC250A9C72eff6d6E999",
+      "symbol": "AXE",
+      "name": "AHUNTERSWEAPON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 71,
+    "minor": 72,
     "patch": 4
   }
 }
