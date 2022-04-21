@@ -44748,11 +44748,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6FE8c5f545bB136A360C7A62BD6386124eC3161",
+      "symbol": "KAI",
+      "name": "KAGURAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 22,
+    "minor": 23,
     "patch": 5
   }
 }
