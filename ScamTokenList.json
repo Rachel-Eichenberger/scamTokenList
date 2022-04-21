@@ -44561,11 +44561,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5C3aE1EAD5229df105F616Dd97871009B0d1b87",
+      "symbol": "WorldofWomen",
+      "name": "WORLDOFWOMEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 5,
+    "minor": 6,
     "patch": 5
   }
 }
