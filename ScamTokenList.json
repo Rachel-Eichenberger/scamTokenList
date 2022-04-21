@@ -43989,11 +43989,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EA432641F1f24e37A3032630f7A9F7Ea02c6379",
+      "symbol": "ELGD",
+      "name": "ELEVENGOLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 53,
+    "minor": 54,
     "patch": 4
   }
 }
