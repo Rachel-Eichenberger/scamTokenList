@@ -44737,11 +44737,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31538c865E4e4Ed6Aa847988dE7AC1c4eeC656D6",
+      "symbol": "SHONEN",
+      "name": "SHONEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 21,
+    "minor": 22,
     "patch": 5
   }
 }
