@@ -44110,11 +44110,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02CEC0535F2d43FfF20c8BB6C8cB82Cd4d478eB2",
+      "symbol": "CLUK",
+      "name": "CLUK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 64,
+    "minor": 65,
     "patch": 4
   }
 }
