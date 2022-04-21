@@ -44286,11 +44286,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80C24111D3F9E1ffecF3b41b9ca68E60A890866B",
+      "symbol": "AGFI",
+      "name": "AGGREGATEDFINANCE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 80,
+    "minor": 81,
     "patch": 4
   }
 }
