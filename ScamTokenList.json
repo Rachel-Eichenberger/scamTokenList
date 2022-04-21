@@ -44660,11 +44660,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe52D513a04Cf985464cb6947e3E38cF89382F97e",
+      "symbol": "FBIRD",
+      "name": "FLAPPYBIRD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 14,
+    "minor": 15,
     "patch": 5
   }
 }
