@@ -44671,11 +44671,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcE1E465Db48EF22F2DB7892569Df0f2837afE748",
+      "symbol": "INNIT",
+      "name": "INNITFORTHETECH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 15,
+    "minor": 16,
     "patch": 5
   }
 }
