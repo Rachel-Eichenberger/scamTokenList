@@ -44088,11 +44088,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03bDeA5C4bf9693A19728fA0778938606E0d3492",
+      "symbol": "FREEZE",
+      "name": "FREEZE",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 62,
+    "minor": 63,
     "patch": 4
   }
 }
