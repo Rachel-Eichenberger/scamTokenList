@@ -44363,11 +44363,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40F43363f9e0584794B352807EAFDE49452d58ae",
+      "symbol": "KINIRO",
+      "name": "KINIROBANK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 87,
+    "minor": 88,
     "patch": 4
   }
 }
