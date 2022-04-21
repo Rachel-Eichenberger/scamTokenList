@@ -44418,11 +44418,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0f8d2cF552Dc287bd2cD05C4176e068262286Bf",
+      "symbol": "DEER",
+      "name": "AHUNTERSPREY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 92,
+    "minor": 93,
     "patch": 4
   }
 }
