@@ -44572,11 +44572,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4512989c63566a6De7C433b63819d3FCAECABEfE",
+      "symbol": "ETHOGE",
+      "name": "ETHOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 6,
+    "minor": 7,
     "patch": 5
   }
 }
