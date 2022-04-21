@@ -44077,11 +44077,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFc49a41bB5874ffcaA91d7A453bF0Fd3E659DE87",
+      "symbol": "HEIST",
+      "name": "THEGRANDHEIST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 61,
+    "minor": 62,
     "patch": 4
   }
 }
