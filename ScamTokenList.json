@@ -44220,11 +44220,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B8476c56A7755aa3d2EBC0c316C9F3465ad96D9",
+      "symbol": "BABYBURN",
+      "name": "BABYBURN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 74,
+    "minor": 75,
     "patch": 4
   }
 }
