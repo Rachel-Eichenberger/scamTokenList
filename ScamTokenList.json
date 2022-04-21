@@ -44330,11 +44330,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78346f5C9b8dAf3C22579eD494A829D36B4783E4",
+      "symbol": "KINIRO",
+      "name": "KINIROBANK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 84,
+    "minor": 85,
     "patch": 4
   }
 }
