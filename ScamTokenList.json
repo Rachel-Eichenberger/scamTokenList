@@ -44352,11 +44352,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42707E709Daee0EB5273B79AAd755C5f18309AdF",
+      "symbol": "INVENT",
+      "name": "INVENTPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 86,
+    "minor": 87,
     "patch": 4
   }
 }
