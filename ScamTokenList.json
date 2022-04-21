@@ -44616,11 +44616,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x236356A6e913eDC5D4358A1B478dDF4E64211B25",
+      "symbol": "ACKERMAN",
+      "name": "ACKERMANINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 10,
+    "minor": 11,
     "patch": 5
   }
 }
