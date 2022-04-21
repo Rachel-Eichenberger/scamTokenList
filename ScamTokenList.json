@@ -43824,11 +43824,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a2Cd4F9053466674096553a5f03144033a0374A",
+      "symbol": "BURN",
+      "name": "BURNTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 38,
+    "minor": 39,
     "patch": 4
   }
 }
