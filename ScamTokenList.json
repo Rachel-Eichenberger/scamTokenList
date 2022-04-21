@@ -43813,11 +43813,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13830464E1aB4B52D3c16F22803D9f2c15b6f54A",
+      "symbol": "HYDRA",
+      "name": "HYDRADAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 37,
+    "minor": 38,
     "patch": 4
   }
 }
