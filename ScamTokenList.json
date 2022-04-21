@@ -44605,11 +44605,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcC0C883507117200B4DB40e1E1cE14b7313DdF8d",
+      "symbol": "JBINU",
+      "name": "DESERVESALOTOFCREDI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 9,
+    "minor": 10,
     "patch": 5
   }
 }
