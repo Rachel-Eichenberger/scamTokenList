@@ -43868,11 +43868,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fC1C5D71C5d67854f3c8644Ca8aC4e8A484027c",
+      "symbol": "BURN",
+      "name": "BURN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 42,
+    "minor": 43,
     "patch": 4
   }
 }
