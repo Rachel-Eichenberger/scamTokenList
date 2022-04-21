@@ -44495,11 +44495,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F30E0F6B484eF6Be57b6435e34687018ff8Cb4D",
+      "symbol": "SEED",
+      "name": "MURAKAMIFLOWERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 7,
-    "minor": 99,
-    "patch": 4
+    "major": 8,
+    "minor": 0,
+    "patch": 5
   }
 }
