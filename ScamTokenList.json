@@ -44308,11 +44308,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35cBb2D1B845fA3Dd13ccaC6eb393eab321f23b5",
+      "symbol": "MOONBIRD",
+      "name": "MOONBIRDS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 82,
+    "minor": 83,
     "patch": 4
   }
 }
