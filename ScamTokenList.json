@@ -44242,11 +44242,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24275Ea7f10CfA4cc28E104a73FbDF417533c7dD",
+      "symbol": "TAP",
+      "name": "TOMORROWAINTPROMISE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 76,
+    "minor": 77,
     "patch": 4
   }
 }
