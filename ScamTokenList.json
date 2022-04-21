@@ -44528,11 +44528,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14BcE5F78f02540313DBaC634290d99D74C946Af",
+      "symbol": "ACKERMANINU",
+      "name": "ACKERMANINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 2,
+    "minor": 3,
     "patch": 5
   }
 }
