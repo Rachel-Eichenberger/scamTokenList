@@ -44231,11 +44231,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bD24cb2764f79E6F8f1328e42D7f8C7224c1E21",
+      "symbol": "USTAMA",
+      "name": "USTAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 75,
+    "minor": 76,
     "patch": 4
   }
 }
