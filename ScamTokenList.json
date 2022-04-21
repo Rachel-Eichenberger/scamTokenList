@@ -43846,11 +43846,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52efdcf2649d20F58e87CfFDfDd339eDb042D0fB",
+      "symbol": "SmokeShiba",
+      "name": "SMOKESHIBA",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 40,
+    "minor": 41,
     "patch": 4
   }
 }
