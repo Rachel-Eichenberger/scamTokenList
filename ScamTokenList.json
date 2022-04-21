@@ -44297,11 +44297,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x685F4ea1e5f4a9AF6Bc70232B8cBB1Bb6a72118b",
+      "symbol": "BDAYAPE",
+      "name": "BDAYAPE",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 81,
+    "minor": 82,
     "patch": 4
   }
 }
