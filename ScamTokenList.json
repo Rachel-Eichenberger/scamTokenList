@@ -44154,11 +44154,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1db781057dc836a29c3F4Fd547b4b7Be822274f",
+      "symbol": "Manipulate",
+      "name": "BUYLOWSELLHIGH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 68,
+    "minor": 69,
     "patch": 4
   }
 }
