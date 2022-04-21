@@ -44000,11 +44000,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3030A49A6Bc1Fc819a488cA208ddb719f2cFa24B",
+      "symbol": "ELGD",
+      "name": "ELEVENGOLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 54,
+    "minor": 55,
     "patch": 4
   }
 }
