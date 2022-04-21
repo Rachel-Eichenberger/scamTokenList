@@ -44506,11 +44506,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xadfa18D7fa01A92b9bb67Bb3174D5fB94Bf34589",
+      "symbol": "RAVEN",
+      "name": "RAVEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 0,
+    "minor": 1,
     "patch": 5
   }
 }
