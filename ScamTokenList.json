@@ -44429,11 +44429,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB5D2F287B4113F9d48b15Cf40b432BD38655cdC",
+      "symbol": "APEBUDDY",
+      "name": "APEBUDDY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 93,
+    "minor": 94,
     "patch": 4
   }
 }
