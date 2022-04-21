@@ -44275,11 +44275,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8E4941b460E5C9B824CCdC21A2D4e0599Dfb875",
+      "symbol": "FNN",
+      "name": "FAKENEWSNETWORKINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 79,
+    "minor": 80,
     "patch": 4
   }
 }
