@@ -44143,11 +44143,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x951778C58F5eEf3b90db4228D098c4c8AD0Dcdb2",
+      "symbol": "NBA",
+      "name": "THEASSOCIATIONNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 67,
+    "minor": 68,
     "patch": 4
   }
 }
