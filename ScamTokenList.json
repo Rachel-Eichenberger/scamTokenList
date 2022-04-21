@@ -44319,11 +44319,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbEd85cf4C249bd5Fc187Af600D652DD2bEEFDdeA",
+      "symbol": "ADRT",
+      "name": "ADRENALINE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 83,
+    "minor": 84,
     "patch": 4
   }
 }
