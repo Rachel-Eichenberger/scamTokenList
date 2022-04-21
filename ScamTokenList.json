@@ -44209,11 +44209,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A088b15dB9c229761281E2Da42a0FE49D5fb919",
+      "symbol": "RST",
+      "name": "ROCKSTONEINFO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 73,
+    "minor": 74,
     "patch": 4
   }
 }
