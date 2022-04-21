@@ -43923,11 +43923,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4879a5659D5F268091869A5C5EC0EDB8b410B31b",
+      "symbol": "Possessed",
+      "name": "POSSESSED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 47,
+    "minor": 48,
     "patch": 4
   }
 }
