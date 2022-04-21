@@ -44484,11 +44484,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39baeFb8a53e3eD5833c9FdF8Bb1Cbb544185610",
+      "symbol": "CC",
+      "name": "CAMELCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 98,
+    "minor": 99,
     "patch": 4
   }
 }
