@@ -44770,11 +44770,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0458A0bdE240062f84CDb3E2C45624D71d2bb457",
+      "symbol": "SHIBURB",
+      "name": "SHIBURBTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 24,
+    "minor": 25,
     "patch": 5
   }
 }
