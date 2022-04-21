@@ -43912,11 +43912,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23401913Cf590409ced4225BA9313907FD11291D",
+      "symbol": "FATE",
+      "name": "FATE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 46,
+    "minor": 47,
     "patch": 4
   }
 }
