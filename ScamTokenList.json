@@ -43945,11 +43945,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA60D86913A66b035C7fd0c955b9Ca65A13286e14",
+      "symbol": "TBC",
+      "name": "THEBORINGCOMPANY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 49,
+    "minor": 50,
     "patch": 4
   }
 }
