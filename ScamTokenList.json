@@ -43956,11 +43956,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b050dB71a7172d3f1eAfd5415FE7C2Cee9ef555",
+      "symbol": "BASE58",
+      "name": "ORIGINDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 50,
+    "minor": 51,
     "patch": 4
   }
 }
