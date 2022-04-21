@@ -44451,11 +44451,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA997e046ddC15BA1CD0776284101405de7cA4Ba9",
+      "symbol": "RBY",
+      "name": "ROOBY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 95,
+    "minor": 96,
     "patch": 4
   }
 }
