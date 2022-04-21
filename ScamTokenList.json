@@ -44539,11 +44539,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD3beedd82F952539f92a7102E3c0d315A7A3607",
+      "symbol": "MurderofCrows",
+      "name": "NECROW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 3,
+    "minor": 4,
     "patch": 5
   }
 }
