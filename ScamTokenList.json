@@ -44473,11 +44473,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4BC9713645a0Fe6f736DF7322A8F238fE6691E64",
+      "symbol": "SHILA",
+      "name": "SHILAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 97,
+    "minor": 98,
     "patch": 4
   }
 }
