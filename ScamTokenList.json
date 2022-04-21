@@ -43934,11 +43934,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08460D4966aed390cAa3190C6e0C73c16e1f86De",
+      "symbol": "PL",
+      "name": "POTLUCK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 7,
-    "minor": 48,
+    "minor": 49,
     "patch": 4
   }
 }
