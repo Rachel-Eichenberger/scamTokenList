@@ -44704,11 +44704,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68e92efe288dD992ade2c730549b5Aa17925b85a",
+      "symbol": "POACHER",
+      "name": "SHIBARIUMINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 18,
+    "minor": 19,
     "patch": 5
   }
 }
