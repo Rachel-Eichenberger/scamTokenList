@@ -44627,11 +44627,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C674209CDA2167c7A356a0ae6c0d121919Da275",
+      "symbol": "FPHOENIX",
+      "name": "FIREPHOENIX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 11,
+    "minor": 12,
     "patch": 5
   }
 }
