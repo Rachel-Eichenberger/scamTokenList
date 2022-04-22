@@ -44946,11 +44946,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDEb249b8aBaEeb906175c2Ac834b869b50B29a7a",
+      "symbol": "ETHSHIB",
+      "name": "ETHSHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 40,
+    "minor": 41,
     "patch": 5
   }
 }
