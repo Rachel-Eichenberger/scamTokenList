@@ -45309,11 +45309,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE60473007d7B12f038c7261028993eB93781f4CB",
+      "symbol": "KFN",
+      "name": "KINGFLIPPYNIPS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 73,
+    "minor": 74,
     "patch": 5
   }
 }
