@@ -45210,11 +45210,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC344eAE5Ef85b2d26a06F9cAd9274b35A952DB72",
+      "symbol": "SILENCE",
+      "name": "DAYOFSILENCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 64,
+    "minor": 65,
     "patch": 5
   }
 }
