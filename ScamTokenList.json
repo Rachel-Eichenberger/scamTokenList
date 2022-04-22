@@ -45221,11 +45221,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22fbd19277DcFb12b35A9767ea52B6303c02f269",
+      "symbol": "CHIRP",
+      "name": "AFORBIDDENWOODS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 65,
+    "minor": 66,
     "patch": 5
   }
 }
