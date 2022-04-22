@@ -45067,11 +45067,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04FbDd91b0D2C106d666EA5339c2377fDfe6882E",
+      "symbol": "42",
+      "name": "UNIVERSEDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 51,
+    "minor": 52,
     "patch": 5
   }
 }
