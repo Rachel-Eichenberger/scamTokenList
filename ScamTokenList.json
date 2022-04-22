@@ -45529,11 +45529,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBD3dFD8fb7d79447efc29B9B83C123075d8d284b",
+      "symbol": "BARTER",
+      "name": "APECOINLANDSALETOKE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 93,
+    "minor": 94,
     "patch": 5
   }
 }
