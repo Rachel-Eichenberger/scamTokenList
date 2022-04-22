@@ -44924,11 +44924,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2c067652cAA212B52b493812362A6440C720f89",
+      "symbol": "BURNT",
+      "name": "BURNT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 38,
+    "minor": 39,
     "patch": 5
   }
 }
