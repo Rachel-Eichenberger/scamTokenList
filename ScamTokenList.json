@@ -45122,11 +45122,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff9665048C42d789f012bAEcE223a0dcb7869864",
+      "symbol": "ANGRYBIRD",
+      "name": "ANGRYBIRDETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 56,
+    "minor": 57,
     "patch": 5
   }
 }
