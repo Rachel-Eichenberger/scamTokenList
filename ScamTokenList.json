@@ -44869,11 +44869,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac47dc812FAAFB4dfA0507715d3C64eac3C28B93",
+      "symbol": "ASIATAMA",
+      "name": "ASIATAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 33,
+    "minor": 34,
     "patch": 5
   }
 }
