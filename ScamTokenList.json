@@ -45089,11 +45089,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA154ac7E7a937A29aC474eFC30a80B0A952a9Ab4",
+      "symbol": "Nation4",
+      "name": "NATION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 53,
+    "minor": 54,
     "patch": 5
   }
 }
