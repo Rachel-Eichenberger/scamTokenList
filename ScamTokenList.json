@@ -44935,11 +44935,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e9422d3EfD4481A0176e211bf9415ed35487416",
+      "symbol": "BIRDSHOT",
+      "name": "KILLTHEBIRDS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 39,
+    "minor": 40,
     "patch": 5
   }
 }
