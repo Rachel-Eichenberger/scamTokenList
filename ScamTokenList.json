@@ -45408,11 +45408,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x362bea7555923c40D2fDD53ea6BEffDC85AAb07D",
+      "symbol": "HOUND",
+      "name": "AHUNTERSDOG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 82,
+    "minor": 83,
     "patch": 5
   }
 }
