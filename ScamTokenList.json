@@ -45331,11 +45331,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x029d00bCA644332f2e9755640b7b07fCf360E1dc",
+      "symbol": "Dogette",
+      "name": "DOGETTE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 75,
+    "minor": 76,
     "patch": 5
   }
 }
