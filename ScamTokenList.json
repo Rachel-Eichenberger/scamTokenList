@@ -45243,11 +45243,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9d7b2AdCc95aCCAd8EfFebF58b5dA53DFd72C6d",
+      "symbol": "SHIDO",
+      "name": "SHIDOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 67,
+    "minor": 68,
     "patch": 5
   }
 }
