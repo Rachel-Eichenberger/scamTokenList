@@ -45298,11 +45298,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d40F619E0B5EDAecCF2271456E82FCb27812a24",
+      "symbol": "ANA",
+      "name": "ANATA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 72,
+    "minor": 73,
     "patch": 5
   }
 }
