@@ -45056,11 +45056,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E1a6AcDe37504b2ACEcf923e66691B047a1E31b",
+      "symbol": "MetaHollywood",
+      "name": "METAHOLLYWOOD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 50,
+    "minor": 51,
     "patch": 5
   }
 }
