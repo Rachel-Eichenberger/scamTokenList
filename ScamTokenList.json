@@ -44880,11 +44880,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38875daBF8d32aaAaad3E4A5cbcAb43a1F0B522C",
+      "symbol": "FCC",
+      "name": "FVCKCANCELCULTURE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 34,
+    "minor": 35,
     "patch": 5
   }
 }
