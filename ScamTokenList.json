@@ -44968,11 +44968,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52953B7B358044072A4ff5a9AcF3a4e2fa084500",
+      "symbol": "CASINO",
+      "name": "THEDIAMONDCASINOHEI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 42,
+    "minor": 43,
     "patch": 5
   }
 }
