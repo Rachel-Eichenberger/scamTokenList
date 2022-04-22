@@ -45111,11 +45111,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x300beD1463b4eF78E7Db9bE271F9637727DBBe19",
+      "symbol": "TURN",
+      "name": "TURNDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 55,
+    "minor": 56,
     "patch": 5
   }
 }
