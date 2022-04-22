@@ -45100,11 +45100,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a0Ec2213194bcFB7CA8a13fEb526F997F130Cf7",
+      "symbol": "UchihaCROW",
+      "name": "UCHIHACROW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 54,
+    "minor": 55,
     "patch": 5
   }
 }
