@@ -44847,11 +44847,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41e36A52a1F0f10A4251D1405497d9FB48C2fB1f",
+      "symbol": "One",
+      "name": "STRAWHAT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 31,
+    "minor": 32,
     "patch": 5
   }
 }
