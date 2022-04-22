@@ -44990,11 +44990,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x993C9C80585a800a2780b03fF9dBc13284591790",
+      "symbol": "BCROW",
+      "name": "BLACKCROWINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 44,
+    "minor": 45,
     "patch": 5
   }
 }
