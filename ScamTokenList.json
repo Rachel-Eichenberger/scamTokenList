@@ -45474,11 +45474,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65F0B60b26737a52A9Cc50dde35729ED53c3e34b",
+      "symbol": "VEX",
+      "name": "VEXSWAP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 88,
+    "minor": 89,
     "patch": 5
   }
 }
