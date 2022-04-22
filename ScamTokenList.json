@@ -45584,11 +45584,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD0aad461bBd398D4C3caFc476C4bbCC3D17aC83",
+      "symbol": "BARBARIANS",
+      "name": "BARBARIANSGATE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 98,
+    "minor": 99,
     "patch": 5
   }
 }
