@@ -45353,11 +45353,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf18eAB2d34917E7Ad554F14757a0056b9e68Cbae",
+      "symbol": "AYUMU",
+      "name": "AWALKINGDREAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 77,
+    "minor": 78,
     "patch": 5
   }
 }
