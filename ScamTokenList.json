@@ -45562,11 +45562,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7CD3650d1039443e81B1c8Ed88BD972AeE6183d6",
+      "symbol": "secrecy",
+      "name": "SECRECY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 96,
+    "minor": 97,
     "patch": 5
   }
 }
