@@ -45001,11 +45001,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A62F4936b5BAF5dA86601b397f3602e7660799a",
+      "symbol": "Tesla",
+      "name": "TESLADAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 45,
+    "minor": 46,
     "patch": 5
   }
 }
