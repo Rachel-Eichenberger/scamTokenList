@@ -45540,11 +45540,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46d3A72271a045DcD676eBE823643673E7759218",
+      "symbol": "AUSTAMA",
+      "name": "AUSTAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 94,
+    "minor": 95,
     "patch": 5
   }
 }
