@@ -45507,11 +45507,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Aa38943569AE5A19227C1D1c94fC1D3e379F2eD",
+      "symbol": "STREAMERBURN",
+      "name": "STREAMERBURN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 91,
+    "minor": 92,
     "patch": 5
   }
 }
