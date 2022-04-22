@@ -45265,11 +45265,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F5Cad5D76E04D787a926De03Be90e0c77399BF8",
+      "symbol": "EARTH",
+      "name": "DOGEARTH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 69,
+    "minor": 70,
     "patch": 5
   }
 }
