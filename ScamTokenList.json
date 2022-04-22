@@ -45287,11 +45287,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bb9C3dDe77A8Ec4798C9333568bF04F02953DAb",
+      "symbol": "EMU",
+      "name": "BIRDOVERSIGHTZONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 71,
+    "minor": 72,
     "patch": 5
   }
 }
