@@ -44913,11 +44913,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65edD01906cE91dA41A3af0D5C27a4D09aEE3419",
+      "symbol": "ANCESTOR",
+      "name": "TOKENOFTHEANCESTORS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 37,
+    "minor": 38,
     "patch": 5
   }
 }
