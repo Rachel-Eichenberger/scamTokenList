@@ -45518,11 +45518,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79D84920eF5A5b6E133Bc85960C308416F85D780",
+      "symbol": "BELIEVE",
+      "name": "STARTBELIEVING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 92,
+    "minor": 93,
     "patch": 5
   }
 }
