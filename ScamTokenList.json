@@ -45133,11 +45133,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x493BdB1d8131D52458A107d189890e426137CB8e",
+      "symbol": "BANK",
+      "name": "SMOLBANK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 57,
+    "minor": 58,
     "patch": 5
   }
 }
