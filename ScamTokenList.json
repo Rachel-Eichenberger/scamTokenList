@@ -45188,11 +45188,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF506640C1C4eb046918251Ad4ccB8F4fDCc09e80",
+      "symbol": "SHIBOT",
+      "name": "SHIBAROBOT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 62,
+    "minor": 63,
     "patch": 5
   }
 }
