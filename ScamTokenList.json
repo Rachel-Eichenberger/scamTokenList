@@ -44803,11 +44803,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cc8f71cDEa7B463024b2936702217f9f0D88930",
+      "symbol": "GaryVeeInu",
+      "name": "GARYVEEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 27,
+    "minor": 28,
     "patch": 5
   }
 }
