@@ -44891,11 +44891,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4dEBb94FFa5DD9A2cDC033E02D5676d1A34a199B",
+      "symbol": "DYNA",
+      "name": "DYNAETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 35,
+    "minor": 36,
     "patch": 5
   }
 }
