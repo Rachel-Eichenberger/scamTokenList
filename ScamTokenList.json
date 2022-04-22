@@ -45397,11 +45397,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x555f41d72A2846f7FAEb443a04Db1E74d35C835c",
+      "symbol": "Goosy",
+      "name": "GOOSYTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 81,
+    "minor": 82,
     "patch": 5
   }
 }
