@@ -45342,11 +45342,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x851a0a6073722c25730Ea5c4C558E2C3ED9a7961",
+      "symbol": "NEST",
+      "name": "MOONBIRDSREWARDTOKE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 76,
+    "minor": 77,
     "patch": 5
   }
 }
