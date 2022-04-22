@@ -45375,11 +45375,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70A3b533b15EC575b6223F263655420b293CdBB3",
+      "symbol": "HUNT",
+      "name": "THEHUNT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 79,
+    "minor": 80,
     "patch": 5
   }
 }
