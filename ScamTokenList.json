@@ -45551,11 +45551,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE69feFCe52c6Bf37a95DB7e5Bd48e99bAC793fCF",
+      "symbol": "BIRDTAMA",
+      "name": "BIRDTAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 95,
+    "minor": 96,
     "patch": 5
   }
 }
