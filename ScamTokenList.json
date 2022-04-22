@@ -45573,11 +45573,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Fc84509f8E6DeB2eCdEFbD5662063eBd0798fa4",
+      "symbol": "BARBARIANS",
+      "name": "BARBARIANS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 97,
+    "minor": 98,
     "patch": 5
   }
 }
