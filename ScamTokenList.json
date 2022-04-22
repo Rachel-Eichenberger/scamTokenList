@@ -44836,11 +44836,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3651500e4B2BA87744521DcF179f6E591d46B11a",
+      "symbol": "JEWEL",
+      "name": "THEJEWELLERYHEIST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 30,
+    "minor": 31,
     "patch": 5
   }
 }
