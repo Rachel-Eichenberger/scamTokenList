@@ -45496,11 +45496,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03Db78e0E09a916E2D8CAcA72FE6F781b4D6cE64",
+      "symbol": "Twitch",
+      "name": "TWITCHMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 90,
+    "minor": 91,
     "patch": 5
   }
 }
