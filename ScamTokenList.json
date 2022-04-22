@@ -45023,11 +45023,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4Da2927bF7D4cF15760004AAFB8d70436e7508a",
+      "symbol": "BURNING",
+      "name": "BURNING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 47,
+    "minor": 48,
     "patch": 5
   }
 }
