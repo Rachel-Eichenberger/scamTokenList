@@ -45177,11 +45177,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24872A008e54958a8145568eA8f82E7Cee8C6bF2",
+      "symbol": "PLANET",
+      "name": "SAVETHEPLANET",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 61,
+    "minor": 62,
     "patch": 5
   }
 }
