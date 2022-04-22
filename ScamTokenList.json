@@ -44792,11 +44792,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09fA528a11d1191AF7C262A7223F59133F3D5338",
+      "symbol": "CODE",
+      "name": "THEBILLIONDOLLARCOD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 26,
+    "minor": 27,
     "patch": 5
   }
 }
