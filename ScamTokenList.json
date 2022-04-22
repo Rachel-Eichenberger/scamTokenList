@@ -45078,11 +45078,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x872708BAEF1Cb6f021eA8eC2f86dc56de88472E5",
+      "symbol": "EARTH",
+      "name": "EARTHDAY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 8,
-    "minor": 52,
+    "minor": 53,
     "patch": 5
   }
 }
