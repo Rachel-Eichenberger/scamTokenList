@@ -46464,11 +46464,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5d4De435BC390c086AaBDF06A7a05e60e95F53D",
+      "symbol": "BAR",
+      "name": "BIRDSARENOTREAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 78,
+    "minor": 79,
     "patch": 6
   }
 }
