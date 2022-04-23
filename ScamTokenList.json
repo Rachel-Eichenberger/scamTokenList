@@ -45815,11 +45815,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87E5F95A0EB714F46088B27f265E087A935AfDCB",
+      "symbol": "COUNCIL",
+      "name": "SHADOWBAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 19,
+    "minor": 20,
     "patch": 6
   }
 }
