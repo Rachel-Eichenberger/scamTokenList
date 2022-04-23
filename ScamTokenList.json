@@ -46024,11 +46024,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1592c84195078794454EF37dEaFe077d3364A7c7",
+      "symbol": "a16z",
+      "name": "A16Z",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 38,
+    "minor": 39,
     "patch": 6
   }
 }
