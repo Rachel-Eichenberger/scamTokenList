@@ -45947,11 +45947,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd21d842516e88c1Bf887DEBFC4124E2DB536215",
+      "symbol": "UNIVERSAL",
+      "name": "UNIVERSALPICTURESME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 31,
+    "minor": 32,
     "patch": 6
   }
 }
