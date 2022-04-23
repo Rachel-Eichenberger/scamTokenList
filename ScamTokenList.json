@@ -46365,11 +46365,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2a8a4D2FA3a1161F2FaA26a69ceEa738e34c7fD",
+      "symbol": "SPADAO",
+      "name": "SPARTANDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 69,
+    "minor": 70,
     "patch": 6
   }
 }
