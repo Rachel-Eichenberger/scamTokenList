@@ -46277,11 +46277,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcE6F2d34DDA0Cdc53DaFF7bdB653Ef44012E0276",
+      "symbol": "LAPE",
+      "name": "LEGENDARYAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 61,
+    "minor": 62,
     "patch": 6
   }
 }
