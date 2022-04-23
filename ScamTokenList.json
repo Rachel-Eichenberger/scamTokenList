@@ -45826,11 +45826,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7f2A224F3a31BBD35aB3021ab6D408C3a85Be6c",
+      "symbol": "GNOC",
+      "name": "GETNAKEDONCAMERA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 20,
+    "minor": 21,
     "patch": 6
   }
 }
