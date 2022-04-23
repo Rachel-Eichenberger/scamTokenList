@@ -46156,11 +46156,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFfFB12A8b6A9D13cB1f73030dC7141AF01415fD1",
+      "symbol": "KATANA",
+      "name": "KATANAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 50,
+    "minor": 51,
     "patch": 6
   }
 }
