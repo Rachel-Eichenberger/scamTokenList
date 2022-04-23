@@ -46354,11 +46354,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3593dA74a0AdB6B3504e677b8fA40c3E77Ba90Ec",
+      "symbol": "TRILL",
+      "name": "DONTLETGOOFTHEMEMOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 68,
+    "minor": 69,
     "patch": 6
   }
 }
