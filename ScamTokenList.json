@@ -45991,11 +45991,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc91EC03A776C59acb805e192596D18AB38d54A04",
+      "symbol": "APS",
+      "name": "APS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 35,
+    "minor": 36,
     "patch": 6
   }
 }
