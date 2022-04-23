@@ -46376,11 +46376,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67ecE9cfd78c61D7FBa933892D09B5E8716bD6B3",
+      "symbol": "Victorinox",
+      "name": "VICTORINOXMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 70,
+    "minor": 71,
     "patch": 6
   }
 }
