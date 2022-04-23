@@ -46453,11 +46453,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfEa52843Aa304C63FC50B4550574667C53E9E58e",
+      "symbol": "HOOHOO",
+      "name": "HOOHOO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 77,
+    "minor": 78,
     "patch": 6
   }
 }
