@@ -45782,11 +45782,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C289EdEcB15fD66108B9f76263A585Bd4bE3Ec8",
+      "symbol": "BARBARIAN",
+      "name": "BARBARIANERC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 16,
+    "minor": 17,
     "patch": 6
   }
 }
