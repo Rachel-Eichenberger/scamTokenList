@@ -46255,11 +46255,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6702Cad56e99F264cF21442321BCc62042C811e3",
+      "symbol": "420SHIBAINU",
+      "name": "FOURTWENTYSHIBAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 59,
+    "minor": 60,
     "patch": 6
   }
 }
