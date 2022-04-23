@@ -46189,11 +46189,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC8FB73a4c7308Cd4C848a1fd7ad9cFbFfF16bD2",
+      "symbol": "FLAM",
+      "name": "FLAMOONGO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 53,
+    "minor": 54,
     "patch": 6
   }
 }
