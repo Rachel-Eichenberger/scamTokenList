@@ -46321,11 +46321,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A17112a2c5b925e0d3A7197b4eEC061a2c2C314",
+      "symbol": "BLADE",
+      "name": "BLADE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 65,
+    "minor": 66,
     "patch": 6
   }
 }
