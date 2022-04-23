@@ -46134,11 +46134,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2953713E8314Ef7d06D6494B8fFa0e746eab89c",
+      "symbol": "LRI",
+      "name": "LABRADORRETRIEVERIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 48,
+    "minor": 49,
     "patch": 6
   }
 }
