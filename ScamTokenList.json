@@ -45650,11 +45650,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Dfde94077698643AEA15f1E988aE1fCd3F44B45",
+      "symbol": "MINER",
+      "name": "SHIBMINER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 4,
+    "minor": 5,
     "patch": 6
   }
 }
