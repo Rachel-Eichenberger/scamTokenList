@@ -46310,11 +46310,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAc8cC32Fab2368a1A095722AAf760C45f578E17B",
+      "symbol": "CINU",
+      "name": "CHEEMSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 64,
+    "minor": 65,
     "patch": 6
   }
 }
