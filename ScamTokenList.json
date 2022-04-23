@@ -46035,11 +46035,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6CE4859fe87D445906E89EF09a14B70B6F0A5E7",
+      "symbol": "FCCULT",
+      "name": "FVCKCANCELCULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 39,
+    "minor": 40,
     "patch": 6
   }
 }
