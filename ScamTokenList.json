@@ -45804,11 +45804,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a72FF950078b2D86e9d7fD6e80C0FB58aeC24Da",
+      "symbol": "SHADOW",
+      "name": "COUNCILDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 18,
+    "minor": 19,
     "patch": 6
   }
 }
