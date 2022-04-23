@@ -46343,11 +46343,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bea04f0aC9c43556f8Cc0E8F3b4e73bBb7B5CB6",
+      "symbol": "CAW",
+      "name": "THEHUNTERSDREAM20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 67,
+    "minor": 68,
     "patch": 6
   }
 }
