@@ -46244,11 +46244,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3553C53f31eBefb17a316020cA9edcF03F54076",
+      "symbol": "ETH20",
+      "name": "ETH20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 58,
+    "minor": 59,
     "patch": 6
   }
 }
