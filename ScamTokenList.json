@@ -45793,11 +45793,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96235042a2C2503eBd3381Fa42C4E1D4E8F4896f",
+      "symbol": "IndicaApe",
+      "name": "INDICAAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 17,
+    "minor": 18,
     "patch": 6
   }
 }
