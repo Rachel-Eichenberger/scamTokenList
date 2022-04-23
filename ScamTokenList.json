@@ -46112,11 +46112,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5812DA3D62a3257d922b4c74AFC00a76ebfa584",
+      "symbol": "TATSUMAKI",
+      "name": "TATSUMAKIINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 46,
+    "minor": 47,
     "patch": 6
   }
 }
