@@ -46431,11 +46431,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E5CB4374ec001Ca58B1e18df44d2E9316c4FbE9",
+      "symbol": "CULT20",
+      "name": "CULT20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 75,
+    "minor": 76,
     "patch": 6
   }
 }
