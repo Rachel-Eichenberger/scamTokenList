@@ -45683,11 +45683,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x040244D3C68bED17501e2C18aF3725b254c5EC20",
+      "symbol": "BURNTAMA",
+      "name": "BURNTAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 7,
+    "minor": 8,
     "patch": 6
   }
 }
