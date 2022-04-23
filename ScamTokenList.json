@@ -46167,11 +46167,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04F9a9450F0D991571bc16aF6a71197C4b0EDb9d",
+      "symbol": "RUGRATS",
+      "name": "RUGRATS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 51,
+    "minor": 52,
     "patch": 6
   }
 }
