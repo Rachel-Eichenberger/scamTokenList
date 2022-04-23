@@ -45980,11 +45980,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbad61C50057889C3877bB2392F2fA8E4D3BB1df",
+      "symbol": "Supercell",
+      "name": "SUPERCELLMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 34,
+    "minor": 35,
     "patch": 6
   }
 }
