@@ -45617,11 +45617,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x283Ca0d66BA64d569D6EFe184E1F1682Aa6e8C3d",
+      "symbol": "FSQUAWK",
+      "name": "FUCKSQUAWK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 1,
+    "minor": 2,
     "patch": 6
   }
 }
