@@ -46299,11 +46299,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x894d7A7750BcAF2dff246c12bDd26dEb17b382ae",
+      "symbol": "GENSHI",
+      "name": "GENIESHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 63,
+    "minor": 64,
     "patch": 6
   }
 }
