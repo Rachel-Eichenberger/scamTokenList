@@ -46200,11 +46200,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5Bd27f1732d71712C1C525bE09fB0D16bA52C29",
+      "symbol": "SMARTDOG",
+      "name": "SMARTDOGINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 54,
+    "minor": 55,
     "patch": 6
   }
 }
