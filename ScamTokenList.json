@@ -45595,11 +45595,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE8AB0E4C87BF0D08F8D15228af36B3E36b3A76d",
+      "symbol": "PILXF",
+      "name": "FINALJUSTICE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 8,
-    "minor": 99,
-    "patch": 5
+    "major": 9,
+    "minor": 0,
+    "patch": 6
   }
 }
