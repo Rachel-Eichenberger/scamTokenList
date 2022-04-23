@@ -45705,11 +45705,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3a8aD672075E3A3A388E2A6650AaCf807973714",
+      "symbol": "CROWS",
+      "name": "TEHPPL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 9,
+    "minor": 10,
     "patch": 6
   }
 }
