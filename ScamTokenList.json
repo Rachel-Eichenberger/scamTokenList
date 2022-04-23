@@ -46013,11 +46013,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Bc6A6e062aE06Ce9FC8A217141050Df577E64DB",
+      "symbol": "BAD",
+      "name": "SCOUNDREL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 37,
+    "minor": 38,
     "patch": 6
   }
 }
