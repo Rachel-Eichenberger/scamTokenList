@@ -45771,11 +45771,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7D7f3C58ef81e337ca6ae3F6AE69353b2320995",
+      "symbol": "BOINU",
+      "name": "BONERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 15,
+    "minor": 16,
     "patch": 6
   }
 }
