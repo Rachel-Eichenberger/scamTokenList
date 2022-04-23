@@ -45914,11 +45914,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xab7254D7C7a7b0DD507aDd70b8BE4bE731d7A3f8",
+      "symbol": "CARW",
+      "name": "CARW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 28,
+    "minor": 29,
     "patch": 6
   }
 }
