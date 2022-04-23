@@ -45760,11 +45760,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7967e00aB36eE7BE27e474e60c8Ed5D3b9b76baA",
+      "symbol": "BonerInu",
+      "name": "BONERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 14,
+    "minor": 15,
     "patch": 6
   }
 }
