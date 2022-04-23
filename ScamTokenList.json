@@ -46288,11 +46288,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17f1B083f0a57e585E8e235D0918acc82b396207",
+      "symbol": "FAIR",
+      "name": "FIRSTALLINCENTIVERE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 62,
+    "minor": 63,
     "patch": 6
   }
 }
