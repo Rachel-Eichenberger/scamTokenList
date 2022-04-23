@@ -46101,11 +46101,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Cb4726a58E431482B7484c4B5aEcb99594E8FEf",
+      "symbol": "FINDME",
+      "name": "FINDME",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 45,
+    "minor": 46,
     "patch": 6
   }
 }
