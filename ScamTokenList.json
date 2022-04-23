@@ -46057,11 +46057,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3125c70e2dE274e5347898dfd277b9549ea9e434",
+      "symbol": "GameSpot",
+      "name": "GAMESPOTMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 41,
+    "minor": 42,
     "patch": 6
   }
 }
