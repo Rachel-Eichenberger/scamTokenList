@@ -45672,11 +45672,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccfBCBb4b81229F753c20e8AB7827190C3327988",
+      "symbol": "FUCKBURN",
+      "name": "FUCKBURN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 6,
+    "minor": 7,
     "patch": 6
   }
 }
