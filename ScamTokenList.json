@@ -46519,11 +46519,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd257344cdFC90653E53850EE29d66213f5F9c5DF",
+      "symbol": "ProcterGamble",
+      "name": "PROCTERGAMBLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 83,
+    "minor": 84,
     "patch": 6
   }
 }
