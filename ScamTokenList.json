@@ -45738,11 +45738,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x750EAEFBeb838d2e88047b142B47D63E0957bf01",
+      "symbol": "ITSUKI",
+      "name": "ITSUKI20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 12,
+    "minor": 13,
     "patch": 6
   }
 }
