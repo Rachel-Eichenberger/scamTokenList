@@ -46046,11 +46046,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF2F781ff8F63d532bE85Ed9C6261b7c0a2c0d642",
+      "symbol": "Telegram",
+      "name": "TELEGRAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 40,
+    "minor": 41,
     "patch": 6
   }
 }
