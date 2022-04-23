@@ -45936,11 +45936,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x224933Fb5693A64590345cD07Ce608d84A36A985",
+      "symbol": "CURVE",
+      "name": "CURVEDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 30,
+    "minor": 31,
     "patch": 6
   }
 }
