@@ -46508,11 +46508,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ae4323516665b687D74d61c8217feB07bE181aE",
+      "symbol": "LORD",
+      "name": "LORD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 82,
+    "minor": 83,
     "patch": 6
   }
 }
