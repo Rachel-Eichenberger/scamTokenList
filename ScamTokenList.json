@@ -46266,11 +46266,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x476F143d75B851538a39aaBc5af0fD412A343F60",
+      "symbol": "Airbus",
+      "name": "AIRBUSMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 60,
+    "minor": 61,
     "patch": 6
   }
 }
