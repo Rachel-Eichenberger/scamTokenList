@@ -46123,11 +46123,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA582CcCb09878530FBDB225306A5980F7a0846EF",
+      "symbol": "RayaInu",
+      "name": "RAYAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 47,
+    "minor": 48,
     "patch": 6
   }
 }
