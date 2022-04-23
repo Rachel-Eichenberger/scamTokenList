@@ -46178,11 +46178,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xABF9D8DC590640b5b5df8D5fadE8811123B6FB33",
+      "symbol": "BASE58",
+      "name": "BTCDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 52,
+    "minor": 53,
     "patch": 6
   }
 }
