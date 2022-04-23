@@ -46530,11 +46530,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x276007dfA7a0c3542AE9240E4Df0Ac3B7fc0BCF2",
+      "symbol": "DADDYINU",
+      "name": "DADDYINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 84,
+    "minor": 85,
     "patch": 6
   }
 }
