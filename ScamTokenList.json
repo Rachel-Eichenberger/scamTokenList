@@ -45892,11 +45892,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCdCa2A52Ca566670E78d2bd251E5600a18355042",
+      "symbol": "GAMBLEINU",
+      "name": "GAMBLEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 26,
+    "minor": 27,
     "patch": 6
   }
 }
