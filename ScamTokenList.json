@@ -46486,11 +46486,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x650EfDaf2e832cBb2b873be7176791b6Ec20b888",
+      "symbol": "CAWEED",
+      "name": "CAWWEED",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 80,
+    "minor": 81,
     "patch": 6
   }
 }
