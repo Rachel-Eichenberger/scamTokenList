@@ -46387,11 +46387,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60319E186761E8bC9fD41CAeB7E2653aF9DCafDf",
+      "symbol": "CLASH",
+      "name": "CLASHDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 71,
+    "minor": 72,
     "patch": 6
   }
 }
