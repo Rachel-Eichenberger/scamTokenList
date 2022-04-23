@@ -46398,11 +46398,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x399C56CD22efF4e16e0b053Ac4437E205C1220D5",
+      "symbol": "STEPN",
+      "name": "STEPNTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 72,
+    "minor": 73,
     "patch": 6
   }
 }
