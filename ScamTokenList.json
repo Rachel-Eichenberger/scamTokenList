@@ -45958,11 +45958,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57Bc31A3A7ceA12eb492fd5918261aCfa9fE3330",
+      "symbol": "HUSKY",
+      "name": "HUSKYINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 32,
+    "minor": 33,
     "patch": 6
   }
 }
