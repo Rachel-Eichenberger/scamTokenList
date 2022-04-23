@@ -45848,11 +45848,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC35997f9A8B890bEb436255770644339E6230e4B",
+      "symbol": "TreeETH",
+      "name": "TREEETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 22,
+    "minor": 23,
     "patch": 6
   }
 }
