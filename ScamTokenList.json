@@ -45749,11 +45749,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d5b6a7711b6F185757eD8a9857c89E50af90cf6",
+      "symbol": "AKUDREAMS",
+      "name": "COMEBACKAKUSTARS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 13,
+    "minor": 14,
     "patch": 6
   }
 }
