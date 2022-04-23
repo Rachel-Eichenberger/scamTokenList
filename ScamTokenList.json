@@ -46211,11 +46211,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e68ef5C099fd21A0d618C6FC507dc0eE838BD57",
+      "symbol": "LUFFYTAMA",
+      "name": "LUFFYTAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 55,
+    "minor": 56,
     "patch": 6
   }
 }
