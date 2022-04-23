@@ -45859,11 +45859,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d554306d1379767bFA113D35F3a474fCB6A6436",
+      "symbol": "TriStar",
+      "name": "TRISTARPICTURES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 23,
+    "minor": 24,
     "patch": 6
   }
 }
