@@ -45881,11 +45881,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f31Fb7Eb66930a9130e220490c5C5C26BF2c909",
+      "symbol": "ELFT",
+      "name": "ELFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 25,
+    "minor": 26,
     "patch": 6
   }
 }
