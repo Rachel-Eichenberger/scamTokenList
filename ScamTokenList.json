@@ -45870,11 +45870,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2dD56787935e5d10a2481898336e086Dba45e75",
+      "symbol": "BYAKKO",
+      "name": "BYAKKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 24,
+    "minor": 25,
     "patch": 6
   }
 }
