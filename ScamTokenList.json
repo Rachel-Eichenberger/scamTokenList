@@ -46684,11 +46684,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBdD8e4833038CAD9F094fbF7f048043b42467514",
+      "symbol": "Strelka",
+      "name": "STRELKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 98,
+    "minor": 99,
     "patch": 6
   }
 }
