@@ -47234,11 +47234,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3cE32994f6E56dC449b2bc7Ccb3F353dDd41cC9",
+      "symbol": "DEGEN",
+      "name": "DEGENERATION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 48,
+    "minor": 49,
     "patch": 7
   }
 }
