@@ -47212,11 +47212,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1dB9f66A900c0cb6D50e34D02985fc7BdAFcde7e",
+      "symbol": "OthersideMeta",
+      "name": "OTHERSIDEMETA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 46,
+    "minor": 47,
     "patch": 7
   }
 }
