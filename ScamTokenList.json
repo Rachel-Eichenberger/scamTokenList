@@ -46640,11 +46640,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ac245B8c108C355c904d9C3164897DDd99c4154",
+      "symbol": "FCCAW",
+      "name": "FVCKCANCELCAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 94,
+    "minor": 95,
     "patch": 6
   }
 }
