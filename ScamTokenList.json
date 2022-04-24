@@ -46882,11 +46882,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A71D406F944247929Cc7B0C82403Df2351cA49F",
+      "symbol": "KONIMI",
+      "name": "KONIMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 16,
+    "minor": 17,
     "patch": 7
   }
 }
