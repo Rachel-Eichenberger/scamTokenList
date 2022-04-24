@@ -46970,11 +46970,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2877A7eaA7C8f210a0cE718c4b76Aa0d47263Fa0",
+      "symbol": "420SHIBAINU",
+      "name": "FOURTWENTYSHIBAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 24,
+    "minor": 25,
     "patch": 7
   }
 }
