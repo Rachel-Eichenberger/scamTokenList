@@ -47333,11 +47333,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3A38DF41B8aE8cF27b5bcA3470991ff51d48dd0",
+      "symbol": "FUBUKI",
+      "name": "FUBUKIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 57,
+    "minor": 58,
     "patch": 7
   }
 }
