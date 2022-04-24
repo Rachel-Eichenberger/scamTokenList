@@ -47322,11 +47322,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc540EeE80570F0E966a456Fe366468b45129da01",
+      "symbol": "ZAIZO",
+      "name": "ZAIZOTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 56,
+    "minor": 57,
     "patch": 7
   }
 }
