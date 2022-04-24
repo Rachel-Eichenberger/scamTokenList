@@ -46926,11 +46926,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDc7c9F87E47D549DF565FD6459C202151Fcc3384",
+      "symbol": "MOVINGON",
+      "name": "MOVINGON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 20,
+    "minor": 21,
     "patch": 7
   }
 }
