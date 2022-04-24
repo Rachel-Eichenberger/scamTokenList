@@ -46915,11 +46915,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x108E34525A02a393Cda7D3648D185cE128743CeE",
+      "symbol": "Christies",
+      "name": "CHRISTIESMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 19,
+    "minor": 20,
     "patch": 7
   }
 }
