@@ -47366,11 +47366,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1Eb150f682541e410a4435801557950b7018816",
+      "symbol": "GLASIATOR",
+      "name": "GLADIATORINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 60,
+    "minor": 61,
     "patch": 7
   }
 }
