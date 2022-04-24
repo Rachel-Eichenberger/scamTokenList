@@ -47223,11 +47223,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB628CA43cdB92695B84b4c54BEA50FD16F24093b",
+      "symbol": "PUMP",
+      "name": "PUMPTASTIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 47,
+    "minor": 48,
     "patch": 7
   }
 }
