@@ -46849,11 +46849,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C427FE6fAC60C512f990dbeF4371d6BB3E78D1E",
+      "symbol": "Nickelodeon",
+      "name": "NICKELODEONMETAVERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 13,
+    "minor": 14,
     "patch": 7
   }
 }
