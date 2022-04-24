@@ -46981,11 +46981,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4F9De5961219ff201338cC1735937b4Bcb6C998",
+      "symbol": "OUR",
+      "name": "OUROBOROSPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 25,
+    "minor": 26,
     "patch": 7
   }
 }
