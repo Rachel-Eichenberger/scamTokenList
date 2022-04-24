@@ -46783,11 +46783,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE02f4Efd8520c149dfDB741E8BAb5d64E6fecDE9",
+      "symbol": "K0",
+      "name": "KILL0",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 7,
+    "minor": 8,
     "patch": 7
   }
 }
