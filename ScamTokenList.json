@@ -46618,11 +46618,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE089a30E5beC50587D2C7DcE0bbd04a5462d9d6f",
+      "symbol": "Hasbro",
+      "name": "HASBROMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 92,
+    "minor": 93,
     "patch": 6
   }
 }
