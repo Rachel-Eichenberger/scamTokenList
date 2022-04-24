@@ -47069,11 +47069,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0094d7e2A5A8B4768A3a0d6e599BbE363374fb1A",
+      "symbol": "STRIDE",
+      "name": "STRIDEFORWARD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 33,
+    "minor": 34,
     "patch": 7
   }
 }
