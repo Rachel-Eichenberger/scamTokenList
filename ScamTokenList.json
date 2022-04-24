@@ -46563,11 +46563,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x394e14f91fe0eAB36c2628F40C3B50eCe0A5dCFa",
+      "symbol": "GENERAL",
+      "name": "GENERAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 87,
+    "minor": 88,
     "patch": 6
   }
 }
