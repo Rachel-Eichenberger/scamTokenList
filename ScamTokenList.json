@@ -47311,11 +47311,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33de19c36E5528083e5Dc7F55FCdDa49F66474f1",
+      "symbol": "Tubby",
+      "name": "TELETUBBIES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 55,
+    "minor": 56,
     "patch": 7
   }
 }
