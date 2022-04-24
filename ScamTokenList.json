@@ -47300,11 +47300,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50417d985Cf3bd125046C247B085b63800FC5D7B",
+      "symbol": "CHIRP",
+      "name": "CHIRP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 54,
+    "minor": 55,
     "patch": 7
   }
 }
