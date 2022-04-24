@@ -46706,11 +46706,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9834B6E733A2BCc145208fbC17dC69D015d1739C",
+      "symbol": "SHA",
+      "name": "SHIGUN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 0,
+    "minor": 1,
     "patch": 7
   }
 }
