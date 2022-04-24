@@ -46717,11 +46717,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed7db18666507785e03aB47c06996E09e2349c66",
+      "symbol": "MX",
+      "name": "MATEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 1,
+    "minor": 2,
     "patch": 7
   }
 }
