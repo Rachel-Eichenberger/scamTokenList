@@ -46816,11 +46816,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62901a5FeF4fcdE8Ac5482f87FE60181A634ba3D",
+      "symbol": "NOJEETSALLOWED",
+      "name": "NOJEETSALLOWED",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 10,
+    "minor": 11,
     "patch": 7
   }
 }
