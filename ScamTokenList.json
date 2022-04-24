@@ -47256,11 +47256,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3962aa2e9f724f8fC8aBfA18FC20b57DDD5e03F",
+      "symbol": "COPE",
+      "name": "COPEDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 50,
+    "minor": 51,
     "patch": 7
   }
 }
