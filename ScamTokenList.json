@@ -46629,11 +46629,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd54784a42683CB592f5F40C1E92daC42922636bc",
+      "symbol": "RAVEN",
+      "name": "TEHPPL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 93,
+    "minor": 94,
     "patch": 6
   }
 }
