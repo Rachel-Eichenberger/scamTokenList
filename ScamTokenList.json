@@ -46805,11 +46805,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x076D26D243dA0A824e38A9E8C8A09aBe502ba858",
+      "symbol": "DINOSOAR",
+      "name": "DINOSOAR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 9,
+    "minor": 10,
     "patch": 7
   }
 }
