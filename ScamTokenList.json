@@ -47168,11 +47168,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5c30F0d441233ea17e646c207D0f54cC56cd2Ad",
+      "symbol": "VIAGRA",
+      "name": "VIAGRA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 42,
+    "minor": 43,
     "patch": 7
   }
 }
