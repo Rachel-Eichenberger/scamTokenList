@@ -46695,11 +46695,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x576C1472Cf47a8E033f20681222Be604440Eb283",
+      "symbol": "DNBUY",
+      "name": "DONOTBUY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 9,
-    "minor": 99,
-    "patch": 6
+    "major": 10,
+    "minor": 0,
+    "patch": 7
   }
 }
