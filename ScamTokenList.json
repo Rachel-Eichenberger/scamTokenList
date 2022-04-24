@@ -47344,11 +47344,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF95bF034a99f65BB0E4C5ef60204563ae4dE8C81",
+      "symbol": "CFT",
+      "name": "CALLERSFAVOURITETOK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 58,
+    "minor": 59,
     "patch": 7
   }
 }
