@@ -47157,11 +47157,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Cd09cF0170B0302Df863DaF48c66FB6B8c9A883",
+      "symbol": "GOOSECAW",
+      "name": "GOOSECAW",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 41,
+    "minor": 42,
     "patch": 7
   }
 }
