@@ -47245,11 +47245,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60e32ff65206EF80d0329DaB4e96970b8Df394EF",
+      "symbol": "SENDTOSHI",
+      "name": "SENDTOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 49,
+    "minor": 50,
     "patch": 7
   }
 }
