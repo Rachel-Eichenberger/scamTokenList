@@ -46904,11 +46904,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86C380c52e1aB25Db291cA96018b10a6C0443d87",
+      "symbol": "Needle",
+      "name": "GAMBLERSHOUSE",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 18,
+    "minor": 19,
     "patch": 7
   }
 }
