@@ -46871,11 +46871,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2099e6D4CF292C9c26342D551eaf74C356a317f5",
+      "symbol": "RCAW",
+      "name": "RYOSHICAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 15,
+    "minor": 16,
     "patch": 7
   }
 }
