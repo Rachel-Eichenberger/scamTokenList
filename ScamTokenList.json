@@ -46574,11 +46574,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae0071113ab6EB9C8d44109B78EC0ACA8C4ce152",
+      "symbol": "Mizuki",
+      "name": "MOCHIZUKI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 88,
+    "minor": 89,
     "patch": 6
   }
 }
