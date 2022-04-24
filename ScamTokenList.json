@@ -47146,11 +47146,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17833fEc19a7d092fE9705AE4D4Df683CB083fDA",
+      "symbol": "QONK",
+      "name": "QOMBONK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 40,
+    "minor": 41,
     "patch": 7
   }
 }
