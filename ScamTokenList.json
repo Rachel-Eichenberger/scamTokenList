@@ -47003,11 +47003,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48e047b3942883D5241bF7351695A3f090e41b3c",
+      "symbol": "REMINU",
+      "name": "REMINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 27,
+    "minor": 28,
     "patch": 7
   }
 }
