@@ -46585,11 +46585,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x731bD21351AbbB802Dafa09ce86F36a210F0d712",
+      "symbol": "BORTUS",
+      "name": "BORTUSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 89,
+    "minor": 90,
     "patch": 6
   }
 }
