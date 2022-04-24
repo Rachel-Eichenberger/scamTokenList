@@ -47102,11 +47102,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5F36836f3C0535d94Ce73FEC5913F7c4727b259",
+      "symbol": "SMOLER",
+      "name": "SMOLERBIRB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 36,
+    "minor": 37,
     "patch": 7
   }
 }
