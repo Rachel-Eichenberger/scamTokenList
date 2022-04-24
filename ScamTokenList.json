@@ -46827,11 +46827,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08137F24AbE7F46a34159aefe3e473e21BaF9E44",
+      "symbol": "LINU",
+      "name": "LUFFYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 11,
+    "minor": 12,
     "patch": 7
   }
 }
