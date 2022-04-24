@@ -46662,11 +46662,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93B861D86c93d6172E6Ff0c6f3dA2Da110d34777",
+      "symbol": "IAH",
+      "name": "DIETYOFTHENIGHT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 96,
+    "minor": 97,
     "patch": 6
   }
 }
