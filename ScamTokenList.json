@@ -46959,11 +46959,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xadb7A971151A6031caB246E19089186B171D986c",
+      "symbol": "BABYSMOL",
+      "name": "BABYSMOLTINGINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 23,
+    "minor": 24,
     "patch": 7
   }
 }
