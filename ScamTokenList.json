@@ -47091,11 +47091,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B28eA33241193D58e9b73BDbCBA1c7E90CD839d",
+      "symbol": "SHIBURN",
+      "name": "SHIBABURNARMY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 35,
+    "minor": 36,
     "patch": 7
   }
 }
