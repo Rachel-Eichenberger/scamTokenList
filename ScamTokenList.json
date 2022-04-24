@@ -47278,11 +47278,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B1f67aa0409E57AA226e31929AdEBd1FE9Bff63",
+      "symbol": "NOFAP",
+      "name": "NOFAPPROJECT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 52,
+    "minor": 53,
     "patch": 7
   }
 }
