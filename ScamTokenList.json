@@ -46794,11 +46794,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28292C10F5883a0ceaAcCb985d5F10F18fD73Db3",
+      "symbol": "GOO",
+      "name": "BULLMARKETISCOMING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 8,
+    "minor": 9,
     "patch": 7
   }
 }
