@@ -46728,11 +46728,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ffafEe1995569302F582093D7539F28C02D0bbf",
+      "symbol": "LOGIC",
+      "name": "DEFILOGIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 2,
+    "minor": 3,
     "patch": 7
   }
 }
