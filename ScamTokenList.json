@@ -46552,11 +46552,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5C26b21F34fbb63f759E82f3fD1A2ea575Ed5D8",
+      "symbol": "FURY",
+      "name": "ENGINESOFFURY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 9,
-    "minor": 86,
+    "minor": 87,
     "patch": 6
   }
 }
