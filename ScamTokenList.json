@@ -47014,11 +47014,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3818f0dF883C1A9f662F6a253Ce6bCB0c7Dc93A5",
+      "symbol": "CINU",
+      "name": "CHEEMSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 28,
+    "minor": 29,
     "patch": 7
   }
 }
