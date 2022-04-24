@@ -47124,11 +47124,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28De1f31490FF5680d686Ac0b56Ac3d8206A710D",
+      "symbol": "PSYDUCK",
+      "name": "PSYDUCKCAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 38,
+    "minor": 39,
     "patch": 7
   }
 }
