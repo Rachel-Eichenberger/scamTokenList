@@ -47047,11 +47047,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x535820792E0e510F074d3eC91fEf0f67580719ba",
+      "symbol": "Sony",
+      "name": "SONYMETAVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 31,
+    "minor": 32,
     "patch": 7
   }
 }
