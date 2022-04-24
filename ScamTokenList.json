@@ -47267,11 +47267,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4188eBFED21Ac63c4e38dc0E184cC8eD00dE1A39",
+      "symbol": "Milkium",
+      "name": "MILKIUMTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 51,
+    "minor": 52,
     "patch": 7
   }
 }
