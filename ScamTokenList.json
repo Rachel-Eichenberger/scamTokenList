@@ -47575,11 +47575,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB954B3286730392f607e5C142805CFe1b306c7f8",
+      "symbol": "SQL",
+      "name": "SQUALL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 79,
+    "minor": 80,
     "patch": 7
   }
 }
