@@ -48213,11 +48213,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1BAA13AA3C4E420549C6a7288A4ec147ec3A1999",
+      "symbol": "ESHARES",
+      "name": "ELONSHARES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 37,
+    "minor": 38,
     "patch": 8
   }
 }
