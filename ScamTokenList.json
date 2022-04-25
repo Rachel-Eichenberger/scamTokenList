@@ -48103,11 +48103,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ddc0e0f53b57570fd582CB3e58B8D246f993202",
+      "symbol": "MT",
+      "name": "MuskyTweet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 27,
+    "minor": 28,
     "patch": 8
   }
 }
