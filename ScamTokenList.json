@@ -47696,11 +47696,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x603375008032f087A01485A6757BAF69D8fCa898",
+      "symbol": "MINU",
+      "name": "MORTYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 90,
+    "minor": 91,
     "patch": 7
   }
 }
