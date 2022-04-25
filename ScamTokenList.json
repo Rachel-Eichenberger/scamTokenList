@@ -47971,11 +47971,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15424B614e2Deb5DDaC2bF3d3b02E75E08e71FAF",
+      "symbol": "SPACESHIB",
+      "name": "THESPACESHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 15,
+    "minor": 16,
     "patch": 8
   }
 }
