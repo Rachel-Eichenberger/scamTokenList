@@ -47663,11 +47663,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE23311294467654E0CaB14cD32A169A41be5ca8E",
+      "symbol": "CRNO",
+      "name": "CHRONOLY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 87,
+    "minor": 88,
     "patch": 7
   }
 }
