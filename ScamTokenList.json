@@ -47586,11 +47586,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86E51B516c20Adc70Ba45bb44930E713625b44ca",
+      "symbol": "Bend",
+      "name": "BENDDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 80,
+    "minor": 81,
     "patch": 7
   }
 }
