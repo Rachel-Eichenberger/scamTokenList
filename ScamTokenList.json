@@ -47674,11 +47674,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a792d5fdA944C3Ca12331883002d98837482526",
+      "symbol": "RYOSHI",
+      "name": "RYOSHISVISION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 88,
+    "minor": 89,
     "patch": 7
   }
 }
