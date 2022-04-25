@@ -47487,11 +47487,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F8ADe27cE59139b91Fd0cAaF12410fA1aCEE089",
+      "symbol": "INSIDOR",
+      "name": "INSIDOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 71,
+    "minor": 72,
     "patch": 7
   }
 }
