@@ -47751,11 +47751,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8247e7cE52393C662220f26b17D2C18f2bA69220",
+      "symbol": "GRASSYBRUN",
+      "name": "GRASSYBURN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 95,
+    "minor": 96,
     "patch": 7
   }
 }
