@@ -47465,11 +47465,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09FFFd83472935A5818b1C8Cf16CbD814CFaCB22",
+      "symbol": "LOGIC",
+      "name": "LOGICALSTEPS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 69,
+    "minor": 70,
     "patch": 7
   }
 }
