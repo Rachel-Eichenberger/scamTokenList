@@ -48158,11 +48158,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3AC57eC9946279131dAD3e647ae3C73CF79b2B29",
+      "symbol": "TBANK",
+      "name": "TWEEOFBANK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 32,
+    "minor": 33,
     "patch": 8
   }
 }
