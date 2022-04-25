@@ -48224,11 +48224,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9577858F712AaC8cB72Eb634dfdE066B4fc23921",
+      "symbol": "CULTOFELON",
+      "name": "CultOfElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 38,
+    "minor": 39,
     "patch": 8
   }
 }
