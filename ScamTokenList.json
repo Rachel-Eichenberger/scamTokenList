@@ -47773,11 +47773,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1437eB4Eff6469912b942f355903e3d0FEc6811",
+      "symbol": "MRE",
+      "name": "REACTOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 97,
+    "minor": 98,
     "patch": 7
   }
 }
