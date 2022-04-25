@@ -47839,11 +47839,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4d518dd5cC255c13fB2d96f003cfDcC2d3c1b3f",
+      "symbol": "BEAK",
+      "name": "DARKHARVEST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 3,
+    "minor": 4,
     "patch": 8
   }
 }
