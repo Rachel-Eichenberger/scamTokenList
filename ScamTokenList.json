@@ -47850,11 +47850,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB9d87453367d8F734CE54111ceceE5DCE5AFb48",
+      "symbol": "TWITTERX",
+      "name": "TWITTERX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 4,
+    "minor": 5,
     "patch": 8
   }
 }
