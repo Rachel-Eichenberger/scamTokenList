@@ -48191,11 +48191,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x674d71E4D853b8aA9124E788B9fe1f7872bb02A6",
+      "symbol": "BLUEBIRD",
+      "name": "BLUEBIRD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 35,
+    "minor": 36,
     "patch": 8
   }
 }
