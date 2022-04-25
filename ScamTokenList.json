@@ -47927,11 +47927,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0c733C1397Ac3C197F2dA79AA3c60FAe354F20d",
+      "symbol": "GENIE",
+      "name": "GENIETOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 11,
+    "minor": 12,
     "patch": 8
   }
 }
