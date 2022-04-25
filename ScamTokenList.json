@@ -47432,11 +47432,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d6a77b352F8a4C0Ec80E2501d9a9d3039853e7b",
+      "symbol": "FAI",
+      "name": "FAITHTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 66,
+    "minor": 67,
     "patch": 7
   }
 }
