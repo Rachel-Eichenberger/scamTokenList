@@ -48037,11 +48037,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2255A2Cea3d8AfD5087ADfC7B3C2f727aC62192",
+      "symbol": "TWITTERMUSK",
+      "name": "TWITTERMUSK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 21,
+    "minor": 22,
     "patch": 8
   }
 }
