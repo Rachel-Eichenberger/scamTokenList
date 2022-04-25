@@ -47960,11 +47960,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc066aED52a925E3f3299C6DB45B741b41699501d",
+      "symbol": "ET7",
+      "name": "FUTURE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 14,
+    "minor": 15,
     "patch": 8
   }
 }
