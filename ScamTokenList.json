@@ -47905,11 +47905,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x729902eeABB564639A2a457daEe1F1f9772890E6",
+      "symbol": "Twitter",
+      "name": "TWITTERDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 9,
+    "minor": 10,
     "patch": 8
   }
 }
