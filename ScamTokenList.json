@@ -47454,11 +47454,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1F460F221C897a692F5E8E4aF3f3C60733d1077",
+      "symbol": "Yakuza",
+      "name": "YAKUZATOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 68,
+    "minor": 69,
     "patch": 7
   }
 }
