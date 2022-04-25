@@ -47443,11 +47443,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x948B5583aa68f0A774232b0fA752fE587dFe32c8",
+      "symbol": "ROSHI",
+      "name": "RYOSHISMAINPROJECT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 67,
+    "minor": 68,
     "patch": 7
   }
 }
