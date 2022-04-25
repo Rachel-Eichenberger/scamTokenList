@@ -47949,11 +47949,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5c17D266bdE7c68EEa59260ccfA004263Eda481",
+      "symbol": "TWEELON",
+      "name": "TWEELON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 13,
+    "minor": 14,
     "patch": 8
   }
 }
