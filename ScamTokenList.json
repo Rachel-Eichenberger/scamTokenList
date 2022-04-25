@@ -47597,11 +47597,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x163A3d89476Fa1CFDCf170106d9EfD6B85451ce9",
+      "symbol": "MFTC",
+      "name": "MOONFORTHECULTURE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 81,
+    "minor": 82,
     "patch": 7
   }
 }
