@@ -47509,11 +47509,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C7677e027f1799d4497fe59AEB5B19b5d4813dD",
+      "symbol": "KingKoenma",
+      "name": "KOENMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 73,
+    "minor": 74,
     "patch": 7
   }
 }
