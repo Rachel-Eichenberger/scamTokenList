@@ -47762,11 +47762,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E8A44AF462279F4E2Fd70C93f647d5Ccd060080",
+      "symbol": "FreeSpeech",
+      "name": "TWITTERFREESPEECH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 96,
+    "minor": 97,
     "patch": 7
   }
 }
