@@ -48257,11 +48257,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCbC189A5A202aDA1C2b853599CfCfe49A25073f1",
+      "symbol": "TWITTERBIRB",
+      "name": "TwitterBirb",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 41,
+    "minor": 42,
     "patch": 8
   }
 }
