@@ -48004,11 +48004,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CeE6Fc0bed1d9C8FB1673f962bF7F359dB0DF25",
+      "symbol": "RAKA",
+      "name": "URARAKAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 18,
+    "minor": 19,
     "patch": 8
   }
 }
