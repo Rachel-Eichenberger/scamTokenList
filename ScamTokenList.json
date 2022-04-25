@@ -47916,11 +47916,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde2667fEBd1499b698a15DE4a01B991A30AFAE59",
+      "symbol": "DDOGS",
+      "name": "DAZEDDOGSTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 10,
+    "minor": 11,
     "patch": 8
   }
 }
