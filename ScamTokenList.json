@@ -48092,11 +48092,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe82842b814D6D8E290F6ac6401bD5355d6Df91AE",
+      "symbol": "IP",
+      "name": "IronPhoenix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 26,
+    "minor": 27,
     "patch": 8
   }
 }
