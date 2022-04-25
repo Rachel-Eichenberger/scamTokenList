@@ -47938,11 +47938,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94B8015b473267E58bDA85b1B0f338628faA46B2",
+      "symbol": "SHINTTER",
+      "name": "SHINTTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 12,
+    "minor": 13,
     "patch": 8
   }
 }
