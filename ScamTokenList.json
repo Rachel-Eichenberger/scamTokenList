@@ -47817,11 +47817,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5737F166405328e825a02224DbFD51fD977b0A4",
+      "symbol": "SHIBASUKE",
+      "name": "SHIBASUKE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 1,
+    "minor": 2,
     "patch": 8
   }
 }
