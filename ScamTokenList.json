@@ -47388,11 +47388,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbAB99261C7D8C50E4f971394DF10527A102b97E5",
+      "symbol": "COO",
+      "name": "COOPERATION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 62,
+    "minor": 63,
     "patch": 7
   }
 }
