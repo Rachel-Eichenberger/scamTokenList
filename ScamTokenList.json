@@ -48246,11 +48246,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b329445Ed205Ce63b2AfD6B37E0C87920dFD970",
+      "symbol": "GENIE",
+      "name": "Genie",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 40,
+    "minor": 41,
     "patch": 8
   }
 }
