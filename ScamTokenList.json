@@ -48114,11 +48114,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x873227E226C9CC6e3dfA30c5376aF94aCB444729",
+      "symbol": "IRONPHOENIX",
+      "name": "IronPhoenix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 28,
+    "minor": 29,
     "patch": 8
   }
 }
