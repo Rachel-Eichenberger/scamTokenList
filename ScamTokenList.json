@@ -47531,11 +47531,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb33fd94fDeC6bE1B312EE7dA71Bd7Dd9F8c8C2cF",
+      "symbol": "MEM",
+      "name": "MAGICETHEREUMMONEY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 75,
+    "minor": 76,
     "patch": 7
   }
 }
