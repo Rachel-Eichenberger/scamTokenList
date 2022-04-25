@@ -48169,11 +48169,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEAE83BE61e0e9Ae37933e8212f33fE40Bf54B396",
+      "symbol": "TDOGE",
+      "name": "TWELONDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 33,
+    "minor": 34,
     "patch": 8
   }
 }
