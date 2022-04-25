@@ -47718,11 +47718,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6759a4Fc56B3ce9734035a56B36e8637c45b77E",
+      "symbol": "Grimace",
+      "name": "GRIMACECOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 92,
+    "minor": 93,
     "patch": 7
   }
 }
