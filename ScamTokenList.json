@@ -47520,11 +47520,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67762900dBB60490980aBd9293f3BDdD343Cc4b2",
+      "symbol": "DRILL",
+      "name": "THEBORINGDRILL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 74,
+    "minor": 75,
     "patch": 7
   }
 }
