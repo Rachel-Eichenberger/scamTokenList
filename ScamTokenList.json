@@ -47641,11 +47641,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8293cFe3B445d14Afb455f75bE777558c7A52Ab",
+      "symbol": "METAAPE",
+      "name": "APEURAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 85,
+    "minor": 86,
     "patch": 7
   }
 }
