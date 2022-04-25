@@ -47608,11 +47608,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCDD288178ffE3D1E1B8C8488C15F3dF417070abB",
+      "symbol": "CLTVTR",
+      "name": "CULTIVATOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 82,
+    "minor": 83,
     "patch": 7
   }
 }
