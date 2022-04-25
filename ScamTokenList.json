@@ -47806,11 +47806,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD39B1384E6B54D5e80BC678b3439352EBe11D95e",
+      "symbol": "LOVE",
+      "name": "MYLOVE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 0,
+    "minor": 1,
     "patch": 8
   }
 }
