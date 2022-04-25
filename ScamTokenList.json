@@ -47685,11 +47685,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29f5E715C20C9B6E4A03dC71ce89868C7ce808Ae",
+      "symbol": "ELONASA",
+      "name": "ELONASA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 89,
+    "minor": 90,
     "patch": 7
   }
 }
