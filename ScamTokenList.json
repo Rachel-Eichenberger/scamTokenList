@@ -47553,11 +47553,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53F9e18C8E92a1637E3E9FE97170432F27cC4E12",
+      "symbol": "CULTIVATOR",
+      "name": "CULTIVATOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 77,
+    "minor": 78,
     "patch": 7
   }
 }
