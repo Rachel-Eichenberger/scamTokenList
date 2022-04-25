@@ -48202,11 +48202,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x759271D1c7af443EDc1A97c823adB274BbC2aFE9",
+      "symbol": "MRE",
+      "name": "Reactor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 36,
+    "minor": 37,
     "patch": 8
   }
 }
