@@ -47872,11 +47872,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99446fc79dcb8976B8F03C11a3EA096D87cCE05f",
+      "symbol": "AWOO",
+      "name": "FULLMOONALWAYSCOMES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 6,
+    "minor": 7,
     "patch": 8
   }
 }
