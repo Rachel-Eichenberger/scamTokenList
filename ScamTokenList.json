@@ -47498,11 +47498,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35fe606A55aCbA6b7ea1F0be7E9391F004c8c8C0",
+      "symbol": "APENOBI",
+      "name": "APENOBI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 72,
+    "minor": 73,
     "patch": 7
   }
 }
