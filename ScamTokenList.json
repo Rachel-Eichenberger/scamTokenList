@@ -48070,11 +48070,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbDEBc69077AA0AC0358cF478Fb6C8Ba15a0a3F6c",
+      "symbol": "TWUMP",
+      "name": "TWUMP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 24,
+    "minor": 25,
     "patch": 8
   }
 }
