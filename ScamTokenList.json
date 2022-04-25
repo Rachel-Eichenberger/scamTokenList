@@ -48136,11 +48136,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64301EAa3eE7BD017ACaC2Fbf3b4a7d80fd7b73a",
+      "symbol": "MACHINISTINC",
+      "name": "Machinist",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 30,
+    "minor": 31,
     "patch": 8
   }
 }
