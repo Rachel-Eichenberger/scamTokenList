@@ -47399,11 +47399,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5e7AD2Aa46eDeb2EBb01097dE73B4dE2F2c225A",
+      "symbol": "BABYCHEEMS",
+      "name": "BABYCINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 63,
+    "minor": 64,
     "patch": 7
   }
 }
