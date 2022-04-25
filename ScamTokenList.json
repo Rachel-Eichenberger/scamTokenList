@@ -47861,11 +47861,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85CAE40f368Aa01b8F5a5A2f24aA22575fA5C45E",
+      "symbol": "ELONTT",
+      "name": "ELONSTESLATWITTER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 5,
+    "minor": 6,
     "patch": 8
   }
 }
