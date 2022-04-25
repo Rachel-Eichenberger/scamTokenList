@@ -47883,11 +47883,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B00690d2d8aE35DD5c600b92F1c90dD0fD01923",
+      "symbol": "EOT",
+      "name": "ELONOWNSTWITTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 7,
+    "minor": 8,
     "patch": 8
   }
 }
