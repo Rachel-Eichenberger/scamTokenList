@@ -48026,11 +48026,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A3356A648891b0a56Ab70eCE83c469C0780c4BA",
+      "symbol": "TWTELN",
+      "name": "TWITTELONINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 20,
+    "minor": 21,
     "patch": 8
   }
 }
