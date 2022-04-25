@@ -48048,11 +48048,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e7a635FEDeC74875b3F5a8EB8A2e94c80291300",
+      "symbol": "GLOOM",
+      "name": "Gloom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 22,
+    "minor": 23,
     "patch": 8
   }
 }
