@@ -47542,11 +47542,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5E5A0Bcfe17671Ee1D510Af9cf8AEbe58521010",
+      "symbol": "CASH",
+      "name": "CYBERADAMASH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 10,
-    "minor": 76,
+    "minor": 77,
     "patch": 7
   }
 }
