@@ -48972,11 +48972,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5BB0D77218d2EB5f4ceA5C17A9F9aB27ebE3989",
+      "symbol": "PHNIX",
+      "name": "PhoenixRising",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 6,
+    "minor": 7,
     "patch": 9
   }
 }
