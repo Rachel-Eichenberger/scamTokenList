@@ -48642,11 +48642,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1de009199E2738d1523c8202012f67f1C043C86",
+      "symbol": "MOONORDUST",
+      "name": "MoonOrDust",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 76,
+    "minor": 77,
     "patch": 8
   }
 }
