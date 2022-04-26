@@ -48488,11 +48488,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8296312e8ba2B7d188961E6B63aAf06586f8C50",
+      "symbol": "SVOLT",
+      "name": "SuperchargedVolt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 62,
+    "minor": 63,
     "patch": 8
   }
 }
