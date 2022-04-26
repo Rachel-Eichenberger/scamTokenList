@@ -49016,11 +49016,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82B7eE38c13F2DB4dcfe176324940484A4d6aa87",
+      "symbol": "BOP",
+      "name": "BirdsofParadise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 10,
+    "minor": 11,
     "patch": 9
   }
 }
