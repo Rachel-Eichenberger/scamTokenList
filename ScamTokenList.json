@@ -48950,11 +48950,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa43B839Fb9BE8B4C77d5Cc53FdA7E43835F3fA72",
+      "symbol": "SERENITY",
+      "name": "Serenity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 4,
+    "minor": 5,
     "patch": 9
   }
 }
