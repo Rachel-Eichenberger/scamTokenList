@@ -48411,11 +48411,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9E3bf0b93dC132866cEe326dc7e53E27D5bF70B",
+      "symbol": "VOLTBURN",
+      "name": "VOLTBURN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 55,
+    "minor": 56,
     "patch": 8
   }
 }
