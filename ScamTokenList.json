@@ -48477,11 +48477,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1e6e4a2B25C7537c3f289bc9B9E9Aa5F6F8A977",
+      "symbol": "AMECA",
+      "name": "AmecaWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 61,
+    "minor": 62,
     "patch": 8
   }
 }
