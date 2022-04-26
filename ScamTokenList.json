@@ -48829,11 +48829,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD61085B4f8C34bA780C575DFB076D0aFEf0CBD7",
+      "symbol": "BANG",
+      "name": "BangBang",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 93,
+    "minor": 94,
     "patch": 8
   }
 }
