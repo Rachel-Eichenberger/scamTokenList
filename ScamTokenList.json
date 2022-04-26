@@ -49082,11 +49082,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F1313Ec3a8CBE01FC3D1413F238d06E5f936041",
+      "symbol": "KIM",
+      "name": "Kimoch",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 16,
+    "minor": 17,
     "patch": 9
   }
 }
