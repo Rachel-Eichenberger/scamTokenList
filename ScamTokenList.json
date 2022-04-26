@@ -48785,11 +48785,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1161AB960EB935Bd5Ad3e63fcdA5aa53F114CB75",
+      "symbol": "DOGEVERSE",
+      "name": "Dogerverse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 89,
+    "minor": 90,
     "patch": 8
   }
 }
