@@ -48906,11 +48906,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cE96280c9ee1b382d04c19263286100313e41DC",
+      "symbol": "SHIBAGER",
+      "name": "SHIBAGER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 0,
+    "minor": 1,
     "patch": 9
   }
 }
