@@ -48862,11 +48862,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x900866eD68Ec22Ad6bA52F69b86Ff7f037B0A996",
+      "symbol": "HEYCRYPT",
+      "name": "HeyCrypt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 96,
+    "minor": 97,
     "patch": 8
   }
 }
