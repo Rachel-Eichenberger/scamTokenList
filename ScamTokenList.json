@@ -49137,11 +49137,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57fe91A49DF616354ACD4D2a545487F12e513312",
+      "symbol": "CATH",
+      "name": "Catharis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 21,
+    "minor": 22,
     "patch": 9
   }
 }
