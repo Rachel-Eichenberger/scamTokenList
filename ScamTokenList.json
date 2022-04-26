@@ -48675,11 +48675,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b70e68F15722aee8e0354DB1b780b2370fd96Eb",
+      "symbol": "TWEETINU",
+      "name": "TweetInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 79,
+    "minor": 80,
     "patch": 8
   }
 }
