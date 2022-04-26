@@ -48521,11 +48521,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64A3f8e53aBF6351eC9519941BFEe70A24B91dED",
+      "symbol": "FREESPEECH",
+      "name": "FreeSpeechtoken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 65,
+    "minor": 66,
     "patch": 8
   }
 }
