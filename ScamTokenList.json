@@ -48917,11 +48917,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d01A8B3beb9B561b6f4F46Cee3Fc0a1Ff7C1499",
+      "symbol": "ELJ",
+      "name": "EverybodyLovesJohnn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 1,
+    "minor": 2,
     "patch": 9
   }
 }
