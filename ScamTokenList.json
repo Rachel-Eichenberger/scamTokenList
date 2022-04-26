@@ -48543,11 +48543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B088B9dF139EF65B32D5Cbf3CCeC6619A63097C",
+      "symbol": "TWITTERSPACEX",
+      "name": "TwitterSpaceX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 67,
+    "minor": 68,
     "patch": 8
   }
 }
