@@ -48664,11 +48664,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x095B2fa5d8Fd848FEe0001D9403D8eC5e89E61BA",
+      "symbol": "WEB30",
+      "name": "Web30",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 78,
+    "minor": 79,
     "patch": 8
   }
 }
