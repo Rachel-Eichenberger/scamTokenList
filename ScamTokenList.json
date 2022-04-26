@@ -48851,11 +48851,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF6C61d73e301C26528A250b46A1b5B2Ed1cEE4C",
+      "symbol": "TWEETAMA",
+      "name": "TWEETAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 95,
+    "minor": 96,
     "patch": 8
   }
 }
