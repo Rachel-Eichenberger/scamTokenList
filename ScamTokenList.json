@@ -48741,11 +48741,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fFD4f91540118Ae3Cc849897ca3C4064DeaE3a6",
+      "symbol": "AKUTARS",
+      "name": "Akutars",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 85,
+    "minor": 86,
     "patch": 8
   }
 }
