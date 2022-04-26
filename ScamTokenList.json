@@ -49038,11 +49038,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB62c20baC04CdFDD0948C50114420E6ef19b0AE6",
+      "symbol": "TOTHESTARS",
+      "name": "PerAsperaAdAstra",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 12,
+    "minor": 13,
     "patch": 9
   }
 }
