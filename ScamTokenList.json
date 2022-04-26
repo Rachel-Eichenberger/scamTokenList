@@ -48367,11 +48367,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14Aed792666c705A64e42D5291Caeb43Aac64F60",
+      "symbol": "TWEETHAPPY",
+      "name": "TweetHappy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 51,
+    "minor": 52,
     "patch": 8
   }
 }
