@@ -48301,11 +48301,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x552d945f80f88DC9F203D17B3a33cC76b17d2CA8",
+      "symbol": "LISTN",
+      "name": "LISTN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 45,
+    "minor": 46,
     "patch": 8
   }
 }
