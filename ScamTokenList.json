@@ -48532,11 +48532,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6d90F4C2C0cF68434511EA7292Aaf4b73a666A5",
+      "symbol": "BUMP",
+      "name": "QuaterbackInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 66,
+    "minor": 67,
     "patch": 8
   }
 }
