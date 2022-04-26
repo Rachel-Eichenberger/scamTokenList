@@ -48455,11 +48455,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCc6f2E024DD8FD5837fA05F985Ea517DD266A2F5",
+      "symbol": "TWETH",
+      "name": "Tweethereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 59,
+    "minor": 60,
     "patch": 8
   }
 }
