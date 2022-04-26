@@ -48356,11 +48356,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
+      "symbol": "KLEE",
+      "name": "KleeKai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 50,
+    "minor": 51,
     "patch": 8
   }
 }
