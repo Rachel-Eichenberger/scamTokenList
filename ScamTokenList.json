@@ -49005,11 +49005,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85f354E8a1b03D6a108024edD6c95a9A5Cb6d883",
+      "symbol": "VELLY",
+      "name": "VellyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 9,
+    "minor": 10,
     "patch": 9
   }
 }
