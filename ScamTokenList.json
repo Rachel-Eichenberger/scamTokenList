@@ -48444,11 +48444,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2Fe587296bfC6092b37b00C143d2A4957913Ea7",
+      "symbol": "MOONBOY",
+      "name": "MOONBOYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 58,
+    "minor": 59,
     "patch": 8
   }
 }
