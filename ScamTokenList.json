@@ -48609,11 +48609,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1887CC99a031f4133A81985e7473687b041E33ab",
+      "symbol": "KILLE",
+      "name": "KilleInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 73,
+    "minor": 74,
     "patch": 8
   }
 }
