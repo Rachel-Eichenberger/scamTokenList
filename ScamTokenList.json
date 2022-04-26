@@ -49126,11 +49126,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5EfCA8f8A857dC2869C6e7243C9cc8c17161f7Ce",
+      "symbol": "FREEDOMUSK",
+      "name": "freedomofspeech",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 20,
+    "minor": 21,
     "patch": 9
   }
 }
