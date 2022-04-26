@@ -49060,11 +49060,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02e6d29E86B4344b4aDc4189138c6b9e28163923",
+      "symbol": "MECCA",
+      "name": "MECCA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 14,
+    "minor": 15,
     "patch": 9
   }
 }
