@@ -48928,11 +48928,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcB45919988F030c5Ad1157cd9AC468d5Ee2D15Bd",
+      "symbol": "SENKU",
+      "name": "SENKU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 2,
+    "minor": 3,
     "patch": 9
   }
 }
