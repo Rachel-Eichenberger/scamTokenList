@@ -48796,11 +48796,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09dE98Ddf03E04F11645A5b718c0e68DF50Af024",
+      "symbol": "MEOW",
+      "name": "TheBirdKiller",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 90,
+    "minor": 91,
     "patch": 8
   }
 }
