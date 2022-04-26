@@ -48983,11 +48983,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1aC9362bC95B7D0eF2f2A24636f771DCEe1fD49C",
+      "symbol": "KINA",
+      "name": "KURENAICOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 7,
+    "minor": 8,
     "patch": 9
   }
 }
