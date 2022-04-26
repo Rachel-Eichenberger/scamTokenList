@@ -48818,11 +48818,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf4Ac79891b137062e18B67d2F8Ab915B98Afe0a",
+      "symbol": "LARRY",
+      "name": "LARRYMUSK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 92,
+    "minor": 93,
     "patch": 8
   }
 }
