@@ -48466,11 +48466,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6670267F13e1C8D4c48E20612493adc54BAE6e62",
+      "symbol": "TWITTER",
+      "name": "TwitterChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 60,
+    "minor": 61,
     "patch": 8
   }
 }
