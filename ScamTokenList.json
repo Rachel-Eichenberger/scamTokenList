@@ -49115,11 +49115,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0790473e5B9e6f86E8cdE0F4336c56dbb624496",
+      "symbol": "BABYPHNIX",
+      "name": "BabyPhoenixRising",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 19,
+    "minor": 20,
     "patch": 9
   }
 }
