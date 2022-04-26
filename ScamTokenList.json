@@ -48378,11 +48378,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50DDE49518070491Cb61043c190385c6487d0Ee9",
+      "symbol": "TFLOKI",
+      "name": "TFLOKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 52,
+    "minor": 53,
     "patch": 8
   }
 }
