@@ -48708,11 +48708,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E06a202A6E53412992540Ab7e438a5Cf281585d",
+      "symbol": "Twitter",
+      "name": "ElonMusk Twitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 82,
+    "minor": 83,
     "patch": 8
   }
 }
