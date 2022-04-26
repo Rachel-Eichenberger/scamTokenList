@@ -48312,11 +48312,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3858073AAd7F517D8d2587914113AEae9c309C7d",
+      "symbol": "BINU",
+      "name": "BananaINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 46,
+    "minor": 47,
     "patch": 8
   }
 }
