@@ -48719,11 +48719,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x699360b1bA493d3fEa8865aBE0B85aCaAF96b218",
+      "symbol": "NARUTONFTS",
+      "name": "NarutoNFTs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 83,
+    "minor": 84,
     "patch": 8
   }
 }
