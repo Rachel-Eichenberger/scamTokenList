@@ -48279,11 +48279,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbEEf79c9d897c523D197F38fA6c8692E6a0a8787",
+      "symbol": "APELON",
+      "name": "Apelon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 43,
+    "minor": 44,
     "patch": 8
   }
 }
