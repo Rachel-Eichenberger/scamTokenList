@@ -48895,11 +48895,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7743E5D2C918f881FC38Cb2b89eb879bbaa436c",
+      "symbol": "TWT",
+      "name": "TWEET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 11,
-    "minor": 99,
-    "patch": 8
+    "major": 12,
+    "minor": 0,
+    "patch": 9
   }
 }
