@@ -48290,11 +48290,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C313E5fFDfEEe32589442FA792578C2891f7D94",
+      "symbol": "PONZAI",
+      "name": "PONZAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 44,
+    "minor": 45,
     "patch": 8
   }
 }
