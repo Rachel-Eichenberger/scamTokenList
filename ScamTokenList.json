@@ -48686,11 +48686,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3494d42dd8711f7Dc11d1b5363f2286b21997c6",
+      "symbol": "BBIRD",
+      "name": "BlueBirdIsTheNewBla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 80,
+    "minor": 81,
     "patch": 8
   }
 }
