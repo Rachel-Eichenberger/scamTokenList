@@ -49148,11 +49148,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58ebbdAe2a6F0133a0706D82Ca347Eb3492EEf05",
+      "symbol": "SCARD",
+      "name": "SCARDust",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 22,
+    "minor": 23,
     "patch": 9
   }
 }
