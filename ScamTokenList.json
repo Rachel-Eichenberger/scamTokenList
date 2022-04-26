@@ -48323,11 +48323,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06F699F0135dC1BeB4aC916d44240c5E06a334bA",
+      "symbol": "STARBUCKS",
+      "name": "StarbucksMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 47,
+    "minor": 48,
     "patch": 8
   }
 }
