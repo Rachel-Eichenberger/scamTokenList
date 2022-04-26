@@ -48807,11 +48807,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa11392c2B8B4cb86A726BcAd46d2EdD7450cC898",
+      "symbol": "DEPP",
+      "name": "JOHNNYDEPPINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 91,
+    "minor": 92,
     "patch": 8
   }
 }
