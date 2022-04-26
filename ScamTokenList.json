@@ -48565,11 +48565,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D199822acC44064fA622B54eDbbb2dE359F03B1",
+      "symbol": "1ER",
+      "name": "OnePercenter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 69,
+    "minor": 70,
     "patch": 8
   }
 }
