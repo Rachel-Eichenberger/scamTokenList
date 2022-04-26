@@ -48334,11 +48334,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95B73ADfEf5E7bbecfB0cD3B91732eB01AFb7C79",
+      "symbol": "TWDOGE",
+      "name": "TwitterDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 48,
+    "minor": 49,
     "patch": 8
   }
 }
