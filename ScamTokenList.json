@@ -48422,11 +48422,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9Feb2a544383790c1eebb69dF55cbEe3C1F4141",
+      "symbol": "ACEN",
+      "name": "ALPHACentauri",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 56,
+    "minor": 57,
     "patch": 8
   }
 }
