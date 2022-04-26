@@ -48598,11 +48598,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x348124620Bc56B4B1d4C73282840b33F79bCB243",
+      "symbol": "BIRD",
+      "name": "Bird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 72,
+    "minor": 73,
     "patch": 8
   }
 }
