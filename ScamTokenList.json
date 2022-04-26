@@ -48620,11 +48620,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D590AF3F60BB5FF3E8fA657Bb13d09866312941",
+      "symbol": "FLOCK",
+      "name": "TheFlock",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 74,
+    "minor": 75,
     "patch": 8
   }
 }
