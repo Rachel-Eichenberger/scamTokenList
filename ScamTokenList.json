@@ -48730,11 +48730,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x010d982dF7B83a933fdEA778c9B3693057A40ae6",
+      "symbol": "STRANGE",
+      "name": "StrangeTimes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 84,
+    "minor": 85,
     "patch": 8
   }
 }
