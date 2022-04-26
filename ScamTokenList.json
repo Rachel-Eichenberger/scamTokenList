@@ -48653,11 +48653,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf8F8c50FEDC8ce9B9297477C1989af5e540bdF8",
+      "symbol": "GEM",
+      "name": "gemxyz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 77,
+    "minor": 78,
     "patch": 8
   }
 }
