@@ -48763,11 +48763,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5D949cE824984EFfaAf904Ec2194190D1720CF8",
+      "symbol": "EVOLT",
+      "name": "ElonsRevolt",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 87,
+    "minor": 88,
     "patch": 8
   }
 }
