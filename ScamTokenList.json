@@ -48994,11 +48994,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE291B6E3ab5f3f98220dBe3C5FeB2Bfd2078b0A6",
+      "symbol": "O",
+      "name": "Omega",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 8,
+    "minor": 9,
     "patch": 9
   }
 }
