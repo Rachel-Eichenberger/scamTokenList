@@ -48499,11 +48499,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7DF80196dc9e28Ce83eCb7d46bCF1A9E4F7C36e",
+      "symbol": "AKIMO",
+      "name": "AkimoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 11,
-    "minor": 63,
+    "minor": 64,
     "patch": 8
   }
 }
