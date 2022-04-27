@@ -49687,11 +49687,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ea244f0e282608D817dCeBbbba127C8C46F7C7b",
+      "symbol": "DYSTOPIA",
+      "name": "DYSTOPIATOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 71,
+    "minor": 72,
     "patch": 9
   }
 }
