@@ -49566,11 +49566,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94BD75a45399f76901f1EDE457985FA850723999",
+      "symbol": "SPYANYA",
+      "name": "SpyAnya",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 60,
+    "minor": 61,
     "patch": 9
   }
 }
