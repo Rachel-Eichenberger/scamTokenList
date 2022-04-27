@@ -49962,11 +49962,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D775026aB108f7bAa3e8cE549bf71c840fa11a0",
+      "symbol": "APEBIRD",
+      "name": "ApeBird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 96,
+    "minor": 97,
     "patch": 9
   }
 }
