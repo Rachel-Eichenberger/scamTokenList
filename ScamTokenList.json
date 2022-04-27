@@ -49940,11 +49940,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9001B210Ff9Aa13ffD9Db1a5534fb689CF017C2",
+      "symbol": "VCAP",
+      "name": "VentureCapital",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 94,
+    "minor": 95,
     "patch": 9
   }
 }
