@@ -49247,11 +49247,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e49DC57BbF92Fc2F7e58e9fb4996764aCc4A9B8",
+      "symbol": "APEX",
+      "name": "ApeXProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 31,
+    "minor": 32,
     "patch": 9
   }
 }
