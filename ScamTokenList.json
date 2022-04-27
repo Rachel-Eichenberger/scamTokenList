@@ -49676,11 +49676,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x608e5Eef20e4b786126963DDE0Bb46e62dBefB45",
+      "symbol": "IKI",
+      "name": "Ikigai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 70,
+    "minor": 71,
     "patch": 9
   }
 }
