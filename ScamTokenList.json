@@ -49214,11 +49214,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D9e3C57500F2991738E3ed3D3Ad43CAcbAbC36c",
+      "symbol": "C2",
+      "name": "Contract2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 28,
+    "minor": 29,
     "patch": 9
   }
 }
