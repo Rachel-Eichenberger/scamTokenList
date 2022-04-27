@@ -49885,11 +49885,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB47f75990946D3E78a5D95A26734Ef92339EBFA",
+      "symbol": "GOTADOGE",
+      "name": "GOTADOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 89,
+    "minor": 90,
     "patch": 9
   }
 }
