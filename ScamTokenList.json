@@ -49181,11 +49181,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6220B6802Ff8ccA7A39986eEDaaB061760E7650",
+      "symbol": "SHINOKU",
+      "name": "Shinoku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 25,
+    "minor": 26,
     "patch": 9
   }
 }
