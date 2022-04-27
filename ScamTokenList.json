@@ -49731,11 +49731,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x006D74D4170527D3D2771b70E3cdAE4e854238c4",
+      "symbol": "VIRUS",
+      "name": "DivineVirus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 75,
+    "minor": 76,
     "patch": 9
   }
 }
