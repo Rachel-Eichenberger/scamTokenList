@@ -49951,11 +49951,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD05320b1B2e31bE17717fAb0512e018a8f1d03aB",
+      "symbol": "AINU",
+      "name": "AKENOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 95,
+    "minor": 96,
     "patch": 9
   }
 }
