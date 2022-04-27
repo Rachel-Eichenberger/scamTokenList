@@ -49313,11 +49313,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBe3fC4A4dF09fCe34494dC4E0183e1fff7293354",
+      "symbol": "MOONCULT",
+      "name": "MoonCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 37,
+    "minor": 38,
     "patch": 9
   }
 }
