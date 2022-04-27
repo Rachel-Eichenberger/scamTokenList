@@ -49896,11 +49896,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7050F4AebE0a60b1d9148aC224c6b97d7066E230",
+      "symbol": "MEGALODONINU",
+      "name": "MegalodonInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 90,
+    "minor": 91,
     "patch": 9
   }
 }
