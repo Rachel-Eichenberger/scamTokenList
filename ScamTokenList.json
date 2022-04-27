@@ -49368,11 +49368,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9DB436571C43B563ADcB855c94a13aD4486Dec0F",
+      "symbol": "BABYPRIMATE",
+      "name": "BabyPrimate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 42,
+    "minor": 43,
     "patch": 9
   }
 }
