@@ -49742,11 +49742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36B3640D9E98c59Ad0C8c0aca39f45762b900c96",
+      "symbol": "HAKINU",
+      "name": "HachikoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 76,
+    "minor": 77,
     "patch": 9
   }
 }
