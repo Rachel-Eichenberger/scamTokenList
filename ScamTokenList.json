@@ -49995,11 +49995,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5536e9c7c3b131dD27568b6668760CeeBfea24A1",
+      "symbol": "TCL",
+      "name": "TheCouncil",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 12,
-    "minor": 99,
-    "patch": 9
+    "major": 13,
+    "minor": 0,
+    "patch": 10
   }
 }
