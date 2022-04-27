@@ -49918,11 +49918,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33C81a8Fdfa4157040E69e2c10fbB317310B1cA8",
+      "symbol": "RAKA",
+      "name": "UrarakaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 92,
+    "minor": 93,
     "patch": 9
   }
 }
