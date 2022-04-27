@@ -49610,11 +49610,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf35893860982bBab7cAC87627190e447B2B1DD0",
+      "symbol": "MUSKROOM",
+      "name": "MUSKROOM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 64,
+    "minor": 65,
     "patch": 9
   }
 }
