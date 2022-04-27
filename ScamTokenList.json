@@ -49269,11 +49269,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc52E94F3AA18338075f758d37F5809809D9eC172",
+      "symbol": "MOCHI",
+      "name": "Mochicoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 33,
+    "minor": 34,
     "patch": 9
   }
 }
