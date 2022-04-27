@@ -49423,11 +49423,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E156007E5A4c8075887a2A2AcD6EA1e44CA545F",
+      "symbol": "ALTAIR",
+      "name": "ALPHAAQUILAE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 47,
+    "minor": 48,
     "patch": 9
   }
 }
