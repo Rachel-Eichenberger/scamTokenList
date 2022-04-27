@@ -49192,11 +49192,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x555ECd946A0e6D0672F03637De798bA48B845737",
+      "symbol": "SPOOKY",
+      "name": "SpookyCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 26,
+    "minor": 27,
     "patch": 9
   }
 }
