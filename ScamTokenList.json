@@ -49929,11 +49929,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2099259454183b5B984EB4d26497054EE8CC2e76",
+      "symbol": "SPARK",
+      "name": "SparkInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 93,
+    "minor": 94,
     "patch": 9
   }
 }
