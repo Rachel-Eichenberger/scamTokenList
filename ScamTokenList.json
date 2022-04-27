@@ -49412,11 +49412,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x345bD566198E5A6635b960937557da08D8BF2b92",
+      "symbol": "DCATZ",
+      "name": "Dabcatz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 46,
+    "minor": 47,
     "patch": 9
   }
 }
