@@ -50039,11 +50039,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5798009eA543a30AeA8Bc0B014d78a8Daf2f5B2",
+      "symbol": "LUXURY",
+      "name": "LuxuryCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 3,
+    "minor": 4,
     "patch": 10
   }
 }
