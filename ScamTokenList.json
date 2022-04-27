@@ -49225,11 +49225,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c8ED9B7CfA410a81529A77C7F8A1572014fd743",
+      "symbol": "VOLTX",
+      "name": "Voltswap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 29,
+    "minor": 30,
     "patch": 9
   }
 }
