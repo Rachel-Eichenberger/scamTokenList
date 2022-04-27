@@ -49159,11 +49159,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e154e90BEE8f7DFb8b4a689415D5cAb0FF80eD3",
+      "symbol": "HGBY",
+      "name": "HGOOBY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 23,
+    "minor": 24,
     "patch": 9
   }
 }
