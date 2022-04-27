@@ -49599,11 +49599,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9994Db9fE9de1Dd0658268906D0fD41E6FAD7565",
+      "symbol": "TEI",
+      "name": "TruelonINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 63,
+    "minor": 64,
     "patch": 9
   }
 }
