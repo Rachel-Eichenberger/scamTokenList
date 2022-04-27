@@ -49984,11 +49984,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x457FB027e1e69b780AB5e25284cAf3aA42cc7515",
+      "symbol": "DFADE",
+      "name": "DOONTFADE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 98,
+    "minor": 99,
     "patch": 9
   }
 }
