@@ -49973,11 +49973,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50CcDd2f658d16f7835b7a73D032EB45278fFa35",
+      "symbol": "ZEKE",
+      "name": "THEZEKE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 97,
+    "minor": 98,
     "patch": 9
   }
 }
