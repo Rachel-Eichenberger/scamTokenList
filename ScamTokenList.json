@@ -50050,11 +50050,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE35EBc220fc911163671Db7B697492c0E130D56C",
+      "symbol": "SPEECHER",
+      "name": "SpeecherInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 4,
+    "minor": 5,
     "patch": 10
   }
 }
