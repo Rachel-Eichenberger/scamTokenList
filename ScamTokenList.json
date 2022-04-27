@@ -49577,11 +49577,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x200a59681E070C8636f8bD3d1B09a9c227d51126",
+      "symbol": "PRIMATE",
+      "name": "PRIMATE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 61,
+    "minor": 62,
     "patch": 9
   }
 }
