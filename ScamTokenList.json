@@ -49379,11 +49379,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8d36015dDc669557D424121cE21ba1dcF7a0860",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 43,
+    "minor": 44,
     "patch": 9
   }
 }
