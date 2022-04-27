@@ -49203,11 +49203,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C5365450F9152a1C9768979D4f2Ee41069a105c",
+      "symbol": "MAPD",
+      "name": "MapDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 27,
+    "minor": 28,
     "patch": 9
   }
 }
