@@ -49764,11 +49764,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B11E07Ab63357829D54B2EDA0A7D00d1464Fd98",
+      "symbol": "CINU",
+      "name": "ClipperINU",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 78,
+    "minor": 79,
     "patch": 9
   }
 }
