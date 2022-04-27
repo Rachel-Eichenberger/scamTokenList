@@ -49522,11 +49522,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2fdc6D9D3F2A9A784258f89629Cc12948ed973F",
+      "symbol": "SABBATH",
+      "name": "SabbathInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 56,
+    "minor": 57,
     "patch": 9
   }
 }
