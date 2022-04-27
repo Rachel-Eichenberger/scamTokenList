@@ -49324,11 +49324,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x386CA9EBFd1ccB173360cb8fe32Ca3a04df07Bd2",
+      "symbol": "SINU",
+      "name": "SocialInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 38,
+    "minor": 39,
     "patch": 9
   }
 }
