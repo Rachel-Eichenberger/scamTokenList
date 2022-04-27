@@ -49500,11 +49500,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47BC1645BF5C4e74219956C43Da4eD8e530AABa2",
+      "symbol": "LUNAS",
+      "name": "LUNAS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 54,
+    "minor": 55,
     "patch": 9
   }
 }
