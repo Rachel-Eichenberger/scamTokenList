@@ -49533,11 +49533,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96c922992136dF28AcB2B2C7e09c60683FCb7c95",
+      "symbol": "TELETWEETS",
+      "name": "TELETWEETS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 57,
+    "minor": 58,
     "patch": 9
   }
 }
