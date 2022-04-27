@@ -49907,11 +49907,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x951DA693E47F0A0A6e8F04c5A73c8fAD30AED691",
+      "symbol": "GIF",
+      "name": "GIFdGovernanceToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 91,
+    "minor": 92,
     "patch": 9
   }
 }
