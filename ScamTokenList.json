@@ -49588,11 +49588,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4FDDE596701947C1624Fc879Ea91E54cF8631c9",
+      "symbol": "SHIG",
+      "name": "SHIGUN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 62,
+    "minor": 63,
     "patch": 9
   }
 }
