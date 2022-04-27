@@ -49819,11 +49819,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bf5cd1AC6FfF12E88AEDD3c70EB4148F90F8894",
+      "symbol": "ORBIT",
+      "name": "Orbit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 83,
+    "minor": 84,
     "patch": 9
   }
 }
