@@ -49775,11 +49775,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b684EcFd3a192dD675A9eEbe251B580012B6c31",
+      "symbol": "EFP",
+      "name": "Elon2024",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 79,
+    "minor": 80,
     "patch": 9
   }
 }
