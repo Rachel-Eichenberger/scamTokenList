@@ -49489,11 +49489,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2576d4E87B5a31aCc4A616842Eb19A4cf42CEC3",
+      "symbol": "METASPACE",
+      "name": "MetaSpace",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 53,
+    "minor": 54,
     "patch": 9
   }
 }
