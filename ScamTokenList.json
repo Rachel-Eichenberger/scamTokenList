@@ -49830,11 +49830,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFbd888349529e3F87c77dFFBe2A2BB500F4e02Ea",
+      "symbol": "HIGH",
+      "name": "CuzIGotHIGH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 84,
+    "minor": 85,
     "patch": 9
   }
 }
