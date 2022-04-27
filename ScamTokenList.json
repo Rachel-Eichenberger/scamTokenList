@@ -49445,11 +49445,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03Ce204b24C39dDf4DC2FF97B986c94554bc1E11",
+      "symbol": "APEX",
+      "name": "ApeXProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 49,
+    "minor": 50,
     "patch": 9
   }
 }
