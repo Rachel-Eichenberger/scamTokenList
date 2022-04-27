@@ -49632,11 +49632,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F932005A333D1Aa903f861686C0E55b28A6eF7B",
+      "symbol": "WALLETX",
+      "name": "WalletX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 66,
+    "minor": 67,
     "patch": 9
   }
 }
