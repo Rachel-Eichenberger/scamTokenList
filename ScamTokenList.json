@@ -50028,11 +50028,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01a7bA59A537630d42d731A047F73A0eB1bf3F37",
+      "symbol": "MYINU",
+      "name": "MarleyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 2,
+    "minor": 3,
     "patch": 10
   }
 }
