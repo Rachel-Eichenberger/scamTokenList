@@ -49555,11 +49555,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9634D2dCefD03Fb3cD463cB2B425959dB6C196c6",
+      "symbol": "HEAVENINU",
+      "name": "HeavenInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 59,
+    "minor": 60,
     "patch": 9
   }
 }
