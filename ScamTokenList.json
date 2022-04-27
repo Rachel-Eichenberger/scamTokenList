@@ -49434,11 +49434,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x777bC2e18800Ba9E00b3dbB9c94b2a5fc80F7d42",
+      "symbol": "CAEW",
+      "name": "CAEW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 48,
+    "minor": 49,
     "patch": 9
   }
 }
