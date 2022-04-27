@@ -49291,11 +49291,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf280bca4Eb6D8dD557c2fDf41A797c9F1AF99a20",
+      "symbol": "FT",
+      "name": "FreeTwitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 35,
+    "minor": 36,
     "patch": 9
   }
 }
