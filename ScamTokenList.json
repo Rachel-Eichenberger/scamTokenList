@@ -49874,11 +49874,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x776Fab07e7D8792c7AB52bfB23d0B9C8C481Cd3f",
+      "symbol": "GEASS",
+      "name": "CODEGEASSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 88,
+    "minor": 89,
     "patch": 9
   }
 }
