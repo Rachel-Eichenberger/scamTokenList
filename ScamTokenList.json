@@ -49808,11 +49808,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8797212c8e2F77Ef3eDEcfE883BCc4412F2DE7d8",
+      "symbol": "SM",
+      "name": "SendingtotheMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 82,
+    "minor": 83,
     "patch": 9
   }
 }
