@@ -49786,11 +49786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDFB8a082F19624A41E16AF9BA87e81aC137Aa205",
+      "symbol": "TINU",
+      "name": "TaxInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 80,
+    "minor": 81,
     "patch": 9
   }
 }
