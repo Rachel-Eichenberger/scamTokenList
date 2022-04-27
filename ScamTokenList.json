@@ -49236,11 +49236,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7879fc0a0518B8781fcD1Db439FDaFC9b2Cfa62",
+      "symbol": "COC",
+      "name": "CoCreation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 12,
-    "minor": 30,
+    "minor": 31,
     "patch": 9
   }
 }
