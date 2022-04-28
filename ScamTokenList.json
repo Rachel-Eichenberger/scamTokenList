@@ -50809,11 +50809,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcE5caAaFe66A4862670987228518c3f2Cb14952b",
+      "symbol": "SMART",
+      "name": "SmartDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 73,
+    "minor": 74,
     "patch": 10
   }
 }
