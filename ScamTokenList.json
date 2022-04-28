@@ -50083,11 +50083,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x670d07857D90FEc8C47aBAE390caEd0Cb08DeE63",
+      "symbol": "IKUZU",
+      "name": "IkuzuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 7,
+    "minor": 8,
     "patch": 10
   }
 }
