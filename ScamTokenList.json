@@ -50589,11 +50589,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f21a338e4289667F3530B0a777c7c92A49591dF",
+      "symbol": "EINU",
+      "name": "ElectricInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 53,
+    "minor": 54,
     "patch": 10
   }
 }
