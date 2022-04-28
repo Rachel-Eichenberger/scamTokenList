@@ -50369,11 +50369,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee68e2BbD073e2f109aA6751a685E1543c86A5b5",
+      "symbol": "MUSK",
+      "name": "MuskCocaCola",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 33,
+    "minor": 34,
     "patch": 10
   }
 }
