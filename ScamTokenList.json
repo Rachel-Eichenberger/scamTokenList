@@ -50633,11 +50633,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45C7dE9B6a2a6c4F1BeC96b878cCA73B514Ad063",
+      "symbol": "ION",
+      "name": "Thruster",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 57,
+    "minor": 58,
     "patch": 10
   }
 }
