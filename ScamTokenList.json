@@ -50380,11 +50380,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45399fDf044FDF4aadde847d46c0FFEab8ed5ea1",
+      "symbol": "ANTI",
+      "name": "AntiSocial",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 34,
+    "minor": 35,
     "patch": 10
   }
 }
