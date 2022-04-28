@@ -50226,11 +50226,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf21e4abd4C2919034cEf4AcB9d6B425F28F8Cc6D",
+      "symbol": "KELON",
+      "name": "KingElon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 20,
+    "minor": 21,
     "patch": 10
   }
 }
