@@ -50721,11 +50721,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC51F977ed976fac81b3061252AB40686ae8C9ebA",
+      "symbol": "TRUTHSOCIAL",
+      "name": "TruthSocial",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 65,
+    "minor": 66,
     "patch": 10
   }
 }
