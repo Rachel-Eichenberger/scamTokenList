@@ -50413,11 +50413,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f5b036b2Cd7b18D72A5F68ed89D546FD2EBF042",
+      "symbol": "CWINU",
+      "name": "ChillWineInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 37,
+    "minor": 38,
     "patch": 10
   }
 }
