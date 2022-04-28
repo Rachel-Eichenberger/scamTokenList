@@ -50578,11 +50578,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1956AbB6dCe12Aa160a372aF4c9081a176182de3",
+      "symbol": "ELONBID",
+      "name": "Elonbidtwitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 52,
+    "minor": 53,
     "patch": 10
   }
 }
