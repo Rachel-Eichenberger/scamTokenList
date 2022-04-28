@@ -50710,11 +50710,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5bbe913c9b85Eb4A8A48f78aAd8E67E554A84e2D",
+      "symbol": "EOS",
+      "name": "EmpireOfSteel",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 64,
+    "minor": 65,
     "patch": 10
   }
 }
