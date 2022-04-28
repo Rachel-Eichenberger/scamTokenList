@@ -50611,11 +50611,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ed643e9032230F01c6c36060E305Ab53ad3b482",
+      "symbol": "BLAST",
+      "name": "BLAST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 55,
+    "minor": 56,
     "patch": 10
   }
 }
