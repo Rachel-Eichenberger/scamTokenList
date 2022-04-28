@@ -50248,11 +50248,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bbD27FE77557D36B8d84575De932C2CFA0E00B7",
+      "symbol": "MIRACLES",
+      "name": "Miracles",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 22,
+    "minor": 23,
     "patch": 10
   }
 }
