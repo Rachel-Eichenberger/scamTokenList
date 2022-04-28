@@ -50490,11 +50490,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c0f8c46987752E563e7A0d86d543610AedD88CA",
+      "symbol": "GAL",
+      "name": "ProjectGalaxy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 44,
+    "minor": 45,
     "patch": 10
   }
 }
