@@ -50281,11 +50281,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac5E2ff1c025cb31136ad50f6215D333259287F8",
+      "symbol": "COKEACOLA",
+      "name": "CokeInTheCola",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 25,
+    "minor": 26,
     "patch": 10
   }
 }
