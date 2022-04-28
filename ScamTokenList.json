@@ -50622,11 +50622,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA33a4a204FAd20a36db23248BfE45FE9Aa97ba29",
+      "symbol": "STANDPOINT",
+      "name": "ElonsView",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 56,
+    "minor": 57,
     "patch": 10
   }
 }
