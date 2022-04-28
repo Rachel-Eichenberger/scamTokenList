@@ -50215,11 +50215,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03D53211363966D4712712E69F851170DAd55657",
+      "symbol": "ELONDONALDS",
+      "name": "ElonDonalds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 19,
+    "minor": 20,
     "patch": 10
   }
 }
