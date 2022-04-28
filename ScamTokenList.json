@@ -50600,11 +50600,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5931F8807413fC92955161f2dE6613066bf31CA",
+      "symbol": "HINU",
+      "name": "HIEIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 54,
+    "minor": 55,
     "patch": 10
   }
 }
