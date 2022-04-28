@@ -50424,11 +50424,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76F90279d7AaaCb4FB340EbE4A8e8bC38b58CefE",
+      "symbol": "METAMASK",
+      "name": "MetaMaskMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 38,
+    "minor": 39,
     "patch": 10
   }
 }
