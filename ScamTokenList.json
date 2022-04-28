@@ -50743,11 +50743,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94bE51e8f894855c349a3a0351dD049B4477ce51",
+      "symbol": "SIGMA",
+      "name": "SIGMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 67,
+    "minor": 68,
     "patch": 10
   }
 }
