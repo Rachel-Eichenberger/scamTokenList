@@ -50336,11 +50336,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa622f100B1d59E5ee8CdfAfB876E3a9446a675e5",
+      "symbol": "FOMO",
+      "name": "FOMO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 30,
+    "minor": 31,
     "patch": 10
   }
 }
