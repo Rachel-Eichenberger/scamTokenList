@@ -50468,11 +50468,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49428f057dd9d20a8E4c6873e98AFD8cD7146e3B",
+      "symbol": "DSATA",
+      "name": "SignataDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 42,
+    "minor": 43,
     "patch": 10
   }
 }
