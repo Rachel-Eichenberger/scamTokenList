@@ -50325,11 +50325,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B58F8c8B998Ca3019e7f4e4b8c9D34a6588cD14",
+      "symbol": "FIFI",
+      "name": "FIFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 29,
+    "minor": 30,
     "patch": 10
   }
 }
