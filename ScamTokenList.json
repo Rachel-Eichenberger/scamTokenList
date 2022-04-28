@@ -50457,11 +50457,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95328Df1efEB2E961F04623741698Ca460733d76",
+      "symbol": "MJOLNIR",
+      "name": "Mjolnir",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 41,
+    "minor": 42,
     "patch": 10
   }
 }
