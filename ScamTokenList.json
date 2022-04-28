@@ -50831,11 +50831,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x543d9FFf1899bBC3E5C57dD3a070d6B3A2c6bb6d",
+      "symbol": "KAKEGURUI",
+      "name": "KakeguruiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 75,
+    "minor": 76,
     "patch": 10
   }
 }
