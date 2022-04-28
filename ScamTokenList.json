@@ -50314,11 +50314,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca700d456A9c446A5C77597a284fdC9C9dE5d663",
+      "symbol": "ICOG",
+      "name": "Incognito",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 28,
+    "minor": 29,
     "patch": 10
   }
 }
