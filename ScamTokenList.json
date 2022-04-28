@@ -50776,11 +50776,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x582abcF4ea53345Bf5a625278aaf090076CAE609",
+      "symbol": "REDCAPITAL",
+      "name": "SECT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 70,
+    "minor": 71,
     "patch": 10
   }
 }
