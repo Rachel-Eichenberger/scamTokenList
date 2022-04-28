@@ -50556,11 +50556,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc31DE2a89f18fe7320AD4C9E3635F2B854e817f8",
+      "symbol": "RAGNAROK",
+      "name": "RagnarokMeta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 50,
+    "minor": 51,
     "patch": 10
   }
 }
