@@ -50567,11 +50567,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2D166eFc4c8E76E8a095436AdEbE21F4a4D7a8C",
+      "symbol": "PT",
+      "name": "PlatinumFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 51,
+    "minor": 52,
     "patch": 10
   }
 }
