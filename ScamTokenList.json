@@ -50501,11 +50501,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ba9C4f29781B132f15F4B67D3aAa1A995Aa9AC8",
+      "symbol": "MUSKSWAP",
+      "name": "MuskySwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 45,
+    "minor": 46,
     "patch": 10
   }
 }
