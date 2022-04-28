@@ -50765,11 +50765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B183277C0FA73862eE6822A9Fd6a34B23c21011",
+      "symbol": "PREACHER",
+      "name": "PreacherInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 69,
+    "minor": 70,
     "patch": 10
   }
 }
