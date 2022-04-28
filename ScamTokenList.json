@@ -50798,11 +50798,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B37392207512F5FA8812a3991CC0308107E6995",
+      "symbol": "ROBBY",
+      "name": "ROBBY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 72,
+    "minor": 73,
     "patch": 10
   }
 }
