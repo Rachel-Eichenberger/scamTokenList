@@ -50061,11 +50061,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdaCE001B4B83CE39ACd9d3D1b559bB9245430bE3",
+      "symbol": "TAKI",
+      "name": "TakiApp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 5,
+    "minor": 6,
     "patch": 10
   }
 }
