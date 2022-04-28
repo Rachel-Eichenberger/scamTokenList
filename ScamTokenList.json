@@ -50545,11 +50545,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE43Bc0086cE06044027FBDBf006ac75DF8B35255",
+      "symbol": "FREEDOM",
+      "name": "FREEDOMINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 49,
+    "minor": 50,
     "patch": 10
   }
 }
