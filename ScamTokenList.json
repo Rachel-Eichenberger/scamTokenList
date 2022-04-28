@@ -50842,11 +50842,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3774de605b5B0FFdA12815da7CfB226D054a493",
+      "symbol": "ELONBUYSCOKE",
+      "name": "ELONBUYSCOCACOLA",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 76,
+    "minor": 77,
     "patch": 10
   }
 }
