@@ -50534,11 +50534,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DA372caF83c076E362c9d892F76CBcaEBb519C2",
+      "symbol": "SHIBREADINU",
+      "name": "ShibreadInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 48,
+    "minor": 49,
     "patch": 10
   }
 }
