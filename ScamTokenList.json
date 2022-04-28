@@ -50644,11 +50644,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbAfd9e1Ed130e79c4Bf0C4bE0638B340c6d732b9",
+      "symbol": "OTHERSIDE",
+      "name": "APEOtherside",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 58,
+    "minor": 59,
     "patch": 10
   }
 }
