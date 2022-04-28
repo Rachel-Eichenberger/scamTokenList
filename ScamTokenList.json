@@ -50072,11 +50072,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9901880dAd72d5101818B678cd44d079b9842e9a",
+      "symbol": "ECT",
+      "name": "EncryptedTwitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 6,
+    "minor": 7,
     "patch": 10
   }
 }
