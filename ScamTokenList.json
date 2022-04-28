@@ -50699,11 +50699,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeCdFfbC8052e0725f9279Be6bd70351c4b539c67",
+      "symbol": "JDI",
+      "name": "JohnnyDeppInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 63,
+    "minor": 64,
     "patch": 10
   }
 }
