@@ -50171,11 +50171,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35f29A1748C0AFdda8833853b453cD652bE1BF7c",
+      "symbol": "BTAMA",
+      "name": "Burntama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 15,
+    "minor": 16,
     "patch": 10
   }
 }
