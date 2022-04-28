@@ -50666,11 +50666,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x229fE1000022E49bc3F377C6ddc1894E20c2BF05",
+      "symbol": "MEGA",
+      "name": "MakeEthereumGreatAg",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 60,
+    "minor": 61,
     "patch": 10
   }
 }
