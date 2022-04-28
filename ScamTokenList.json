@@ -50160,11 +50160,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5F0b4462Ca3425280Df51f75Bc34026DC221a05",
+      "symbol": "COCAINE",
+      "name": "CocaColaDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 14,
+    "minor": 15,
     "patch": 10
   }
 }
