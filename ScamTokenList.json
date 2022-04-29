@@ -51150,11 +51150,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA15C957aF6B68d056F73edd44f180aaA7e52F146",
+      "symbol": "CAMEL",
+      "name": "CamelCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 4,
+    "minor": 5,
     "patch": 11
   }
 }
