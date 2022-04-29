@@ -51337,11 +51337,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4EBcd033eF7a761918Ff532503Ffa887C84e113",
+      "symbol": "DOGURAI",
+      "name": "DOGURAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 21,
+    "minor": 22,
     "patch": 11
   }
 }
