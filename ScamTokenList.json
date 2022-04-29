@@ -50864,11 +50864,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD830F7E8945A039E6b9b9Ead9cC1579334C22270",
+      "symbol": "TEST2",
+      "name": "TEST2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 78,
+    "minor": 79,
     "patch": 10
   }
 }
