@@ -51062,11 +51062,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0E05638F4B7Ac6286089fC29d4957ccCC739617",
+      "symbol": "EPIC",
+      "name": "EpicGames",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 96,
+    "minor": 97,
     "patch": 10
   }
 }
