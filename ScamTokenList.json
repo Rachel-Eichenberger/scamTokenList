@@ -51535,11 +51535,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6550BaC19536D9b192039155f8b258cddBd404cf",
+      "symbol": "PEPPAPIGINU",
+      "name": "PeppaPigInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 39,
+    "minor": 40,
     "patch": 11
   }
 }
