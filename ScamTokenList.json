@@ -50908,11 +50908,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E5f20E6C5f7996e2b9E16f4963948008D3998f7",
+      "symbol": "GOLDMAN",
+      "name": "GoldmanSachsDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 82,
+    "minor": 83,
     "patch": 10
   }
 }
