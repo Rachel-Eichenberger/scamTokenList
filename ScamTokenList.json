@@ -51491,11 +51491,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD930365E070bfeDf51f4639E42c01a2b97Fd8deA",
+      "symbol": "URODELAINU",
+      "name": "URODELA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 35,
+    "minor": 36,
     "patch": 11
   }
 }
