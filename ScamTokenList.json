@@ -51172,11 +51172,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB41612Cd2DC517bfF4f95c515A117B82C5Cd06af",
+      "symbol": "PENGUIN",
+      "name": "IcyBreath",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 6,
+    "minor": 7,
     "patch": 11
   }
 }
