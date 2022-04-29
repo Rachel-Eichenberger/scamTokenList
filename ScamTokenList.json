@@ -50941,11 +50941,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF52721b964A3DB95C1Ae42ce77421CcF8ad92b7",
+      "symbol": "HOLIDAY",
+      "name": "FreeTime",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 85,
+    "minor": 86,
     "patch": 10
   }
 }
