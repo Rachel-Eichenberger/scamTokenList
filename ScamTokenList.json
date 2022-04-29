@@ -51469,11 +51469,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f173165a6f777b0Cd815990A77aeADE5671eeE7",
+      "symbol": "SHINSHY",
+      "name": "ShinshyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 33,
+    "minor": 34,
     "patch": 11
   }
 }
