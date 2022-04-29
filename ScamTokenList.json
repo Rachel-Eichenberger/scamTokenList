@@ -51106,11 +51106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x464d6D5382a1fA319169160BD44136d720217c30",
+      "symbol": "DOGE30",
+      "name": "DOGE30",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 0,
+    "minor": 1,
     "patch": 11
   }
 }
