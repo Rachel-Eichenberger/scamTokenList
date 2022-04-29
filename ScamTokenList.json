@@ -51447,11 +51447,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E0E28F3C6e64567774075aa99c53bE81C0de423",
+      "symbol": "BOLT",
+      "name": "BOLTINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 31,
+    "minor": 32,
     "patch": 11
   }
 }
