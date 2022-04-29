@@ -51370,11 +51370,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C7F9D9969095658746531deC470CFb67aFbfB4B",
+      "symbol": "HACHI",
+      "name": "HachiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 24,
+    "minor": 25,
     "patch": 11
   }
 }
