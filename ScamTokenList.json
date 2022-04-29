@@ -51546,11 +51546,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77034E847fe639CF975C6088D6Acc7aD4fc865c1",
+      "symbol": "KODO",
+      "name": "KodoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 40,
+    "minor": 41,
     "patch": 11
   }
 }
