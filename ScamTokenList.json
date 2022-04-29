@@ -51458,11 +51458,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9a5Bf4fC3Be4463125e8fbc30B2D2F7AE3d91eA",
+      "symbol": "HYRAIL",
+      "name": "HyperRail",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 32,
+    "minor": 33,
     "patch": 11
   }
 }
