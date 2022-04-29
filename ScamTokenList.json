@@ -51502,11 +51502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC0B182B2E06164568a3310Ca1086e9bf19209E6c",
+      "symbol": "PTPA",
+      "name": "Pumptopia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 36,
+    "minor": 37,
     "patch": 11
   }
 }
