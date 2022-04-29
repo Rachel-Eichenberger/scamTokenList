@@ -50897,11 +50897,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5d7c1dea00245187c4480F730bECfeE72733047",
+      "symbol": "DOG",
+      "name": "MetaDogRacing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 81,
+    "minor": 82,
     "patch": 10
   }
 }
