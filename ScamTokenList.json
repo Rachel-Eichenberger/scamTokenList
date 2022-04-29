@@ -50952,11 +50952,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51725155AE4BE24376a198a54D3F00244CD336f3",
+      "symbol": "DISCOVERY",
+      "name": "ALamboDream",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 86,
+    "minor": 87,
     "patch": 10
   }
 }
