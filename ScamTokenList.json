@@ -51029,11 +51029,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x601b9EcFA25828E290032aD7815c0BD23B266ce8",
+      "symbol": "APE",
+      "name": "OthersideAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 93,
+    "minor": 94,
     "patch": 10
   }
 }
