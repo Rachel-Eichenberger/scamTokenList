@@ -51326,11 +51326,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCBd9C45c483f7eFF25881C4463637276766F5387",
+      "symbol": "MC",
+      "name": "Monaco",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 20,
+    "minor": 21,
     "patch": 11
   }
 }
