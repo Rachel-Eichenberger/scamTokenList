@@ -50985,11 +50985,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcca6283Fce60F97B2a2Bd2D07920946a4f454aD6",
+      "symbol": "B0",
+      "name": "Burn0",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 89,
+    "minor": 90,
     "patch": 10
   }
 }
