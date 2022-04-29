@@ -51040,11 +51040,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9bF5f2657ccf96906bA9324c02572c3b259276e",
+      "symbol": "GMTINU",
+      "name": "GMTinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 94,
+    "minor": 95,
     "patch": 10
   }
 }
