@@ -51128,11 +51128,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x410A8d8ec2eB8011024d74BB410F20D6c43b1EeE",
+      "symbol": "REHAB",
+      "name": "RehabilitationCente",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 2,
+    "minor": 3,
     "patch": 11
   }
 }
