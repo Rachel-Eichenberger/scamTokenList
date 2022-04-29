@@ -51227,11 +51227,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC9541212A32c14E81290b1bCB80387d3720f45ED",
+      "symbol": "ILLIQUID",
+      "name": "ILLIQUIDCAPITALDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 11,
+    "minor": 12,
     "patch": 11
   }
 }
