@@ -51348,11 +51348,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bB80CC3c4AF74Dc738F7Fdd7EE8282C624b34dE",
+      "symbol": "OTHERDEED",
+      "name": "Otherdeed",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 22,
+    "minor": 23,
     "patch": 11
   }
 }
