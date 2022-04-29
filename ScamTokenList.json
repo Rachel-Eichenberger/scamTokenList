@@ -51359,11 +51359,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb54337393dBb59c1025f68255C356f0fBA06174",
+      "symbol": "DRAI",
+      "name": "DOGURAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 23,
+    "minor": 24,
     "patch": 11
   }
 }
