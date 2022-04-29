@@ -51051,11 +51051,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33d320fB064eF644549Fb9fBaab6361Af6a4560B",
+      "symbol": "UTW",
+      "name": "UNCENSOREDTWITTER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 95,
+    "minor": 96,
     "patch": 10
   }
 }
