@@ -50996,11 +50996,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70C65a5a4Ca671403212edF80aDa7498727e51D4",
+      "symbol": "DTF",
+      "name": "DutyFree",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 90,
+    "minor": 91,
     "patch": 10
   }
 }
