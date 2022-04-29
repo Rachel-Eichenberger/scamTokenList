@@ -50963,11 +50963,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1A551c05946B38284fffB6E18735F689D790de3",
+      "symbol": "RICH",
+      "name": "RichToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 87,
+    "minor": 88,
     "patch": 10
   }
 }
