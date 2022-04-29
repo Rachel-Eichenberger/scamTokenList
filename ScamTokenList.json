@@ -51095,11 +51095,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C40B24cb4a4F12313765157611fd6CE02032f68",
+      "symbol": "BLACKTAMA",
+      "name": "BlackTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 13,
-    "minor": 99,
-    "patch": 10
+    "major": 14,
+    "minor": 0,
+    "patch": 11
   }
 }
