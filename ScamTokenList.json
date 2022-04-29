@@ -51238,11 +51238,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F6a5Bc03fA75CBBFDB89aE5E58FAbc081e2257a",
+      "symbol": "TON",
+      "name": "Toncoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 12,
+    "minor": 13,
     "patch": 11
   }
 }
