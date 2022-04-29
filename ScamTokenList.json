@@ -51403,11 +51403,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26Ca9Ad0819C55F921F6A0Ed4944E39ab7b7f3C6",
+      "symbol": "HUNTSMAN",
+      "name": "FRATERNITY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 27,
+    "minor": 28,
     "patch": 11
   }
 }
