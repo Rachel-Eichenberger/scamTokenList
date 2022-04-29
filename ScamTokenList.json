@@ -51183,11 +51183,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe529cbCF1D0Ec9B20Fb8DD0DD48075D29c177e69",
+      "symbol": "SHIBX100",
+      "name": "SHIBX100",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 7,
+    "minor": 8,
     "patch": 11
   }
 }
