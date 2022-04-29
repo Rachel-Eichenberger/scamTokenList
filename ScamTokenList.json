@@ -51205,11 +51205,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94e95DE1EE375598b09500B654f74f21C045702e",
+      "symbol": "BREED",
+      "name": "BreederDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 9,
+    "minor": 10,
     "patch": 11
   }
 }
