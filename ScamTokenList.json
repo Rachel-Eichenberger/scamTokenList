@@ -50974,11 +50974,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cBFc683abF93eE994dA1b63bEeC169F4F9D67E7",
+      "symbol": "KAZUYA",
+      "name": "KazuyaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 88,
+    "minor": 89,
     "patch": 10
   }
 }
