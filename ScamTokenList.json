@@ -51260,11 +51260,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f6791A2C46EcAE367a6B1b3006A4E2fe584e7BF",
+      "symbol": "SORA",
+      "name": "SoraInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 14,
+    "minor": 15,
     "patch": 11
   }
 }
