@@ -51436,11 +51436,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEdff951a6Be79Ef4F00a034bB9FcD19b57bacBBF",
+      "symbol": "PKX",
+      "name": "PokerXToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 30,
+    "minor": 31,
     "patch": 11
   }
 }
