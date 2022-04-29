@@ -51139,11 +51139,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bDcb59142E7f482Ff18cA61D04248D2A878865F",
+      "symbol": "BEAPE",
+      "name": "BoredElonApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 3,
+    "minor": 4,
     "patch": 11
   }
 }
