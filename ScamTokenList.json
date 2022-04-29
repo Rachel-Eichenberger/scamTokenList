@@ -51414,11 +51414,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x105F74efB328A7F9b843163da4986aBE25420bCd",
+      "symbol": "APEOTHERSIDEXYZ",
+      "name": "apeothersidexyz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 28,
+    "minor": 29,
     "patch": 11
   }
 }
