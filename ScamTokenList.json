@@ -50919,11 +50919,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4270B7c030c9C2987430C3d83dC582fe6fDa3b88",
+      "symbol": "VALHALLA",
+      "name": "TheOILProtector",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 13,
-    "minor": 83,
+    "minor": 84,
     "patch": 10
   }
 }
