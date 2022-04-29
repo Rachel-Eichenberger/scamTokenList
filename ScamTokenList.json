@@ -51304,11 +51304,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa09bD6b23D101a7Ec84b165909391B52a29E1519",
+      "symbol": "SC",
+      "name": "ShibaCamp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 18,
+    "minor": 19,
     "patch": 11
   }
 }
