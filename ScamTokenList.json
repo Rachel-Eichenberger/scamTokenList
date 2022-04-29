@@ -51216,11 +51216,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD3F7AAaC083091d67aC8ba647527b9c024b24E7",
+      "symbol": "CAPKONG",
+      "name": "CapKong",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 10,
+    "minor": 11,
     "patch": 11
   }
 }
