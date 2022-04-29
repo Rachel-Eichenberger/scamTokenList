@@ -51282,11 +51282,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8a96C7BD6961096E3488b966a938c8F1C71Bc81",
+      "symbol": "APHRODITE",
+      "name": "AphroditeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 16,
+    "minor": 17,
     "patch": 11
   }
 }
