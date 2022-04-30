@@ -51810,11 +51810,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD28094543EbB0272240C515280CaAD409f24A1F2",
+      "symbol": "HN",
+      "name": "HarveyNicholsNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 64,
+    "minor": 65,
     "patch": 11
   }
 }
