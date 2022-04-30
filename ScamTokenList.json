@@ -51711,11 +51711,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F6Ad7743924B1901a0771746152dde44C5F11DE",
+      "symbol": "SCARD",
+      "name": "SCARDust",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 55,
+    "minor": 56,
     "patch": 11
   }
 }
