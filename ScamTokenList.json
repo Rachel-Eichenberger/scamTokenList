@@ -51854,11 +51854,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd408a0de9b2988B823A2CB0b8267C1b87D7f2ECC",
+      "symbol": "ELONAPE",
+      "name": "ElonApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 68,
+    "minor": 69,
     "patch": 11
   }
 }
