@@ -51843,11 +51843,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7bCFA0601E72ce02181e6FA4eeF660874Eb0519c",
+      "symbol": "FAPE",
+      "name": "FreeApeCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 67,
+    "minor": 68,
     "patch": 11
   }
 }
