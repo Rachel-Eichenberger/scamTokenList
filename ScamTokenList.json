@@ -52173,11 +52173,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf4A8cE071E2075aE6a38a45783D4EB7bde03824",
+      "symbol": "KISHI",
+      "name": "KishiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 97,
+    "minor": 98,
     "patch": 11
   }
 }
