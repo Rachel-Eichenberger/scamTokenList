@@ -52074,11 +52074,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29CCa3e79432EeDF2E0bd2360B6a79697B0CE033",
+      "symbol": "FCG",
+      "name": "FingerClickinGood",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 88,
+    "minor": 89,
     "patch": 11
   }
 }
