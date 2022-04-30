@@ -51832,11 +51832,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58157B294934D11a273ed99C95561D1A1b8f725D",
+      "symbol": "ENE",
+      "name": "EthereumNameErvice",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 66,
+    "minor": 67,
     "patch": 11
   }
 }
