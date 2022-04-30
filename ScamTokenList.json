@@ -51689,11 +51689,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9171c4F09cE9D89FaA7EaD35eF859057F1C54fc4",
+      "symbol": "NOTHING",
+      "name": "Everything",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 53,
+    "minor": 54,
     "patch": 11
   }
 }
