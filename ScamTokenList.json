@@ -51744,11 +51744,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08785f51C8F5A5735d4a8f7F4Fc6C5986600B1BE",
+      "symbol": "SHIZU",
+      "name": "ShizuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 58,
+    "minor": 59,
     "patch": 11
   }
 }
