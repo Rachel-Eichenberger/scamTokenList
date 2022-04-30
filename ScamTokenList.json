@@ -51612,11 +51612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04502a624EB87319eED563F71c7E391B6EB5EE6B",
+      "symbol": "YGD",
+      "name": "YugaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 46,
+    "minor": 47,
     "patch": 11
   }
 }
