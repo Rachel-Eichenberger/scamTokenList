@@ -51799,11 +51799,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb59E38d615bFCF809eF37A41AaA2146e933492F7",
+      "symbol": "GURUKO",
+      "name": "GurukoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 63,
+    "minor": 64,
     "patch": 11
   }
 }
