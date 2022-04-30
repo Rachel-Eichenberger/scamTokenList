@@ -51700,11 +51700,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2bf282704A8Dc35FE43798F96fea0B48a115CD6",
+      "symbol": "MEKA",
+      "name": "MekaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 54,
+    "minor": 55,
     "patch": 11
   }
 }
