@@ -51590,11 +51590,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00b1e8eFa18d14c4967E279228B06bBc7f8aD2ed",
+      "symbol": "T1",
+      "name": "ToOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 44,
+    "minor": 45,
     "patch": 11
   }
 }
