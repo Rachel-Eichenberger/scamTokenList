@@ -52129,11 +52129,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x925b4E8B5e372BC14C2B6Ee647F178a4bFD7a8c7",
+      "symbol": "APEBURN",
+      "name": "APEBURN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 93,
+    "minor": 94,
     "patch": 11
   }
 }
