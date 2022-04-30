@@ -51722,11 +51722,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeBCae2A2e5A85a9bE37cb5aff3C70188EB1E1b66",
+      "symbol": "BABYAPE",
+      "name": "BabyApeCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 56,
+    "minor": 57,
     "patch": 11
   }
 }
