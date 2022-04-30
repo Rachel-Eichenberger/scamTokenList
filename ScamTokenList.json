@@ -51821,11 +51821,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x724e8597a30451e48A0E0c21a11B45EF44b87885",
+      "symbol": "PHAN",
+      "name": "PhantomProject",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 65,
+    "minor": 66,
     "patch": 11
   }
 }
