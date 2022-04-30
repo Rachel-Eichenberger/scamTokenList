@@ -52008,11 +52008,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7712c986a2ffa5b5A1546b8cA74ED458D4C48f6D",
+      "symbol": "BOLT",
+      "name": "BOLTINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 82,
+    "minor": 83,
     "patch": 11
   }
 }
