@@ -52096,11 +52096,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD43179E8B5532D625D84E4ba68cacCa96b38DDd2",
+      "symbol": "KNIGHTINU",
+      "name": "KnightInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 90,
+    "minor": 91,
     "patch": 11
   }
 }
