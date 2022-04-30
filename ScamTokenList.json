@@ -51986,11 +51986,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9808f71ee956A7cf9cA6e72f15d14327F4FEc28b",
+      "symbol": "SMILE",
+      "name": "TheSmileCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 80,
+    "minor": 81,
     "patch": 11
   }
 }
