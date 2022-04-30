@@ -51601,11 +51601,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcA11f15c51A175678C605FD943138C06f7b1858D",
+      "symbol": "PEPPAPIGINU",
+      "name": "PeppaPigInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 45,
+    "minor": 46,
     "patch": 11
   }
 }
