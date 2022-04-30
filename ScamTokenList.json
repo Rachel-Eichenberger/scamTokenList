@@ -51766,11 +51766,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE991534D5bFcD1Ca3284b06cbe2A1D4042c3bC9D",
+      "symbol": "FUCKAMBER",
+      "name": "FuckAmber",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 60,
+    "minor": 61,
     "patch": 11
   }
 }
