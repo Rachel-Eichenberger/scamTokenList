@@ -51920,11 +51920,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEEA0Eb7c4e1d1012bE813d389f5D8f7816fF9Bb3",
+      "symbol": "LEOO",
+      "name": "LEOO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 74,
+    "minor": 75,
     "patch": 11
   }
 }
