@@ -51931,11 +51931,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A60df966Fd42E9522774CED46Dc48A20b24f820",
+      "symbol": "AKAI",
+      "name": "Akaito",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 75,
+    "minor": 76,
     "patch": 11
   }
 }
