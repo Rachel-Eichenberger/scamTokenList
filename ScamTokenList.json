@@ -51733,11 +51733,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A14Aa2e2c3949d0B1Ba42e64F5526B68DF40f5f",
+      "symbol": "SKULLAPE",
+      "name": "SkullApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 57,
+    "minor": 58,
     "patch": 11
   }
 }
