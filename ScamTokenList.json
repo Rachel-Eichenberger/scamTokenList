@@ -51953,11 +51953,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f9233B839E348657711e45F1a0cE278e4749442",
+      "symbol": "BUGS",
+      "name": "BugsBunny",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 77,
+    "minor": 78,
     "patch": 11
   }
 }
