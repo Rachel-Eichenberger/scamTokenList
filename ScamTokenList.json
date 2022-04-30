@@ -52151,11 +52151,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8Ac121593FEc509ae87dE3a9e449A20908e4791",
+      "symbol": "SHZ",
+      "name": "ShizuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 95,
+    "minor": 96,
     "patch": 11
   }
 }
