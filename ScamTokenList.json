@@ -51887,11 +51887,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9011d632612B2479C090CAd84c70EeD6BfD3673",
+      "symbol": "PYRAMID",
+      "name": "PyramidDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 71,
+    "minor": 72,
     "patch": 11
   }
 }
