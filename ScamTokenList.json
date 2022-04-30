@@ -52030,11 +52030,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc62891CAF5a3147a90600e73268556516C35fAc9",
+      "symbol": "DINU",
+      "name": "DripInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 84,
+    "minor": 85,
     "patch": 11
   }
 }
