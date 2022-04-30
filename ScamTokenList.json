@@ -52085,11 +52085,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2c57EaefEb0416d22cDeE2B12966c10DAaeD77a",
+      "symbol": "BATTLE",
+      "name": "BattleFish",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 89,
+    "minor": 90,
     "patch": 11
   }
 }
