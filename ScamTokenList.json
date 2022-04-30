@@ -51788,11 +51788,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35D4a1fb250E28a0d01670BB1588f69437E66653",
+      "symbol": "NINJADAO",
+      "name": "NinjaDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 62,
+    "minor": 63,
     "patch": 11
   }
 }
