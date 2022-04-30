@@ -52162,11 +52162,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f5c10CC2C3eC0250797864ECFb852141bB1FFbF",
+      "symbol": "RODEO",
+      "name": "CyberRodeo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 96,
+    "minor": 97,
     "patch": 11
   }
 }
