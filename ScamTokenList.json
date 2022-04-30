@@ -51645,11 +51645,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88eF9e9aCA5a3Eb441532f3eDDEa9BDee3a73bC2",
+      "symbol": "GAZE",
+      "name": "GAZE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 49,
+    "minor": 50,
     "patch": 11
   }
 }
