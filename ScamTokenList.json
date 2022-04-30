@@ -51865,11 +51865,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8210414965d0207F216BEad03dF43136bf3d2F0",
+      "symbol": "PUMOS",
+      "name": "PumosINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 69,
+    "minor": 70,
     "patch": 11
   }
 }
