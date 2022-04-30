@@ -52063,11 +52063,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32ECE9fcfB7a7278498dF1D139F000ac797DD18b",
+      "symbol": "ELONSBIRD",
+      "name": "ElonsBird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 87,
+    "minor": 88,
     "patch": 11
   }
 }
