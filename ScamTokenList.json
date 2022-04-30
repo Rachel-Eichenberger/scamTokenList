@@ -51975,11 +51975,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd47328c785e060Db97aB2afD53d060f123E468ab",
+      "symbol": "OTHERSIDE",
+      "name": "OthersideAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 79,
+    "minor": 80,
     "patch": 11
   }
 }
