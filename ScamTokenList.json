@@ -52041,11 +52041,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x316b4528b5068A16a43D2B3AEf42677639095b95",
+      "symbol": "OTHERDEED",
+      "name": "Otherdeed",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 85,
+    "minor": 86,
     "patch": 11
   }
 }
