@@ -51755,11 +51755,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEfBAf9E4345f9939f687645488884622cD4F5964",
+      "symbol": "OTHERSIDEMETA",
+      "name": "OthersideMeta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 59,
+    "minor": 60,
     "patch": 11
   }
 }
