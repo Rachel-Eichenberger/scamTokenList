@@ -51568,11 +51568,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20e00041129B4d8a8574a6c0e28A9e71c754AEca",
+      "symbol": "OINK",
+      "name": "PIGGY",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 42,
+    "minor": 43,
     "patch": 11
   }
 }
