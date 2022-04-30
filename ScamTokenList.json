@@ -52184,11 +52184,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4488f24Ca1D5d35878d143678560f791981211B9",
+      "symbol": "CIMBO",
+      "name": "CIMBOToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 98,
+    "minor": 99,
     "patch": 11
   }
 }
