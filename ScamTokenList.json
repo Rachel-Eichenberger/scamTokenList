@@ -52195,11 +52195,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7eedF223288796638f97Bf868c8b2827E856d7EC",
+      "symbol": "PHANINU",
+      "name": "PhantomInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 14,
-    "minor": 99,
-    "patch": 11
+    "major": 15,
+    "minor": 0,
+    "patch": 12
   }
 }
