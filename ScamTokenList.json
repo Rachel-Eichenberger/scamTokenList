@@ -51557,11 +51557,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA966341fD23b6E0Ab3593455eCf2261192B757E1",
+      "symbol": "TRUFFLE",
+      "name": "TruffleProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 41,
+    "minor": 42,
     "patch": 11
   }
 }
