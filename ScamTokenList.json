@@ -52107,11 +52107,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa48F7A48BDAFf54587A1C4e4B2f35459a2328E29",
+      "symbol": "BATTLE",
+      "name": "BattleFish",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 91,
+    "minor": 92,
     "patch": 11
   }
 }
