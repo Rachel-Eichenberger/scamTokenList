@@ -51942,11 +51942,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42584E10d0E081769cE4a02ff58b85581BAF4F33",
+      "symbol": "HILTON",
+      "name": "HiltonMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 76,
+    "minor": 77,
     "patch": 11
   }
 }
