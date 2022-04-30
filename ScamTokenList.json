@@ -51777,11 +51777,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb24D9FAA82Fa1c0BEafE184a8D8AD68094282fE9",
+      "symbol": "OMEGA",
+      "name": "OmegaMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 61,
+    "minor": 62,
     "patch": 11
   }
 }
