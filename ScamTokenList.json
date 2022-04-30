@@ -51898,11 +51898,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06355A34a94B362F7722C0904E0fAF37551Ce60A",
+      "symbol": "YGD",
+      "name": "YugaDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 14,
-    "minor": 72,
+    "minor": 73,
     "patch": 11
   }
 }
