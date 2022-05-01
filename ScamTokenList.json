@@ -52217,11 +52217,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74B4077e7A2C4Fd191e4917fb1F81b2Ac1Afcb8B",
+      "symbol": "APESEA",
+      "name": "Apesea",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 1,
+    "minor": 2,
     "patch": 12
   }
 }
