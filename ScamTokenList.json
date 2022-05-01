@@ -52459,11 +52459,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4a86dd94Aae8a8794CD6f19e5CB0b42Bb678bB4",
+      "symbol": "GOOSE",
+      "name": "GOOSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 23,
+    "minor": 24,
     "patch": 12
   }
 }
