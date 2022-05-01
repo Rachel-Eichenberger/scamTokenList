@@ -52250,11 +52250,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8EcA24ed7E36cf4bA3a7a01BC51bcD086b2C6597",
+      "symbol": "OTHR",
+      "name": "Otherdeed",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 4,
+    "minor": 5,
     "patch": 12
   }
 }
