@@ -52415,11 +52415,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE2d824e98E51a78CC85460E45C853FF089FA417",
+      "symbol": "ZAZU",
+      "name": "InformeroftheSkies",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 19,
+    "minor": 20,
     "patch": 12
   }
 }
