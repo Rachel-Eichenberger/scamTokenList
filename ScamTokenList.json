@@ -52272,11 +52272,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10d81A916d1Dce6652E001e793083ad0D314fA9d",
+      "symbol": "FEKA",
+      "name": "FekaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 6,
+    "minor": 7,
     "patch": 12
   }
 }
