@@ -52360,11 +52360,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8325E09C1675F46fd4eBf00E2004541914CCC461",
+      "symbol": "BRX",
+      "name": "BearX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 14,
+    "minor": 15,
     "patch": 12
   }
 }
