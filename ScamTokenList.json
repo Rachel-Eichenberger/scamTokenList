@@ -52283,11 +52283,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d9f71D9879554C41d528334ba856B95741bF59F",
+      "symbol": "RAW",
+      "name": "JunoSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 7,
+    "minor": 8,
     "patch": 12
   }
 }
