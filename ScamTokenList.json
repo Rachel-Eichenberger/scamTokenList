@@ -52239,11 +52239,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3066801e2767E00040575ea8dA22E25C97b9c4E",
+      "symbol": "KAIZEN",
+      "name": "KAIZENINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 3,
+    "minor": 4,
     "patch": 12
   }
 }
