@@ -52448,11 +52448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9559C502b035674C6049e72B98664496C61Cec88",
+      "symbol": "MJI",
+      "name": "MichaelJordanInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 22,
+    "minor": 23,
     "patch": 12
   }
 }
