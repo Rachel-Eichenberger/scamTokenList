@@ -52327,11 +52327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fbd5986EEdF925776045ec1aC975EaD716ad8A7",
+      "symbol": "NAUTILUS",
+      "name": "NAUT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 11,
+    "minor": 12,
     "patch": 12
   }
 }
