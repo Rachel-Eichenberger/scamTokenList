@@ -52470,11 +52470,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fCe2FD803e5218A72c618B8a30d34A1F7E618f2",
+      "symbol": "KONGDAO",
+      "name": "KongDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 24,
+    "minor": 25,
     "patch": 12
   }
 }
