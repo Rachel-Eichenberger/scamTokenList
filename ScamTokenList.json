@@ -52316,11 +52316,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D6fc7C4c270a9661375bE49a5176048C40a6aec",
+      "symbol": "TROLL",
+      "name": "TrollInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 10,
+    "minor": 11,
     "patch": 12
   }
 }
