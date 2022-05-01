@@ -52481,11 +52481,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13C69aa8bf77F49508750D792976daCd91c41714",
+      "symbol": "PMUSK",
+      "name": "HawaiianMusk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 25,
+    "minor": 26,
     "patch": 12
   }
 }
