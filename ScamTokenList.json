@@ -52349,11 +52349,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa071937aFF6A1AeA172D0770fBd209767907a02A",
+      "symbol": "OTHERDEED",
+      "name": "OtherdeedforOthersi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 13,
+    "minor": 14,
     "patch": 12
   }
 }
