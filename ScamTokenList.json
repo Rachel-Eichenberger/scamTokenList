@@ -52437,11 +52437,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64326f0044854ab47D775468AEf1cCaddAbA8419",
+      "symbol": "MEVKILLER",
+      "name": "MEVKILLER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 21,
+    "minor": 22,
     "patch": 12
   }
 }
