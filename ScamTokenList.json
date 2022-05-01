@@ -52294,11 +52294,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd966A9beb13fcBB48a13E47a7337F609c8FA289",
+      "symbol": "GINU",
+      "name": "Ginu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 8,
+    "minor": 9,
     "patch": 12
   }
 }
