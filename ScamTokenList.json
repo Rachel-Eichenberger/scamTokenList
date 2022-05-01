@@ -52382,11 +52382,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x969D6814E45fa3F64AaEea56C9A9871995Cf7339",
+      "symbol": "APE86",
+      "name": "APE86CLUB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 16,
+    "minor": 17,
     "patch": 12
   }
 }
