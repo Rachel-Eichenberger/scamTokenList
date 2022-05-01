@@ -52305,11 +52305,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d56239E8c252b5d18c094E5E7877233896948a4",
+      "symbol": "SNORLAX",
+      "name": "Snorlax",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 9,
+    "minor": 10,
     "patch": 12
   }
 }
