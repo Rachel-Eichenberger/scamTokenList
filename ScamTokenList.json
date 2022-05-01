@@ -52338,11 +52338,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12cc888F6f36680A14d11dDEb9766c63a276d237",
+      "symbol": "SMA",
+      "name": "SuperMaMa",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 12,
+    "minor": 13,
     "patch": 12
   }
 }
