@@ -52371,11 +52371,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56351Bc967343Df52e00B25d7163080D12E4cC8A",
+      "symbol": "WOJAKINU",
+      "name": "WOJAKINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 15,
+    "minor": 16,
     "patch": 12
   }
 }
