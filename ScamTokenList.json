@@ -52261,11 +52261,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x570B483eeaC5B4D1510298e87D8BA50f92fe6Ef2",
+      "symbol": "BANC",
+      "name": "BoredApeNothingClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 5,
+    "minor": 6,
     "patch": 12
   }
 }
