@@ -52206,11 +52206,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB84e9aeadb8dB6FD61D868800c85f17F9947D42C",
+      "symbol": "BAG",
+      "name": "BoredApeGas",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 0,
+    "minor": 1,
     "patch": 12
   }
 }
