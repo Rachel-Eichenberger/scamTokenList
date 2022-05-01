@@ -52426,11 +52426,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBfbFbe5ebb568DDC6fFCdCfb9b3ae189D10Cd36E",
+      "symbol": "SHIRO",
+      "name": "Shinjiro",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 20,
+    "minor": 21,
     "patch": 12
   }
 }
