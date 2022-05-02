@@ -52613,11 +52613,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5b8a0c4d02dDe10F1E907f66D1BdB3944e33E3a",
+      "symbol": "PLASTIC",
+      "name": "WorldOfPlastic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 37,
+    "minor": 38,
     "patch": 12
   }
 }
