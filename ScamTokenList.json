@@ -52822,11 +52822,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a23deE89bC989F4B575aeB76375a24718016eCB",
+      "symbol": "SIRA",
+      "name": "SiraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 56,
+    "minor": 57,
     "patch": 12
   }
 }
