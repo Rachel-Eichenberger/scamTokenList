@@ -52844,11 +52844,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77633e393c6f5C9C7a07139c46541EC289A714A3",
+      "symbol": "REVWAR",
+      "name": "WarriorsRev",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 58,
+    "minor": 59,
     "patch": 12
   }
 }
