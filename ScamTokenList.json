@@ -52800,11 +52800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4148CFd64bDa9BC64f78448bD5e267cCAdff2CC3",
+      "symbol": "KODA",
+      "name": "KodaProperties",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 54,
+    "minor": 55,
     "patch": 12
   }
 }
