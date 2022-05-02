@@ -52910,11 +52910,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54Ccc469326114f638926b6C91551B4d4bB2C61F",
+      "symbol": "ROBIN",
+      "name": "RobinInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 64,
+    "minor": 65,
     "patch": 12
   }
 }
