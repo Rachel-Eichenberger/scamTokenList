@@ -52888,11 +52888,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9913B27323b02E79D1Cc3755313eED5898e3dBE2",
+      "symbol": "LEVERINU",
+      "name": "LeverInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 62,
+    "minor": 63,
     "patch": 12
   }
 }
