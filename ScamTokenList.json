@@ -52690,11 +52690,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40623755199da964c86709b2d174E82C0526bF4A",
+      "symbol": "SALT",
+      "name": "SaltMiner",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 44,
+    "minor": 45,
     "patch": 12
   }
 }
