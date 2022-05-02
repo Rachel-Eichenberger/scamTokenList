@@ -52811,11 +52811,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa918fe3c850aD9fd724aA6E2d39Ab2Fd5467631A",
+      "symbol": "NEXON",
+      "name": "NEXONMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 55,
+    "minor": 56,
     "patch": 12
   }
 }
