@@ -52591,11 +52591,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e13867fD89a5DFe9938d933Abab54D03DA1e336",
+      "symbol": "DOBBY",
+      "name": "DOBBY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 35,
+    "minor": 36,
     "patch": 12
   }
 }
