@@ -52668,11 +52668,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e94D3b69230C0BdfD883dDC97Aa941113Bb12d0",
+      "symbol": "SHIKINU",
+      "name": "ShikokuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 42,
+    "minor": 43,
     "patch": 12
   }
 }
