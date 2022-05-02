@@ -52558,11 +52558,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEAb8E2293f42390D9F11f2c24c07cF8964E26580",
+      "symbol": "WAGMI",
+      "name": "WAGMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 32,
+    "minor": 33,
     "patch": 12
   }
 }
