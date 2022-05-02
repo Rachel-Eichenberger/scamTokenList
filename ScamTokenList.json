@@ -52503,11 +52503,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0a2F7248fC0A0b1DB93Ba598Ae3aB6D11b236ec",
+      "symbol": "CROWSINU",
+      "name": "CrowsZeroInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 27,
+    "minor": 28,
     "patch": 12
   }
 }
