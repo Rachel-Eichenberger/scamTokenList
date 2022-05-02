@@ -52987,11 +52987,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e6Fcc6827C6023498c88041317E8C6560fF16ce",
+      "symbol": "SHIBUNOW",
+      "name": "ShibunowToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 71,
+    "minor": 72,
     "patch": 12
   }
 }
