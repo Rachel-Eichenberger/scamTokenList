@@ -52855,11 +52855,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x261Fd151d72fa424347A7119Daf317Ae420B1E14",
+      "symbol": "TNT",
+      "name": "TrillionairesNeedTa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 59,
+    "minor": 60,
     "patch": 12
   }
 }
