@@ -52547,11 +52547,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaDa74C8fC91aE71DA60A2ABC67f765A92fC4e412",
+      "symbol": "YAENG",
+      "name": "YangHengInuToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 31,
+    "minor": 32,
     "patch": 12
   }
 }
