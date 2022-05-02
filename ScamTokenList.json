@@ -52767,11 +52767,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBD0A276758B344f0C70E7e9dFcFaE84C487a2Cf3",
+      "symbol": "RETH",
+      "name": "RealmsOfEthernity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 51,
+    "minor": 52,
     "patch": 12
   }
 }
