@@ -52998,11 +52998,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x511aBeF1DbE942eb9508ddc6506F2AeE214126a1",
+      "symbol": "KAGE",
+      "name": "KageInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 72,
+    "minor": 73,
     "patch": 12
   }
 }
