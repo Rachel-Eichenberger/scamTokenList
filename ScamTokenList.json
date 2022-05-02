@@ -52712,11 +52712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c2d8F9f4F4b9316Ddb25e1b82E2b4768C7E4776",
+      "symbol": "DOBBY",
+      "name": "DobbyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 46,
+    "minor": 47,
     "patch": 12
   }
 }
