@@ -53042,11 +53042,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDd0D7210A4740f941480264ed1C490B984743d19",
+      "symbol": "ROLODEX",
+      "name": "Rolodex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 76,
+    "minor": 77,
     "patch": 12
   }
 }
