@@ -52789,11 +52789,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61514463FDA913dCcE415fce4Ec847CF6805874b",
+      "symbol": "CATE",
+      "name": "CateCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 53,
+    "minor": 54,
     "patch": 12
   }
 }
