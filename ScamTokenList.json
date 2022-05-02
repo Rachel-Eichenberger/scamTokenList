@@ -52921,11 +52921,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x479BD5ba25A318835A1AB87c73198a37da960012",
+      "symbol": "ACE",
+      "name": "ACE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 65,
+    "minor": 66,
     "patch": 12
   }
 }
