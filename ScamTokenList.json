@@ -52833,11 +52833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0916472363Dd4deA9953954e9e2018729e63F7A",
+      "symbol": "KODA",
+      "name": "KodaforOtherside",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 57,
+    "minor": 58,
     "patch": 12
   }
 }
