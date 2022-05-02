@@ -52877,11 +52877,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3651047c26D31739f4691ca2B2bD628212F2251",
+      "symbol": "DOGELLA",
+      "name": "DogellaCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 61,
+    "minor": 62,
     "patch": 12
   }
 }
