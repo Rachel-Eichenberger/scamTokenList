@@ -52943,11 +52943,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf91EA4E98a1fd98Fdbef8DB5724D2a0E7e2E407",
+      "symbol": "ROBIN",
+      "name": "ROBIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 67,
+    "minor": 68,
     "patch": 12
   }
 }
