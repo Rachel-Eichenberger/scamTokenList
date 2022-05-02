@@ -52569,11 +52569,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE20CB868D61Bf69444Cb8fA17B8adF7DFD2a6479",
+      "symbol": "TIGER",
+      "name": "TigerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 33,
+    "minor": 34,
     "patch": 12
   }
 }
