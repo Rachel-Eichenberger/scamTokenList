@@ -52701,11 +52701,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1819126eC0B05850723B1e43a1D8296c9Ac52D96",
+      "symbol": "ALPHA",
+      "name": "Alpha",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 45,
+    "minor": 46,
     "patch": 12
   }
 }
