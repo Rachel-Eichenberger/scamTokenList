@@ -52932,11 +52932,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x348e85136f78c44239889bB849303703A79e5142",
+      "symbol": "HALAL",
+      "name": "ElonMosque",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 66,
+    "minor": 67,
     "patch": 12
   }
 }
