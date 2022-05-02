@@ -52756,11 +52756,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x581065C6c6b8177DD1A14e117afDC72AF0415911",
+      "symbol": "ITACHI",
+      "name": "ITACHIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 50,
+    "minor": 51,
     "patch": 12
   }
 }
