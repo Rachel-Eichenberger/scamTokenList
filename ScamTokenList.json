@@ -52624,11 +52624,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb84E1733c5f1fA4708E4464afa4846eB08BfC325",
+      "symbol": "MEVPREDATOR",
+      "name": "MEVPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 38,
+    "minor": 39,
     "patch": 12
   }
 }
