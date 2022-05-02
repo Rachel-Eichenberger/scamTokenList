@@ -52899,11 +52899,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DB876CAbD91F90975dFD1304F8B2e18f8A97DE6",
+      "symbol": "WABISABI",
+      "name": "ElusiveBeautyofImpe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 63,
+    "minor": 64,
     "patch": 12
   }
 }
