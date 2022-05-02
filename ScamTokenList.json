@@ -52525,11 +52525,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x705dFfC358D3c832FbbA64D86849f187F1203EAB",
+      "symbol": "TWORSE",
+      "name": "TrendingWorse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 29,
+    "minor": 30,
     "patch": 12
   }
 }
