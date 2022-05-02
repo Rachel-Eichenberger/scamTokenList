@@ -52778,11 +52778,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E362283B86C1b45097CC3FB02213b79CF6211Df",
+      "symbol": "CATCOIN",
+      "name": "CATCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 52,
+    "minor": 53,
     "patch": 12
   }
 }
