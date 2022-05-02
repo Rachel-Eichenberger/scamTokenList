@@ -52679,11 +52679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7236de1B095dB6307a5c2f9F4e0c6482557c68f2",
+      "symbol": "APELLON",
+      "name": "Apellon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 43,
+    "minor": 44,
     "patch": 12
   }
 }
