@@ -52536,11 +52536,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69dc8B34C8f4be84F2e5417C254990b707de0AC2",
+      "symbol": "OTHERSIDE",
+      "name": "TheOthersideDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 30,
+    "minor": 31,
     "patch": 12
   }
 }
