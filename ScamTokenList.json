@@ -53031,11 +53031,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x446AC197BF58C0B1C50d4583840c3F12a2Fe73ab",
+      "symbol": "ABI",
+      "name": "AcidArabInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 75,
+    "minor": 76,
     "patch": 12
   }
 }
