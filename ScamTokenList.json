@@ -52492,11 +52492,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16d7189215753475161Dd68f88CCf84DB8A3Cf58",
+      "symbol": "ONI",
+      "name": "OnimaruInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 26,
+    "minor": 27,
     "patch": 12
   }
 }
