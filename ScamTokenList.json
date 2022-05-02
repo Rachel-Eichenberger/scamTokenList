@@ -52635,11 +52635,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec72C9289fF80415109614716C889D70fF505a8F",
+      "symbol": "NOTHING",
+      "name": "ProbablyNothing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 39,
+    "minor": 40,
     "patch": 12
   }
 }
