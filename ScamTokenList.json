@@ -52954,11 +52954,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8e284c8ED01316809d32dc9E3fc052cd259e62b",
+      "symbol": "SEREN",
+      "name": "SERENFINANCE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 68,
+    "minor": 69,
     "patch": 12
   }
 }
