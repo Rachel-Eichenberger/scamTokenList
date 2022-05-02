@@ -52734,11 +52734,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x553e64d785731Ca41bc6Cf0CfdF95D43ea48701f",
+      "symbol": "PEPPER",
+      "name": "SaltandPepper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 48,
+    "minor": 49,
     "patch": 12
   }
 }
