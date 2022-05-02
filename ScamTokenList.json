@@ -52646,11 +52646,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6B193e2C37f8CB40C3450a50127C6b8f5dE2fd3",
+      "symbol": "DALM",
+      "name": "DalmatianInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 40,
+    "minor": 41,
     "patch": 12
   }
 }
