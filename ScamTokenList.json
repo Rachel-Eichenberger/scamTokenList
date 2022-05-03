@@ -53482,11 +53482,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97176782e0326ae179BBE2adfE199EF47EEcB40A",
+      "symbol": "JOTARO",
+      "name": "JOTAROKUJU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 16,
+    "minor": 17,
     "patch": 15
   }
 }
