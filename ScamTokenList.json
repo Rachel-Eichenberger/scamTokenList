@@ -53130,11 +53130,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5573B41dF2b5DdF48B3e1BA2C8926F58c837CeA",
+      "symbol": "UPT",
+      "name": "USAPatriotToken",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 84,
+    "minor": 85,
     "patch": 12
   }
 }
