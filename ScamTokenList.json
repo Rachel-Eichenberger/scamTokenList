@@ -53295,11 +53295,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63510d3B8D8Cf0232A3f76315F70f4FAB5448042",
+      "symbol": "SKAN",
+      "name": "ShereKhan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 15,
-    "minor": 99,
-    "patch": 14
+    "major": 16,
+    "minor": 0,
+    "patch": 15
   }
 }
