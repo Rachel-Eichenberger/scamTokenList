@@ -53548,11 +53548,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC5eEAf6600152Ba3E9B479e6Ef9D26023BeC025",
+      "symbol": "PIGINJA",
+      "name": "Piginja",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 22,
+    "minor": 23,
     "patch": 15
   }
 }
