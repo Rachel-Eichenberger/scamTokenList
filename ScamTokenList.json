@@ -53306,11 +53306,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7ACdbf9537F67dfd3620ee3344Cf8295Dc6a2cC",
+      "symbol": "WOW",
+      "name": "WorldofWarcraft",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 0,
+    "minor": 1,
     "patch": 15
   }
 }
