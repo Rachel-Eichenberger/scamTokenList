@@ -53746,11 +53746,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a6420F0017e06CBC5fD6fF0b7195176E4a339C2",
+      "symbol": "RUFFLE",
+      "name": "RuffleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 40,
+    "minor": 41,
     "patch": 15
   }
 }
