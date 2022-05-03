@@ -53405,11 +53405,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fB5a65B2D9C34a8427Cf9588e3AaFDeB16F2775",
+      "symbol": "ENTROPY",
+      "name": "Disorder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 9,
+    "minor": 10,
     "patch": 15
   }
 }
