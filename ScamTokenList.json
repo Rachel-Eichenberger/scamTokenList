@@ -53262,11 +53262,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A7c7442EE0d61F5663BF6c7afCD35B7e2fC6e39",
+      "symbol": "OTHERSIDE",
+      "name": "Otherside",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 96,
+    "minor": 97,
     "patch": 14
   }
 }
