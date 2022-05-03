@@ -53174,11 +53174,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC55916B9758C1b3BDAb534f929686131E3Ca8cB6",
+      "symbol": "SPACEMAN",
+      "name": "TheSpacemanProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 88,
+    "minor": 89,
     "patch": 14
   }
 }
