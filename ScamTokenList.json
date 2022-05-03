@@ -53680,11 +53680,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1eCC4cE49DEefCc161B654C9f48a7a18e8aCC91C",
+      "symbol": "TOBBY",
+      "name": "TOBBY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 34,
+    "minor": 35,
     "patch": 15
   }
 }
