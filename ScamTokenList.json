@@ -53592,11 +53592,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2f8C522D2D22Bbcd393ceAB310c15bDe526222A",
+      "symbol": "SHIBROBBY",
+      "name": "ShibaandRobby",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 26,
+    "minor": 27,
     "patch": 15
   }
 }
