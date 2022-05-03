@@ -53691,11 +53691,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA66de9be00F2f49FD271E0e5658dC6d8538De591",
+      "symbol": "SPICY",
+      "name": "Spicy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 35,
+    "minor": 36,
     "patch": 15
   }
 }
