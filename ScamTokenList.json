@@ -53284,11 +53284,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x727128eA2d21270FBb9ce20f7Ee517Fb44079aa9",
+      "symbol": "DINA",
+      "name": "Dina",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 98,
+    "minor": 99,
     "patch": 14
   }
 }
