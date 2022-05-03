@@ -53735,11 +53735,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D251e38833766758c213711e5d5f7A9428A5093",
+      "symbol": "REI",
+      "name": "REINetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 39,
+    "minor": 40,
     "patch": 15
   }
 }
