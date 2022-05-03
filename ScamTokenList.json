@@ -53625,11 +53625,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfD4D61E16833c02B0f71f35457c7E544A8e9Ff03",
+      "symbol": "PHNIXP",
+      "name": "PhoenixProtector",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 29,
+    "minor": 30,
     "patch": 15
   }
 }
