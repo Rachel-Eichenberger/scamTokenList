@@ -53427,11 +53427,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dd7133492BFCE1b0dcBDA0dD6761bcDC9400768",
+      "symbol": "OSAKA",
+      "name": "OsakaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 11,
+    "minor": 12,
     "patch": 15
   }
 }
