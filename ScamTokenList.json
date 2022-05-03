@@ -53350,11 +53350,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x060F7d6693F86c6361ADbBa3828A382C931E0066",
+      "symbol": "DYSON",
+      "name": "DysonMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 4,
+    "minor": 5,
     "patch": 15
   }
 }
