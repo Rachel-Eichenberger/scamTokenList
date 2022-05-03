@@ -53570,11 +53570,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf1f651DE0c6CaC30BEbE961c68198D5b9C0394C",
+      "symbol": "TEACH",
+      "name": "TeacherInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 24,
+    "minor": 25,
     "patch": 15
   }
 }
