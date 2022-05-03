@@ -53669,11 +53669,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbcD486E86a85E3391aE9A099bB81DcCB1d4caB08",
+      "symbol": "RUFFLE",
+      "name": "RuffleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 33,
+    "minor": 34,
     "patch": 15
   }
 }
