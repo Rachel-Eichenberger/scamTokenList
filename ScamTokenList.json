@@ -53504,11 +53504,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF56489F77968dfc714400c742F26E50Fc839132c",
+      "symbol": "FEJOI",
+      "name": "FejoiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 18,
+    "minor": 19,
     "patch": 15
   }
 }
