@@ -53339,11 +53339,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb934cc8832Ea1AF8C02Ac888486624694443CB8e",
+      "symbol": "ALPHA",
+      "name": "ALPHAMUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 3,
+    "minor": 4,
     "patch": 15
   }
 }
