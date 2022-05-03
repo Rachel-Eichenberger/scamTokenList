@@ -53163,11 +53163,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8807920af9D23Ae66E30221293fB951C76DE4eB7",
+      "symbol": "SYM",
+      "name": "NAME",
+      "decimals": null,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 87,
+    "minor": 88,
     "patch": 13
   }
 }
