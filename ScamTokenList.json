@@ -53471,11 +53471,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x194343c04527D77b826ea77641a674Db21FC10DF",
+      "symbol": "SONY",
+      "name": "SonyPictures",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 15,
+    "minor": 16,
     "patch": 15
   }
 }
