@@ -53229,11 +53229,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a84337E0210c4ee1C0d77858DFa3D1Ab24054e5",
+      "symbol": "ESCAPE",
+      "name": "EscapeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 93,
+    "minor": 94,
     "patch": 14
   }
 }
