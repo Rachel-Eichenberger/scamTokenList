@@ -53372,11 +53372,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bf15196EF911Bb0152f969A10191b20Ae45973d",
+      "symbol": "AOC",
+      "name": "AttackOnChicken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 6,
+    "minor": 7,
     "patch": 15
   }
 }
