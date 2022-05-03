@@ -53658,11 +53658,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d6A0CEa86D95aa343ff842129Ae6e14b11C8729",
+      "symbol": "MOONDOKI",
+      "name": "MoonDokiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 32,
+    "minor": 33,
     "patch": 15
   }
 }
