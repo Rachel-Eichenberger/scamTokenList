@@ -53383,11 +53383,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18C5074cc41fA49EAbDA7cdc54B12c238fFc0c53",
+      "symbol": "EINU",
+      "name": "ElementInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 7,
+    "minor": 8,
     "patch": 15
   }
 }
