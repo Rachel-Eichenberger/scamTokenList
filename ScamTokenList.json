@@ -53167,9 +53167,9 @@
     {
       "chainId": 1,
       "address": "0x8807920af9D23Ae66E30221293fB951C76DE4eB7",
-      "symbol": "SYM",
-      "name": "NAME",
-      "decimals": null,
+      "symbol": "RKTNReferralTrade",
+      "name": "RKTNReferralTrade",
+      "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
       "tags": [
         "scam"
@@ -53179,6 +53179,6 @@
   "version": {
     "major": 15,
     "minor": 88,
-    "patch": 13
+    "patch": 14
   }
 }
