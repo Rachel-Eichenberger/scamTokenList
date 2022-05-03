@@ -53317,11 +53317,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e89ac7D9e4BC3594485Aa243e367c478726e306",
+      "symbol": "EGGY",
+      "name": "Eggplant",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 1,
+    "minor": 2,
     "patch": 15
   }
 }
