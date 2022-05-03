@@ -53086,11 +53086,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14B6604F5566B38ADB3E281038A93898a40882aA",
+      "symbol": "KOTO",
+      "name": "Kumamoto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 80,
+    "minor": 81,
     "patch": 12
   }
 }
