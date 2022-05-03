@@ -53185,11 +53185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea5F51e64Cc3cCA0a02c4fCaEc3D8d3AA9Bf05B9",
+      "symbol": "SPACEMAN",
+      "name": "TheSpacemanProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 89,
+    "minor": 90,
     "patch": 14
   }
 }
