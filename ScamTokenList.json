@@ -53328,11 +53328,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4a17aDfBeDA9Dc14B3A34039621f44D48cF042E",
+      "symbol": "AKIO",
+      "name": "AkioInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 2,
+    "minor": 3,
     "patch": 15
   }
 }
