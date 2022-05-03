@@ -53196,11 +53196,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB475Ec91f527C6d9C7f8270Faf310D35dF59B2a8",
+      "symbol": "GREENPICCOLO",
+      "name": "GREENPICCOLO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 90,
+    "minor": 91,
     "patch": 14
   }
 }
