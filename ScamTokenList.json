@@ -53273,11 +53273,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94a7dCBCb32e1Af926d3a826fFcdA5B3476125fC",
+      "symbol": "BULLINU",
+      "name": "PITBULLINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 97,
+    "minor": 98,
     "patch": 14
   }
 }
