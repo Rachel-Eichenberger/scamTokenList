@@ -53603,11 +53603,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x351B0fe6d84dBEfFbDc9d1da26C1c6CBd8c40DC8",
+      "symbol": "RAKUTEN",
+      "name": "RakutenMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 27,
+    "minor": 28,
     "patch": 15
   }
 }
