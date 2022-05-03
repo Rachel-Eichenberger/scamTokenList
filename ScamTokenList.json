@@ -53361,11 +53361,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4f43a733c326020B0E5bDc89F5204CF3CEE435d",
+      "symbol": "HELP",
+      "name": "HelpTheWorld",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 5,
+    "minor": 6,
     "patch": 15
   }
 }
