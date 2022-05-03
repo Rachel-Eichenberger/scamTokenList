@@ -53240,11 +53240,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B7e44900DF4b461209A876546f68122E003bfcb",
+      "symbol": "BEAUTY",
+      "name": "BeautyOfImperfectio",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 15,
-    "minor": 94,
+    "minor": 95,
     "patch": 14
   }
 }
