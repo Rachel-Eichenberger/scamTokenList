@@ -54120,11 +54120,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4AB55CF85E0b23Cb35957E74Be036e28d908c9B9",
+      "symbol": "ALIENKIBA",
+      "name": "AlienKiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 74,
+    "minor": 75,
     "patch": 15
   }
 }
