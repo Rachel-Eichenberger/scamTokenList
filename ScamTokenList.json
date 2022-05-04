@@ -53823,11 +53823,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2a4ac0A94e2F66DAeA02b22cEaeF8756ED07152",
+      "symbol": "BAYCED",
+      "name": "Otherside",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 47,
+    "minor": 48,
     "patch": 15
   }
 }
