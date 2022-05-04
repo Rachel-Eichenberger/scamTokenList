@@ -54461,11 +54461,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x749248eb4478aD2D13a9600e6E2B9CB765ecbFAC",
+      "symbol": "MOON",
+      "name": "Moonopoly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 5,
+    "minor": 6,
     "patch": 16
   }
 }
