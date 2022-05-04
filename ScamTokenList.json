@@ -54197,11 +54197,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13c15F39b818E803E8F070618072805962FB98BA",
+      "symbol": "LAS",
+      "name": "LemonApeStand",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 81,
+    "minor": 82,
     "patch": 15
   }
 }
