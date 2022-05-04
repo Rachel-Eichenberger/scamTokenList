@@ -54021,11 +54021,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf672e151b4e6B6497279B356a2F32F4B1B48D995",
+      "symbol": "BEYC",
+      "name": "BoredElonYachtClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 65,
+    "minor": 66,
     "patch": 15
   }
 }
