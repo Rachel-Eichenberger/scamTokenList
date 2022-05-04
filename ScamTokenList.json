@@ -53856,11 +53856,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x436Dc918DD320cEBe75e38B2918d042A53598190",
+      "symbol": "ZEUM",
+      "name": "Colizeum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 50,
+    "minor": 51,
     "patch": 15
   }
 }
