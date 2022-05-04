@@ -54362,11 +54362,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f0EC3e39E082130e538F72e28A607c24EAA1F41",
+      "symbol": "HATI",
+      "name": "HATI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 96,
+    "minor": 97,
     "patch": 15
   }
 }
