@@ -54527,11 +54527,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x750Cf458283398e263644af604B60b1CF59476da",
+      "symbol": "TETA",
+      "name": "TeTaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 11,
+    "minor": 12,
     "patch": 16
   }
 }
