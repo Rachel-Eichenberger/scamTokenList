@@ -54274,11 +54274,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x496E12FB4f6f4c9559dD7e836144855d76DE8656",
+      "symbol": "JOY",
+      "name": "Happiness",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 88,
+    "minor": 89,
     "patch": 15
   }
 }
