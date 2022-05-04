@@ -53933,11 +53933,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf0E83D50dee3DDdFe3C245Cfaa98506F2c83129",
+      "symbol": "TOEI",
+      "name": "ToeiAnimationMetave",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 57,
+    "minor": 58,
     "patch": 15
   }
 }
