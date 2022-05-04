@@ -54285,11 +54285,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe74d80441d9974f484555b003f9C51f67F4D082E",
+      "symbol": "THEPHANTOMMENACE",
+      "name": "I",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 89,
+    "minor": 90,
     "patch": 15
   }
 }
