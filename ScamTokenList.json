@@ -54186,11 +54186,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x449F330248Dbd0d8F94Fe17D09d7E3DeEe2F832A",
+      "symbol": "JERKBEZOS",
+      "name": "JerkBezos",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 80,
+    "minor": 81,
     "patch": 15
   }
 }
