@@ -54505,11 +54505,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1210EcCF68f6c0869C393Bdc4a0F882fDaC16830",
+      "symbol": "BOW",
+      "name": "TheHunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 9,
+    "minor": 10,
     "patch": 16
   }
 }
