@@ -54516,11 +54516,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x245a4a692A1AA9aCdA2559807Ac6fD8cBeF9Ff15",
+      "symbol": "TRCS",
+      "name": "TERCES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 10,
+    "minor": 11,
     "patch": 16
   }
 }
