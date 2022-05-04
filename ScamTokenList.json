@@ -54428,11 +54428,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9DB801b8459a965f567E5FcC1F03940063d2a43",
+      "symbol": "CONCLAVE",
+      "name": "TheConclave",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 2,
+    "minor": 3,
     "patch": 16
   }
 }
