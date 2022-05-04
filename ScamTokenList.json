@@ -53812,11 +53812,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE22bEeA0FBf2485C8fa56e28b300dA9937410B01",
+      "symbol": "BROGE",
+      "name": "Broge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 46,
+    "minor": 47,
     "patch": 15
   }
 }
