@@ -53955,11 +53955,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bfEb0cd09371E0EEC2acE911c320f472d095D87",
+      "symbol": "LV",
+      "name": "LouisVuittonMetaver",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 59,
+    "minor": 60,
     "patch": 15
   }
 }
