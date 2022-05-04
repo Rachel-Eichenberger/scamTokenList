@@ -54153,11 +54153,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc88649EB4a29E90C0f4E633c4cc1DBf4Ae860b12",
+      "symbol": "LAS",
+      "name": "LemonApeStand",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 77,
+    "minor": 78,
     "patch": 15
   }
 }
