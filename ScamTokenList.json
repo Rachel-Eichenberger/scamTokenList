@@ -54340,11 +54340,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF57C4b01D68DE46bDB20CbAF32b7D816b01acEe9",
+      "symbol": "BC",
+      "name": "BlockCredit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 94,
+    "minor": 95,
     "patch": 15
   }
 }
