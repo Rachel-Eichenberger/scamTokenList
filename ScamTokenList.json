@@ -53966,11 +53966,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x932420CcE20898fDf9Cb70C4aCe1F9654a7CDCBF",
+      "symbol": "LOWTAXINU",
+      "name": "LowTaxInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 60,
+    "minor": 61,
     "patch": 15
   }
 }
