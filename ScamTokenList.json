@@ -54032,11 +54032,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8513e3d30de7F1174d78D2a562426d8564d2626",
+      "symbol": "BAPEF",
+      "name": "BoredApeFungible",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 66,
+    "minor": 67,
     "patch": 15
   }
 }
