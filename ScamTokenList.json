@@ -53977,11 +53977,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e162A059aE8FA34375ff23F54036138D268d470",
+      "symbol": "SPWG",
+      "name": "SpeedWagon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 61,
+    "minor": 62,
     "patch": 15
   }
 }
