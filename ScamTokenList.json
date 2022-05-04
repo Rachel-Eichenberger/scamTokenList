@@ -53988,11 +53988,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD5B7ABeee6686525fd679CBF76CBaEFe8a5EF9e",
+      "symbol": "ETA",
+      "name": "ElonTheBoredApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 62,
+    "minor": 63,
     "patch": 15
   }
 }
