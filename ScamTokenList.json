@@ -54010,11 +54010,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5fe75F2195C3B3239E56F8E664dB4ceC2ac385c",
+      "symbol": "MNLTH",
+      "name": "RTFKTXNikeDunkNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 64,
+    "minor": 65,
     "patch": 15
   }
 }
