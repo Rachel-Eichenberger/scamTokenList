@@ -54329,11 +54329,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee4bc74b4C7d856931B337BC1a5022a8D99332eE",
+      "symbol": "PEPEBIRD",
+      "name": "AirborneFren",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 93,
+    "minor": 94,
     "patch": 15
   }
 }
