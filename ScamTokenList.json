@@ -54439,11 +54439,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x915E321f827328BFcb01Fd75770B11d2B79D7AdE",
+      "symbol": "FOELON",
+      "name": "FundingOrganization",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 3,
+    "minor": 4,
     "patch": 16
   }
 }
