@@ -54307,11 +54307,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c5e26c0794bbcdf3D22647b8527a44484Fd445C",
+      "symbol": "BJ",
+      "name": "BOREDJABBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 91,
+    "minor": 92,
     "patch": 15
   }
 }
