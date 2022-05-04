@@ -53999,11 +53999,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43CCe6651eDa6BD0bb80eb73f22664EA88C191F2",
+      "symbol": "OTHERSIDE",
+      "name": "OthersideBAYC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 63,
+    "minor": 64,
     "patch": 15
   }
 }
