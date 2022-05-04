@@ -53922,11 +53922,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20D31839aD1285D183F1de73193adc7653423BC8",
+      "symbol": "HOP",
+      "name": "HopProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 56,
+    "minor": 57,
     "patch": 15
   }
 }
