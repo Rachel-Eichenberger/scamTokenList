@@ -54373,11 +54373,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3b788A604149126A507FcEf908deBD706C7f51A",
+      "symbol": "SHIBVADER",
+      "name": "ShibVader",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 97,
+    "minor": 98,
     "patch": 15
   }
 }
