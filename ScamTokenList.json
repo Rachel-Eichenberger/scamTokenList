@@ -54054,11 +54054,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14C6526BdeB12a2C40c1C6C75EE46fc2aAD98F1b",
+      "symbol": "PXN",
+      "name": "PhantomNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 68,
+    "minor": 69,
     "patch": 15
   }
 }
