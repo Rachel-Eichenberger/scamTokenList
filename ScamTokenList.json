@@ -54142,11 +54142,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3151401C0184996745A754fEE7Cbb36665461C4a",
+      "symbol": "OCT",
+      "name": "OCTOFIAPP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 76,
+    "minor": 77,
     "patch": 15
   }
 }
