@@ -53779,11 +53779,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb361D97168315d66514855006799D2065E28035f",
+      "symbol": "WOM",
+      "name": "WiseOldMan",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 43,
+    "minor": 44,
     "patch": 15
   }
 }
