@@ -54450,11 +54450,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3584db97CeE65671354aa7b89c388b567C94Ff7D",
+      "symbol": "FEUDALISM",
+      "name": "TheMiddleAges",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 4,
+    "minor": 5,
     "patch": 16
   }
 }
