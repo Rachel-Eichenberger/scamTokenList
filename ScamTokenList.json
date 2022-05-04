@@ -54043,11 +54043,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CFdc41DF377546b47A336bd848B1EAFfE353048",
+      "symbol": "BORELON",
+      "name": "ElonsApeClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 67,
+    "minor": 68,
     "patch": 15
   }
 }
