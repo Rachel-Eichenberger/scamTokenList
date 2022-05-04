@@ -54087,11 +54087,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x310C8F00b9dE3c31Ab95ea68feb6C877538f7947",
+      "symbol": "UNDEAD",
+      "name": "UndeadBlocks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 71,
+    "minor": 72,
     "patch": 15
   }
 }
