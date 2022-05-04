@@ -54109,11 +54109,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD64f6B6E2c4fFe4Ce4250b8c4EB3c0D20a309617",
+      "symbol": "HUSH",
+      "name": "DoontAsk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 73,
+    "minor": 74,
     "patch": 15
   }
 }
