@@ -54296,11 +54296,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f457A5B61586c151fB710acEbeF617d68a4CCDe",
+      "symbol": "DOKI",
+      "name": "DoKiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 90,
+    "minor": 91,
     "patch": 15
   }
 }
