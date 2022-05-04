@@ -54230,11 +54230,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FA4b00574496149899dB9a04039E939A6841Aa6",
+      "symbol": "NESTINU",
+      "name": "NestInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 84,
+    "minor": 85,
     "patch": 15
   }
 }
