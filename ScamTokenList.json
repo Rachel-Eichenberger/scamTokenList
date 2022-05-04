@@ -54351,11 +54351,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1B11f13247C4A7712fEC34aA4Ab29a16dA606D1",
+      "symbol": "DCI",
+      "name": "DaveChappelleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 95,
+    "minor": 96,
     "patch": 15
   }
 }
