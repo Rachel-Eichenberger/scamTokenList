@@ -53801,11 +53801,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAf5eD2e938E6C9b4f4D89A6E77347c32dC5b4312",
+      "symbol": "ARA",
+      "name": "Aragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 45,
+    "minor": 46,
     "patch": 15
   }
 }
