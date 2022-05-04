@@ -54241,11 +54241,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC383AD552605daeED6c580d500e686c604871258",
+      "symbol": "REY",
+      "name": "Rey",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 85,
+    "minor": 86,
     "patch": 15
   }
 }
