@@ -53845,11 +53845,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45Dc8EfD51b19a257D24d3925a2A47c1159173F1",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 49,
+    "minor": 50,
     "patch": 15
   }
 }
