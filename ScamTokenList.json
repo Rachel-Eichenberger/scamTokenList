@@ -54263,11 +54263,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaF1b708C5e19839eDFDff457b00B90AcEc4cdb6",
+      "symbol": "BLUEWING",
+      "name": "BlueWing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 87,
+    "minor": 88,
     "patch": 15
   }
 }
