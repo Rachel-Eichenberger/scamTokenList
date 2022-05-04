@@ -54131,11 +54131,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5d7D97e77B87134795dEB413a2f0325727a3f16",
+      "symbol": "BUTLERINU",
+      "name": "BUTLERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 75,
+    "minor": 76,
     "patch": 15
   }
 }
