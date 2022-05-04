@@ -54483,11 +54483,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7EcEF31BdC8da196729F9Ef39a06131C2246c39f",
+      "symbol": "ATTACKOFTHECLONES",
+      "name": "II",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 7,
+    "minor": 8,
     "patch": 16
   }
 }
