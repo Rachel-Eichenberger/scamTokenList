@@ -53889,11 +53889,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA6810AE6736e3F631C88d8e5BE99cca4aF8408a3",
+      "symbol": "BIKEN",
+      "name": "BIKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 53,
+    "minor": 54,
     "patch": 15
   }
 }
