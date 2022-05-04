@@ -54219,11 +54219,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8EA252A1d89967e4F0C54e603eea93777cFcB5E4",
+      "symbol": "SBINU",
+      "name": "SnowballInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 83,
+    "minor": 84,
     "patch": 15
   }
 }
