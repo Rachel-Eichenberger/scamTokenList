@@ -54175,11 +54175,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37BA9a30E1b2969495627D540eD20d7743cb1752",
+      "symbol": "COCACOLA",
+      "name": "CocaColaMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 16,
-    "minor": 79,
+    "minor": 80,
     "patch": 15
   }
 }
