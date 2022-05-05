@@ -55132,11 +55132,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB02382d20722885E69fe48ac679b5833998E5A35",
+      "symbol": "COMPACT",
+      "name": "CMPT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 66,
+    "minor": 67,
     "patch": 16
   }
 }
