@@ -54615,11 +54615,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFcc2445C190e47DeAb2419Fea200aCbD11cCb17E",
+      "symbol": "ZEN",
+      "name": "SearchforTheBull",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 19,
+    "minor": 20,
     "patch": 16
   }
 }
