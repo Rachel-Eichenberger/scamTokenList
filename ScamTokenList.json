@@ -54681,11 +54681,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72c5192e420B604af118F891c1057836B39291a4",
+      "symbol": "PLY",
+      "name": "Aurigami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 25,
+    "minor": 26,
     "patch": 16
   }
 }
