@@ -55011,11 +55011,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec1Ad19142d0581c45D193d20De7Dea17575bCE6",
+      "symbol": "TORO",
+      "name": "ToroInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 55,
+    "minor": 56,
     "patch": 16
   }
 }
