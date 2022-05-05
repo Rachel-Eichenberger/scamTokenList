@@ -54868,11 +54868,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x621Af5A2D770451e5B0AEe6d33bD2b3C62f98E44",
+      "symbol": "DRUGSNEY",
+      "name": "Drugsneyland",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 42,
+    "minor": 43,
     "patch": 16
   }
 }
