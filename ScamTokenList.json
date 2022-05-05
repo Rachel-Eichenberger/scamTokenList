@@ -54890,11 +54890,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F7301869558f31F03b13B00ff31006d800e8B29",
+      "symbol": "SATOSHISAMURAI",
+      "name": "SatoshiSamurai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 44,
+    "minor": 45,
     "patch": 16
   }
 }
