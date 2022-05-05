@@ -54670,11 +54670,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x667694E1Ad3d361b95FC72868713d771e2729BC2",
+      "symbol": "BANKX",
+      "name": "BANKOFX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 24,
+    "minor": 25,
     "patch": 16
   }
 }
