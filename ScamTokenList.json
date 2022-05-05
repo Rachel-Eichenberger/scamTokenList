@@ -54736,11 +54736,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF150eC99E2f53672Fd2fCD12b47797024F4A1902",
+      "symbol": "LASM",
+      "name": "LasMeta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 30,
+    "minor": 31,
     "patch": 16
   }
 }
