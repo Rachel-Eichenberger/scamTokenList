@@ -54846,11 +54846,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEF3Fc835BFAE5F2063769A7c0d272060F765d3e3",
+      "symbol": "CT",
+      "name": "CryptoTweet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 40,
+    "minor": 41,
     "patch": 16
   }
 }
