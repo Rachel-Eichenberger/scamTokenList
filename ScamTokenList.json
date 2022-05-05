@@ -54747,11 +54747,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3e5aA553eD20E7A26C12A4508B4b2f370bDBE02",
+      "symbol": "SHIG",
+      "name": "ShigeruINUNewTokyoI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 31,
+    "minor": 32,
     "patch": 16
   }
 }
