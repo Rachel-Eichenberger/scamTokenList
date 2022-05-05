@@ -54879,11 +54879,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01625Ace051B88Fb8DcB3847406fBe99AfA1c962",
+      "symbol": "SHIBELLA",
+      "name": "ShibellaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 43,
+    "minor": 44,
     "patch": 16
   }
 }
