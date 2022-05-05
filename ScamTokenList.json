@@ -54956,11 +54956,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67096837E7b5d0116C166b674dc5A0c4C7c8e9a0",
+      "symbol": "VOLTZ",
+      "name": "Voltnobi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 50,
+    "minor": 51,
     "patch": 16
   }
 }
