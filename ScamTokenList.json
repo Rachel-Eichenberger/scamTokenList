@@ -54857,11 +54857,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1b70b9e00e83C61F300bC0af173c54b08802A1B",
+      "symbol": "SHIBARITA",
+      "name": "Shibarita",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 41,
+    "minor": 42,
     "patch": 16
   }
 }
