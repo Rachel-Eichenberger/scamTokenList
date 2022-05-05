@@ -54989,11 +54989,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51DaA052d3449EB5d6A69F00DdBc2523eE7b1A3C",
+      "symbol": "NIKE",
+      "name": "NikeMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 53,
+    "minor": 54,
     "patch": 16
   }
 }
