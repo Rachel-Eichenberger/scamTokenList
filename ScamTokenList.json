@@ -54637,11 +54637,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFd6f6203041A07D698EB04469CDF77eeF3928A5c",
+      "symbol": "FORCE",
+      "name": "MAYFORCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 21,
+    "minor": 22,
     "patch": 16
   }
 }
