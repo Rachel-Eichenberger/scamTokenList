@@ -54791,11 +54791,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Bfb5c0D245C069441d52F2E8484B2E35b4DEDE2",
+      "symbol": "SCIENCE",
+      "name": "TheScienceDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 35,
+    "minor": 36,
     "patch": 16
   }
 }
