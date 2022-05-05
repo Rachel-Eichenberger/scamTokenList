@@ -54626,11 +54626,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x762b5Fc230D1aD94269D4AE42865554328876f7A",
+      "symbol": "DISNEY",
+      "name": "WaltDisneyMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 20,
+    "minor": 21,
     "patch": 16
   }
 }
