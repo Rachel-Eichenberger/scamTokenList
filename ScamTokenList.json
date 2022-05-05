@@ -55033,11 +55033,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D19182B90d28C24958Ca950Dc95E784b990729F",
+      "symbol": "DOGGERINU",
+      "name": "DoggerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 57,
+    "minor": 58,
     "patch": 16
   }
 }
