@@ -54725,11 +54725,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba6f9A41f6f4f592453B527d779a2390E94FC8B5",
+      "symbol": "QINSHI",
+      "name": "FirstEmperor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 29,
+    "minor": 30,
     "patch": 16
   }
 }
