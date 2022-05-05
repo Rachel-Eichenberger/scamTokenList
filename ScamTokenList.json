@@ -54571,11 +54571,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE47FA58574344aA227Ab1753ac4B0F0F7C58329",
+      "symbol": "MAYTHE4THBEWITHYOU",
+      "name": "MayThe4thBeWithYou",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 15,
+    "minor": 16,
     "patch": 16
   }
 }
