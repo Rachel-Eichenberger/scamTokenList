@@ -54648,11 +54648,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4aD559D431A1b1bC8d0A795a0aC3444ae45655a",
+      "symbol": "CHUNK",
+      "name": "ChunkNorrisCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 22,
+    "minor": 23,
     "patch": 16
   }
 }
