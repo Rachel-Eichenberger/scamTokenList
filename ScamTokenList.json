@@ -54912,11 +54912,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5dDd43AB7267598306bB5DeA82f90d6624949d45",
+      "symbol": "KINA",
+      "name": "KinaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 46,
+    "minor": 47,
     "patch": 16
   }
 }
