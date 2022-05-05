@@ -54967,11 +54967,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8dE0566755F8297764226C0d9270fc5Ae18E3f58",
+      "symbol": "BIKEBIT",
+      "name": "BikeBit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 51,
+    "minor": 52,
     "patch": 16
   }
 }
