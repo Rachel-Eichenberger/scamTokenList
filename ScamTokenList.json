@@ -55099,11 +55099,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74B2C233a2b148f21D370bc05598F57DeBfc3Bc6",
+      "symbol": "ALFA",
+      "name": "ALFAProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 63,
+    "minor": 64,
     "patch": 16
   }
 }
