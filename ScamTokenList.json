@@ -54659,11 +54659,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DF4C8148B224d70897ee3E23434dB0d9fF734B7",
+      "symbol": "MUSKCOIN",
+      "name": "MUSKCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 23,
+    "minor": 24,
     "patch": 16
   }
 }
