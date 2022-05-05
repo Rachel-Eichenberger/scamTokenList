@@ -55044,11 +55044,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF242341b7e29B2812cc1Ae890BCd72048377204B",
+      "symbol": "KANGO",
+      "name": "KANGO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 58,
+    "minor": 59,
     "patch": 16
   }
 }
