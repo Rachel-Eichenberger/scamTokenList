@@ -55066,11 +55066,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc61604648F0F9E3C2f8f77968034B2E90Bd27091",
+      "symbol": "BLOOD",
+      "name": "Bloodshed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 60,
+    "minor": 61,
     "patch": 16
   }
 }
