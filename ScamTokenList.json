@@ -55088,11 +55088,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcC15C7A523f77C29D558031a4F4c075e10E7A727",
+      "symbol": "ROSHI",
+      "name": "TheMonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 62,
+    "minor": 63,
     "patch": 16
   }
 }
