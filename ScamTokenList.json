@@ -54945,11 +54945,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xECf05037430EE2f7601472EC769423010E636C7C",
+      "symbol": "SCIENCEDAO",
+      "name": "SCIENCEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 49,
+    "minor": 50,
     "patch": 16
   }
 }
