@@ -54780,11 +54780,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x956dA23A16b5a197fC326A37F83CD5C8b5C23B96",
+      "symbol": "HOWLINU",
+      "name": "HowlInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 34,
+    "minor": 35,
     "patch": 16
   }
 }
