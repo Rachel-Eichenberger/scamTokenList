@@ -54813,11 +54813,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01649f91895a6f6Ac8BF5b439FD61Cb8c02cBA7E",
+      "symbol": "CZMUSK",
+      "name": "CZMUSK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 37,
+    "minor": 38,
     "patch": 16
   }
 }
