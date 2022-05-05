@@ -54934,11 +54934,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4690CD1Aae2144bA52a0b21C479C85b1f9ceE863",
+      "symbol": "VIS",
+      "name": "Envision",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 48,
+    "minor": 49,
     "patch": 16
   }
 }
