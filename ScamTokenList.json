@@ -54692,11 +54692,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ad1462eb7A773066533847b0278f0A834f6fad5",
+      "symbol": "VOLTNOBI",
+      "name": "Voltnobi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 26,
+    "minor": 27,
     "patch": 16
   }
 }
