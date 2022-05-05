@@ -54582,11 +54582,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb23d30f148907F1bDb96eAa5FF3E0C64Fd870582",
+      "symbol": "RIBO",
+      "name": "RiboDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 16,
+    "minor": 17,
     "patch": 16
   }
 }
