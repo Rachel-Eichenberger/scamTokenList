@@ -55242,11 +55242,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78da7ee64f8f8e2A241050a7709BA1D68B818069",
+      "symbol": "TNT",
+      "name": "TheTheory",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 76,
+    "minor": 77,
     "patch": 16
   }
 }
