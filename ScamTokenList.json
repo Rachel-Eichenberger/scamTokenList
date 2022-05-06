@@ -55880,11 +55880,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x242793C414DA9819a18C63EA61794b8FD79f19c7",
+      "symbol": "RETREAT",
+      "name": "RETREAT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 34,
+    "minor": 35,
     "patch": 17
   }
 }
