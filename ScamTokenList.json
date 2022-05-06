@@ -55286,11 +55286,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8fbf3E36106C28310C1252938aF3670f3F0c3C98",
+      "symbol": "GUCCI",
+      "name": "GucciShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 80,
+    "minor": 81,
     "patch": 16
   }
 }
