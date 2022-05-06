@@ -55891,11 +55891,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bbca43de63019b9D87e21B572B2dB8ADE7692d8",
+      "symbol": "KENO",
+      "name": "NFTicketfinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 35,
+    "minor": 36,
     "patch": 17
   }
 }
