@@ -55792,11 +55792,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A93f3cD3811F139d435F2DB297c59b412853080",
+      "symbol": "SHINYODA",
+      "name": "ShinYoda",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 26,
+    "minor": 27,
     "patch": 17
   }
 }
