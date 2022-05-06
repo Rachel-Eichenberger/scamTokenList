@@ -55935,11 +55935,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x885931883E8bBFaB31b0202c284533908266805a",
+      "symbol": "MTM",
+      "name": "MissionToMars",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 39,
+    "minor": 40,
     "patch": 17
   }
 }
