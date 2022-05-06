@@ -55583,11 +55583,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ad276567E579EF5FFAc8549C6Ac8b0E984BE053",
+      "symbol": "APEJNR",
+      "name": "APEJUNIOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 7,
+    "minor": 8,
     "patch": 17
   }
 }
