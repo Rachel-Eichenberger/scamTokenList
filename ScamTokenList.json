@@ -55781,11 +55781,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c38E9109D13148D258dAA58484Bb3a9bbe3EA15",
+      "symbol": "PLANETAPE",
+      "name": "RED PLANET APE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 25,
+    "minor": 26,
     "patch": 17
   }
 }
