@@ -55759,11 +55759,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC22cb80C6f173E1fa196b18F77A8e7B513e853d9",
+      "symbol": "MULTI",
+      "name": "Multiplicatooor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 23,
+    "minor": 24,
     "patch": 17
   }
 }
