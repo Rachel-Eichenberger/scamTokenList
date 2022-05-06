@@ -55363,11 +55363,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88F87fb40DFbe55dE18e3440f989670F9b1062f5",
+      "symbol": "BRINU",
+      "name": "BoilerRoomInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 87,
+    "minor": 88,
     "patch": 16
   }
 }
