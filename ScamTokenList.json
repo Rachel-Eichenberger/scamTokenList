@@ -55374,11 +55374,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D63D968C3573b96C0cB88B72049A83DD9702b6D",
+      "symbol": "UKRAINE",
+      "name": "Ukraine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 88,
+    "minor": 89,
     "patch": 16
   }
 }
