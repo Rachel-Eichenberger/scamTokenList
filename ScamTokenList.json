@@ -55440,11 +55440,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1038D8603AB9e2a56A8740dAb06772207119c6a",
+      "symbol": "DEP",
+      "name": "Depth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 94,
+    "minor": 95,
     "patch": 16
   }
 }
