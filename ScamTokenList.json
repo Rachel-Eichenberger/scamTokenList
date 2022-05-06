@@ -55484,11 +55484,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF513a4557CD941E8769484322AFbb86A4A9b4CaD",
+      "symbol": "REVOLUTIONINU",
+      "name": "RevolutionUnityInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 98,
+    "minor": 99,
     "patch": 16
   }
 }
