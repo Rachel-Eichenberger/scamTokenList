@@ -55407,11 +55407,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7a7De362179108E26E464a39B204a9561B352cf",
+      "symbol": "GFINU",
+      "name": "GoFundMeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 91,
+    "minor": 92,
     "patch": 16
   }
 }
