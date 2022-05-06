@@ -55869,11 +55869,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00D6B247b609BE1E9b755464fAF7DDD672D834D4",
+      "symbol": "DESTINY",
+      "name": "Destiny",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 33,
+    "minor": 34,
     "patch": 17
   }
 }
