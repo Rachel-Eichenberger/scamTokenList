@@ -55176,11 +55176,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6722996898c94C123628A983e47b516709d40982",
+      "symbol": "RETWEE",
+      "name": "reTweelon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 70,
+    "minor": 71,
     "patch": 16
   }
 }
