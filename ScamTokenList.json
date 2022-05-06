@@ -55737,11 +55737,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3b8E013c6c6A3DA8a25DB8c200C96aD67E7dc65",
+      "symbol": "APENOBI",
+      "name": "ApeNobi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 21,
+    "minor": 22,
     "patch": 17
   }
 }
