@@ -55275,11 +55275,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D31E413bA7A19b8cD31aA472938Cb34343F0fbC",
+      "symbol": "YUMEKO",
+      "name": "Yumeko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 79,
+    "minor": 80,
     "patch": 16
   }
 }
