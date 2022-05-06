@@ -55462,11 +55462,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc03FD662F166b3736fa4765761d9ADAA12142e01",
+      "symbol": "RAVERINU",
+      "name": "RaverInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 96,
+    "minor": 97,
     "patch": 16
   }
 }
