@@ -55924,11 +55924,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B6c74D5Cf95d208DAb0B5dD2bb1CABFF39f5ee7",
+      "symbol": "SPORTINGBET",
+      "name": "SportingbetMetavers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 38,
+    "minor": 39,
     "patch": 17
   }
 }
