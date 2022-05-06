@@ -55594,11 +55594,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Fb615eA238c49b4c0Db1993a5564928Afa427c4",
+      "symbol": "MutantDog",
+      "name": "MutantDog",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 8,
+    "minor": 9,
     "patch": 17
   }
 }
