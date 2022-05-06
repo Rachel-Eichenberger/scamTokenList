@@ -55330,11 +55330,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43450a30673d867Aed491A9E0FA9BE99e7B97cBc",
+      "symbol": "SHIBCAT",
+      "name": "ShibaCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 84,
+    "minor": 85,
     "patch": 16
   }
 }
