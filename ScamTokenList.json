@@ -55638,11 +55638,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f1AEFD7BD17DA9eBBf2722a1047efc04A1197C5",
+      "symbol": "YODAMUSK",
+      "name": "YodaMusk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 12,
+    "minor": 13,
     "patch": 17
   }
 }
