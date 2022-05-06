@@ -55561,11 +55561,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE14Dd33A1E0F4a317DFea64cD402F2ebAb4e95D",
+      "symbol": "SAPE",
+      "name": "SUPER SPACE APE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 5,
+    "minor": 6,
     "patch": 17
   }
 }
