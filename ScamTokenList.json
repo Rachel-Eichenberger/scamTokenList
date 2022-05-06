@@ -55748,11 +55748,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x229E3Ea9511035a4204Dc4F4d0e07486D1f4d4b1",
+      "symbol": "NATOKONG",
+      "name": "NATO KONG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 22,
+    "minor": 23,
     "patch": 17
   }
 }
