@@ -55726,11 +55726,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4c468bD7d889F34538368048fc0EAF9145ab1bc",
+      "symbol": "WEKAN",
+      "name": "WE KAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 20,
+    "minor": 21,
     "patch": 17
   }
 }
