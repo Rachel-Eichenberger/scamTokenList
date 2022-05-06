@@ -55429,11 +55429,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEBd4d0De09b3B0D3f955eDE6f7769973F2749A63",
+      "symbol": "BIRDIE",
+      "name": "BIRDIE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 93,
+    "minor": 94,
     "patch": 16
   }
 }
