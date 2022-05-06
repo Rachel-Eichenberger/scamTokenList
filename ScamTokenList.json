@@ -55352,11 +55352,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x203dC38c94f26256D8F298079B5bcCc1e360874C",
+      "symbol": "GHIBLI",
+      "name": "GhibliMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 86,
+    "minor": 87,
     "patch": 16
   }
 }
