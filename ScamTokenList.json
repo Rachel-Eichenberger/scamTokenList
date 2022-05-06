@@ -55341,11 +55341,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x076e86F9F61b4f5C374b114D0d8ecb85481e6956",
+      "symbol": "LEGO",
+      "name": "LEGOcom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 85,
+    "minor": 86,
     "patch": 16
   }
 }
