@@ -55396,11 +55396,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bc8baA2232e8Cf4A86Afe22376B6fdF5EB6d19c",
+      "symbol": "HOP",
+      "name": "HopDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 90,
+    "minor": 91,
     "patch": 16
   }
 }
