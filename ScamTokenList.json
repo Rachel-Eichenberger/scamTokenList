@@ -55187,11 +55187,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x559944CA1Dd09D5E90Bc32E1847225166f89cdcF",
+      "symbol": "PAJTA",
+      "name": "PAJEETA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 71,
+    "minor": 72,
     "patch": 16
   }
 }
