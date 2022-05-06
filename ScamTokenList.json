@@ -55418,11 +55418,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3aDfbc35DeF7ccB96272E42a534C8234f2B6A1C0",
+      "symbol": "HM",
+      "name": "HoneyMOON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 92,
+    "minor": 93,
     "patch": 16
   }
 }
