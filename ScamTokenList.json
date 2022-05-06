@@ -55495,11 +55495,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7658CDC9Cfe85808CD4454adDF223C0586f85601",
+      "symbol": "SSE",
+      "name": "ShinsamaERC20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 18,
-    "minor": 99,
-    "patch": 16
+    "major": 19,
+    "minor": 0,
+    "patch": 17
   }
 }
