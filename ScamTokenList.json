@@ -55539,11 +55539,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x694aeb98D02bf69a20a1bA754F07acfA2F4D8f9E",
+      "symbol": "PUNKS",
+      "name": "CryptoPunks Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 3,
+    "minor": 4,
     "patch": 17
   }
 }
