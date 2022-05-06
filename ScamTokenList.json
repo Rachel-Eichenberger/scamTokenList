@@ -55297,11 +55297,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c3f5F346c7A9AA3Ae90d988FC97D6CFcA0F6d28",
+      "symbol": "CHAD",
+      "name": "jeetsoutchadsin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 18,
-    "minor": 81,
+    "minor": 82,
     "patch": 16
   }
 }
