@@ -55572,11 +55572,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda91d23Bc2a4c2786353d25ecE5f066aBf4Fc978",
+      "symbol": "DMP",
+      "name": "Dogelon Mars Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 6,
+    "minor": 7,
     "patch": 17
   }
 }
