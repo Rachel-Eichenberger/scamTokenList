@@ -55847,11 +55847,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb39ca6d34bA6a29609c6e535748C6C5F6743520",
+      "symbol": "BLACKBIRD",
+      "name": "ByeBye",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 31,
+    "minor": 32,
     "patch": 17
   }
 }
