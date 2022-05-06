@@ -55660,11 +55660,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1498f0eABd11fbE63CE0AC041114180DE07216fa",
+      "symbol": "ZIZO",
+      "name": "ZIZOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 14,
+    "minor": 15,
     "patch": 17
   }
 }
