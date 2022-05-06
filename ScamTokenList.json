@@ -55264,11 +55264,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54f3060DcF103d0519EcB32B8960D8Aeaa8CEE5C",
+      "symbol": "MEME",
+      "name": "MemeDeathRace",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 78,
+    "minor": 79,
     "patch": 16
   }
 }
