@@ -55528,11 +55528,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7F9B1d1252A603D9fCd9ea77ba372828Fc79A8B",
+      "symbol": "TESLAPE",
+      "name": "Teslape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 2,
+    "minor": 3,
     "patch": 17
   }
 }
