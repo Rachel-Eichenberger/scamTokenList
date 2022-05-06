@@ -55671,11 +55671,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAf4cB94513B7Fa05929f9380C5aF146D7F95F63f",
+      "symbol": "SAI",
+      "name": "SafeApeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 15,
+    "minor": 16,
     "patch": 17
   }
 }
