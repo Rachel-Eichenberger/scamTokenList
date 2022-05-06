@@ -55605,11 +55605,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E9F75FF921edF63C83A4F5d8DD5A1Bc26C1C457",
+      "symbol": "Falcon",
+      "name": "Falcon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 9,
+    "minor": 10,
     "patch": 17
   }
 }
