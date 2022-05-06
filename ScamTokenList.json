@@ -55627,11 +55627,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46f495269D6A415C2DeE3b3d64a615dC2e1F852A",
+      "symbol": "MBS",
+      "name": "MoonBoySociety",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 11,
+    "minor": 12,
     "patch": 17
   }
 }
