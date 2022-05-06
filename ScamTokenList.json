@@ -55198,11 +55198,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6718710B1C5AD52f87806ec9775054627B41d2A1",
+      "symbol": "METAXDAO",
+      "name": "METAXDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 72,
+    "minor": 73,
     "patch": 16
   }
 }
