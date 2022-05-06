@@ -55231,11 +55231,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A52F6D174868E77a16c779D5326B4536A35f0F5",
+      "symbol": "MULTIVERSE",
+      "name": "DoctorStrangeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 75,
+    "minor": 76,
     "patch": 16
   }
 }
