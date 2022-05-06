@@ -55682,11 +55682,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4FCc278e5E603F61353c20BC52ed1F74cEfe490",
+      "symbol": "OOZARUKONG",
+      "name": "OOZARUKONG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 16,
+    "minor": 17,
     "patch": 17
   }
 }
