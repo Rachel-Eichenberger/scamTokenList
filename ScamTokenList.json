@@ -55517,11 +55517,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x074545177A36aB81AAc783211F25E14F1ED03C2B",
+      "symbol": "Titter",
+      "name": "Titter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 1,
+    "minor": 2,
     "patch": 17
   }
 }
