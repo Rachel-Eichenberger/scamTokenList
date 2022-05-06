@@ -55616,11 +55616,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c1bF2843f5Fad467d4DF8628DD2aCc4bEd6C859",
+      "symbol": "PVIKING",
+      "name": "PIRATE VIKING INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 10,
+    "minor": 11,
     "patch": 17
   }
 }
