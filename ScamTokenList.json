@@ -55209,11 +55209,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb859e8C0ed560fb2f24eD1B4c95883409B50F46b",
+      "symbol": "APEZE",
+      "name": "ApepanzeeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon-png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 17,
-    "minor": 73,
+    "minor": 74,
     "patch": 16
   }
 }
