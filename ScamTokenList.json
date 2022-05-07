@@ -56254,11 +56254,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE277539C33918a4345fc256fE28F3CA167cDa0c",
+      "symbol": "OSIRIS",
+      "name": "OSIRISTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 68,
+    "minor": 69,
     "patch": 17
   }
 }
