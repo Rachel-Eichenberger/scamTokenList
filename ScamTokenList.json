@@ -55957,11 +55957,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef75734D8eb4d3d8e062AE2726C36124c532C899",
+      "symbol": "HORUS",
+      "name": "HORUSTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 41,
+    "minor": 42,
     "patch": 17
   }
 }
