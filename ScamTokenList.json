@@ -56166,11 +56166,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5CaD326B165657d87e8e4C091F2bCad9b1CA67cA",
+      "symbol": "STARDAO",
+      "name": "StarDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 60,
+    "minor": 61,
     "patch": 17
   }
 }
