@@ -56199,11 +56199,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78be64997A606b0d8D9408EF1bB9E13C7A3B42c9",
+      "symbol": "SPACESHIBA",
+      "name": "SpaceShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 63,
+    "minor": 64,
     "patch": 17
   }
 }
