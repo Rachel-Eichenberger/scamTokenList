@@ -56221,11 +56221,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B9C200246bF41786b47AE037D6300e116E26353",
+      "symbol": "XAPE",
+      "name": "ExtraApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 65,
+    "minor": 66,
     "patch": 17
   }
 }
