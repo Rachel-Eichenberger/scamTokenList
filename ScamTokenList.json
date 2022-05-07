@@ -56023,11 +56023,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc91f0896F9dE8a492bc416Ff883490626624A77D",
+      "symbol": "FTC",
+      "name": "ForTheCulture",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 47,
+    "minor": 48,
     "patch": 17
   }
 }
