@@ -55990,11 +55990,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24b24e6d8767DF0971a7da4a17C4aB5F17827831",
+      "symbol": "APECULT",
+      "name": "ApeCultInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 44,
+    "minor": 45,
     "patch": 17
   }
 }
