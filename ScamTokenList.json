@@ -56089,11 +56089,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0DfA26Ef1C7C64F9b80f69cf2327b6e7EB1128e1",
+      "symbol": "TIFFANY",
+      "name": "TiffanyMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 53,
+    "minor": 54,
     "patch": 17
   }
 }
