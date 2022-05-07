@@ -56309,11 +56309,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBB574B911DBA113AFcD89144Bb34b1BA94bD375d",
+      "symbol": "TRUMP",
+      "name": "Notorious",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 73,
+    "minor": 74,
     "patch": 17
   }
 }
