@@ -56177,11 +56177,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF670520fF7DCA4053da2CA01f9ACc2f4850172dB",
+      "symbol": "LVMH",
+      "name": "LVMHMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 61,
+    "minor": 62,
     "patch": 17
   }
 }
