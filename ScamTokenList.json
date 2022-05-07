@@ -56386,11 +56386,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF261b4faB6e1A7Ba93A7E2B6Bf6a6f28f1699f04",
+      "symbol": "MANGO",
+      "name": "ManGo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 80,
+    "minor": 81,
     "patch": 17
   }
 }
