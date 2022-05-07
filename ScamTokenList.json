@@ -56243,11 +56243,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3eF9233569908CA38ce33D48E2DCaB3C59e5b715",
+      "symbol": "HMD",
+      "name": "HappyMothersDay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 67,
+    "minor": 68,
     "patch": 17
   }
 }
