@@ -56265,11 +56265,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5D6798AE904652B2b71B67E2c1deeE8Af411918",
+      "symbol": "O2",
+      "name": "O2DEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 69,
+    "minor": 70,
     "patch": 17
   }
 }
