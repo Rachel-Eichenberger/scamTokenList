@@ -56331,11 +56331,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd26289E7DC2b434ae96473d7D21cB66931BF8e29",
+      "symbol": "PXPRO",
+      "name": "PXPRO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 75,
+    "minor": 76,
     "patch": 17
   }
 }
