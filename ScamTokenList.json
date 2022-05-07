@@ -55979,11 +55979,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1139646038eB8Eb0973939C2AFf1C05c6771d57",
+      "symbol": "WARMDAO",
+      "name": "WarmDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 43,
+    "minor": 44,
     "patch": 17
   }
 }
