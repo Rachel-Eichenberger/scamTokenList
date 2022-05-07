@@ -56320,11 +56320,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77132Bb08B02a7a87732ec289EFaB45edF49884F",
+      "symbol": "RELIC",
+      "name": "MasRelic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 74,
+    "minor": 75,
     "patch": 17
   }
 }
