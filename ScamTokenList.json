@@ -56001,11 +56001,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb0afc5EcC411a07C2121204f01e0f051045fFf1",
+      "symbol": "SAIDAO",
+      "name": "SAITADAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 45,
+    "minor": 46,
     "patch": 17
   }
 }
