@@ -56342,11 +56342,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x052073dFaD6154A9f9507B3cC319C3e5A31D7C7d",
+      "symbol": "SHIBANA",
+      "name": "Shibana",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 76,
+    "minor": 77,
     "patch": 17
   }
 }
