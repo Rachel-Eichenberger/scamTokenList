@@ -56353,11 +56353,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05a69D5790b8b10724daddb62E2b288f51d7485A",
+      "symbol": "CRAFTSMAN",
+      "name": "CRAFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 77,
+    "minor": 78,
     "patch": 17
   }
 }
