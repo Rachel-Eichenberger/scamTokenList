@@ -55946,11 +55946,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD29BE57f9A3DC346617f3Fc3cdE354adD8c22555",
+      "symbol": "TORA",
+      "name": "ToraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 40,
+    "minor": 41,
     "patch": 17
   }
 }
