@@ -56364,11 +56364,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65b8bE5d8Acef2Fc5823287B8bc3c86887EBE137",
+      "symbol": "NINTENDO",
+      "name": "NintendoMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 78,
+    "minor": 79,
     "patch": 17
   }
 }
