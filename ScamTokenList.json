@@ -56111,11 +56111,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB273c5bc96Eed58c71e7cc430Fa29b63654157E9",
+      "symbol": "UNIVERSAL",
+      "name": "UniversalPicturesMe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 55,
+    "minor": 56,
     "patch": 17
   }
 }
