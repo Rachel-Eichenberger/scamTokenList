@@ -56045,11 +56045,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DE2cC570Da4d1782A7829C200b72376E91f06D1",
+      "symbol": "BULLBANK",
+      "name": "BULLBANKKAKUAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 49,
+    "minor": 50,
     "patch": 17
   }
 }
