@@ -56034,11 +56034,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E98a715BD29c7912cb486294790ae0bdd5EF912",
+      "symbol": "BONSAI",
+      "name": "BonsaiINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 48,
+    "minor": 49,
     "patch": 17
   }
 }
