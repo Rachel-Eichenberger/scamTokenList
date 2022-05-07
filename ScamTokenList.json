@@ -56122,11 +56122,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF30c36d677495642f1759dDBAfb2d7df38185d14",
+      "symbol": "BKAKUAN",
+      "name": "BabyKakuan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 56,
+    "minor": 57,
     "patch": 17
   }
 }
