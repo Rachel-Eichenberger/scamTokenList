@@ -56144,11 +56144,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34010e6b1be74AC990eFEbd2cFdb9370b3085c2A",
+      "symbol": "20BULLS",
+      "name": "Kamakura",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 58,
+    "minor": 59,
     "patch": 17
   }
 }
