@@ -56067,11 +56067,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc64D3A8815B043c9064599C88fbbBd7aaf5CC5c3",
+      "symbol": "TST12",
+      "name": "TestOnly12",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 51,
+    "minor": 52,
     "patch": 17
   }
 }
