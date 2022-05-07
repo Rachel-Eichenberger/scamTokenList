@@ -56375,11 +56375,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9258cE7Eeb238de67343688bB918FdA0B8A03cF2",
+      "symbol": "CHIZURU",
+      "name": "ChizuruKaguraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 79,
+    "minor": 80,
     "patch": 17
   }
 }
