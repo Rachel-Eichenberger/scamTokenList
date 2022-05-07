@@ -56188,11 +56188,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EC038E6a455911C56d159520e819BA520f71253",
+      "symbol": "DEATH",
+      "name": "BlackVulture",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 62,
+    "minor": 63,
     "patch": 17
   }
 }
