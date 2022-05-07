@@ -56012,11 +56012,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74da4995a891c5cAcc2fa7732Aa48ba425440F7c",
+      "symbol": "HASBRO",
+      "name": "HasbroMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 46,
+    "minor": 47,
     "patch": 17
   }
 }
