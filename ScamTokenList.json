@@ -56155,11 +56155,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x973828768ADE7C4d0754A73B9d761893F2C53CD1",
+      "symbol": "MAR",
+      "name": "MarInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 59,
+    "minor": 60,
     "patch": 17
   }
 }
