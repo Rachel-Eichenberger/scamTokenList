@@ -56298,11 +56298,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2a5A6E94EfC70ed3632dd099e84717D20C9Fe1d",
+      "symbol": "CAWNUG",
+      "name": "CawNugget",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 72,
+    "minor": 73,
     "patch": 17
   }
 }
