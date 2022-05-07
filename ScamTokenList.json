@@ -56276,11 +56276,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB46EFC5bF499eF7A232Db43a52854e56C24146Ca",
+      "symbol": "KOKO",
+      "name": "Koko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 70,
+    "minor": 71,
     "patch": 17
   }
 }
