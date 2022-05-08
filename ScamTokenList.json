@@ -56760,11 +56760,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37E824E0eDadfAE8422d74fB8CefBc77c095a145",
+      "symbol": "ZKSYNC",
+      "name": "zkSyncCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 14,
+    "minor": 15,
     "patch": 18
   }
 }
