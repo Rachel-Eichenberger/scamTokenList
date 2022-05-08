@@ -56562,11 +56562,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2D0abF8326B15Cb5DFB68B6800a0Bac06C7bB68",
+      "symbol": "CRAFT",
+      "name": "Craftsman",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 96,
+    "minor": 97,
     "patch": 17
   }
 }
