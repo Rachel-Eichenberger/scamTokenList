@@ -56595,11 +56595,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47D55097a18e17D46d0ACD242709f825E7991c2F",
+      "symbol": "AKENO",
+      "name": "MommyAkeno",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 19,
-    "minor": 99,
-    "patch": 17
+    "major": 20,
+    "minor": 0,
+    "patch": 18
   }
 }
