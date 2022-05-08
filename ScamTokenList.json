@@ -56617,11 +56617,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f7CB72ced46daf57127B205F70D29c490ECb8e0",
+      "symbol": "APESWAP",
+      "name": "ApeCoinSWAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 1,
+    "minor": 2,
     "patch": 18
   }
 }
