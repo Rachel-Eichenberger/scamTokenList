@@ -56507,11 +56507,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x491965ec0837092039550E96Ca6A46Fdaf9d3Ca3",
+      "symbol": "TOMMY",
+      "name": "TOMMYscanbot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 91,
+    "minor": 92,
     "patch": 17
   }
 }
