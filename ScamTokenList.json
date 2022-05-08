@@ -56518,11 +56518,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBCde3b2D6f85311a4b718dDB5c9F0B99989D094d",
+      "symbol": "AARDMAN",
+      "name": "AardmanAnimationsMe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 92,
+    "minor": 93,
     "patch": 17
   }
 }
