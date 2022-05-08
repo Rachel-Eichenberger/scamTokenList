@@ -56584,11 +56584,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a9892243fF8E816e824147A47B01863B237d414",
+      "symbol": "WCI",
+      "name": "WorldCupInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 98,
+    "minor": 99,
     "patch": 17
   }
 }
