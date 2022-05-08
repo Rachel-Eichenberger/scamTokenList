@@ -56441,11 +56441,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7dd16c53F723F474f1538c405F99427856D74Cac",
+      "symbol": "CHIKUWA",
+      "name": "ChikuwaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 85,
+    "minor": 86,
     "patch": 17
   }
 }
