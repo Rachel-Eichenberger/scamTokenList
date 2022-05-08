@@ -56419,11 +56419,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02895bE3B74984cdB24fBdA4cc275E49E8f26750",
+      "symbol": "BABUAN",
+      "name": "10Bears",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 83,
+    "minor": 84,
     "patch": 17
   }
 }
