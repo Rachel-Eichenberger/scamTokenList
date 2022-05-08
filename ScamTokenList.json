@@ -56551,11 +56551,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb3e56CF6a7A5eB26E9F2B89167B8896127f0567",
+      "symbol": "LUFFYINU",
+      "name": "LuffyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 95,
+    "minor": 96,
     "patch": 17
   }
 }
