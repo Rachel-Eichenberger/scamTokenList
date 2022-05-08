@@ -56771,11 +56771,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3ad99Fe509ce36789F7Cf2676477D5e3a71ca89",
+      "symbol": "SOB",
+      "name": "CryptoWinter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 15,
+    "minor": 16,
     "patch": 18
   }
 }
