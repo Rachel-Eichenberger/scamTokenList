@@ -56628,11 +56628,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d45344B52D2ea282eAE4a99048FAf7E6678C667",
+      "symbol": "RBH",
+      "name": "RabbitHole",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 2,
+    "minor": 3,
     "patch": 18
   }
 }
