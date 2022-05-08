@@ -56496,11 +56496,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2A7D8e8eE87e37d60999DaecC34418295481540",
+      "symbol": "NADA",
+      "name": "NadaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 90,
+    "minor": 91,
     "patch": 17
   }
 }
