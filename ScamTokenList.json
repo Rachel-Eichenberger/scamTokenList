@@ -56639,11 +56639,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5928f075AA2CdA9A3BB58C975F9ce15A1846bD70",
+      "symbol": "ZEBLOOD",
+      "name": "ZeBlood",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 3,
+    "minor": 4,
     "patch": 18
   }
 }
