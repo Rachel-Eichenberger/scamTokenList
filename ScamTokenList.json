@@ -56782,11 +56782,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A32998BA24C73e93a275a21D5bCae4A23DA5d8D",
+      "symbol": "KOUTA",
+      "name": "GreatPeace",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 16,
+    "minor": 17,
     "patch": 18
   }
 }
