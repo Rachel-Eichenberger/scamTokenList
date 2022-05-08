@@ -56705,11 +56705,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82b454eBF2AF8E10Ac665eAbCEA03b67AeF493A5",
+      "symbol": "UREKT",
+      "name": "UREKT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 9,
+    "minor": 10,
     "patch": 18
   }
 }
