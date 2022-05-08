@@ -56529,11 +56529,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x715f68c645989a1F00e5ac9E1Bb3Af27c16A7A6a",
+      "symbol": "HOTGIRLINU",
+      "name": "HOTGIRLINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 93,
+    "minor": 94,
     "patch": 17
   }
 }
