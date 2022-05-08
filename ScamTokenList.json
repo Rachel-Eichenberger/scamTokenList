@@ -56683,11 +56683,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa651A60E0cea352cad3AD1CB73021070c91f7fb4",
+      "symbol": "BUSTER",
+      "name": "BUSTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 7,
+    "minor": 8,
     "patch": 18
   }
 }
