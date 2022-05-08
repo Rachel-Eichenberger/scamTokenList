@@ -56540,11 +56540,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e7F0E8E28097930dDCa94F273502C2dC56d28ba",
+      "symbol": "PUNJABI",
+      "name": "PunjabiJeetBot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 94,
+    "minor": 95,
     "patch": 17
   }
 }
