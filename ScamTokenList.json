@@ -56430,11 +56430,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74d856097acF814EA3FC4D5f5EAF42Ab03b6a38a",
+      "symbol": "SHIBWELLY",
+      "name": "ShibWelly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 84,
+    "minor": 85,
     "patch": 17
   }
 }
