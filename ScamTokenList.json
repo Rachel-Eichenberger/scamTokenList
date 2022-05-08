@@ -56661,11 +56661,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65b72B7caF1b727B3934a1EC1813a696f40b34DF",
+      "symbol": "MOO",
+      "name": "AnOxDream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 5,
+    "minor": 6,
     "patch": 18
   }
 }
