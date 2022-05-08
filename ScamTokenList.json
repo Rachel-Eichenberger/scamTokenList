@@ -56672,11 +56672,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1915C0831B5D1F250453990D5C330910b1d5F008",
+      "symbol": "MOM",
+      "name": "MayeMusk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 6,
+    "minor": 7,
     "patch": 18
   }
 }
