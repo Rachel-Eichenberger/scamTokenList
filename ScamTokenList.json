@@ -56452,11 +56452,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD582677F3d7392CAdb0762486a9b41a3D414504",
+      "symbol": "SNTS",
+      "name": "Shiniutusong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 19,
-    "minor": 86,
+    "minor": 87,
     "patch": 17
   }
 }
