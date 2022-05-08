@@ -56694,11 +56694,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf78C1788a0E1Ca1d42bc637187e93697547A390",
+      "symbol": "IMMORTAL",
+      "name": "ImmortalFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 8,
+    "minor": 9,
     "patch": 18
   }
 }
