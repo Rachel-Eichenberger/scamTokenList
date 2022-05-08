@@ -56716,11 +56716,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf82Ab6c9728AE47293dC53d8D02Ca2d4283F9729",
+      "symbol": "Y2X2",
+      "name": "Y2X2Token",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 10,
+    "minor": 11,
     "patch": 18
   }
 }
