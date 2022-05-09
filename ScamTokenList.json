@@ -56903,11 +56903,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3644201fa42aECa9a1b0e1273c0db734a1d49B9a",
+      "symbol": "DONNA",
+      "name": "DonnaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 27,
+    "minor": 28,
     "patch": 18
   }
 }
