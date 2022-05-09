@@ -57057,11 +57057,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbE45510798c39619829b1f9Ec3A97E9B526a3D0E",
+      "symbol": "MEVT",
+      "name": "MEVTrapper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 41,
+    "minor": 42,
     "patch": 18
   }
 }
