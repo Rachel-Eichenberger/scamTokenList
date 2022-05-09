@@ -56870,11 +56870,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x620E8a0421d30C9C99A7B6c9099D4f822Cc207Ab",
+      "symbol": "SEA",
+      "name": "YieldGuildGamesSout",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 24,
+    "minor": 25,
     "patch": 18
   }
 }
