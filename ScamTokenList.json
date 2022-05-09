@@ -57013,11 +57013,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40eFb87c7849Bd3B08e7fB210c35EF1DF7dD1826",
+      "symbol": "KINU",
+      "name": "KabukiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 37,
+    "minor": 38,
     "patch": 18
   }
 }
