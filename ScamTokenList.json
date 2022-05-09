@@ -56826,11 +56826,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC940c5Fe690FDDEf8480955454AddE66e55c094",
+      "symbol": "STONEDINU",
+      "name": "STONEDINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 20,
+    "minor": 21,
     "patch": 18
   }
 }
