@@ -56980,11 +56980,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x265F796914Bd76e3b54d1068205A5233d12C70a0",
+      "symbol": "REVOLUTION",
+      "name": "Revolution",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 34,
+    "minor": 35,
     "patch": 18
   }
 }
