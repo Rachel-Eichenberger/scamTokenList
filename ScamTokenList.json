@@ -56991,11 +56991,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeBBB8F6545732202584F860d9CB310aa93265F90",
+      "symbol": "ETHSCAPE",
+      "name": "Ethscape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 35,
+    "minor": 36,
     "patch": 18
   }
 }
