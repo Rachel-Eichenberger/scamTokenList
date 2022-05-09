@@ -56848,11 +56848,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3FCeDAAe05A44E02cE17F23e7e142F21D8Ca41E",
+      "symbol": "AMMO",
+      "name": "AmmoToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 22,
+    "minor": 23,
     "patch": 18
   }
 }
