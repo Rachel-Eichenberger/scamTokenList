@@ -57024,11 +57024,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b43A2D7453F349ca61Ab3d386f152D7b3f9dA58",
+      "symbol": "XEROT",
+      "name": "XeroTax",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 38,
+    "minor": 39,
     "patch": 18
   }
 }
