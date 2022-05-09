@@ -56914,11 +56914,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaa5b984739a0A867fcDF290b4ec80d9Ce44D97C6",
+      "symbol": "HIGHINU",
+      "name": "HighInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 28,
+    "minor": 29,
     "patch": 18
   }
 }
