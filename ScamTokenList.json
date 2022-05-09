@@ -56793,11 +56793,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9632B76636B5E4CE2C43b9C969ad749E0a160446",
+      "symbol": "GFM",
+      "name": "GFM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 17,
+    "minor": 18,
     "patch": 18
   }
 }
