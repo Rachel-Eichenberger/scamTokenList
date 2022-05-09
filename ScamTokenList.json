@@ -56969,11 +56969,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b251517C8031e0Da46be0C32Fa57d9A0e15C253",
+      "symbol": "BURNINGMEV",
+      "name": "BurningMEV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 33,
+    "minor": 34,
     "patch": 18
   }
 }
