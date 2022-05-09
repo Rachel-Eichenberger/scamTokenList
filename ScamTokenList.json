@@ -56925,11 +56925,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf1053EaA3a79B5F58823d0503f35392430A0c26",
+      "symbol": "YGGSEA",
+      "name": "YieldGuildGames",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 29,
+    "minor": 30,
     "patch": 18
   }
 }
