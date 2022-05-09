@@ -56958,11 +56958,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD45dF4d105a73067e35a7BAc4f37EA23973A0c93",
+      "symbol": "SHIBAPE",
+      "name": "SHIBAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 32,
+    "minor": 33,
     "patch": 18
   }
 }
