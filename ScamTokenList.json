@@ -56892,11 +56892,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeee17133ca85B3e30d47ED7d9e993A7C8Cf620c9",
+      "symbol": "FOE",
+      "name": "TheFirstHunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 26,
+    "minor": 27,
     "patch": 18
   }
 }
