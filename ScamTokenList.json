@@ -56837,11 +56837,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91f5ce87cbE351b1b37C1C097B903159ceE4ad9c",
+      "symbol": "VEDAY",
+      "name": "VictoryDay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 21,
+    "minor": 22,
     "patch": 18
   }
 }
