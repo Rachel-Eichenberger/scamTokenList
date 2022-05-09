@@ -56815,11 +56815,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee101a904e79Df0AB5B1384fE8B66D4b0f665f20",
+      "symbol": "CHANEL",
+      "name": "ChanelMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 19,
+    "minor": 20,
     "patch": 18
   }
 }
