@@ -56936,11 +56936,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF23b9bD7b00cCbDB9E4a02b33D7aED456aE8f8B9",
+      "symbol": "CM",
+      "name": "ChocolateMilk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 30,
+    "minor": 31,
     "patch": 18
   }
 }
