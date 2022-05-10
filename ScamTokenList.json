@@ -57145,11 +57145,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD90A951ae452FEEAC2E0bf618103FA19dA1971Fa",
+      "symbol": "MYTH",
+      "name": "LochNessInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 49,
+    "minor": 50,
     "patch": 18
   }
 }
