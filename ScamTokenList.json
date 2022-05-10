@@ -57398,11 +57398,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E6EF8Fa7EaB2A1d0B6D92dC5d2d163e2736fB5A",
+      "symbol": "KINU",
+      "name": "KuramaInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 72,
+    "minor": 73,
     "patch": 18
   }
 }
