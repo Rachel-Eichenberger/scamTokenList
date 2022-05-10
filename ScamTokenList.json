@@ -57299,11 +57299,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B54a07184e366b05bDf103208182C1701f3e142",
+      "symbol": "DAWNINU",
+      "name": "DawnInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 63,
+    "minor": 64,
     "patch": 18
   }
 }
