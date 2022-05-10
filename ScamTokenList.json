@@ -57442,11 +57442,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE1fa1303e2979Ab4d4e5dF3D1c6e3656ACAb027",
+      "symbol": "DRYP",
+      "name": "Dripto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 76,
+    "minor": 77,
     "patch": 18
   }
 }
