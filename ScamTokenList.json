@@ -57321,11 +57321,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0c1a8ddf9eBC2504d653E19D49DC2D96A1397c5",
+      "symbol": "WOFO",
+      "name": "WorldFootball",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 65,
+    "minor": 66,
     "patch": 18
   }
 }
