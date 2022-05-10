@@ -57387,11 +57387,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F4B23B8EA03598d25F1bc7d32AA45B832dBBa16",
+      "symbol": "EFT",
+      "name": "ETHFANTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 71,
+    "minor": 72,
     "patch": 18
   }
 }
