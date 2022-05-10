@@ -57376,11 +57376,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79e1dff614A881BB9717BBD31dd898dfB69f10DC",
+      "symbol": "VIRTUE",
+      "name": "VirtueInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 70,
+    "minor": 71,
     "patch": 18
   }
 }
