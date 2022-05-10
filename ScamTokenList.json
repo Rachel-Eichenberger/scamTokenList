@@ -57134,11 +57134,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA7b61f99231A712FB33181C4FDf6adFA1aca2b2E",
+      "symbol": "FILM",
+      "name": "Film",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 48,
+    "minor": 49,
     "patch": 18
   }
 }
