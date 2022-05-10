@@ -57409,11 +57409,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDbCb271f3c6396c7947CFc1BCA144C9ec685Ac41",
+      "symbol": "QOA",
+      "name": "QuestOfApes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 73,
+    "minor": 74,
     "patch": 18
   }
 }
