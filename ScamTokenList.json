@@ -57343,11 +57343,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD86135dbe76E83844113f9890670234720520604",
+      "symbol": "UDEX",
+      "name": "UNIQUEDEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 67,
+    "minor": 68,
     "patch": 18
   }
 }
