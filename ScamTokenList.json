@@ -57431,11 +57431,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x118717A783F4f3f5c3B1aeFeb8dEf77e19d644f1",
+      "symbol": "RING",
+      "name": "Ringtone",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 75,
+    "minor": 76,
     "patch": 18
   }
 }
