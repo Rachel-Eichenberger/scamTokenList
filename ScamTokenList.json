@@ -57156,11 +57156,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1165F05551E4D9fe3EFd4b48b9D3f9f6941F410",
+      "symbol": "TSUBURAYA",
+      "name": "TsuburayaProduction",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 50,
+    "minor": 51,
     "patch": 18
   }
 }
