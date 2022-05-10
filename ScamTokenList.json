@@ -57200,11 +57200,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3dae7Ec794947e2D7Fbd2a1211865fDefF22cDf",
+      "symbol": "MEWN",
+      "name": "MoonBoy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 54,
+    "minor": 55,
     "patch": 18
   }
 }
