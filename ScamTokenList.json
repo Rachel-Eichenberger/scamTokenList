@@ -57332,11 +57332,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3704dd32AE2222Ef96823e32b7C882570C226aef",
+      "symbol": "AU",
+      "name": "TNTGOLD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 66,
+    "minor": 67,
     "patch": 18
   }
 }
