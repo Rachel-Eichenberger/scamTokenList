@@ -57090,11 +57090,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc32574Ca07f64b6397dF77Fbb10051fbA741260D",
+      "symbol": "VLPRO",
+      "name": "VillageProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 44,
+    "minor": 45,
     "patch": 18
   }
 }
