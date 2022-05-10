@@ -57123,11 +57123,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C29b14727F9E5ABe87905f3A5d635f4DbaB2CB5",
+      "symbol": "ZERO",
+      "name": "GoingtoZero",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 47,
+    "minor": 48,
     "patch": 18
   }
 }
