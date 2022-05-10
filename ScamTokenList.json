@@ -57288,11 +57288,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb32FDD1334341E9E1C359c725441b6f23D86D271",
+      "symbol": "BINU",
+      "name": "BearInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 62,
+    "minor": 63,
     "patch": 18
   }
 }
