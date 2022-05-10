@@ -57266,11 +57266,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd766F93c2833908A1A3C16365221eC81df9DF845",
+      "symbol": "RAIR",
+      "name": "rairtech",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 60,
+    "minor": 61,
     "patch": 18
   }
 }
