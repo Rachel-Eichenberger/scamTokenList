@@ -57178,11 +57178,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B1ceb404E5f2d48216F01F3cA49D5BD699149A5",
+      "symbol": "SINU",
+      "name": "SuperInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 52,
+    "minor": 53,
     "patch": 18
   }
 }
