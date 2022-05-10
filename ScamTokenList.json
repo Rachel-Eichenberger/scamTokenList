@@ -57112,11 +57112,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14dC54F29252101D0f5c92F010c45e13Aa2b8f60",
+      "symbol": "CSS",
+      "name": "StoneSoup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 46,
+    "minor": 47,
     "patch": 18
   }
 }
