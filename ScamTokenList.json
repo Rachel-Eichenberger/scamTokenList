@@ -57277,11 +57277,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34F3C739FDa443997B5b2CAC9cb42e448B28d45D",
+      "symbol": "MCLAREN",
+      "name": "McLarenMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 61,
+    "minor": 62,
     "patch": 18
   }
 }
