@@ -57310,11 +57310,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15617d1499873c139079df7d473516D9edAc8cC1",
+      "symbol": "GRINU",
+      "name": "GreenInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 64,
+    "minor": 65,
     "patch": 18
   }
 }
