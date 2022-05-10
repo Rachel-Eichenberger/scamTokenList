@@ -57420,11 +57420,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45a3e0bE9B55Ff2D1B9CaeeC971961555E5C465c",
+      "symbol": "MVERSE",
+      "name": "Monkeyverse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 74,
+    "minor": 75,
     "patch": 18
   }
 }
