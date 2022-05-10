@@ -57244,11 +57244,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B3eFd633516c6856a3E7fc0a8A580FA0a4b98BB",
+      "symbol": "CONQUER",
+      "name": "ConquerTheBull",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 58,
+    "minor": 59,
     "patch": 18
   }
 }
