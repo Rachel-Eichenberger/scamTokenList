@@ -57189,11 +57189,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE3D92710d912450FBF066D6f55a57Ae0F81129d",
+      "symbol": "KYUB",
+      "name": "Kyuubi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 53,
+    "minor": 54,
     "patch": 18
   }
 }
