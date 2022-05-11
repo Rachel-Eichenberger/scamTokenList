@@ -57640,11 +57640,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD28c0D86904E129BBec36131Ef20E53057fE5c35",
+      "symbol": "INTI",
+      "name": "Inti",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 94,
+    "minor": 95,
     "patch": 18
   }
 }
