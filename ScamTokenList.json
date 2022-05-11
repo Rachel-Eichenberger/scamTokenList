@@ -57607,11 +57607,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Ed4Fd9Fcf5c7dF7c9B330705D8dC16789146483",
+      "symbol": "MAMAK",
+      "name": "MamaKong",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 91,
+    "minor": 92,
     "patch": 18
   }
 }
