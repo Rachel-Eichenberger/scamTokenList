@@ -57618,11 +57618,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD393B8Aff26424ACbE06AF512E1C41A255F0fb7F",
+      "symbol": "SUN",
+      "name": "Sunrise",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 92,
+    "minor": 93,
     "patch": 18
   }
 }
