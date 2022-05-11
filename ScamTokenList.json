@@ -57475,11 +57475,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ecd0FDE01D84DeD9be7EB381Bda1b2fe828e0b1",
+      "symbol": "B0RED",
+      "name": "BOREDDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 79,
+    "minor": 80,
     "patch": 18
   }
 }
