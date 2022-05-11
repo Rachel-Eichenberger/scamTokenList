@@ -57464,11 +57464,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17Fec877BcC217977073a13de8690563c7360559",
+      "symbol": "FAI",
+      "name": "FaithToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 78,
+    "minor": 79,
     "patch": 18
   }
 }
