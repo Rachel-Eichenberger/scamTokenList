@@ -57552,11 +57552,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20932Cd8BA918B28BAA5fE9D1DA4a563E4379e6E",
+      "symbol": "CRYRAMID",
+      "name": "CryptoPyramid",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 86,
+    "minor": 87,
     "patch": 18
   }
 }
