@@ -57530,11 +57530,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cCb9a5c5640d720Cd7d3364879b577Ec146a7e6",
+      "symbol": "PANASONIC",
+      "name": "PanasonicMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 84,
+    "minor": 85,
     "patch": 18
   }
 }
