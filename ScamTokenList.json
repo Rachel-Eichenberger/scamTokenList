@@ -57486,11 +57486,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x698998525C4D4004c5f9e4A98970390927587A69",
+      "symbol": "PATRON",
+      "name": "Patroninu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 80,
+    "minor": 81,
     "patch": 18
   }
 }
