@@ -57574,11 +57574,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7601626B2442D3070fCbCb6411864410B56982b7",
+      "symbol": "SPHERE",
+      "name": "SphereofLuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 88,
+    "minor": 89,
     "patch": 18
   }
 }
