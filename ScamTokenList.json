@@ -57629,11 +57629,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A06b59D35db5668e8914886943A4643e88C76F3",
+      "symbol": "ZENDOR",
+      "name": "GodOfPump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 93,
+    "minor": 94,
     "patch": 18
   }
 }
