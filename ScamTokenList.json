@@ -57563,11 +57563,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4f54e8E84a9d673C9616169EccdCe073Ec1E94D",
+      "symbol": "RAIR",
+      "name": "RAIR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 87,
+    "minor": 88,
     "patch": 18
   }
 }
