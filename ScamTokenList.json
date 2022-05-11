@@ -57585,11 +57585,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0eAb7b6faF2bbb03b4f6265d08a111D0F92cDb58",
+      "symbol": "LEARN",
+      "name": "LEARN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 89,
+    "minor": 90,
     "patch": 18
   }
 }
