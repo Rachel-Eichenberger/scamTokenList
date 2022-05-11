@@ -57651,11 +57651,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x919D2Faf2bF919F971003F6E05ECa34cBE3BC5BC",
+      "symbol": "LINU",
+      "name": "LunaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 95,
+    "minor": 96,
     "patch": 18
   }
 }
