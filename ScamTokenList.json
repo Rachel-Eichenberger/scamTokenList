@@ -57453,11 +57453,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F52a74fC6C68A5666e93fB88e20e676BAeFbfb4",
+      "symbol": "SHINAZI",
+      "name": "Shinazi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 77,
+    "minor": 78,
     "patch": 18
   }
 }
