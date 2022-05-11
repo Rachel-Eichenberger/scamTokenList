@@ -57662,11 +57662,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B26dfFbAB442A13e34545bb83491555424d60b8",
+      "symbol": "UDC",
+      "name": "UnstableDollarCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 96,
+    "minor": 97,
     "patch": 18
   }
 }
