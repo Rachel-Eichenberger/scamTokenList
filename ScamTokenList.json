@@ -60016,11 +60016,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27270C2c1986f876a8eb0b1e2642C73eCD1799C5",
+      "symbol": "WILLSLAPPEDCHRIS",
+      "name": "WillSmithwasrightor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 8,
+    "minor": 9,
     "patch": 21
   }
 }
