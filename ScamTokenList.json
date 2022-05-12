@@ -57684,11 +57684,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7F5fBdC29DdcfFF1544c91F4Af3eC1F33c4bD1b",
+      "symbol": "LUX",
+      "name": "LUX INU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 98,
+    "minor": 99,
     "patch": 18
   }
 }
