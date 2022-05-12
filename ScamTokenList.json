@@ -59928,11 +59928,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd88B8d2ea5819E18047e6b9Ca0A1Fb291b3c18D0",
+      "symbol": "VIKINGMK",
+      "name": "VIKINGMANKIND",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 0,
+    "minor": 1,
     "patch": 21
   }
 }
