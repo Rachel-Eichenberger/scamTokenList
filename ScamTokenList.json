@@ -60918,11 +60918,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC02ca6Cf36239e920d97A618DC9470950c5A7Add",
+      "symbol": "ECLIPSE",
+      "name": "LunaEclipse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 90,
+    "minor": 91,
     "patch": 21
   }
 }
