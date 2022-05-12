@@ -60401,11 +60401,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe295843cd85Ad43356334B1cC2E5Ca2c8280408",
+      "symbol": "DFADE",
+      "name": "DoontFade",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 43,
+    "minor": 44,
     "patch": 21
   }
 }
