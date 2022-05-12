@@ -58960,11 +58960,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8681868E12017f6fbca446475d0d22F302F2419",
+      "symbol": "NINJAFOMO",
+      "name": "NINJAFOMO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 12,
+    "minor": 13,
     "patch": 20
   }
 }
