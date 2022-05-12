@@ -60357,11 +60357,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13C07c150823cEFc6fAe27b63Bc6f64C086b1BDb",
+      "symbol": "MANIFEST",
+      "name": "Manifest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 39,
+    "minor": 40,
     "patch": 21
   }
 }
