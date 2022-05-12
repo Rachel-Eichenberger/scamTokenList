@@ -58014,11 +58014,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd97cdA75DB63634d49Fe88dBaa42CEc3958021A1",
+      "symbol": "GREENAPE",
+      "name": "Green Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 28,
+    "minor": 29,
     "patch": 19
   }
 }
