@@ -60632,11 +60632,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C3851f50b5aE98A226B5F4578E65d46060F1676",
+      "symbol": "MOQ",
+      "name": "MemesPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 64,
+    "minor": 65,
     "patch": 21
   }
 }
