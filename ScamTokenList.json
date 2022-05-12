@@ -60610,11 +60610,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7027aB7b277cA75956AA0439b5E54f4b99bA76E0",
+      "symbol": "CULTELON",
+      "name": "CULTELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 62,
+    "minor": 63,
     "patch": 21
   }
 }
