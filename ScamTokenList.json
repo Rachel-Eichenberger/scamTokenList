@@ -58817,11 +58817,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa73e4EF1CEd6c07Bf80A3DbEf0022fB1A84A2aC3",
+      "symbol": "CS",
+      "name": "CrazyScientist",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 21,
-    "minor": 99,
-    "patch": 19
+    "major": 22,
+    "minor": 0,
+    "patch": 20
   }
 }
