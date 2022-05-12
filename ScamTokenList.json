@@ -59741,11 +59741,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f970EDA897518D21a757c8b4b7A793Da6C99f1d",
+      "symbol": "GRAPEAPE",
+      "name": "GRAPEAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 83,
+    "minor": 84,
     "patch": 20
   }
 }
