@@ -59972,11 +59972,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31a66eE15F1d320D43440fEBB20DE8706B3A5f81",
+      "symbol": "INUZILLA",
+      "name": "InuZilla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 4,
+    "minor": 5,
     "patch": 21
   }
 }
