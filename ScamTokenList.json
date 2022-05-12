@@ -59785,11 +59785,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x936834ff0D8f008bcc3D77DF94c90dd87f93c444",
+      "symbol": "KM",
+      "name": "KingMusk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 87,
+    "minor": 88,
     "patch": 20
   }
 }
