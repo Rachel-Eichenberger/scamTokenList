@@ -60456,11 +60456,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x660055316d20Fd031ce6a116EDee97d38b13131E",
+      "symbol": "ACE",
+      "name": "ACE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 48,
+    "minor": 49,
     "patch": 21
   }
 }
