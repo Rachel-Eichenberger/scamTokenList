@@ -60181,11 +60181,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60949bC889d78054dCfdF6Ecf14184F059da66e0",
+      "symbol": "CMN",
+      "name": "CultsMission",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 23,
+    "minor": 24,
     "patch": 21
   }
 }
