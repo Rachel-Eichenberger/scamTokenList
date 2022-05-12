@@ -59103,11 +59103,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0331B7710a00Fa4CE62ee23f92Fcb9C8018f6405",
+      "symbol": "NIGGER",
+      "name": "Nigger",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 25,
+    "minor": 26,
     "patch": 20
   }
 }
