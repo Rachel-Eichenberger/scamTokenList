@@ -57882,11 +57882,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D91b1534Db24E895B73ab383E98f2DdeB6C036e",
+      "symbol": "MICRO",
+      "name": "MicroChainCapital",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 16,
+    "minor": 17,
     "patch": 19
   }
 }
