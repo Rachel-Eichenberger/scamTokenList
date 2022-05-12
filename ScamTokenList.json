@@ -57915,11 +57915,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE458838dD0Bc7eC0cff11BFeE0618fFdcd95954",
+      "symbol": "GASTAMA",
+      "name": "Gastama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 19,
+    "minor": 20,
     "patch": 19
   }
 }
