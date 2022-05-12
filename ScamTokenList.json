@@ -58047,11 +58047,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F16d11beD4D865EAD569cF2c1c4f83f27d91924",
+      "symbol": "MOQ",
+      "name": "Meme Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 31,
+    "minor": 32,
     "patch": 19
   }
 }
