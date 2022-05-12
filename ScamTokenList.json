@@ -58267,11 +58267,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8F4c451f94FA38A2d4D19ed48AC4a9f8aA8f77C",
+      "symbol": "APEST",
+      "name": "Apest",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 51,
+    "minor": 52,
     "patch": 19
   }
 }
