@@ -58883,11 +58883,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3468a5033cB912c8ec2e2cAb79ed923Fe84991e3",
+      "symbol": "DIAMOND",
+      "name": "DiamondInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 5,
+    "minor": 6,
     "patch": 20
   }
 }
