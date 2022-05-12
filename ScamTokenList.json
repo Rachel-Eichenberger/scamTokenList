@@ -59521,11 +59521,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x903B837893a8B3ea6Fb88289852E5c92a9c3d692",
+      "symbol": "PSUP",
+      "name": "PANDASHARKUP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 63,
+    "minor": 64,
     "patch": 20
   }
 }
