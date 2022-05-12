@@ -60533,11 +60533,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd630E1D8AB9669a44cC96324DDD35BE2936DF070",
+      "symbol": "SHIR",
+      "name": "ShiraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 55,
+    "minor": 56,
     "patch": 21
   }
 }
