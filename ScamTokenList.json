@@ -60346,11 +60346,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCFc13a0D3Ba023f33be8FF93526e67Ce24A098dB",
+      "symbol": "SECRET",
+      "name": "Secret",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 38,
+    "minor": 39,
     "patch": 21
   }
 }
