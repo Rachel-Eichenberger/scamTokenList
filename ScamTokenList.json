@@ -60192,11 +60192,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68460E18E09D88410C15544d762e1D6E40E14777",
+      "symbol": "FISH",
+      "name": "FredTheFish",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 24,
+    "minor": 25,
     "patch": 21
   }
 }
