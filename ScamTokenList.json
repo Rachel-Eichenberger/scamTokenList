@@ -59070,11 +59070,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57B38386709Fe5119184f5452C2e2B6B98321554",
+      "symbol": "COA",
+      "name": "ClashofApes",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 22,
+    "minor": 23,
     "patch": 20
   }
 }
