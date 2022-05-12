@@ -59862,11 +59862,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3496f2eceb1B2dD78B549BAeCF1554b677E1053",
+      "symbol": "SKWON",
+      "name": "StableKwon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 94,
+    "minor": 95,
     "patch": 20
   }
 }
