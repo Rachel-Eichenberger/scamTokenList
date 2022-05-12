@@ -60522,11 +60522,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfadd54A4c893bAc5A7BF60cb3601D40C493f68A0",
+      "symbol": "FRIENDSIES",
+      "name": "fRiENDSiESDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 54,
+    "minor": 55,
     "patch": 21
   }
 }
