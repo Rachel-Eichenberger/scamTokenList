@@ -58003,11 +58003,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBb20784B0bFC026240e1A11bcA4E74B0fc1B47Ca",
+      "symbol": "PlutoVerse",
+      "name": "PlutoVerse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 27,
+    "minor": 28,
     "patch": 19
   }
 }
