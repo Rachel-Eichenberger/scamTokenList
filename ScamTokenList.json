@@ -59939,11 +59939,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81c55FBF1059f55001f5925d64D944B3B2a5D0A7",
+      "symbol": "RUSS",
+      "name": "RUSSVision",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 1,
+    "minor": 2,
     "patch": 21
   }
 }
