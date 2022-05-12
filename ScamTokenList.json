@@ -58443,11 +58443,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2EA9181Fa318f520703D68190eC8a1a6b3aB4C4",
+      "symbol": "XENON",
+      "name": "XENON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 67,
+    "minor": 68,
     "patch": 19
   }
 }
