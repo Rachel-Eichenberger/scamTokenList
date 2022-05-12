@@ -59114,11 +59114,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f216B10dEC75A64877eb825f0999756fD761A5d",
+      "symbol": "GAINZ",
+      "name": "FlokiGainz",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 26,
+    "minor": 27,
     "patch": 20
   }
 }
