@@ -59312,11 +59312,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Cc46c29828c7D5Efb654B0AD468275B3e033C96",
+      "symbol": "ELONSPEECH",
+      "name": "ElonSpeech",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 44,
+    "minor": 45,
     "patch": 20
   }
 }
