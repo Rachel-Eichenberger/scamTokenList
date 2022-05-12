@@ -58190,11 +58190,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3D54a61611f0605498af7e5D99a062F9195a0376",
+      "symbol": "GOAPE",
+      "name": "GOAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 44,
+    "minor": 45,
     "patch": 19
   }
 }
