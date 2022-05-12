@@ -59092,11 +59092,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37b8aDbfDD2171AAe7BE211f9af5371b172cd444",
+      "symbol": "SHIBARRION",
+      "name": "ShibaCarrion",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 24,
+    "minor": 25,
     "patch": 20
   }
 }
