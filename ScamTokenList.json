@@ -58311,11 +58311,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Db613960a061eDE33c54Ea4fb711B48e2593005",
+      "symbol": "SAPE",
+      "name": "Space Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 55,
+    "minor": 56,
     "patch": 19
   }
 }
