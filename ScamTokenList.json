@@ -57827,11 +57827,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15c07F8eDf027E1E0c54891773BA3A943a3880D2",
+      "symbol": "ZUKOINU",
+      "name": "Zuko Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 11,
+    "minor": 12,
     "patch": 19
   }
 }
