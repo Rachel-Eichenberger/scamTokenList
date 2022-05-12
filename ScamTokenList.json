@@ -59796,11 +59796,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd42E06c76862aE6bB63BF235eEE0737cfCcC820e",
+      "symbol": "KBUST",
+      "name": "KongBusters",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 88,
+    "minor": 89,
     "patch": 20
   }
 }
