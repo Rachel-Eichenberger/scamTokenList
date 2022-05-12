@@ -60082,11 +60082,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x578f438187a0c93eb1b58188CbE0D3D15Cc75806",
+      "symbol": "MFS",
+      "name": "MissionFlipShib",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 14,
+    "minor": 15,
     "patch": 21
   }
 }
