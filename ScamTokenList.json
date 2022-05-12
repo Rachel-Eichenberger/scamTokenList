@@ -59290,11 +59290,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f92FE6A7f95e0b2BA06C82Ec117F8e5009FD6bb",
+      "symbol": "SMORK",
+      "name": "ShibaMorkin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 42,
+    "minor": 43,
     "patch": 20
   }
 }
