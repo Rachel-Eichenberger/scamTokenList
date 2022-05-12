@@ -57838,11 +57838,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ac33A14869a6a01Ada3669C288A56AFc9078E86",
+      "symbol": "FAL",
+      "name": "Falconiformes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 12,
+    "minor": 13,
     "patch": 19
   }
 }
