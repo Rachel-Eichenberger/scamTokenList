@@ -59433,11 +59433,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7AE26F1bf3c2312A4cf42246F947a4Be25EEF92",
+      "symbol": "TREASURE",
+      "name": "TreasureToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 55,
+    "minor": 56,
     "patch": 20
   }
 }
