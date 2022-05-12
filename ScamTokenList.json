@@ -58234,11 +58234,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd8FD23C0fdE82a8E9b92c1F813570622d83A5e6",
+      "symbol": "LCAP",
+      "name": "Liquid Finance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 48,
+    "minor": 49,
     "patch": 19
   }
 }
