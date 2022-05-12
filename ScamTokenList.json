@@ -59763,11 +59763,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E0a87320E9Fd5b1D613F6Bd820B6A1e2620F703",
+      "symbol": "NLI",
+      "name": "NOLIMITINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 85,
+    "minor": 86,
     "patch": 20
   }
 }
