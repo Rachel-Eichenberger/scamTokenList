@@ -58146,11 +58146,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAF99BCef5e3f9Ec00824c0BB73BDf16889683496",
+      "symbol": "Pineapple",
+      "name": "Pineapple Degen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 40,
+    "minor": 41,
     "patch": 19
   }
 }
