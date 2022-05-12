@@ -58828,11 +58828,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x785a061C7eb3A238b26EeF8b65FC4f70ca3B8E99",
+      "symbol": "MEMES",
+      "name": "Memehead",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 0,
+    "minor": 1,
     "patch": 20
   }
 }
