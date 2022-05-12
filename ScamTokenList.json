@@ -59807,11 +59807,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD04e902f1104ACe5971EEAEdabf5F01a153Fe68C",
+      "symbol": "APELLO11",
+      "name": "Apello11",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 89,
+    "minor": 90,
     "patch": 20
   }
 }
