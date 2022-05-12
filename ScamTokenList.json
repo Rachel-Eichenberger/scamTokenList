@@ -58410,11 +58410,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF823b2FDe97BB74e9ecE9FEb91Cae733be588474",
+      "symbol": "JOKER",
+      "name": "JOKER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 64,
+    "minor": 65,
     "patch": 19
   }
 }
