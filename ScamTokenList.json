@@ -59301,11 +59301,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA6b8F4302eF4C09E3123F9Cb69B721e8888a9F09",
+      "symbol": "SI",
+      "name": "SatoshiIslandDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 43,
+    "minor": 44,
     "patch": 20
   }
 }
