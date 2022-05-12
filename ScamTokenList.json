@@ -59532,11 +59532,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC20218457e5f486E846034D1c8F806217BC3DEDf",
+      "symbol": "CREED",
+      "name": "CreedDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 64,
+    "minor": 65,
     "patch": 20
   }
 }
