@@ -58795,11 +58795,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5EBd7342EFEfe77116F4144526A5C5FCA6d7DE60",
+      "symbol": "VENOM",
+      "name": "VenomInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 97,
+    "minor": 98,
     "patch": 19
   }
 }
