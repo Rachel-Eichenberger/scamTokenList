@@ -60225,11 +60225,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc5B4Db8216ff8056D94724f659E05E71Ed03772",
+      "symbol": "CULTCAPITAL",
+      "name": "RyoshiCapital",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 27,
+    "minor": 28,
     "patch": 21
   }
 }
