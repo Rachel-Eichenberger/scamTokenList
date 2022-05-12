@@ -60170,11 +60170,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa150ecdDB7256384d09DAce107Cf982Ed1b2b151",
+      "symbol": "RYOSHICULT",
+      "name": "RyoshiCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 22,
+    "minor": 23,
     "patch": 21
   }
 }
