@@ -58080,11 +58080,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC253935DD32915C091b8a228C03aC2Eb9f2D5c0a",
+      "symbol": "JOKER",
+      "name": "Joker Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 34,
+    "minor": 35,
     "patch": 19
   }
 }
