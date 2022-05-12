@@ -59048,11 +59048,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cdABd3669e52c70b480170bEaAf2166A7d4e6D0",
+      "symbol": "GWA",
+      "name": "GenerationalWealthA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 20,
+    "minor": 21,
     "patch": 20
   }
 }
