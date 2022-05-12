@@ -60775,11 +60775,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1c6F46c057c7fC5E4377fE60C542417FCc44bf6",
+      "symbol": "INSPIRE",
+      "name": "Inspiration",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 77,
+    "minor": 78,
     "patch": 21
   }
 }
