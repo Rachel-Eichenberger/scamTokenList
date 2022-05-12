@@ -59345,11 +59345,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Aaa3DaD892A9277f8931A6449223aB6C64CBA85",
+      "symbol": "SMON",
+      "name": "SecretMonday",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 47,
+    "minor": 48,
     "patch": 20
   }
 }
