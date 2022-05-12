@@ -60291,11 +60291,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f47C422979EA25003946C6d012Aec288e7bb0EA",
+      "symbol": "CULTINJA",
+      "name": "CULTNOBI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 33,
+    "minor": 34,
     "patch": 21
   }
 }
