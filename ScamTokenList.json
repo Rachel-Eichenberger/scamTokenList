@@ -58597,11 +58597,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x315af4934a4bd4660aCa78Ed129F4b2e7293a393",
+      "symbol": "SAITAMAVERSE",
+      "name": "SaitamaMetaverse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 79,
+    "minor": 80,
     "patch": 19
   }
 }
