@@ -57871,11 +57871,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec068d426E40d485261fF3816aEdd341E031bA23",
+      "symbol": "NEBULA",
+      "name": "Nebula Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 15,
+    "minor": 16,
     "patch": 19
   }
 }
