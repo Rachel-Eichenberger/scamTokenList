@@ -60335,11 +60335,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x430dB2B1C61b1b6d3707Daf5be0DFf3F0DFC8567",
+      "symbol": "ORANGE",
+      "name": "tmeOrangeTokeninfo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 37,
+    "minor": 38,
     "patch": 21
   }
 }
