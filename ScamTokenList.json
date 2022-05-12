@@ -59510,11 +59510,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBd72de6Bd3d7a1FC3DE9eE8912c72E7198755DFF",
+      "symbol": "CULTTER",
+      "name": "Cultter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 62,
+    "minor": 63,
     "patch": 20
   }
 }
