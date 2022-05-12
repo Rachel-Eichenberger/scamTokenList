@@ -58729,11 +58729,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40Eb88Bf7bE08849ba0F143E6D84B5C6C4654376",
+      "symbol": "FOXNINJA",
+      "name": "FoxNinja",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 91,
+    "minor": 92,
     "patch": 19
   }
 }
