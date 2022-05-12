@@ -58993,11 +58993,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe81460193E349581643A6438F15eEEf0faDC5A2f",
+      "symbol": "OSTRICH",
+      "name": "Ostrich",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 15,
+    "minor": 16,
     "patch": 20
   }
 }
