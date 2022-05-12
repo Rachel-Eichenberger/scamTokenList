@@ -58168,11 +58168,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95d9CB358d28b446f0bd01232b770510edbFE334",
+      "symbol": "GAME",
+      "name": "Jigsaw",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 42,
+    "minor": 43,
     "patch": 19
   }
 }
