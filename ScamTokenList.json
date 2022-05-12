@@ -60302,11 +60302,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFD49D5CA8faA569c7Da871E41dF4d1b5256B95f4",
+      "symbol": "ROQ",
+      "name": "RyoshiPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 34,
+    "minor": 35,
     "patch": 21
   }
 }
