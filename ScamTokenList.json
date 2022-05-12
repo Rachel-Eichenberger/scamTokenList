@@ -60830,11 +60830,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6880e43541af7f2e72f23b9e89079A786BCdAba1",
+      "symbol": "BFALQOM",
+      "name": "BabyShibaHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 82,
+    "minor": 83,
     "patch": 21
   }
 }
