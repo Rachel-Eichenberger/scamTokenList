@@ -59279,11 +59279,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B617C0606C1d391F006783ACa7e89298921370a",
+      "symbol": "AI",
+      "name": "AncientInstinct",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 41,
+    "minor": 42,
     "patch": 20
   }
 }
