@@ -58179,11 +58179,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93fb1199BCdBB05841c8e304F6717c4907747baE",
+      "symbol": "DONOTBUY",
+      "name": "Do Not Buy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 43,
+    "minor": 44,
     "patch": 19
   }
 }
