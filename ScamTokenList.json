@@ -57937,11 +57937,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEEf1822031E5F73B555A24C0E2fff03d47F70a34",
+      "symbol": "ZOROTAMA",
+      "name": "Zorotama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 21,
+    "minor": 22,
     "patch": 19
   }
 }
