@@ -60104,11 +60104,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4264750942269dcafe6E819b1638B9F0ad2D5C8b",
+      "symbol": "AF",
+      "name": "AprilFoolsInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 16,
+    "minor": 17,
     "patch": 21
   }
 }
