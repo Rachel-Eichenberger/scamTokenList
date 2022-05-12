@@ -58124,11 +58124,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ffEcc522DC71169bb12B07D09e62492BEF44150",
+      "symbol": "SABURAI",
+      "name": "SABURAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 38,
+    "minor": 39,
     "patch": 19
   }
 }
