@@ -60709,11 +60709,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61610628432482263E2a06caB932130bCE098a30",
+      "symbol": "EVERLASTING",
+      "name": "Everlasting",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 71,
+    "minor": 72,
     "patch": 21
   }
 }
