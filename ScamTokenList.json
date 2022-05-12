@@ -57753,31 +57753,9 @@
     },
     {
       "chainId": 1,
-      "address": "0x8f739d4b1F4Bed6381E62fD4Bfc991DE3D1FE1Bf",
-      "symbol": "MAPE",
-      "name": "MiniApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x8f739d4b1F4Bed6381E62fD4Bfc991DE3D1FE1Bf",
-      "symbol": "MAPE",
-      "name": "MiniApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x8f739d4b1F4Bed6381E62fD4Bfc991DE3D1FE1Bf",
-      "symbol": "MAPE",
-      "name": "MiniApe",
+      "address": "0xCC285350F57DB35165d509143375bf862CaB746B",
+      "symbol": "KaibaCorpInu",
+      "name": "KaibaCorpInu",
       "decimals": 9,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -57787,7 +57765,7 @@
   ],
   "version": {
     "major": 21,
-    "minor": 7,
+    "minor": 5,
     "patch": 19
   }
 }
