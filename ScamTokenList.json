@@ -60885,11 +60885,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF54a6d122967FA3c355c96dE6AaB399930F87952",
+      "symbol": "MISFITS",
+      "name": "Misfits",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 87,
+    "minor": 88,
     "patch": 21
   }
 }
