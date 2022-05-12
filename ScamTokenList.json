@@ -59752,11 +59752,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x796B2895c83008860cc88619c01F91bE436A563a",
+      "symbol": "QWE",
+      "name": "SatoshiPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 84,
+    "minor": 85,
     "patch": 20
   }
 }
