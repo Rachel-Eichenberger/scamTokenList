@@ -60280,11 +60280,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x425D2Dd638e389dFf0AA086F5177Bf3Bda0bAd2A",
+      "symbol": "SHIR",
+      "name": "ShiraInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 32,
+    "minor": 33,
     "patch": 21
   }
 }
