@@ -58498,11 +58498,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36153C4C07175672a2E6E9d4e42Fde403332a395",
+      "symbol": "METH",
+      "name": "METH TOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 72,
+    "minor": 73,
     "patch": 19
   }
 }
