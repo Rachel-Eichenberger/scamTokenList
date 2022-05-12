@@ -59411,11 +59411,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6689b4C91bbe269Fd43Da749A74Ab39e822B592A",
+      "symbol": "PINU",
+      "name": "PakkunInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 53,
+    "minor": 54,
     "patch": 20
   }
 }
