@@ -60423,11 +60423,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fDB402d229ec247231C71BBe0839B73f2162a3c",
+      "symbol": "TUSKELON",
+      "name": "ElonTusk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 45,
+    "minor": 46,
     "patch": 21
   }
 }
