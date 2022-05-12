@@ -58113,11 +58113,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6153d5A28e73868d2F5Ab6B48e4C0227dC771cF9",
+      "symbol": "JSTR",
+      "name": "Jester",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 37,
+    "minor": 38,
     "patch": 19
   }
 }
