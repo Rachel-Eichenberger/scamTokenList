@@ -60676,11 +60676,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fB926495f0150A676Dd848bE1eE81D30D39ECeC",
+      "symbol": "CPQ",
+      "name": "CULTPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 68,
+    "minor": 69,
     "patch": 21
   }
 }
