@@ -59609,11 +59609,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x789f310ACF2729B0AA5C70C523538E43D9a5E16D",
+      "symbol": "LOCKER",
+      "name": "LockerToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 71,
+    "minor": 72,
     "patch": 20
   }
 }
