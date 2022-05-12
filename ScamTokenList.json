@@ -58344,11 +58344,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x353C109EECa9099F6F74c28C1448Af151d8D44AA",
+      "symbol": "TOXIFERATE",
+      "name": "Toxiferate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 58,
+    "minor": 59,
     "patch": 19
   }
 }
