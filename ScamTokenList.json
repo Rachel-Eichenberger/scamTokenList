@@ -58707,11 +58707,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7014761127d54dd5c0E50Cc4b1d426bC47634B49",
+      "symbol": "PIGEON",
+      "name": "Pigeon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 89,
+    "minor": 90,
     "patch": 19
   }
 }
