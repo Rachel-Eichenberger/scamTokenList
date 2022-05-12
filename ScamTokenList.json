@@ -58850,11 +58850,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC4138C99081A960D6AFe0A5cA4f16d7d626505D",
+      "symbol": "FROG",
+      "name": "FrogCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 2,
+    "minor": 3,
     "patch": 20
   }
 }
