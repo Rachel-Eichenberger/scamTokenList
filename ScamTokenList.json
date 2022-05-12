@@ -60258,11 +60258,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC239e529eCe455183F11700C8595535C7d9Beb90",
+      "symbol": "FOOLS",
+      "name": "FoolsToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 30,
+    "minor": 31,
     "patch": 21
   }
 }
