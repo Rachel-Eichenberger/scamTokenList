@@ -57673,11 +57673,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdde92dA746dfA05DB9cD33685e3153C18064Ba6B",
+      "symbol": "SpacexShib",
+      "name": "SpacexShib",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 20,
-    "minor": 97,
+    "minor": 98,
     "patch": 18
   }
 }
