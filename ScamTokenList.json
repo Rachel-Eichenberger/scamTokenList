@@ -57959,11 +57959,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeEd31F7a7f65e9060aF312d8170440E4BfF2E9f6",
+      "symbol": "EAGLE",
+      "name": "Eagle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 23,
+    "minor": 24,
     "patch": 19
   }
 }
