@@ -58454,11 +58454,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x016181Fd975106f70D9B2A96bA74cd4eCC175e9D",
+      "symbol": "ALEXANDER",
+      "name": "ALEXANDER INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 68,
+    "minor": 69,
     "patch": 19
   }
 }
