@@ -57717,11 +57717,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec7E01F596bC6303057728ff1c1c40F7FeD6ae06",
+      "symbol": "WFEG",
+      "name": "WHALE FEG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 1,
+    "minor": 2,
     "patch": 19
   }
 }
