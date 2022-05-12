@@ -58982,11 +58982,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbAc776CC54Cc33FD57D4Ca2b255f9Fb5F5f7Ab87",
+      "symbol": "BLING",
+      "name": "ShiblingInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 14,
+    "minor": 15,
     "patch": 20
   }
 }
