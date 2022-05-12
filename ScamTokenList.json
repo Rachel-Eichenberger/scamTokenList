@@ -59543,11 +59543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6247642f6366462edA226Fc581d978d660421e31",
+      "symbol": "SATISLAND",
+      "name": "SatoshiIsland",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 65,
+    "minor": 66,
     "patch": 20
   }
 }
