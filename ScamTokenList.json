@@ -60313,11 +60313,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4807f00f4c07ed21dad08f9b6Be334a5f627C555",
+      "symbol": "CULTM",
+      "name": "CultMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 35,
+    "minor": 36,
     "patch": 21
   }
 }
