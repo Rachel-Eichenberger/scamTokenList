@@ -59994,11 +59994,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1eef74bef8c68Ea49f46624ee63e431f9d4c6110",
+      "symbol": "GR",
+      "name": "GhostRider",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 6,
+    "minor": 7,
     "patch": 21
   }
 }
