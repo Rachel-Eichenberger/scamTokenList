@@ -58872,11 +58872,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83AfC3fBFDA08884c5b0621D3BC43Cb86754f25E",
+      "symbol": "FLIPSHIB",
+      "name": "FlipShibaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 4,
+    "minor": 5,
     "patch": 20
   }
 }
