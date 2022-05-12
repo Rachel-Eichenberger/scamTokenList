@@ -58663,11 +58663,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x056ba3714Fdc4228b5e7401cf857bb3fF5f0c1B5",
+      "symbol": "HKRINU",
+      "name": "HACKERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 85,
+    "minor": 86,
     "patch": 19
   }
 }
