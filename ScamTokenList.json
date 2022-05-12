@@ -59202,11 +59202,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c1D41bc2B9f2B03B4664Fb308942Ae8e13Eb60E",
+      "symbol": "GCAPES",
+      "name": "GreenCandleApes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 34,
+    "minor": 35,
     "patch": 20
   }
 }
