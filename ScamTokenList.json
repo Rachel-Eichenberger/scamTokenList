@@ -57695,11 +57695,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe53278308f0321c74B37E8a660F5c0407381293",
+      "symbol": "SODIUM",
+      "name": "Sodium Finance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 20,
-    "minor": 99,
-    "patch": 18
+    "major": 21,
+    "minor": 0,
+    "patch": 19
   }
 }
