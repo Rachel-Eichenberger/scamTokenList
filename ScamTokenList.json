@@ -60203,11 +60203,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x182629A4CbE8D50E1594724cD8E74a4d94bA1Dc7",
+      "symbol": "NEKOKIBA",
+      "name": "NEKOKIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 25,
+    "minor": 26,
     "patch": 21
   }
 }
