@@ -59576,11 +59576,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x614bd121cF5648789eD0769bc686D00232c14ec0",
+      "symbol": "LOCKER",
+      "name": "Locker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 68,
+    "minor": 69,
     "patch": 20
   }
 }
