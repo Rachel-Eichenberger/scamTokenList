@@ -59158,11 +59158,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fe01f2Dd9f35bE9208F951004004DF743Fbbf3B",
+      "symbol": "EYE",
+      "name": "BullseyeCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 30,
+    "minor": 31,
     "patch": 20
   }
 }
