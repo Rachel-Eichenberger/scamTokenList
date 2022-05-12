@@ -59983,11 +59983,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27DcBf2A7e4AfBFa81105c476d2c3D60a624Ecb0",
+      "symbol": "VSN",
+      "name": "TheVision",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 5,
+    "minor": 6,
     "patch": 21
   }
 }
