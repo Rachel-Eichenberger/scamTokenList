@@ -60907,11 +60907,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62F43F218594e01397Df63BC458C1d35eb4a26CE",
+      "symbol": "LUNADAO",
+      "name": "LunaDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 89,
+    "minor": 90,
     "patch": 21
   }
 }
