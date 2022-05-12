@@ -59587,11 +59587,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1dBcDd0653dbB6033DC3E77376d6C672B1dA6b54",
+      "symbol": "CHURCHCULT",
+      "name": "ChurchCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 69,
+    "minor": 70,
     "patch": 20
   }
 }
