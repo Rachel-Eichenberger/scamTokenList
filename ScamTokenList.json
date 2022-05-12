@@ -58586,11 +58586,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cf7Ae1823dA97Cfa79829e1DAe7fe8A876c14Ab",
+      "symbol": "DINU",
+      "name": "Dopaminu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 78,
+    "minor": 79,
     "patch": 19
   }
 }
