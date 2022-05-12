@@ -58135,11 +58135,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92bd0D529d73e6157656F049515130a9A31dD386",
+      "symbol": "FEP",
+      "name": "Feg Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 39,
+    "minor": 40,
     "patch": 19
   }
 }
