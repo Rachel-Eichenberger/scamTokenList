@@ -60148,11 +60148,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6584A56cc487a7152cAFa511302aB62F0dDE70d8",
+      "symbol": "ILIAD",
+      "name": "IliadInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 20,
+    "minor": 21,
     "patch": 21
   }
 }
