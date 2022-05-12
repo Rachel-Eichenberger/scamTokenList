@@ -58564,11 +58564,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf3FdeF1c3a950877811aE97860612B0a0e1eF02",
+      "symbol": "NASA",
+      "name": "NASA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 76,
+    "minor": 77,
     "patch": 19
   }
 }
