@@ -59565,11 +59565,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B521487798175707fb1bB0596E4F1EE97Ea3a77",
+      "symbol": "CULTNOBI",
+      "name": "CULTNOBI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 67,
+    "minor": 68,
     "patch": 20
   }
 }
