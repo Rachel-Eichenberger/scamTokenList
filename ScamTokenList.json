@@ -58509,11 +58509,44 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D3AC10f227Bb1b2Cc121679CF72f7D3f0cA77DC",
+      "symbol": "DEGEN60",
+      "name": "DEGEN60",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x108Ae13695421d22c93324537802986814d43Bc3",
+      "symbol": "AL",
+      "name": "Ape Labs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf777833189B6ACE09A669a33880e4d374FD2705",
+      "symbol": "APELABS",
+      "name": "APELABS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 73,
+    "minor": 74,
     "patch": 19
   }
 }
