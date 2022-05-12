@@ -59774,11 +59774,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc604d65Fd6610f243E5A98aa43B48ad9E1A575AA",
+      "symbol": "DONG",
+      "name": "KonkeyDong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 86,
+    "minor": 87,
     "patch": 20
   }
 }
