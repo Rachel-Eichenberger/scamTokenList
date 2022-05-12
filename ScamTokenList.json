@@ -60467,11 +60467,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaBDEF8418962020A92D365869985968E5fCc7351",
+      "symbol": "WINGZ",
+      "name": "Wingz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 49,
+    "minor": 50,
     "patch": 21
   }
 }
