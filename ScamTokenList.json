@@ -58377,11 +58377,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5DB78ef817E9Ed9c4E9A642183a3F28418D69575",
+      "symbol": "SPACEAPE",
+      "name": "Space Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 61,
+    "minor": 62,
     "patch": 19
   }
 }
