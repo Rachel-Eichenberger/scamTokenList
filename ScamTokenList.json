@@ -59323,11 +59323,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcA1356f006438F9b9A753351Ab1d012ef2aedbb",
+      "symbol": "BS",
+      "name": "BitchSlapped",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 45,
+    "minor": 46,
     "patch": 20
   }
 }
