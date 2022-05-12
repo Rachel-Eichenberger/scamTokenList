@@ -60060,11 +60060,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35187e9bF784d659156D9e4Cc12031eFc1c0fAEa",
+      "symbol": "SAI",
+      "name": "StudentAthleteInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 12,
+    "minor": 13,
     "patch": 21
   }
 }
