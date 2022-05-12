@@ -58069,11 +58069,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02c8c892598412558f1241E441d3197c1313d949",
+      "symbol": "DOPE",
+      "name": "Doge Ape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 33,
+    "minor": 34,
     "patch": 19
   }
 }
