@@ -57805,11 +57805,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1eC5bFBB8bE5328DEd48DAcA0D7F16974490D4Dd",
+      "symbol": "HOWL",
+      "name": "Howler",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 9,
+    "minor": 10,
     "patch": 19
   }
 }
