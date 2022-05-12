@@ -59257,11 +59257,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A9435F50737f15955B9C025f9b4E8B420b3857b",
+      "symbol": "SIMPSONS",
+      "name": "SimpsonsCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 39,
+    "minor": 40,
     "patch": 20
   }
 }
