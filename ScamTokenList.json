@@ -59961,11 +59961,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5afC9caa5c066034E2be6BfCFD2d8474fa0C808",
+      "symbol": "SHIBIO",
+      "name": "SHIBTheMetaverse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 3,
+    "minor": 4,
     "patch": 21
   }
 }
