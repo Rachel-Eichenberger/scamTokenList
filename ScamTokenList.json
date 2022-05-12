@@ -58025,11 +58025,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Ef865F7118e293B3059Add116eF8066e49b58cD",
+      "symbol": "HAPE",
+      "name": "Harambe Ape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 29,
+    "minor": 30,
     "patch": 19
   }
 }
