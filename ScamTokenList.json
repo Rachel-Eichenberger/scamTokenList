@@ -58652,11 +58652,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fb4ae4BF18Be67B2B4AE0865368aB44e664288b",
+      "symbol": "SHIBCANNON",
+      "name": "SHIBACANNON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 84,
+    "minor": 85,
     "patch": 19
   }
 }
