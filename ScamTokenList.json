@@ -60874,11 +60874,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E8a75908FbB54c0958aE73C760dE73164CD323c",
+      "symbol": "SECTINU",
+      "name": "SectInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 86,
+    "minor": 87,
     "patch": 21
   }
 }
