@@ -60126,11 +60126,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E18724C3cd1226BF71452DfB4047E6ABBC2253F",
+      "symbol": "YODANOBI",
+      "name": "YODANOBI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 18,
+    "minor": 19,
     "patch": 21
   }
 }
