@@ -59873,11 +59873,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EddaFaE4f30B7b731880F90FE7121Ea3fa7377c",
+      "symbol": "SHIBZILLA",
+      "name": "ShibZilla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 95,
+    "minor": 96,
     "patch": 20
   }
 }
