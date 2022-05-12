@@ -60236,11 +60236,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37A1F228CBAf997107b42cf3adEE125a57360A26",
+      "symbol": "SFINX",
+      "name": "SfinxInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 28,
+    "minor": 29,
     "patch": 21
   }
 }
