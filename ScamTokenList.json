@@ -58696,11 +58696,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf7745565CA776515901D3EF47a781f0e13Ab4D4",
+      "symbol": "EASTEREGG",
+      "name": "EasterEgg",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 88,
+    "minor": 89,
     "patch": 19
   }
 }
