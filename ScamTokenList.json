@@ -58278,11 +58278,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb417358d730DcDA8B73152CAEF67AdB9a9d4C2B",
+      "symbol": "MOD",
+      "name": "MOONORDUST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 52,
+    "minor": 53,
     "patch": 19
   }
 }
