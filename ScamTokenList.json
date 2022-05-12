@@ -57794,11 +57794,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA13953770eaC5Ba7F15f75481C0C64Dc56cFe02d",
+      "symbol": "JETCLUB",
+      "name": "JET CLUB INU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 8,
+    "minor": 9,
     "patch": 19
   }
 }
