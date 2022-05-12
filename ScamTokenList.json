@@ -58421,11 +58421,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3DE5b8Dede4C13a9d15DfD2fBA48e31128Bfe249",
+      "symbol": "WOJ",
+      "name": "WOJAK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 65,
+    "minor": 66,
     "patch": 19
   }
 }
