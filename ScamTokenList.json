@@ -57706,11 +57706,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9d98c0233D1507890A5bA57dffC6C0E6f90317F",
+      "symbol": "QOMI",
+      "name": "Shiba Predator Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 0,
+    "minor": 1,
     "patch": 19
   }
 }
