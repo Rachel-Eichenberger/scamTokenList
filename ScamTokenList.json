@@ -58091,11 +58091,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfab2aE750d386C3aC72eA2cdf3Bf5EDCE446BC9d",
+      "symbol": "AlcoholicApe",
+      "name": "Alcoholic Ape",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 35,
+    "minor": 36,
     "patch": 19
   }
 }
