@@ -60390,11 +60390,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c9685574927B1B481928D4d149FC627c35bD3b5",
+      "symbol": "LGBT",
+      "name": "LetsGetBasedTogethe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 42,
+    "minor": 43,
     "patch": 21
   }
 }
