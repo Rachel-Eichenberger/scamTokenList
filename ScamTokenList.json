@@ -58949,11 +58949,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD34E6B814e48CdfbD6DBC74073dB5bA8Ba9F3e7f",
+      "symbol": "PMB",
+      "name": "PumpMyBags",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 11,
+    "minor": 12,
     "patch": 20
   }
 }
