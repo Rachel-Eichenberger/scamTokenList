@@ -58839,11 +58839,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67aE61463342a7B354A721F079D863B3158E2564",
+      "symbol": "NLI",
+      "name": "NoLimitInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 1,
+    "minor": 2,
     "patch": 20
   }
 }
