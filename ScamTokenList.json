@@ -58927,11 +58927,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF48Eca1F28b330B0EFE0b345109A8e8a13E4CBDB",
+      "symbol": "FROZONE",
+      "name": "Frozone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 9,
+    "minor": 10,
     "patch": 20
   }
 }
