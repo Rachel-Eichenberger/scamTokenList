@@ -59037,11 +59037,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce20b51eE52E9a8C1801981bC03FDF4538B7517F",
+      "symbol": "WOWG",
+      "name": "WorldofWomenGalaxy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 19,
+    "minor": 20,
     "patch": 20
   }
 }
