@@ -57948,11 +57948,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47d09DdDb8263981a38260a16aaC2AD2fD3Dfd3D",
+      "symbol": "DONTBUYSKEM",
+      "name": "Tracker Gobbler",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 22,
+    "minor": 23,
     "patch": 19
   }
 }
