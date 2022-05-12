@@ -60665,11 +60665,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc63Adee1Bb06f4f4dFFea75f9e6BC39d0A69eFcB",
+      "symbol": "SUBCULT",
+      "name": "SUBCULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 67,
+    "minor": 68,
     "patch": 21
   }
 }
