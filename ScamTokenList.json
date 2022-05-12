@@ -60379,11 +60379,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAf161b82B3483026cf07e4A64915f51A83A25fAd",
+      "symbol": "SYM",
+      "name": "Name",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 41,
+    "minor": 42,
     "patch": 21
   }
 }
