@@ -58630,11 +58630,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1107eF446a5847b4110612B2E8ef9Fc6bC5a8181",
+      "symbol": "OBG",
+      "name": "OldButGood",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 82,
+    "minor": 83,
     "patch": 19
   }
 }
