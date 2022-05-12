@@ -59730,11 +59730,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb449e6255173884d657ef0e1780a283Db5e8174f",
+      "symbol": "ERC",
+      "name": "EverybodyRugCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 82,
+    "minor": 83,
     "patch": 20
   }
 }
