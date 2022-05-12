@@ -60720,11 +60720,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4576915ED765dee17A6Fdb3AEb60656d2651AF85",
+      "symbol": "EPH",
+      "name": "Epiphany",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 72,
+    "minor": 73,
     "patch": 21
   }
 }
