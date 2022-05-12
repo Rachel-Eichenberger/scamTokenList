@@ -58916,11 +58916,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bf0700e9FcEe172964BBf75D9F0493147b0619C",
+      "symbol": "WOODYINU",
+      "name": "WoodyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 8,
+    "minor": 9,
     "patch": 20
   }
 }
