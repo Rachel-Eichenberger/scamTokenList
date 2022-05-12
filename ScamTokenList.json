@@ -59488,11 +59488,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cF3D0C32d8c4dd2921c143Db93d2027133e7181",
+      "symbol": "KIBINJA",
+      "name": "KIBANOBI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 60,
+    "minor": 61,
     "patch": 20
   }
 }
