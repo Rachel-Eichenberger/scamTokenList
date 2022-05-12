@@ -58487,11 +58487,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8650f7b1A8827db7Fbf60e8B95971a8B93f7ea2",
+      "symbol": "FindMe",
+      "name": "Find Me If You Can",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 71,
+    "minor": 72,
     "patch": 19
   }
 }
