@@ -59004,11 +59004,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8068Efe345F8D7481777f41624dC5D2535e20B8",
+      "symbol": "RYOSHIVERSE",
+      "name": "RyoshisMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 16,
+    "minor": 17,
     "patch": 20
   }
 }
