@@ -58388,11 +58388,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC0acc68510412590072f078c3BA2F3311cC233Ad",
+      "symbol": "Orbit",
+      "name": "Meta Orbit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 62,
+    "minor": 63,
     "patch": 19
   }
 }
