@@ -60819,11 +60819,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4aD9A0F16918fda02F8D599ddFa91C7F5900DC40",
+      "symbol": "TRUSTELITES",
+      "name": "TrustTheElites",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 81,
+    "minor": 82,
     "patch": 21
   }
 }
