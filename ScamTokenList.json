@@ -57992,11 +57992,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90C6b40dB93Fa31FF85B2954F5D3cE878FfaA409",
+      "symbol": "APEVERSE",
+      "name": "Ape Metaverse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 26,
+    "minor": 27,
     "patch": 19
   }
 }
