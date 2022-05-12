@@ -58619,11 +58619,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ea2d1586cc5e62D61F399d83B2803C8F4cd83aF",
+      "symbol": "GAS",
+      "name": "Gaslight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 81,
+    "minor": 82,
     "patch": 19
   }
 }
