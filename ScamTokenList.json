@@ -57970,11 +57970,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE741c31fA1ee82dAf7b82e9134E0D27059346278",
+      "symbol": "SkyInu",
+      "name": "SkyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 24,
+    "minor": 25,
     "patch": 19
   }
 }
