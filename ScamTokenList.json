@@ -58036,11 +58036,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF443827F4a68a681efD63a1B2DeF247E9879b9A9",
+      "symbol": "GM",
+      "name": "GM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 30,
+    "minor": 31,
     "patch": 19
   }
 }
