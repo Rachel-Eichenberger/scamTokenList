@@ -60049,11 +60049,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEaD8E38544A724dCD995e839B4B0cF656B72EE9b",
+      "symbol": "TECH",
+      "name": "OneETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 11,
+    "minor": 12,
     "patch": 21
   }
 }
