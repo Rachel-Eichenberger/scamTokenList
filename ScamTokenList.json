@@ -59059,11 +59059,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87f49Ebece3cb8461E0f0741a9d039f8014fb86B",
+      "symbol": "SPONGEBOB",
+      "name": "SpongeBob",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 21,
+    "minor": 22,
     "patch": 20
   }
 }
