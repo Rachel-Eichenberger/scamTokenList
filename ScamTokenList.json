@@ -60786,11 +60786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CdEc53E31e11c85EA6257D4fd3d12B47C2C072c",
+      "symbol": "RYOSHINOBI",
+      "name": "RyoshiNobi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 78,
+    "minor": 79,
     "patch": 21
   }
 }
