@@ -59884,11 +59884,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d127354F9FA479d57563CAe7720e09B1DB99FE1",
+      "symbol": "APEZILLA",
+      "name": "ApeZilla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 96,
+    "minor": 97,
     "patch": 20
   }
 }
