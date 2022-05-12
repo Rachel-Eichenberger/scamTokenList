@@ -57772,11 +57772,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74A4c7b582A3Cf93093f24EDB609b980E357F22C",
+      "symbol": "RAPTOR",
+      "name": "RAPTOR 2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 6,
+    "minor": 7,
     "patch": 19
   }
 }
