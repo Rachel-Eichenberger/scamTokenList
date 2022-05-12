@@ -60137,11 +60137,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa026c89BC6E3a2e19Dd4f1C734Ce58CB76d499B0",
+      "symbol": "SDOGE",
+      "name": "SimDogecom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 19,
+    "minor": 20,
     "patch": 21
   }
 }
