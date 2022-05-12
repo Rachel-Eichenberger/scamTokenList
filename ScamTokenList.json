@@ -59851,11 +59851,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAb8e37124Fb4c3F38Ef5cA58eC5561B3240b319F",
+      "symbol": "OWO",
+      "name": "OscarWinnersOnly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 93,
+    "minor": 94,
     "patch": 20
   }
 }
