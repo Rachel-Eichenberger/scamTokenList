@@ -59213,11 +59213,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27262D06fb366B5310f353d95144C2d9B22387B1",
+      "symbol": "ROCKED",
+      "name": "SmithPunch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 35,
+    "minor": 36,
     "patch": 20
   }
 }
