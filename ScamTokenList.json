@@ -60324,11 +60324,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66D7974ff3dc96eBaaE139A1665DeA4cd517b6d0",
+      "symbol": "RYOSHI",
+      "name": "RyoshisDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 36,
+    "minor": 37,
     "patch": 21
   }
 }
