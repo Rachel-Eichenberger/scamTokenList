@@ -60038,11 +60038,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x568559Ae946B9C6f7AA626f9C5eaf88B454F1443",
+      "symbol": "STS",
+      "name": "SharkTaleSmith",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 10,
+    "minor": 11,
     "patch": 21
   }
 }
