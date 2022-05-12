@@ -58245,11 +58245,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x252C4b66FFe4DfaD7CC015491E9b5b3d062Cb01f",
+      "symbol": "APEINJA",
+      "name": "APENOBI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 49,
+    "minor": 50,
     "patch": 19
   }
 }
