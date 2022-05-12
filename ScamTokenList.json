@@ -60588,11 +60588,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28d220970F81CB90D1a8C548282485Fe1aae7beD",
+      "symbol": "CULTSHI",
+      "name": "CultSHI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 60,
+    "minor": 61,
     "patch": 21
   }
 }
