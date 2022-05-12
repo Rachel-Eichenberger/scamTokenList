@@ -59829,11 +59829,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x332A209b905646950F0f74A32Aa8F3163bf1d1E1",
+      "symbol": "PPR",
+      "name": "Pupper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 91,
+    "minor": 92,
     "patch": 20
   }
 }
