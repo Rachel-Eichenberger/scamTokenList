@@ -59895,11 +59895,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE13Ba7D5B6d4B17bA25D7f8474b76073227B494",
+      "symbol": "PHNX",
+      "name": "Rebirth",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 97,
+    "minor": 98,
     "patch": 20
   }
 }
