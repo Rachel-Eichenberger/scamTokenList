@@ -58289,11 +58289,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97BDBD52B026f2f929cD3f516A28df68B7A18218",
+      "symbol": "BANE",
+      "name": "Bane Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 53,
+    "minor": 54,
     "patch": 19
   }
 }
