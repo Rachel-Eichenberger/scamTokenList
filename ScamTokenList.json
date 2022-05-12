@@ -60368,11 +60368,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x801D862d4E4CB86782607EBB92957baB1D2164b4",
+      "symbol": "ANON",
+      "name": "ANONYMOUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 40,
+    "minor": 41,
     "patch": 21
   }
 }
