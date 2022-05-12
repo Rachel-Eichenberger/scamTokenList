@@ -60247,11 +60247,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04E52DF738E0c13bc58d6d75f964381F8D18b1b7",
+      "symbol": "SMNM",
+      "name": "SminemToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 29,
+    "minor": 30,
     "patch": 21
   }
 }
