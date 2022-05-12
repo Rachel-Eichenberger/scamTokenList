@@ -59136,11 +59136,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85C8B9B268E653F216A9d6e08E2E1f2B6963F483",
+      "symbol": "MEMECULT",
+      "name": "MEMECULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 28,
+    "minor": 29,
     "patch": 20
   }
 }
