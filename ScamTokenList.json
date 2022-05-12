@@ -60500,11 +60500,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfedDd3C6d7Fe419b21cDBaDAe88273Db1fa72CCF",
+      "symbol": "BANKLESS",
+      "name": "BanklessDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 52,
+    "minor": 53,
     "patch": 21
   }
 }
