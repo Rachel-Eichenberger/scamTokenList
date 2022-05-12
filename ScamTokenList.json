@@ -59818,11 +59818,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc27817323Aa63A11E7Dee678E350c6E37583CCD",
+      "symbol": "GWI",
+      "name": "GenerationalWealthI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 90,
+    "minor": 91,
     "patch": 20
   }
 }
