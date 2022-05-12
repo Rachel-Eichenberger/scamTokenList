@@ -58740,11 +58740,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8ca74eAF5248367E1dfB7A860fFBd7383aF20e9",
+      "symbol": "SAITAMEOW",
+      "name": "Saitameow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 92,
+    "minor": 93,
     "patch": 19
   }
 }
