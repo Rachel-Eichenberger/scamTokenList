@@ -59642,11 +59642,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53A32C325235F19a6A5036f2230B7c3E26DE0959",
+      "symbol": "QOMJA",
+      "name": "QOMJA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 74,
+    "minor": 75,
     "patch": 20
   }
 }
