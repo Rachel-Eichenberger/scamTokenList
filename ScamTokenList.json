@@ -58432,11 +58432,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F16a1964a0A4029ff737B5AB7c965a150165E7a",
+      "symbol": "HGRY",
+      "name": "HungryAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 66,
+    "minor": 67,
     "patch": 19
   }
 }
