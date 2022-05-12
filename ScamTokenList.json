@@ -60621,11 +60621,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b27EFb5A4c07E38e4654Be5E6a0BFa0052460fe",
+      "symbol": "MOONNINJA",
+      "name": "SUPERMOONNINJA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 63,
+    "minor": 64,
     "patch": 21
   }
 }
