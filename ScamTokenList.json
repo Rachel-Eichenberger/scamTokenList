@@ -58212,11 +58212,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E6C390cBC049A58e9d4468211Fa276f85d25047",
+      "symbol": "INSIDOOR",
+      "name": "Insider Play",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 46,
+    "minor": 47,
     "patch": 19
   }
 }
