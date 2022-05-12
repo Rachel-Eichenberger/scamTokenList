@@ -60577,11 +60577,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7456c0b8DfA8eE2b37d7c3a2ad065841B69f877",
+      "symbol": "EVO",
+      "name": "Evolution",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 59,
+    "minor": 60,
     "patch": 21
   }
 }
