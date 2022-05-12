@@ -60555,11 +60555,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb151109851e047bC2525c4186bCf8354A0A6f791",
+      "symbol": "CULTPROTECTOR",
+      "name": "CultProtector",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 57,
+    "minor": 58,
     "patch": 21
   }
 }
