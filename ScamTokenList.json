@@ -60808,11 +60808,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42c9315ACA89171e5bB92bdDFb3Abe3a81fA1B9a",
+      "symbol": "CHURCH",
+      "name": "ChurchDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 80,
+    "minor": 81,
     "patch": 21
   }
 }
