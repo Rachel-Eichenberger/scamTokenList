@@ -59653,11 +59653,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x461372026C13e2ff37EA40b148cd996862273d71",
+      "symbol": "CULTLON",
+      "name": "CultElonToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 75,
+    "minor": 76,
     "patch": 20
   }
 }
