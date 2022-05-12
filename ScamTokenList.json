@@ -59356,11 +59356,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25926da564A80aa1139f740607Dc9Dfdc501CF4e",
+      "symbol": "APEFI",
+      "name": "ApeFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 48,
+    "minor": 49,
     "patch": 20
   }
 }
