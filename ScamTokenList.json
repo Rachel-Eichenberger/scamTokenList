@@ -59554,11 +59554,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCCdC45014C3E3600e0BBf9b0d25E5bc70E50107D",
+      "symbol": "CTAMA",
+      "name": "CultTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 66,
+    "minor": 67,
     "patch": 20
   }
 }
