@@ -59697,11 +59697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21F8536429f479000963c38BD6b457E1F75b382B",
+      "symbol": "DISCORDOGE",
+      "name": "Discordoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 79,
+    "minor": 80,
     "patch": 20
   }
 }
