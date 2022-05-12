@@ -58861,11 +58861,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBA1A639F98D0738d708fe639aB035D60d50460A1",
+      "symbol": "DOD",
+      "name": "DiamondorDust",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 3,
+    "minor": 4,
     "patch": 20
   }
 }
