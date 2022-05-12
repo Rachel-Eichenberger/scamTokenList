@@ -58102,11 +58102,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE4E2c981BC1da3C9E9b68479EB08a3709FBC8Da",
+      "symbol": "SHIBPANZEE",
+      "name": "Shibpanzee",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 36,
+    "minor": 37,
     "patch": 19
   }
 }
