@@ -60764,11 +60764,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA10A8F4fd51653EBbC170e946235eE89c95836f4",
+      "symbol": "RYOSHITAMA",
+      "name": "RYOSHITAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 76,
+    "minor": 77,
     "patch": 21
   }
 }
