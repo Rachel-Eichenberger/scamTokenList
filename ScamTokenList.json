@@ -57981,11 +57981,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9161cDE2Aa4C4D38E09e12796d5B6F6ec546548c",
+      "symbol": "SAW",
+      "name": "JIGSAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 25,
+    "minor": 26,
     "patch": 19
   }
 }
