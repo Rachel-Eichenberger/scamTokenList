@@ -59389,11 +59389,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4583f7dC04930929F46331afABe6B84D0cEe739D",
+      "symbol": "LOCKER",
+      "name": "Locker",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 51,
+    "minor": 52,
     "patch": 20
   }
 }
