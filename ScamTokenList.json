@@ -60896,11 +60896,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a4612eb147AC3Ccad3E6be95e1445Afca4039D3",
+      "symbol": "HOPE",
+      "name": "HopeProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 88,
+    "minor": 89,
     "patch": 21
   }
 }
