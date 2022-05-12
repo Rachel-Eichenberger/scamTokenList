@@ -57816,11 +57816,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f40f8bc80505b37ee9e82c61CaF393851516975",
+      "symbol": "MAPE",
+      "name": "MoonApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 10,
+    "minor": 11,
     "patch": 19
   }
 }
