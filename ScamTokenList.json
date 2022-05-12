@@ -59246,11 +59246,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9d7f9eCCdA893cb543967890Ba63602390340DB",
+      "symbol": "CTHULHU",
+      "name": "Cthulhu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 38,
+    "minor": 39,
     "patch": 20
   }
 }
