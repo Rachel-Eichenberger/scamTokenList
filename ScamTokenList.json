@@ -60071,11 +60071,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6Cc91387d621B41F87bACe33AfCbD394c99f5d5",
+      "symbol": "BIZNIZ",
+      "name": "BiznizMagnet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 13,
+    "minor": 14,
     "patch": 21
   }
 }
