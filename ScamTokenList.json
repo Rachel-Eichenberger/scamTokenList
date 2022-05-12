@@ -60753,11 +60753,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE1988D4519Bf07358bC5248078bCD7aa0955eF5",
+      "symbol": "COMMUNITY",
+      "name": "Community",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 75,
+    "minor": 76,
     "patch": 21
   }
 }
