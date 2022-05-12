@@ -60742,11 +60742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa6f4B41D356fCC85f96bccf69A5D0252C6C7a87",
+      "symbol": "ROCKET",
+      "name": "ROCKET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 74,
+    "minor": 75,
     "patch": 21
   }
 }
