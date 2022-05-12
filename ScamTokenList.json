@@ -60643,11 +60643,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0552eBB8BC9f441f396A47C391bA9737Eb883D06",
+      "symbol": "APECULT",
+      "name": "ApeCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 65,
+    "minor": 66,
     "patch": 21
   }
 }
