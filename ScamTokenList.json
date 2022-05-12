@@ -60544,11 +60544,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x208A896b89431dc49094163f3435d2a9E582DEAb",
+      "symbol": "ZCULT",
+      "name": "ZombieCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 56,
+    "minor": 57,
     "patch": 21
   }
 }
