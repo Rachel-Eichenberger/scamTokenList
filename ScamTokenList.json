@@ -58762,11 +58762,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C5b69C4Fe848f4631B9b1f68A70DCB7AC95af37",
+      "symbol": "JARVIS",
+      "name": "Jarvis",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 94,
+    "minor": 95,
     "patch": 19
   }
 }
