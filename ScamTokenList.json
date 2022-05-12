@@ -60445,11 +60445,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA307bae003F5abD34e4971Eac218F522e5855972",
+      "symbol": "INV",
+      "name": "Inevitable",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 47,
+    "minor": 48,
     "patch": 21
   }
 }
