@@ -60852,11 +60852,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBA3F51682510eC30d584B633E058D6DAeF60ed41",
+      "symbol": "ANONCULT",
+      "name": "AnonymousCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 84,
+    "minor": 85,
     "patch": 21
   }
 }
