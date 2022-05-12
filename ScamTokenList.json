@@ -59268,11 +59268,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2291a88B0C76D90e9B15f3FcDcaA90E2675A1806",
+      "symbol": "AITAKLR",
+      "name": "PELT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 40,
+    "minor": 41,
     "patch": 20
   }
 }
