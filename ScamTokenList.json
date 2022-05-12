@@ -58333,11 +58333,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AD80cb4CC4AC3Cb6D665e9b1c94a6E2A17747DC",
+      "symbol": "RICHAPES",
+      "name": "Rich Apes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 57,
+    "minor": 58,
     "patch": 19
   }
 }
