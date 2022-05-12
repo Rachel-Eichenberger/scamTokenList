@@ -58718,11 +58718,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53Aef763ce3fe934b1dBf867d2452932169E0969",
+      "symbol": "AOM",
+      "name": "ApePredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 90,
+    "minor": 91,
     "patch": 19
   }
 }
