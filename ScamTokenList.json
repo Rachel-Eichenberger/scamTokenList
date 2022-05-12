@@ -57926,11 +57926,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x805CEb70a2DD1daD318A120E06552ffA001df0Be",
+      "symbol": "BURN",
+      "name": "BURN TOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 20,
+    "minor": 21,
     "patch": 19
   }
 }
