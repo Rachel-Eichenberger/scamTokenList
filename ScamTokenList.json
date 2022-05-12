@@ -59950,11 +59950,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6aAd72d483FDebe9CCa27E58bAB29cdbC1e4313D",
+      "symbol": "AFI",
+      "name": "AprilFoolsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 2,
+    "minor": 3,
     "patch": 21
   }
 }
