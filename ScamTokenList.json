@@ -59026,11 +59026,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4a19B3569abDBCf81B8aD9EC3663Ab62aDda3F0",
+      "symbol": "BOBATEA",
+      "name": "BOBATEA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 18,
+    "minor": 19,
     "patch": 20
   }
 }
