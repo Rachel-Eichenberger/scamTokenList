@@ -58575,11 +58575,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c3775Ae58C5eCB8e8eDcf93A368eb32Eb35C668",
+      "symbol": "ORBIT",
+      "name": "MetaOrbit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 77,
+    "minor": 78,
     "patch": 19
   }
 }
