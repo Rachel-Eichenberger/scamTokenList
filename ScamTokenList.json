@@ -57860,11 +57860,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF853ab63825Da9D103D2A847C5B990a2d3351e2D",
+      "symbol": "DED",
+      "name": "Doge Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 14,
+    "minor": 15,
     "patch": 19
   }
 }
