@@ -59631,11 +59631,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FCBcfd46eC0D6406783e9dD50572c43161ad1A8",
+      "symbol": "CULTBRO",
+      "name": "CultBRO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 73,
+    "minor": 74,
     "patch": 20
   }
 }
