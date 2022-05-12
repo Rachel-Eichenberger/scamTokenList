@@ -60093,11 +60093,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa3C3Fc8B877Bd8562c2fCD939ee241FAfe28379",
+      "symbol": "ELONMARS",
+      "name": "ElonMars",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 15,
+    "minor": 16,
     "patch": 21
   }
 }
