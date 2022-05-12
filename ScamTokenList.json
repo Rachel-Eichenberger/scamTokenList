@@ -60159,11 +60159,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52Fb5Ffa6Fdb172890C593BE0733E9A1d2E61C30",
+      "symbol": "CC",
+      "name": "CryptoCultDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 21,
+    "minor": 22,
     "patch": 21
   }
 }
