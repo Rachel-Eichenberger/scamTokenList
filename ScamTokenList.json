@@ -59917,11 +59917,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3437cCbE7003a637EEdF20d3EDD848C72735E8d2",
+      "symbol": "KIDO",
+      "name": "FlokiDokey",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 22,
-    "minor": 99,
-    "patch": 20
+    "major": 23,
+    "minor": 0,
+    "patch": 21
   }
 }
