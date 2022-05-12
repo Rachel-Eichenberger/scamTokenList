@@ -60478,11 +60478,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c2f7a731098A9a541E7f7D742bd7C76A27E791A",
+      "symbol": "MEMECULT",
+      "name": "MemeCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 50,
+    "minor": 51,
     "patch": 21
   }
 }
