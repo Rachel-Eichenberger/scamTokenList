@@ -60687,11 +60687,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e62257E5E9980F8065Ab2eb97fED0DaA5F1bcc6",
+      "symbol": "CANDLE",
+      "name": "GreenCandleManv2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 69,
+    "minor": 70,
     "patch": 21
   }
 }
