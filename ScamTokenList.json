@@ -59499,11 +59499,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdc29ca2dad2aBe594b061407526b6b37BdF65cDA",
+      "symbol": "FLOBBER",
+      "name": "FLOBBER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 61,
+    "minor": 62,
     "patch": 20
   }
 }
