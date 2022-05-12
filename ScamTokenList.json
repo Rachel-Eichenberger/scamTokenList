@@ -58641,11 +58641,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7e871Ad4d35640dD0bbDc3303cD278748e0F4A6",
+      "symbol": "KAKONG",
+      "name": "KAKAROTKONG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 83,
+    "minor": 84,
     "patch": 19
   }
 }
