@@ -60863,11 +60863,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBBf6b5CD11a17c0E23ac920B18f73099269B3a9C",
+      "symbol": "FRU",
+      "name": "Fruition",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 85,
+    "minor": 86,
     "patch": 21
   }
 }
