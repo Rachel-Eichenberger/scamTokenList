@@ -59125,11 +59125,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x864Ec720FD6867776f5ea360507eb057Ea0fF237",
+      "symbol": "RBR",
+      "name": "RunBullsRun",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 27,
+    "minor": 28,
     "patch": 20
   }
 }
