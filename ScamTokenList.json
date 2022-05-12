@@ -58542,11 +58542,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b83DD66f0BD9A9ABB10167b343D21A576034a97",
+      "symbol": "MOQ",
+      "name": "MemesPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 74,
+    "minor": 75,
     "patch": 19
   }
 }
