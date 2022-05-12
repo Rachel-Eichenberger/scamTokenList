@@ -59906,11 +59906,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x337390d57e285D621465B858c7a5e815C1C20877",
+      "symbol": "MILO",
+      "name": "MiloInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 98,
+    "minor": 99,
     "patch": 20
   }
 }
