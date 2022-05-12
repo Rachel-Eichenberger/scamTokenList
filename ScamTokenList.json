@@ -58894,11 +58894,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb67DA90FB776f7C9540267218aFd89C589205c21",
+      "symbol": "SIMPSON",
+      "name": "SIMPSONLAUNCHER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 6,
+    "minor": 7,
     "patch": 20
   }
 }
