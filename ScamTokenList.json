@@ -58685,11 +58685,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEaC9276F08CF09F29dfC1eeCD3ab4Bc49b9c11c8",
+      "symbol": "HDAO",
+      "name": "HumanDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 87,
+    "minor": 88,
     "patch": 19
   }
 }
