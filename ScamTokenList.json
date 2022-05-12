@@ -60005,11 +60005,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8306BE8abC4c0B133cA2fA3790EaDdDa9f48B72E",
+      "symbol": "CCULT",
+      "name": "Catacult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 7,
+    "minor": 8,
     "patch": 21
   }
 }
