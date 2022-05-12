@@ -60269,11 +60269,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x843f8A97f078F465539A0Ee32341e9312eD31429",
+      "symbol": "SOD",
+      "name": "SHIBDUTY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 31,
+    "minor": 32,
     "patch": 21
   }
 }
