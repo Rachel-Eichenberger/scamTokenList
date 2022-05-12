@@ -58553,11 +58553,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB6457046BAd8deCa5946151457B54672754dFDA",
+      "symbol": "GYNECOLOGIST",
+      "name": "Gynecologist",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 75,
+    "minor": 76,
     "patch": 19
   }
 }
