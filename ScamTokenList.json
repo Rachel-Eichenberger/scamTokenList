@@ -58751,11 +58751,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39a7799469F611d13aA35f171c871EB14038D3bb",
+      "symbol": "RAC",
+      "name": "RichApesClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 93,
+    "minor": 94,
     "patch": 19
   }
 }
