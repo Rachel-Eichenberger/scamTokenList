@@ -59477,11 +59477,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D0FfaC90b60Fe036e07B46B9c270786B1489388",
+      "symbol": "APECULT",
+      "name": "ApeCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 22,
-    "minor": 59,
+    "minor": 60,
     "patch": 20
   }
 }
