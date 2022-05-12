@@ -58806,11 +58806,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c421aE62Aa04A5A2a3eb4f102f46546eE88cbaa",
+      "symbol": "DIAMONDS",
+      "name": "Diamond",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 21,
-    "minor": 98,
+    "minor": 99,
     "patch": 19
   }
 }
