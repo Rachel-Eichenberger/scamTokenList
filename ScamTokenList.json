@@ -61138,11 +61138,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fEef4edb5dAc92E4CC9338EbE89f87ACCF966f3",
+      "symbol": "COKE",
+      "name": "COKECoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 10,
+    "minor": 11,
     "patch": 22
   }
 }
