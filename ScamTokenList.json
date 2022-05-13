@@ -61061,11 +61061,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9B4E1e945b7a27Aa12bd4014BFC77c300848252",
+      "symbol": "BLI",
+      "name": "BoundlessInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 3,
+    "minor": 4,
     "patch": 22
   }
 }
