@@ -61028,11 +61028,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48dfE5164d5c6569623d7Ea4be8B1E161E03d28B",
+      "symbol": "EXPOSE",
+      "name": "ExposeToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 0,
+    "minor": 1,
     "patch": 22
   }
 }
