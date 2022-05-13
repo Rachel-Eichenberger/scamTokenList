@@ -61094,11 +61094,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x536FF6fc3B02B852A5F3c5e8fAfe49D6e2d62619",
+      "symbol": "CSINU",
+      "name": "CryptoShakeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 6,
+    "minor": 7,
     "patch": 22
   }
 }
