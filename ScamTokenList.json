@@ -61006,11 +61006,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86cbF0d521831d4ecD26658F5B65D073d76E8299",
+      "symbol": "LINU",
+      "name": "LUNAInu",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 98,
+    "minor": 99,
     "patch": 21
   }
 }
