@@ -61127,11 +61127,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd670207717C54Bebd07919565fb8b0c1971DBD5",
+      "symbol": "TICKER",
+      "name": "LunaticClock",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 9,
+    "minor": 10,
     "patch": 22
   }
 }
