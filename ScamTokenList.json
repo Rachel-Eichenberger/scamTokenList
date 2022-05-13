@@ -61105,11 +61105,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5DBcb702425f635F608d74e301c60605e4B33bc",
+      "symbol": "ARI",
+      "name": "AssetRecoveryInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 7,
+    "minor": 8,
     "patch": 22
   }
 }
