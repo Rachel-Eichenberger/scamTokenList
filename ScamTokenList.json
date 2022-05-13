@@ -61116,11 +61116,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF48005131B5cCA4E0206f681A30C37fCe11CeCa3",
+      "symbol": "WOOF",
+      "name": "WOOFSVISION",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 8,
+    "minor": 9,
     "patch": 22
   }
 }
