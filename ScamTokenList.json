@@ -61039,11 +61039,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA085Ba53cc13546517dbf233D7F4b0EcA78c78F9",
+      "symbol": "STOIC",
+      "name": "ThisTooShallPass",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 1,
+    "minor": 2,
     "patch": 22
   }
 }
