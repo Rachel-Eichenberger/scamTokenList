@@ -60962,11 +60962,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12432F6D9a88E101E5a2913C1729D76EAe4d4E85",
+      "symbol": "LFG",
+      "name": "LunaFallingGround",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 94,
+    "minor": 95,
     "patch": 21
   }
 }
