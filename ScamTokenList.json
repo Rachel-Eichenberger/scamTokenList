@@ -60929,11 +60929,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99d87cc5d6F041027b01629f5C745e9cB1D666b8",
+      "symbol": "BURP",
+      "name": "Burp",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 23,
-    "minor": 91,
+    "minor": 92,
     "patch": 21
   }
 }
