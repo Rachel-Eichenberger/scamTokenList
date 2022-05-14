@@ -61336,11 +61336,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf4131aE74EDf5185C10039Cd2b215B20c5a6E68",
+      "symbol": "SHINLUNA",
+      "name": "ShinLunaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 28,
+    "minor": 29,
     "patch": 22
   }
 }
