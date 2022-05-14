@@ -61237,11 +61237,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeCB5C82C02fEf6dc93C51A3A1e8462BC0De246d2",
+      "symbol": "SLUNA",
+      "name": "SHIBLUNA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 19,
+    "minor": 20,
     "patch": 22
   }
 }
