@@ -61369,11 +61369,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa583D8A7dEB5bB6316b5fabC140fc43d60440f6f",
+      "symbol": "META",
+      "name": "MetaPepeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 31,
+    "minor": 32,
     "patch": 22
   }
 }
