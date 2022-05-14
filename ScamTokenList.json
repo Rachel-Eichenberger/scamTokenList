@@ -61358,11 +61358,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC26EDaACC026a22157C292cA67F505af4a428DE7",
+      "symbol": "LUNB",
+      "name": "LunaBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 30,
+    "minor": 31,
     "patch": 22
   }
 }
