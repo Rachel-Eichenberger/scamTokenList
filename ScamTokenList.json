@@ -61270,11 +61270,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A3164eA950EED55A615CCBc92ce43875394aB03",
+      "symbol": "HUSH",
+      "name": "Silence",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 22,
+    "minor": 23,
     "patch": 22
   }
 }
