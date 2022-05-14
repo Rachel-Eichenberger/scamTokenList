@@ -61281,11 +61281,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb226e0eDA3C55Aca2cfF18939a60Da16cDD59E91",
+      "symbol": "CLUNA",
+      "name": "NewCommunityLuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 23,
+    "minor": 24,
     "patch": 22
   }
 }
