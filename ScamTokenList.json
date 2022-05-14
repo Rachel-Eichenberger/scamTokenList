@@ -61325,11 +61325,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf33bD23Cde5882DCeFF5dCA0D2F4f8c09E896f26",
+      "symbol": "HINU",
+      "name": "HivemindInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 27,
+    "minor": 28,
     "patch": 22
   }
 }
