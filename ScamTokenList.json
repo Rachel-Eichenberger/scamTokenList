@@ -61259,11 +61259,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44D2d740a5e346a66Dd7c7E6919814a44441A64C",
+      "symbol": "METKIT",
+      "name": "MetaKitties",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 21,
+    "minor": 22,
     "patch": 22
   }
 }
