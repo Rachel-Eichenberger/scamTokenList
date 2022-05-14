@@ -61380,11 +61380,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0a235afDF08b641fD2701d13A8F6989Cd1c05DE",
+      "symbol": "LUNATAMA",
+      "name": "LunaTamaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 32,
+    "minor": 33,
     "patch": 22
   }
 }
