@@ -61182,11 +61182,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF87f5F02176E8C7a12DBF629c93E7A5688deD9f8",
+      "symbol": "DRYP",
+      "name": "DRIPTO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 14,
+    "minor": 15,
     "patch": 22
   }
 }
