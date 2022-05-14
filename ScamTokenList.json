@@ -61347,11 +61347,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95C26cADeC5c61F337340AD89aEDf2Aca382126E",
+      "symbol": "MOONLUNA",
+      "name": "MoonLUNAInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 29,
+    "minor": 30,
     "patch": 22
   }
 }
