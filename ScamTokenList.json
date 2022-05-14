@@ -61391,11 +61391,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8CD804047B72bfa9ef1A24BEfbCCD7a15121Dc9",
+      "symbol": "ILLUMINAUGHTY",
+      "name": "Illuminaughty",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 33,
+    "minor": 34,
     "patch": 22
   }
 }
