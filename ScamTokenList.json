@@ -61204,11 +61204,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96181F7166d8FE0C431cEAc1EfbB587060A90C13",
+      "symbol": "YAMAHA",
+      "name": "YAMAHAMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 16,
+    "minor": 17,
     "patch": 22
   }
 }
