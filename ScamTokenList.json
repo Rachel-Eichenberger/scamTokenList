@@ -61248,11 +61248,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE800Cf8e28D42924f214AaAED6A0Afed5a4c74d2",
+      "symbol": "1E",
+      "name": "oneETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 20,
+    "minor": 21,
     "patch": 22
   }
 }
