@@ -61149,11 +61149,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcbdDf70187bf38b4489CC39BB864E8DBD9759b7C",
+      "symbol": "KILLERLUNA",
+      "name": "KillerLunaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 11,
+    "minor": 12,
     "patch": 22
   }
 }
