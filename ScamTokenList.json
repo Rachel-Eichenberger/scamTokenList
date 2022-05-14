@@ -61171,11 +61171,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07458a1c8F239a7f834de090Fe4cE990D5C87a3f",
+      "symbol": "LUNATICS",
+      "name": "Lunatics",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 13,
+    "minor": 14,
     "patch": 22
   }
 }
