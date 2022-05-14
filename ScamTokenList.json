@@ -61314,11 +61314,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5CE758971fC3Ea3F71100798aFF33B2E222F5d4a",
+      "symbol": "FALLOUT",
+      "name": "FALLOUTTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 26,
+    "minor": 27,
     "patch": 22
   }
 }
