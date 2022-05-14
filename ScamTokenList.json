@@ -61226,11 +61226,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x999Cdf4E21B174c4A4ABeA823385BBAdc5a80a99",
+      "symbol": "FEAR",
+      "name": "FearFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 18,
+    "minor": 19,
     "patch": 22
   }
 }
