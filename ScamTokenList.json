@@ -61556,11 +61556,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE77AE42e334845aE8d8dd620ac7E572D7c021b8A",
+      "symbol": "NAH",
+      "name": "Nah",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 48,
+    "minor": 49,
     "patch": 22
   }
 }
