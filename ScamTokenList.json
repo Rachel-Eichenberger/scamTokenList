@@ -61545,11 +61545,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3FD170e4f51e001205720264303517eF060Db908",
+      "symbol": "SAFELUNA",
+      "name": "SafeLuna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 47,
+    "minor": 48,
     "patch": 22
   }
 }
