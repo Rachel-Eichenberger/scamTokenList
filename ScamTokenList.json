@@ -61622,11 +61622,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2dfF5BA7361b8674Db1e6Cc08eaC0321C7c1145",
+      "symbol": "TIGER",
+      "name": "TigerCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 54,
+    "minor": 55,
     "patch": 22
   }
 }
