@@ -61523,11 +61523,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA13781090C8b0d941c2Dd988952ec57726A1188F",
+      "symbol": "RESCUE",
+      "name": "LUNARESCUE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 45,
+    "minor": 46,
     "patch": 22
   }
 }
