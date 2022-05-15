@@ -61501,11 +61501,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x767De2C9Ad6174F457fFf9fFbE7B8e13fFdB97eb",
+      "symbol": "ROTTS",
+      "name": "Rotts",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 43,
+    "minor": 44,
     "patch": 22
   }
 }
