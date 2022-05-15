@@ -61589,11 +61589,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x550ac883624B358Efe03FCEeFC63F430e3df3d95",
+      "symbol": "BOBO",
+      "name": "BoBoBread",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 51,
+    "minor": 52,
     "patch": 22
   }
 }
