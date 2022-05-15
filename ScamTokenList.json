@@ -61468,11 +61468,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cfFB402545b7FBDDC66f751c76c4aEde2e43002",
+      "symbol": "LUNABANK",
+      "name": "LunaBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 40,
+    "minor": 41,
     "patch": 22
   }
 }
