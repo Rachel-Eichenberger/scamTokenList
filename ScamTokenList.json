@@ -61600,11 +61600,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02C989E77432aFD6d093FB6201C10984701B1B67",
+      "symbol": "FOSSA",
+      "name": "FossaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 52,
+    "minor": 53,
     "patch": 22
   }
 }
