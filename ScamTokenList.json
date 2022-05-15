@@ -61490,11 +61490,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75309Fb1629Eb4DD7046776448B40d0B08b80D75",
+      "symbol": "CV",
+      "name": "CryptoVerse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 42,
+    "minor": 43,
     "patch": 22
   }
 }
