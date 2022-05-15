@@ -61633,11 +61633,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17c277D8FC4F70D8fC39ca4D814E13a1eA8250Ba",
+      "symbol": "COL",
+      "name": "CULTOFLUNA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 55,
+    "minor": 56,
     "patch": 22
   }
 }
