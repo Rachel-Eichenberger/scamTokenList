@@ -61457,11 +61457,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4aD7faC443EdA0CCA9119ef499D88a0546a1b92",
+      "symbol": "LUNAIR",
+      "name": "LunaAirdrop",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 39,
+    "minor": 40,
     "patch": 22
   }
 }
