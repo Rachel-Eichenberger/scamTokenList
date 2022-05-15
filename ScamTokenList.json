@@ -61567,11 +61567,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21FAc85D7eA0b3793385Cca4478819Dfafe0Fa3D",
+      "symbol": "AKAMARU",
+      "name": "Akamaru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 49,
+    "minor": 50,
     "patch": 22
   }
 }
