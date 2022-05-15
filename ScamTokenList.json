@@ -61446,11 +61446,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71702bF2793A8D0F4632FA24125B2687e752557e",
+      "symbol": "MAMAK",
+      "name": "MamaKong",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 38,
+    "minor": 39,
     "patch": 22
   }
 }
