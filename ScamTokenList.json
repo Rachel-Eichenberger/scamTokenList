@@ -61611,11 +61611,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe8Aa261C91cf6930E9Fbc88979eD2F6086f8077",
+      "symbol": "ASCENT",
+      "name": "LunarAscent",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 53,
+    "minor": 54,
     "patch": 22
   }
 }
