@@ -61424,11 +61424,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb51a0A51158B48844f4eA5c60E5ec73C191b7eC2",
+      "symbol": "OKURIMONO",
+      "name": "Okurimono",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 36,
+    "minor": 37,
     "patch": 22
   }
 }
