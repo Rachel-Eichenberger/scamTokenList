@@ -61512,11 +61512,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAbe07448358369867c2c3ACF891B7124c85AC5Cc",
+      "symbol": "ZKSYNC",
+      "name": "zkSync",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 44,
+    "minor": 45,
     "patch": 22
   }
 }
