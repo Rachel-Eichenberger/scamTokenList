@@ -61435,11 +61435,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6393D2D372C887D956A9cB7440DBE3bF28eCde3",
+      "symbol": "KPETS",
+      "name": "KryptoPets",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 37,
+    "minor": 38,
     "patch": 22
   }
 }
