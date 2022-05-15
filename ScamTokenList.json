@@ -61644,11 +61644,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E5FAEecd8Dd476E3D2c0a8caFB76cc135a2CBE7",
+      "symbol": "RBEAR",
+      "name": "RedBear",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 56,
+    "minor": 57,
     "patch": 22
   }
 }
