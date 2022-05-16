@@ -61677,11 +61677,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9717aA3a3D79eFD0E75517EAFdFA7d6d2b139a8A",
+      "symbol": "SAITDAO",
+      "name": "SaitamaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 59,
+    "minor": 60,
     "patch": 22
   }
 }
