@@ -61875,11 +61875,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE889a9Abf2F018421A83B9caC57639a2E185Cd8",
+      "symbol": "FFI",
+      "name": "FootballFoundationI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 77,
+    "minor": 78,
     "patch": 22
   }
 }
