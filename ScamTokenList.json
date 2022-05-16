@@ -62128,11 +62128,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD290e3d4C614fd37447239b9C8FA407059771fD2",
+      "symbol": "TRIBUTE",
+      "name": "Tribute",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 0,
+    "minor": 1,
     "patch": 23
   }
 }
