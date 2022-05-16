@@ -61985,11 +61985,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ec72CD6690db40B16be166858299F19D4f8E5B0",
+      "symbol": "GOLD1",
+      "name": "TehGoldenOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 87,
+    "minor": 88,
     "patch": 22
   }
 }
