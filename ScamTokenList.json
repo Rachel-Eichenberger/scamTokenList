@@ -61655,11 +61655,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82eCe99D07289bd649b5adCAA8C9977Ff178438f",
+      "symbol": "KAITSUBURIDAO",
+      "name": "KAITSUBURIDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 57,
+    "minor": 58,
     "patch": 22
   }
 }
