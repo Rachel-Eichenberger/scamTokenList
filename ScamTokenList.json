@@ -61952,11 +61952,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2dCC2a962B393b780122Ab42d304ad6a3B80c8A3",
+      "symbol": "LUNACULT",
+      "name": "LunaCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 84,
+    "minor": 85,
     "patch": 22
   }
 }
