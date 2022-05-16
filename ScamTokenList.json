@@ -62161,11 +62161,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe48EB7d3BDc48a3e6F0E08bb3c898cF01Ef49c7a",
+      "symbol": "TB",
+      "name": "TerraBank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 3,
+    "minor": 4,
     "patch": 23
   }
 }
