@@ -61743,11 +61743,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76334651bC2D704BED709682A14Cf77EB06379c9",
+      "symbol": "LUNAB",
+      "name": "LuneBear",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 65,
+    "minor": 66,
     "patch": 22
   }
 }
