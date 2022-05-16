@@ -61831,11 +61831,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19E93214D969135A1FC6e4AC7D8A42641F14339b",
+      "symbol": "DOTSWAP",
+      "name": "DOTSWAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 73,
+    "minor": 74,
     "patch": 22
   }
 }
