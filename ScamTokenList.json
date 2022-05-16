@@ -62194,11 +62194,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB91a12252e75822D2b03e77d9a0327a0D432EAce",
+      "symbol": "KLUNA",
+      "name": "KingLuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 6,
+    "minor": 7,
     "patch": 23
   }
 }
