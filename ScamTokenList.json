@@ -61732,11 +61732,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdB5c9B5a9b8fA9EE9643FE96F88b7F813f895eb0",
+      "symbol": "DAOSWAP",
+      "name": "DAOSWAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 64,
+    "minor": 65,
     "patch": 22
   }
 }
