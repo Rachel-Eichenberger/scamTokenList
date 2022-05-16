@@ -61996,11 +61996,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6D4B5C28E91a3A66c270632466996f0bD8D46D3",
+      "symbol": "SIGMA",
+      "name": "SigmaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 88,
+    "minor": 89,
     "patch": 22
   }
 }
