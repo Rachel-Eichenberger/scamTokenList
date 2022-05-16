@@ -62007,11 +62007,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCc76BE31e156F95B1261664B6699dA29C947560e",
+      "symbol": "HPTY",
+      "name": "Hoppity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 89,
+    "minor": 90,
     "patch": 22
   }
 }
