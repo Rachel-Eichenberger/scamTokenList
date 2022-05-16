@@ -62051,11 +62051,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeefF2bCdBa15f08d8b64Fc1491707C994F03477d",
+      "symbol": "LUMN",
+      "name": "LUNARCHMISSION",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 93,
+    "minor": 94,
     "patch": 22
   }
 }
