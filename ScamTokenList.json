@@ -61919,11 +61919,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB125A7F53D67B37e05781F6237d5d77423633C22",
+      "symbol": "HOLI",
+      "name": "HoloInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 81,
+    "minor": 82,
     "patch": 22
   }
 }
