@@ -62183,11 +62183,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03824714FEc3785ba66FF2A3A9e2Df6BEc5C44fA",
+      "symbol": "BBS",
+      "name": "BBS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 5,
+    "minor": 6,
     "patch": 23
   }
 }
