@@ -62150,11 +62150,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A5B7601d1Bf6Eb8835983ADa116D2e9B25684ce",
+      "symbol": "TDN",
+      "name": "TerraDeezNuts",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 2,
+    "minor": 3,
     "patch": 23
   }
 }
