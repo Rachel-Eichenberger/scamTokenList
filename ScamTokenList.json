@@ -61666,11 +61666,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bB84d1C53266435924b67cC051f362f45001313",
+      "symbol": "BLUNA",
+      "name": "BABYLUNA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 58,
+    "minor": 59,
     "patch": 22
   }
 }
