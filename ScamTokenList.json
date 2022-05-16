@@ -62117,11 +62117,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbC477181A0B325C3E2d8E3ba4F57E879b6Df8735",
+      "symbol": "PRINU",
+      "name": "PredatorInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 24,
-    "minor": 99,
-    "patch": 22
+    "major": 25,
+    "minor": 0,
+    "patch": 23
   }
 }
