@@ -61754,11 +61754,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cBb11B1Eb53D421442a48631770e97C51Cdc8Ed",
+      "symbol": "LUNAMOON",
+      "name": "LUNAMOON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 66,
+    "minor": 67,
     "patch": 22
   }
 }
