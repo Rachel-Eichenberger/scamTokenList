@@ -61699,11 +61699,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a88FC6518f4b94285DA673C3A5E22514dc901e3",
+      "symbol": "TEST",
+      "name": "TESTDONTBUY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 61,
+    "minor": 62,
     "patch": 22
   }
 }
