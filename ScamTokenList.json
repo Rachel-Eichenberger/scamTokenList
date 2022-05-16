@@ -62095,11 +62095,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33B1E3118EE4b37D3b06f22d8FD4A3Df6AC319e1",
+      "symbol": "CORNY",
+      "name": "CornyValley",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 97,
+    "minor": 98,
     "patch": 22
   }
 }
