@@ -62062,11 +62062,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef572CE78b592fd6016DE0089f0CD57035F02738",
+      "symbol": "ONEETH",
+      "name": "1E",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 94,
+    "minor": 95,
     "patch": 22
   }
 }
