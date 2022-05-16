@@ -61908,11 +61908,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAB43D7757CA41aa83B4a9c2a79EAFFa2AFbdbBEC",
+      "symbol": "GIB",
+      "name": "GETITBACK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 80,
+    "minor": 81,
     "patch": 22
   }
 }
