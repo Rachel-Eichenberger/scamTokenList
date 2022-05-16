@@ -61798,11 +61798,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x535D8A3E87C0cf6e6fa40AfB490E67b767D6D619",
+      "symbol": "LIBELON",
+      "name": "LibeElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 70,
+    "minor": 71,
     "patch": 22
   }
 }
