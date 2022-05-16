@@ -62073,11 +62073,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1e494b113Ad9E1FCFCc3980F83338c2d9603311",
+      "symbol": "LIBELON",
+      "name": "LibeElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 95,
+    "minor": 96,
     "patch": 22
   }
 }
