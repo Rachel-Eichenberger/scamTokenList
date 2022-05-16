@@ -61787,11 +61787,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC042040241B9227D94FcB5fc6516B420AB0048a",
+      "symbol": "LEC",
+      "name": "LunaETHClipse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 69,
+    "minor": 70,
     "patch": 22
   }
 }
