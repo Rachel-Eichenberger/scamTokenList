@@ -62106,11 +62106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61Fd8FC7Bce335f2c9b20BBa830BA58879F49BCa",
+      "symbol": "DTOOLS",
+      "name": "degeneratetools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 98,
+    "minor": 99,
     "patch": 22
   }
 }
