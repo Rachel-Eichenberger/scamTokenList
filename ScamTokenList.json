@@ -62172,11 +62172,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAb8B27d5E382880e4b3f002B786EFB2f974C92fa",
+      "symbol": "LIVE",
+      "name": "Survival",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 4,
+    "minor": 5,
     "patch": 23
   }
 }
