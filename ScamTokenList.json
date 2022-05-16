@@ -61688,11 +61688,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A0c0C86d24469Ab8Dc4CD11227E81c5858771B7",
+      "symbol": "GMLUNA",
+      "name": "GMLuna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 60,
+    "minor": 61,
     "patch": 22
   }
 }
