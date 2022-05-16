@@ -61721,11 +61721,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32914A64c1D9539F7c0341d258A5241EfB3d4541",
+      "symbol": "KAKASHI",
+      "name": "KakashiPortal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 63,
+    "minor": 64,
     "patch": 22
   }
 }
