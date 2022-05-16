@@ -61842,11 +61842,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFA2c4Fa9A745F478818C5dc9AF582C62BcAc0654",
+      "symbol": "MEMELUNA",
+      "name": "MemeLuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 74,
+    "minor": 75,
     "patch": 22
   }
 }
