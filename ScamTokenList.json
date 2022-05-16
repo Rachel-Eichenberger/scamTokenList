@@ -61974,11 +61974,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5B8097C7506a5136b60192238467DADECfA1860",
+      "symbol": "TIB",
+      "name": "TakeItBack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 86,
+    "minor": 87,
     "patch": 22
   }
 }
