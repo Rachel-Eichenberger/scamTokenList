@@ -61886,11 +61886,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9121Ab77F76842B60104daeA927590ED814cBfCA",
+      "symbol": "MIB",
+      "name": "MAKEITBACK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 78,
+    "minor": 79,
     "patch": 22
   }
 }
