@@ -61776,11 +61776,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD549A1E8604913D14eFea347Fd55028887E25d32",
+      "symbol": "DWI",
+      "name": "DanaWhiteInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 68,
+    "minor": 69,
     "patch": 22
   }
 }
