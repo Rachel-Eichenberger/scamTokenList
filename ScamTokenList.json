@@ -61765,11 +61765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6C8f96b13CE97d1F800254A7318aCf2fF194989",
+      "symbol": "LUNAS",
+      "name": "LUNAS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 67,
+    "minor": 68,
     "patch": 22
   }
 }
