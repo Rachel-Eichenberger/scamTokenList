@@ -61930,11 +61930,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa84422D36a96A2B950700d04fd2eb6746375ae93",
+      "symbol": "MISHA",
+      "name": "Misha",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 82,
+    "minor": 83,
     "patch": 22
   }
 }
