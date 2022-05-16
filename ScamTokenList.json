@@ -61853,11 +61853,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c63DDA0A9e3EFf8D8af259f13ce67CdCb5B463F",
+      "symbol": "TERRA",
+      "name": "TerraDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 75,
+    "minor": 76,
     "patch": 22
   }
 }
