@@ -62029,11 +62029,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x450a225f6f2fFFfD2Ff3791e1e234Ab8fFDDC9bC",
+      "symbol": "DIAMONDINU",
+      "name": "DiamondInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 91,
+    "minor": 92,
     "patch": 22
   }
 }
