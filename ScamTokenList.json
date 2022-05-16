@@ -61710,11 +61710,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66208A9599738F2Ae2dBbBb3CF632CF49be02170",
+      "symbol": "TEST",
+      "name": "TESTDONTBUY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 62,
+    "minor": 63,
     "patch": 22
   }
 }
