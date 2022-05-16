@@ -61963,11 +61963,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f99b26f4027Ca73F8720D43af6746F17E671f6d",
+      "symbol": "LUNAX",
+      "name": "LunaEclipse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 85,
+    "minor": 86,
     "patch": 22
   }
 }
