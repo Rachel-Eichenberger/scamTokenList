@@ -61820,11 +61820,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7730d1cDE41adD499A1b3f729DA357696B2D5300",
+      "symbol": "SANGUINU",
+      "name": "MrBeanInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 24,
-    "minor": 72,
+    "minor": 73,
     "patch": 22
   }
 }
