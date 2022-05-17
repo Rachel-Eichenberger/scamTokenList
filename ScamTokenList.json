@@ -64273,11 +64273,121 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C89e196ca91a1Fbea30835cE6DDc688C19339dB",
+      "symbol": "GST",
+      "name": "GreenSatoshiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1474F5C7D5CEc8443EaF1c629f70380eF517A7D5",
+      "symbol": "MOCDAO",
+      "name": "MOCDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD497596BB59Ae1543E86C6DB5e23bD29EFA29355",
+      "symbol": "GFM",
+      "name": "GoodFuckingMorning",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x899573b4c1546919451d5b377cd0053c8f703fB3",
+      "symbol": "OZAI",
+      "name": "OzaiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71231C20872cE06E4b1A46CCaf823b89ec741C05",
+      "symbol": "CICADA",
+      "name": "CICADA3369",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15306C6434B9768256b7C10b2E71EFCf4A79347A",
+      "symbol": "SANIDOGE",
+      "name": "SaninDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CE7c00701ed01C43c1C44b3d196922CeB9F4469",
+      "symbol": "SOKKA",
+      "name": "SOKKAV2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42Cd055dB40A9B8A9d3fFde204D22f9B3C76BC95",
+      "symbol": "POLY",
+      "name": "PolylaunchToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD42D4e07986385144d7ca679BBa9e8AE13dFCb62",
+      "symbol": "PUGGER",
+      "name": "PUGGER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0018ec1683Aa9892BF2813bB4340E307a0b8BCA",
+      "symbol": "MDMA",
+      "name": "MollyWorld",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 28,
+    "minor": 29,
     "patch": 23
   }
 }
