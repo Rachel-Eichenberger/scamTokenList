@@ -62326,11 +62326,44 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF536f4B5363447dB0cAeB7DB230186C1C2e592Ed",
+      "symbol": "ONLYONE",
+      "name": "OnlyOneToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x301946258340c3154B571B8E132C7644DfF0D75A",
+      "symbol": "MYSTERY",
+      "name": "MysteryToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9E7B8a34894DE4847FAf70Ef3232Ca5F4c8C8d9",
+      "symbol": "EXP",
+      "name": "Exceptional",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 9,
+    "minor": 10,
     "patch": 23
   }
 }
