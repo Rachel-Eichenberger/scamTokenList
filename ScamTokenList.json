@@ -70433,11 +70433,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cEBCFfb1bF59Bb3E465951312E71563a698B8c9",
+      "symbol": "LUNASHIBA",
+      "name": "LunaShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 3,
+    "minor": 4,
     "patch": 28
   }
 }
