@@ -68783,11 +68783,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2240b77427c34579D8d9D0447393Eb531711cA4",
+      "symbol": "LUNASWAP",
+      "name": "LUNASWAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 73,
+    "minor": 74,
     "patch": 27
   }
 }
