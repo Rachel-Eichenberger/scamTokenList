@@ -62491,11 +62491,88 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0908a5094D0027A6B86E2D9a5D5543e9dEBF4D82",
+      "symbol": "SHIDAO",
+      "name": "ShinaDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9885e29c7c28b6F23598B6a6365548496A9e4b9",
+      "symbol": "EB",
+      "name": "EDITBUTTON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4e680a21D01603c7c5ECeAF53EAb572664d3075",
+      "symbol": "MOSQUE",
+      "name": "MosqueDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE61E748D7f675617C3882dd8189B967432a6eF2",
+      "symbol": "QUM",
+      "name": "ElonPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc52859c30A5cc4cD3A9F21FE1A1482Bad17e8B02",
+      "symbol": "TERMINUS",
+      "name": "TerminusDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64781a9f6FE844C6d0E26e6d4093104a16d6e710",
+      "symbol": "ANON",
+      "name": "Anonymous",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd52CC34Ec3D925F549901c44b4D8d0fFb4da3EE2",
+      "symbol": "MERLIN",
+      "name": "Merlin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 12,
+    "minor": 13,
     "patch": 23
   }
 }
