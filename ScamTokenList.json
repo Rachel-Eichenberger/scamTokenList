@@ -70532,11 +70532,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc07C6A874798c74e16B1b4d2DBd2fc3133DE6155",
+      "symbol": "TOM",
+      "name": "Tom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 12,
+    "minor": 13,
     "patch": 28
   }
 }
