@@ -70477,11 +70477,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3449FE136bB0Cb491B53BE43b931E887eCE83607",
+      "symbol": "NINJA",
+      "name": "StonedNinjas",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 7,
+    "minor": 8,
     "patch": 28
   }
 }
