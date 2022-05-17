@@ -70521,11 +70521,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60de70C76B32081C66d4b5D23458667D4Bc15921",
+      "symbol": "TTUS",
+      "name": "TTUS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 11,
+    "minor": 12,
     "patch": 28
   }
 }
