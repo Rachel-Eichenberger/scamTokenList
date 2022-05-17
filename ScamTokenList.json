@@ -70455,11 +70455,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA286933183f8c5337090ceFdDa3571D705c365a8",
+      "symbol": "PINU",
+      "name": "Pinocchinu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 5,
+    "minor": 6,
     "patch": 28
   }
 }
