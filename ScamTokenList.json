@@ -70543,11 +70543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9a9786d3965a11B941Af91eb674c31c5083A30a",
+      "symbol": "TOM",
+      "name": "Tom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 13,
+    "minor": 14,
     "patch": 28
   }
 }
