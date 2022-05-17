@@ -70565,11 +70565,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53fE15f023e943128639476c5b2532fd8A2dB51F",
+      "symbol": "LUNAX",
+      "name": "SpaceXLuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 15,
+    "minor": 16,
     "patch": 28
   }
 }
