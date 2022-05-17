@@ -65802,11 +65802,121 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDd8dFA3fDb840602518E034c04531d46c6CA6Be7",
+      "symbol": "MOONTIGER",
+      "name": "MoonTiger",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3dc21B3063e9Ae4C9c77B90Be734CfdEFFf8eF0",
+      "symbol": "SPACESHIB",
+      "name": "SpaceShib",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63DAEDE9267F42b71b7432E9e4D35c5648494cdF",
+      "symbol": "ANON",
+      "name": "WeAreAnonymous",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x512E089bECA223A85770E85fDC8EbF288b005f4C",
+      "symbol": "GENIEINU",
+      "name": "GenieInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F51452891cd0655900A4EfEcf7B0Da828Ae17C4",
+      "symbol": "GONG",
+      "name": "GongToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE625a1e90167f0dB98EEEEEb82924E43dED144e",
+      "symbol": "KINU",
+      "name": "KINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4eD7f71eaCd117B94207F15baa3f3d1A1e8a746",
+      "symbol": "MOONDOGE",
+      "name": "MoonDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04216B39667B2FBe3bCdABc5501ab2a4730C0b87",
+      "symbol": "GTAMA",
+      "name": "GTAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Be35BF3e7D865eFa706FA3fD3159274bC63C8ff",
+      "symbol": "LMT",
+      "name": "LoveMeTender",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9419e15426693F360cE398AaB4a9789101a78FbA",
+      "symbol": "TENDU",
+      "name": "TenderInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 42,
+    "minor": 43,
     "patch": 23
   }
 }
