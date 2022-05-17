@@ -70444,11 +70444,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0F3d01cC04e6a62d0b8F4E24eef763485885866",
+      "symbol": "LE",
+      "name": "LunarEclipse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 4,
+    "minor": 5,
     "patch": 28
   }
 }
