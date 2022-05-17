@@ -62205,11 +62205,88 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E3EB382ac35078e18c95dE7b65834B68B30fA9e",
+      "symbol": "STARCULT",
+      "name": "StarCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dC350ae653Eb02ebaF7771fb993cb0448c56314",
+      "symbol": "COM",
+      "name": "CultHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaB072A96f83415A4C62CA887Ca224DFbb9184052",
+      "symbol": "QOMQOM",
+      "name": "MemeHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eF517C0D4e70057f21495E2b13Fa331BfCd68e5",
+      "symbol": "CHILLSHIBA",
+      "name": "ChillShibaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b470f906C0fE6807f40A5F8303CB98cd4e1bc4c",
+      "symbol": "HOMQOM",
+      "name": "HunterHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A9D6035F410E125BF992557415dC9920A81De59",
+      "symbol": "ARISTOCRATS",
+      "name": "Aristocrats",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b8A62FF68E8eE284F75E73ca120E2972275c8E8",
+      "symbol": "QOMH",
+      "name": "QOMHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 7,
+    "minor": 8,
     "patch": 23
   }
 }
