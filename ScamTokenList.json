@@ -70180,11 +70180,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7EF53b781e5C1BC948dB71630AB29dFfdC2f2B5f",
+      "symbol": "EKWON",
+      "name": "ElonKwon",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 80,
+    "minor": 81,
     "patch": 27
   }
 }
