@@ -70334,11 +70334,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e869904198c6D4e000907ACb95369bAc07AF79D",
+      "symbol": "KWOM",
+      "name": "LunaPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 94,
+    "minor": 95,
     "patch": 27
   }
 }
