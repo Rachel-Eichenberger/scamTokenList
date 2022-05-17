@@ -63943,11 +63943,55 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE434C41F3970D722315A8739592a1E746296fb4",
+      "symbol": "AMYST",
+      "name": "Amethyst",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb49E2A10a0C2Def116Dad240979B759726d54984",
+      "symbol": "MCULTCLASSIC",
+      "name": "MuskCultClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60a4f270c7EB76FCCBFF5472FB198ecc8B1477bD",
+      "symbol": "MUSKTWITTERDAO",
+      "name": "MuskTwitterDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0dc519A41D261474A0b82433C4A4A4BC72EC56ac",
+      "symbol": "BANKQOM",
+      "name": "TheBankKiller",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 25,
+    "minor": 26,
     "patch": 23
   }
 }
