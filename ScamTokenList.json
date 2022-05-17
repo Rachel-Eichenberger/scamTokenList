@@ -70301,11 +70301,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x088196e23EeE4837404FbFdBa7C32EED0b5522Fb",
+      "symbol": "PAX",
+      "name": "ThePassenger",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 91,
+    "minor": 92,
     "patch": 27
   }
 }
