@@ -70609,11 +70609,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd42d085f108F53aA3028cd0ed4e2436F07E7Ee88",
+      "symbol": "FALKWON",
+      "name": "TheKwonHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 19,
+    "minor": 20,
     "patch": 28
   }
 }
