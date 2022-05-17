@@ -70224,11 +70224,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1737fD81Dd19bf55079DcbF110eef07220637A6A",
+      "symbol": "NIZONEKO",
+      "name": "NizoNeko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 84,
+    "minor": 85,
     "patch": 27
   }
 }
