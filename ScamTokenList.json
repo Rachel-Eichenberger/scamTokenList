@@ -70389,11 +70389,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf79a527444F85821C5a429795782c7CCEa0b3D1",
+      "symbol": "LITTY",
+      "name": "LunaKitty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 29,
-    "minor": 99,
-    "patch": 27
+    "major": 30,
+    "minor": 0,
+    "patch": 28
   }
 }
