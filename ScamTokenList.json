@@ -70191,11 +70191,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93308822aB0E5d5CBa9855BF2c5224aC21A0BBC6",
+      "symbol": "REIT",
+      "name": "REIToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 81,
+    "minor": 82,
     "patch": 27
   }
 }
