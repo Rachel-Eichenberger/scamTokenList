@@ -70620,11 +70620,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x413c557CCC7d886e966D8CDD492067c16d640f1A",
+      "symbol": "UMBC",
+      "name": "Umbreum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 20,
+    "minor": 21,
     "patch": 28
   }
 }
