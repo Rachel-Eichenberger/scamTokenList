@@ -68761,11 +68761,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96e7235923300b44C9a8d6EF1c4c50186dF4cC8d",
+      "symbol": "ZENEYO",
+      "name": "ZitorexNeyo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 71,
+    "minor": 72,
     "patch": 27
   }
 }
