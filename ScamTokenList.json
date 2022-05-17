@@ -70631,11 +70631,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA3591b54Fb9DBA94DE11f3c2E84Ed5F3A59d27e",
+      "symbol": "FLIP",
+      "name": "FlipToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 21,
+    "minor": 22,
     "patch": 28
   }
 }
