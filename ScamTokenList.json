@@ -70367,11 +70367,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01DcD44Bf2794c09782b4A467d73fa38cAdD3baD",
+      "symbol": "4TEHPPL",
+      "name": "ForTehPeople",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 97,
+    "minor": 98,
     "patch": 27
   }
 }
