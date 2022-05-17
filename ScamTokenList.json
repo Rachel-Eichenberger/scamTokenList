@@ -62568,11 +62568,44 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDEf01cba709ef325D813C58C2e186dCeDE55C51f",
+      "symbol": "TEDDY",
+      "name": "TeddyDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50A4a4B60a9104CF90E7F36b573eD65bB0BB8abe",
+      "symbol": "PETS",
+      "name": "PETS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ab82dD7d0a74Af88d17b6420b5027af85f30940",
+      "symbol": "ALIENPREDATOR",
+      "name": "AlienPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 13,
+    "minor": 14,
     "patch": 23
   }
 }
