@@ -70598,11 +70598,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa6DD9d30fE11Eb4bE1D6ae362bD98183a08AF4b",
+      "symbol": "MERCURY",
+      "name": "HERMES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 18,
+    "minor": 19,
     "patch": 28
   }
 }
