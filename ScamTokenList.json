@@ -70246,11 +70246,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD27152b719597B826a785C6a6b24ef1735108409",
+      "symbol": "ZKSYNC",
+      "name": "zksync",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 86,
+    "minor": 87,
     "patch": 27
   }
 }
