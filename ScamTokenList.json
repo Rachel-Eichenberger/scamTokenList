@@ -70499,11 +70499,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf749235Ba1328DC62d75De01853040106F13779",
+      "symbol": "PDX",
+      "name": "Paradox",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 9,
+    "minor": 10,
     "patch": 28
   }
 }
