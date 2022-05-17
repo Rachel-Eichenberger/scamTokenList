@@ -70466,11 +70466,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39f307bD41F39FE853Be3b1277436aAfe201d0F3",
+      "symbol": "Z",
+      "name": "LastStep",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 6,
+    "minor": 7,
     "patch": 28
   }
 }
