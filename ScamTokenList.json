@@ -70400,11 +70400,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e0A4B1704975593A69cad575ec4dB3A604045D9",
+      "symbol": "FOOTBALL",
+      "name": "FootballMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 0,
+    "minor": 1,
     "patch": 28
   }
 }
