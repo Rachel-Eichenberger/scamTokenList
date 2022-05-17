@@ -68805,11 +68805,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA69b7E8e2680d95C211335F3D85bCb26B120Ef5e",
+      "symbol": "LUNC",
+      "name": "LunaClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 75,
+    "minor": 76,
     "patch": 27
   }
 }
