@@ -63316,11 +63316,66 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B31796347189599eE438D74487d8D8a458EA512",
+      "symbol": "ELONBUCKS",
+      "name": "ElonBucks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36F26644d69195Ce74Ff68644543E9C8837333c4",
+      "symbol": "KARIOCA",
+      "name": "KariocaToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D7aC43F99788391Ca0cAC178c0902215B5dFA7B",
+      "symbol": "HAMSTERS",
+      "name": "Hamsters",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48bf15428494C5891538318280EcCf969a34c641",
+      "symbol": "TEEMO",
+      "name": "TEEMO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4cF185914042Aa44b933376aa08ED0c07aa63c05",
+      "symbol": "ANONAPE",
+      "name": "AnonApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 21,
+    "minor": 22,
     "patch": 23
   }
 }
