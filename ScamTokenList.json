@@ -66022,11 +66022,110 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdfa9591dd51bBc3E0113A186376f501d64e73477",
+      "symbol": "REVO",
+      "name": "Revolver",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf3a09bE011a899A226F72C3fBe60da175dc8170",
+      "symbol": "SHITA",
+      "name": "Ryoshita",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2074B2EcBFf4A2C0B1b002b8378739d981089457",
+      "symbol": "EDI",
+      "name": "ElonDadInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f5962C49bB554bAa43eD915dBDfe7509DC00Cd7",
+      "symbol": "H1",
+      "name": "H1",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf65F4f326304e4B08CEa3848ca184cA9521F2201",
+      "symbol": "OROCHI",
+      "name": "OrochimaruInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFd8F463eDc727538f820b1d70AcEbA3C945799da",
+      "symbol": "ESHIB",
+      "name": "EasterShibaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFFd8dA3c8723797f90214B2Cb10bCdaFD0eeC509",
+      "symbol": "BEI",
+      "name": "BabyElonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dD2CAB2eB5D2DBb266A886860001999c7be08F9",
+      "symbol": "CAWB",
+      "name": "CawBank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6652582221f89500391D7966B90Adcf93Ccd6b34",
+      "symbol": "BABYCAW",
+      "name": "BabyCAW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 44,
+    "minor": 45,
     "patch": 23
   }
 }
