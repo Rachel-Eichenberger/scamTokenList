@@ -70235,11 +70235,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C416A07caEd84cBF265B9F11f5d1f2AD0a90661",
+      "symbol": "IDO",
+      "name": "ido",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 85,
+    "minor": 86,
     "patch": 27
   }
 }
