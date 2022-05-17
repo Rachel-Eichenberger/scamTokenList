@@ -68794,11 +68794,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAb068949a6d5Ade77b10Ae48Fb9511266FE04997",
+      "symbol": "RESCUE",
+      "name": "LUNALIFEBOAT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 74,
+    "minor": 75,
     "patch": 27
   }
 }
