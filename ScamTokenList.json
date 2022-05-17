@@ -62359,11 +62359,66 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeaEC7C1B7e31dE52414BBba6c86C060776A67C59",
+      "symbol": "ARM",
+      "name": "AgeofArmies",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72803BF502DbFdB4811Bde10B4EA6c6a65876AC4",
+      "symbol": "SECLUDE",
+      "name": "stopup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x932c2E4D442fec409A0F7DB0DB11f3A753282ADC",
+      "symbol": "BMI",
+      "name": "BATMANINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43F02eDE1a791eff14dA65B338A75Eea9Ea4859f",
+      "symbol": "OPTIMISM",
+      "name": "Optimism",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6E727E460586fB9cF9E8929a62A3Da494fEF115",
+      "symbol": "SHIDOGE",
+      "name": "ShinaDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 10,
+    "minor": 11,
     "patch": 23
   }
 }
