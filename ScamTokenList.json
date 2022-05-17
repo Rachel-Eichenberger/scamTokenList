@@ -70653,11 +70653,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98342918bc3B72fe2E63495da9A63Cc6Bac30e9A",
+      "symbol": "FLIP",
+      "name": "FlipToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 23,
+    "minor": 24,
     "patch": 28
   }
 }
