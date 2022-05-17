@@ -70213,11 +70213,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaB787f026bDdd90D3dCD58eBF934a7625ccC91E9",
+      "symbol": "GREED",
+      "name": "AGreedyPersonsDream",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 83,
+    "minor": 84,
     "patch": 27
   }
 }
