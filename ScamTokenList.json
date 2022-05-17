@@ -63118,11 +63118,165 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x151d40B3929B2710115C9d6AbEc2Dc0417A05C32",
+      "symbol": "DINGGER",
+      "name": "DinggerToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53f9415ec29e9439D38aeEf6781c0a31D5e32771",
+      "symbol": "MORBIUSINU",
+      "name": "MorbiusInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc283C89D3C49F23EB0e2fC9083ffb21A2F574FE",
+      "symbol": "KIBACULT",
+      "name": "KIBACULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9722A3601009800F02f61ee82022d7fAf2c1d8e",
+      "symbol": "SPACEFORM",
+      "name": "SpaceformDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0D3cBCA454DE5a08E5e5bB320aA76F419464158",
+      "symbol": "THORKONG",
+      "name": "ThorKong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A9D0C4623d1d544a3E47B5012805F9989dEc6C1",
+      "symbol": "POAP",
+      "name": "POAPDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92B393906faCbFc63E9a29d5e7f30637f27e0198",
+      "symbol": "NASA",
+      "name": "RogueNASA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8A80066f108e7E21081c74F49CcB31A35800d40",
+      "symbol": "FARM",
+      "name": "FARM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd39948776684a64139f9320CAc4a9F9b21a197A4",
+      "symbol": "SHIBACHAD",
+      "name": "ShibaChad",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29c85D37242bC7052d445eBed6054c52826b47e3",
+      "symbol": "MARS",
+      "name": "ReturntoMars",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7834eCB043534E64bc22645461317710C59d8E1C",
+      "symbol": "POKERFI",
+      "name": "TheCryptoPoker",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a08416701898B72C8875B9f188E7197E282a3a3",
+      "symbol": "ATH",
+      "name": "ATHAfterATH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD31a46751C871b9591202096B6De6C453260130B",
+      "symbol": "POOMPA",
+      "name": "Poompa",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f74042823e5C6034b4ba10707502a105cE0C13E",
+      "symbol": "FGD",
+      "name": "FGDTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 19,
+    "minor": 20,
     "patch": 23
   }
 }
