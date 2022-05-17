@@ -68816,11 +68816,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFF10612219BfD21253b70C37D26E5595C32e074a",
+      "symbol": "SCIENTIST",
+      "name": "TheScientists",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 76,
+    "minor": 77,
     "patch": 27
   }
 }
