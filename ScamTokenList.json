@@ -70422,11 +70422,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c7800F451Bb32e8332b3cF5225590F5018D96a5",
+      "symbol": "DTOOLS",
+      "name": "degeneratetools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 2,
+    "minor": 3,
     "patch": 28
   }
 }
