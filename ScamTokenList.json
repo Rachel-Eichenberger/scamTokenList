@@ -70279,11 +70279,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa782f61f775579d3B15c6fe73b9e1B4cC6b3a3C7",
+      "symbol": "LUSK",
+      "name": "LunaMusk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 89,
+    "minor": 90,
     "patch": 27
   }
 }
