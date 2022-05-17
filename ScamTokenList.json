@@ -62711,11 +62711,88 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x136683ecb5AD825Fdbb0c028e59725855A264a67",
+      "symbol": "LQM",
+      "name": "LiquidMarketplace",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72fa7A2f218Ee5a5756Ff8FED93f56a284963021",
+      "symbol": "JACKINU",
+      "name": "JackInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96828a5CaF665fb87241e23744057EF44C56612d",
+      "symbol": "SAFU",
+      "name": "SafuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x129636F09CC216D31a3c0951a5A53Df50e6Ea254",
+      "symbol": "SEX",
+      "name": "SexCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD270Db659FE9c43C02ad40be27beED401Dd43175",
+      "symbol": "PRIDE",
+      "name": "PRIDE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x018A0E714eeF9761bA6A3454246EB1d521f84dE4",
+      "symbol": "GD",
+      "name": "GokuDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55F9742452414EB19D004B4DE07bC0Bad7dBf64A",
+      "symbol": "RYOSHITAMA",
+      "name": "RYOSHITAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 25,
-    "minor": 15,
+    "minor": 16,
     "patch": 23
   }
 }
