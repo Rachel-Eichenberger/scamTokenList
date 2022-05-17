@@ -70488,11 +70488,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8481520e2C9008e30A2f4FBfc415AC586F22f359",
+      "symbol": "BLUE",
+      "name": "BlueCollarCryptoLLC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 8,
+    "minor": 9,
     "patch": 28
   }
 }
