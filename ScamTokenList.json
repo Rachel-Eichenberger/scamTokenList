@@ -70554,11 +70554,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF98850d911b077EECEC39779726eCe5Eef58bcC0",
+      "symbol": "ASSI",
+      "name": "ASSASSININU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 14,
+    "minor": 15,
     "patch": 28
   }
 }
