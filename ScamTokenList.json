@@ -70323,11 +70323,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x339290327C7664a24e5c0088C4aC9a272b8DCc5c",
+      "symbol": "BLUE",
+      "name": "BlueCollarCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 93,
+    "minor": 94,
     "patch": 27
   }
 }
