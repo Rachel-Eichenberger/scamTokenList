@@ -70268,11 +70268,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF61C144c3Ce53Cc858DBCCf59445363E0Aa4b57C",
+      "symbol": "HOLA",
+      "name": "HolaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 29,
-    "minor": 88,
+    "minor": 89,
     "patch": 27
   }
 }
