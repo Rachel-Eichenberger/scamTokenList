@@ -70697,11 +70697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB30447574753Af57F495871e7582aF58fC7C8C3",
+      "symbol": "CFLOKI",
+      "name": "CommunityFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 27,
+    "minor": 28,
     "patch": 28
   }
 }
