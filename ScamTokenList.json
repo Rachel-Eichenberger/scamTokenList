@@ -73414,11 +73414,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x321413A74F71824Ea9C2d9745aE76fAD73A94dE5",
+      "symbol": "GASTLY",
+      "name": "GASTLY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 46,
+    "minor": 47,
     "patch": 29
   }
 }
