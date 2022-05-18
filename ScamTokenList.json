@@ -73304,11 +73304,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb24386924C06753056C519ff28d6426892D9BF9",
+      "symbol": "KWONZI",
+      "name": "PonziKwon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 34,
+    "minor": 35,
     "patch": 28
   }
 }
