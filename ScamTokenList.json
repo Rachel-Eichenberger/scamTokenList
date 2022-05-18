@@ -73359,11 +73359,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x176C618FCD147D11c12Ef7bEb5E8dCabC98792DE",
+      "symbol": "BETS",
+      "name": "Shibabets",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 39,
+    "minor": 40,
     "patch": 28
   }
 }
