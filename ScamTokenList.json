@@ -73612,11 +73612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5734B530C8C6C8678602Bfb931895516301d0E47",
+      "symbol": "BOOKS",
+      "name": "BOOKS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 64,
+    "minor": 65,
     "patch": 29
   }
 }
