@@ -70675,11 +70675,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x597dA53Ea80f06271166234BFa5E9DE6dAe42cE6",
+      "symbol": "8",
+      "name": "TheEightPercent",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 25,
+    "minor": 26,
     "patch": 28
   }
 }
