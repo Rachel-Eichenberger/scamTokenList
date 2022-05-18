@@ -73480,11 +73480,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2F1f1Cf8De3B49Ed74F1262d01b45caDEb4eae8",
+      "symbol": "1",
+      "name": "OnePercent",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 52,
+    "minor": 53,
     "patch": 29
   }
 }
