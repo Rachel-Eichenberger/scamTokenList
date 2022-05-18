@@ -73667,11 +73667,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x686828E3Acdde4aB73e60c85536002eA6949453E",
+      "symbol": "BLN",
+      "name": "BabyLINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 69,
+    "minor": 70,
     "patch": 29
   }
 }
