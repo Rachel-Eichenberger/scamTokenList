@@ -73469,11 +73469,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xECe061c44C67528d2862179F96e00C6D60052e94",
+      "symbol": "SLINU",
+      "name": "SuperLunaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 51,
+    "minor": 52,
     "patch": 29
   }
 }
