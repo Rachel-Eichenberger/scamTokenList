@@ -73436,11 +73436,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Bab6b8EC493c4e9F3EF3c7F55D8eec0F58f9d4D",
+      "symbol": "FTTS",
+      "name": "FTTS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 48,
+    "minor": 49,
     "patch": 29
   }
 }
