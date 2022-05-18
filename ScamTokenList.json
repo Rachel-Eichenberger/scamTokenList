@@ -73381,11 +73381,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96502ee00Ff47dFbE571eB8817De1fE733c4E59b",
+      "symbol": "EB3",
+      "name": "ElonsBaffledBrains",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 43,
+    "minor": 44,
     "patch": 29
   }
 }
