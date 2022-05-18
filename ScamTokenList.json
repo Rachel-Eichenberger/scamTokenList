@@ -73579,11 +73579,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb11cF82AdCC3f88D8d7579335bF9598A0cA68B7",
+      "symbol": "TERRARIZING",
+      "name": "TERRARIZING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 61,
+    "minor": 62,
     "patch": 29
   }
 }
