@@ -73535,11 +73535,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F2fEEF5521676E40566F47A81EE85e28e60Bce9",
+      "symbol": "CRITY",
+      "name": "Crity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 57,
+    "minor": 58,
     "patch": 29
   }
 }
