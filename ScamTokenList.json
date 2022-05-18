@@ -73337,11 +73337,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2cE31Df9c3F0649a02fC5EBD5Ca647244EA46E78",
+      "symbol": "OKIDOKI",
+      "name": "OkidokiSocial",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 37,
+    "minor": 38,
     "patch": 28
   }
 }
