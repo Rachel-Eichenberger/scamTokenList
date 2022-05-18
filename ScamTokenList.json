@@ -73348,11 +73348,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52BFE769d1BCd7A87f5cBd9Bb9584E128cC122Ef",
+      "symbol": "MLM",
+      "name": "MagicLunaMoney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 38,
+    "minor": 39,
     "patch": 28
   }
 }
