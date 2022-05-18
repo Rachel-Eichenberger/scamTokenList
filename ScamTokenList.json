@@ -70741,11 +70741,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c8EB6454e933F268829a26B837243A96E96E216",
+      "symbol": "MICEANDMEN",
+      "name": "MiceAndMen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 31,
+    "minor": 32,
     "patch": 28
   }
 }
