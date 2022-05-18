@@ -73502,11 +73502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x470943f814027BC74DAce9bC336910932D14CFE5",
+      "symbol": "6529",
+      "name": "OM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 54,
+    "minor": 55,
     "patch": 29
   }
 }
