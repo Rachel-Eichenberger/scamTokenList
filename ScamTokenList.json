@@ -73568,11 +73568,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4Da2D714BaaBAcCdb76FCD1EA099B3490b04778",
+      "symbol": "PIGURAI",
+      "name": "PIGURAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 60,
+    "minor": 61,
     "patch": 29
   }
 }
