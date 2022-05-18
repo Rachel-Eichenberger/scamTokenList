@@ -73546,11 +73546,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6aD81f145C6884421ba2888B11d26f115Ecc3C2A",
+      "symbol": "PIGURAI",
+      "name": "Pigurai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 58,
+    "minor": 59,
     "patch": 29
   }
 }
