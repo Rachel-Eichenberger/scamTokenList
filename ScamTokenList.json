@@ -73392,11 +73392,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c0BE03b566428a9Ec79977EC97EdF9f4255271A",
+      "symbol": "CLUNA",
+      "name": "NewCommunityLuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 44,
+    "minor": 45,
     "patch": 29
   }
 }
