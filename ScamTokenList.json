@@ -73678,11 +73678,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x077cb6388EAC2ceE048EcDED2c9cE922b42785b2",
+      "symbol": "BCDAO",
+      "name": "BlueChipsDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 70,
+    "minor": 71,
     "patch": 29
   }
 }
