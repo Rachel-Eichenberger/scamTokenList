@@ -70708,11 +70708,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0221377B005dF3a94A505B22e9efC96Df61DC316",
+      "symbol": "ATMCLUNA",
+      "name": "ATMCLUNA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 28,
+    "minor": 29,
     "patch": 28
   }
 }
