@@ -70686,11 +70686,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dA95CADD0871082Da792524F6758d500fD5DddA",
+      "symbol": "BULLUNA",
+      "name": "Bulluna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 26,
+    "minor": 27,
     "patch": 28
   }
 }
