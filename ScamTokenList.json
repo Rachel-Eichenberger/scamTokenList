@@ -73557,11 +73557,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3523100579ac59Ef814BfCc3eF1c234F2eDBeec",
+      "symbol": "MOOV",
+      "name": "MOOVInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 59,
+    "minor": 60,
     "patch": 29
   }
 }
