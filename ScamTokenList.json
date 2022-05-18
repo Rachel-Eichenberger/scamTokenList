@@ -73634,11 +73634,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B38AC856DD661Dc181c6721a39B9fC4E80dd7bD",
+      "symbol": "LUNABEAR",
+      "name": "LunaBear",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 66,
+    "minor": 67,
     "patch": 29
   }
 }
