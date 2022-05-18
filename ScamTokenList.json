@@ -73513,11 +73513,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2714aeB2CF1aC2dE80A1882Fde8fB42407CB1181",
+      "symbol": "ENZ",
+      "name": "EtherNautZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 55,
+    "minor": 56,
     "patch": 29
   }
 }
