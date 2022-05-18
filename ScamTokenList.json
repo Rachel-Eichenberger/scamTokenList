@@ -73645,11 +73645,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x896E458057b188407b0c2332eF0c6DEBAD98Bb8a",
+      "symbol": "GEND",
+      "name": "GenerationD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 67,
+    "minor": 68,
     "patch": 29
   }
 }
