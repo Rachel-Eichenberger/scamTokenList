@@ -70752,11 +70752,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD90D9276433942d1718f4d740e6e23c35D85981a",
+      "symbol": "ELUNA",
+      "name": "eLUNA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 32,
+    "minor": 33,
     "patch": 28
   }
 }
