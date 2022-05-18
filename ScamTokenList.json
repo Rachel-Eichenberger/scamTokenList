@@ -73447,11 +73447,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4a3Df5aD2085Afa8f15525eFc023B8C2e9C252F",
+      "symbol": "MARTIAN",
+      "name": "MartianInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 49,
+    "minor": 50,
     "patch": 29
   }
 }
