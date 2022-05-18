@@ -73590,11 +73590,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76Cc895a0Cb822a50D03CCaFc7e99F2Ba9462B25",
+      "symbol": "CLINU",
+      "name": "ClassicLunaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 62,
+    "minor": 63,
     "patch": 29
   }
 }
