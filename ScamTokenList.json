@@ -70664,11 +70664,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7895Ab41FC78973E3e65Cabae65a22658F27A7b9",
+      "symbol": "UMBC",
+      "name": "Umbreum",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 30,
-    "minor": 24,
+    "minor": 25,
     "patch": 28
   }
 }
