@@ -73623,11 +73623,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x682369a40425009c1e0f8A332e43D336a3fCcC64",
+      "symbol": "W",
+      "name": "warriors",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 65,
+    "minor": 66,
     "patch": 29
   }
 }
