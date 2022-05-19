@@ -73777,11 +73777,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x741ebF16ed36c79d2a2308Fb48A68eBbaa490118",
+      "symbol": "PAIRS",
+      "name": "PAIRSDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 79,
+    "minor": 80,
     "patch": 29
   }
 }
