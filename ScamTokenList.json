@@ -74151,11 +74151,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Fb0eee6f0C7b788efd91615b1d8e8572868D03E",
+      "symbol": "0",
+      "name": "ZeroPercent",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 13,
+    "minor": 14,
     "patch": 30
   }
 }
