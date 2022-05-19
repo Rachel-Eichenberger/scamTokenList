@@ -74228,11 +74228,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B85290d0C3ed08230A67043f79DA44F4eD1c568",
+      "symbol": "EGGMAN",
+      "name": "DrEggman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 20,
+    "minor": 21,
     "patch": 30
   }
 }
