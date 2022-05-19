@@ -73766,11 +73766,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A8830d8347FA7A35eCed1E2aDe6Ed6811D22eca",
+      "symbol": "LUNASEA",
+      "name": "LunaseaFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 78,
+    "minor": 79,
     "patch": 29
   }
 }
