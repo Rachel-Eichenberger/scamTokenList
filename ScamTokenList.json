@@ -74107,11 +74107,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5509dFF0d79E7601573Cc7B5bB621f4a40FD8508",
+      "symbol": "CSHIBA",
+      "name": "ClassicShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 9,
+    "minor": 10,
     "patch": 30
   }
 }
