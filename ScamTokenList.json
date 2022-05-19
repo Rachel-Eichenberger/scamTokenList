@@ -74096,11 +74096,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9904234533208323923133ca288E4b6BF246317a",
+      "symbol": "INCURSION",
+      "name": "FinalIncursion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 8,
+    "minor": 9,
     "patch": 30
   }
 }
