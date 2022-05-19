@@ -73975,11 +73975,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa99ae0b06FfA64EC16e73bF9dB2Ff1FFd98ddaCB",
+      "symbol": "MCMD",
+      "name": "MultiChainMiningDao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 97,
+    "minor": 98,
     "patch": 29
   }
 }
