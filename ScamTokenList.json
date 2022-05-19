@@ -73733,11 +73733,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe1C8844fbb2B443A7ED393DFCcED0bBBa47187A",
+      "symbol": "YAENG",
+      "name": "YanghengInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 75,
+    "minor": 76,
     "patch": 29
   }
 }
