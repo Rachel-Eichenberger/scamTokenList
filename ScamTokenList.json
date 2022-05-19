@@ -73997,11 +73997,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04E500B760774A5EC4f674Ed1563C58418467DeF",
+      "symbol": "XII",
+      "name": "Xeniia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 31,
-    "minor": 99,
-    "patch": 29
+    "major": 32,
+    "minor": 0,
+    "patch": 30
   }
 }
