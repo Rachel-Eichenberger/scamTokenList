@@ -73909,11 +73909,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDE69933EfB7E9339A8b0E6aE184d879812B8fA3f",
+      "symbol": "ZEUS",
+      "name": "GodOfThunder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 91,
+    "minor": 92,
     "patch": 29
   }
 }
