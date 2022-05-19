@@ -74041,11 +74041,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cF4d29D9ce4fC59201b85793D9Ad75d0A9A0A11",
+      "symbol": "LGLD",
+      "name": "LinuGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 3,
+    "minor": 4,
     "patch": 30
   }
 }
