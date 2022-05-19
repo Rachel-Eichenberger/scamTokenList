@@ -73700,11 +73700,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21cB8DE3F99Ad271cED315AA9Fa3fc1Fc6a792AB",
+      "symbol": "MPOX",
+      "name": "MonkeypoxInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 72,
+    "minor": 73,
     "patch": 29
   }
 }
