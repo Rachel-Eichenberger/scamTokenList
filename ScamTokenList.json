@@ -73722,11 +73722,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x288a548d3652f5b5946156dbcEB7BCa7Ed2A464b",
+      "symbol": "POPCORN",
+      "name": "POPCORN",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 74,
+    "minor": 75,
     "patch": 29
   }
 }
