@@ -74019,11 +74019,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e239dB593619bcF6248FdeF4723f26cf40e1f37",
+      "symbol": "HONEYCOIN",
+      "name": "HONEYCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 1,
+    "minor": 2,
     "patch": 30
   }
 }
