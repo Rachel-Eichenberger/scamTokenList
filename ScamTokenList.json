@@ -73711,11 +73711,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1674282BC1839278bc3A3069f6210Cae1e5556f",
+      "symbol": "PINU",
+      "name": "PopcornInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 73,
+    "minor": 74,
     "patch": 29
   }
 }
