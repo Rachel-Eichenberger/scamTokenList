@@ -73744,11 +73744,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E621D00e2A4bcb30bddC6cBC1115F2E1845ed3f",
+      "symbol": "KLUNA",
+      "name": "Killerluna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 76,
+    "minor": 77,
     "patch": 29
   }
 }
