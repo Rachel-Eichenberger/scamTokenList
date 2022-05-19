@@ -73931,11 +73931,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB4BA2E98B89b3Ad5156058e57A94A2883cCCFA3",
+      "symbol": "KHABY",
+      "name": "Khaby",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 93,
+    "minor": 94,
     "patch": 29
   }
 }
