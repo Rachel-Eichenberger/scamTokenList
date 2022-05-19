@@ -74118,11 +74118,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x082bDA637f5b0Dc7C34f583c2Bde90E7993fE8c5",
+      "symbol": "CRYPTOBOY",
+      "name": "CryptoBoy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 10,
+    "minor": 11,
     "patch": 30
   }
 }
