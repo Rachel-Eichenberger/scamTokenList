@@ -73898,11 +73898,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78e729668B027500Bd3DAce9ca695C61b7909718",
+      "symbol": "KWONINU",
+      "name": "KWONINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 90,
+    "minor": 91,
     "patch": 29
   }
 }
