@@ -74184,11 +74184,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x881C05836fC8a2777ac64098178922D1E7b775C4",
+      "symbol": "STEPF",
+      "name": "StepFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 16,
+    "minor": 17,
     "patch": 30
   }
 }
