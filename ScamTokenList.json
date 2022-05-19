@@ -74052,11 +74052,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3Ca701F58C487Ab252473059a61da73f74b79d4",
+      "symbol": "NFM",
+      "name": "NonFungibleMusic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 4,
+    "minor": 5,
     "patch": 30
   }
 }
