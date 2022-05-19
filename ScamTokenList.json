@@ -73953,11 +73953,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf026D795A7F28E0197Bf9ae6fBe8c8F8A25277bc",
+      "symbol": "CMLCOIN",
+      "name": "CamelCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 95,
+    "minor": 96,
     "patch": 29
   }
 }
