@@ -73799,11 +73799,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58EcfF89568912134cFf79f358fa279Ea27544Ab",
+      "symbol": "DONKWON",
+      "name": "DonkeyKwonInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 81,
+    "minor": 82,
     "patch": 29
   }
 }
