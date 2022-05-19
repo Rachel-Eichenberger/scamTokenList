@@ -73689,11 +73689,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF208259E8bE8376dA9dffc2d0e9966eA4fFad57E",
+      "symbol": "FENRIR",
+      "name": "SonOfLoki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 71,
+    "minor": 72,
     "patch": 29
   }
 }
