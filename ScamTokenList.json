@@ -74008,11 +74008,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2819E1F6F1c5123555511bF1Bb7a51270c81cD51",
+      "symbol": "FOMO",
+      "name": "FreddyFOMO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 0,
+    "minor": 1,
     "patch": 30
   }
 }
