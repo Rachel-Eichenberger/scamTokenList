@@ -74030,11 +74030,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66DAe1481A3dDf2079506f480AcFaB8e9fD78c58",
+      "symbol": "FLUNA",
+      "name": "ForkedLunaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 2,
+    "minor": 3,
     "patch": 30
   }
 }
