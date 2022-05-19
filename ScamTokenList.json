@@ -73920,11 +73920,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x404c74746E84e90CB2a6C58cc2B6b9c186336c11",
+      "symbol": "UST",
+      "name": "UnSteadyToken",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 92,
+    "minor": 93,
     "patch": 29
   }
 }
