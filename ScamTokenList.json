@@ -73821,11 +73821,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdccfd97470869863167317688a024Db88FAA0296",
+      "symbol": "BULLS",
+      "name": "BillionaireBullsClu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 83,
+    "minor": 84,
     "patch": 29
   }
 }
