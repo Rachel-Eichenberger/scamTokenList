@@ -74063,11 +74063,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x834E118242E9ef3E328d5A1e4fCc9cb802024e09",
+      "symbol": "BDK",
+      "name": "BurnDoKwon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 5,
+    "minor": 6,
     "patch": 30
   }
 }
