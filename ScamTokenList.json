@@ -73843,11 +73843,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7BEE602B7f0EfD37D97cC43CEa22e6f107B7b0d",
+      "symbol": "BOLINU",
+      "name": "BankOfLINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 85,
+    "minor": 86,
     "patch": 29
   }
 }
