@@ -74085,11 +74085,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x748B875E76395ce386A8d14FB51E2cA957E23c03",
+      "symbol": "DK",
+      "name": "DogeKwon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 7,
+    "minor": 8,
     "patch": 30
   }
 }
