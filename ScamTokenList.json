@@ -73854,11 +73854,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98F07C0492d905d38AB33d0Fd69E16beadBAA9D8",
+      "symbol": "STOPPLSS",
+      "name": "HUMANSDONTBUYYY",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 86,
+    "minor": 87,
     "patch": 29
   }
 }
