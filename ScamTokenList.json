@@ -74129,11 +74129,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11433e2Dd472Dff2Dbd4C92ea8584Db60701391e",
+      "symbol": "NLINU",
+      "name": "NewLunaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 11,
+    "minor": 12,
     "patch": 30
   }
 }
