@@ -73755,11 +73755,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0c6B2F89F1eC57C1A012f693E4881C86c4757B1",
+      "symbol": "BLINU",
+      "name": "BURNLINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 77,
+    "minor": 78,
     "patch": 29
   }
 }
