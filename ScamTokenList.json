@@ -73788,11 +73788,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2BF16A5bC2a2b732cabb182e921f714cB6C453E5",
+      "symbol": "GFT",
+      "name": "GFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 80,
+    "minor": 81,
     "patch": 29
   }
 }
