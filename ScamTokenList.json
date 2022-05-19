@@ -73876,11 +73876,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47e7e8AD19C35FbF2F828309A17234Ef81a39684",
+      "symbol": "DLOOK",
+      "name": "DoontLook",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 31,
-    "minor": 88,
+    "minor": 89,
     "patch": 29
   }
 }
