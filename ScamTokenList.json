@@ -74558,11 +74558,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE5C57f2a8af5EA67c549F560eECc52E5Bb47B8A",
+      "symbol": "LEE",
+      "name": "LeeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 50,
+    "minor": 51,
     "patch": 30
   }
 }
