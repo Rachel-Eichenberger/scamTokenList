@@ -74448,11 +74448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B4A6831931175B0AFb39aDff9c43350500Bded3",
+      "symbol": "EIC",
+      "name": "ExtendedIntelligenc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 40,
+    "minor": 41,
     "patch": 30
   }
 }
