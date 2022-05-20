@@ -74613,11 +74613,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50E6E3405DEbcE538f855e1E11CBdA525A5473b8",
+      "symbol": "COMPOSEDCITIZENS",
+      "name": "ComposedCitizens",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 55,
+    "minor": 56,
     "patch": 30
   }
 }
