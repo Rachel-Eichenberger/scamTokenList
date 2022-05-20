@@ -74404,11 +74404,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7BE59cAc8b2bf4a5C4cf476599A632E789dd532",
+      "symbol": "ELONGATE",
+      "name": "ElonGate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 36,
+    "minor": 37,
     "patch": 30
   }
 }
