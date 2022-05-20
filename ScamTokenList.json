@@ -74767,11 +74767,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x150ea8bB61A1124e27Dbd06E0fb5a581150657f4",
+      "symbol": "MEDUSA",
+      "name": "SnakeHead",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 69,
+    "minor": 70,
     "patch": 30
   }
 }
