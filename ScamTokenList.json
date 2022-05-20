@@ -74624,11 +74624,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79B6fA4db86603571eD41A194f2cF75be4ccEB13",
+      "symbol": "COLLAPSE",
+      "name": "CollapseFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 56,
+    "minor": 57,
     "patch": 30
   }
 }
