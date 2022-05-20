@@ -74470,11 +74470,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93B362d73EaABD4eaFDAD2e48D7BA8AD49D66f66",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 42,
+    "minor": 43,
     "patch": 30
   }
 }
