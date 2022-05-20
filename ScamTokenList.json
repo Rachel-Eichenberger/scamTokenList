@@ -74492,11 +74492,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77437296cCb5Ff9002476ebA56f429811e547022",
+      "symbol": "SESE",
+      "name": "SESE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 44,
+    "minor": 45,
     "patch": 30
   }
 }
