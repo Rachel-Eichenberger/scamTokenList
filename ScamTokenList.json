@@ -74789,11 +74789,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c078f175C6e0c962C20ADeD9DffC2A8ff0117ab",
+      "symbol": "STREET",
+      "name": "StreetFighterInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 71,
+    "minor": 72,
     "patch": 30
   }
 }
