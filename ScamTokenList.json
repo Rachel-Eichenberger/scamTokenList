@@ -74591,11 +74591,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07b4Fc89af6c3Ae96A09De8B51e4EfF04A5B1Cdb",
+      "symbol": "GEEKY",
+      "name": "GeekyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 53,
+    "minor": 54,
     "patch": 30
   }
 }
