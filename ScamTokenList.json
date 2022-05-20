@@ -74580,11 +74580,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54A95e43A1467Bf2eaE16334828E80A3E4f6B1bF",
+      "symbol": "MEMESHIBA",
+      "name": "MEMESHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 52,
+    "minor": 53,
     "patch": 30
   }
 }
