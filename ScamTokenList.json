@@ -74305,11 +74305,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC1F22FB6c936Af734459047069AfBb832997990",
+      "symbol": "FIGHT",
+      "name": "GoodFuture",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 27,
+    "minor": 28,
     "patch": 30
   }
 }
