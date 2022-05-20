@@ -74393,11 +74393,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9DBb09f737DA2f7467142F7AF63bfD0C35d7e0DE",
+      "symbol": "SWAP",
+      "name": "TheSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 35,
+    "minor": 36,
     "patch": 30
   }
 }
