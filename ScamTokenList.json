@@ -74679,11 +74679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFcD36f5D4Ee8A3472111d6E56207C5a87C2Dc12A",
+      "symbol": "SINU",
+      "name": "SUSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 61,
+    "minor": 62,
     "patch": 30
   }
 }
