@@ -74569,11 +74569,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC078A26d7EE662897Fa7B96BEa293320ef524C7",
+      "symbol": "ARTHUR",
+      "name": "12Knights",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 51,
+    "minor": 52,
     "patch": 30
   }
 }
