@@ -74481,11 +74481,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc15B2da93E485e7B15a7D6892CE36DcE16F3aDc1",
+      "symbol": "BDK",
+      "name": "BankofDoKwon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 43,
+    "minor": 44,
     "patch": 30
   }
 }
