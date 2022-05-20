@@ -74657,11 +74657,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FA4787e57c9A0a49D27E73E2f13321794F3E021",
+      "symbol": "MMI",
+      "name": "MultiverseOfMadness",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 59,
+    "minor": 60,
     "patch": 30
   }
 }
