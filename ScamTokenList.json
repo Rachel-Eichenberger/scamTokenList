@@ -74745,11 +74745,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65ab24b5873bC6E318cedFf5c1FaEc51fFD886fC",
+      "symbol": "CINU",
+      "name": "CULTInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 67,
+    "minor": 68,
     "patch": 30
   }
 }
