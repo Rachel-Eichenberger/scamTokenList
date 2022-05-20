@@ -74547,11 +74547,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB96168D55499E3a06083C15b4e3798f38e54CB7B",
+      "symbol": "CPHARAOH",
+      "name": "CryptoPharaoh",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 49,
+    "minor": 50,
     "patch": 30
   }
 }
