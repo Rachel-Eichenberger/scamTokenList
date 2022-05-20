@@ -74701,11 +74701,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4fdFDE6520d0f60a2018B342aBe2898b2f898CB",
+      "symbol": "MINU",
+      "name": "MonkeypoxInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 63,
+    "minor": 64,
     "patch": 30
   }
 }
