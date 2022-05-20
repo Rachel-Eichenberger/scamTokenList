@@ -74338,11 +74338,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeAE5AB2CB8B381396B46d39862e04fbe3f3b737a",
+      "symbol": "JUSTATEST",
+      "name": "justatest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 30,
+    "minor": 31,
     "patch": 30
   }
 }
