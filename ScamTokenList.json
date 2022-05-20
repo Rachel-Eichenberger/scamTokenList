@@ -74778,11 +74778,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69C7eBE84d4589CdbE42ACb33A9BeF5D8D7528De",
+      "symbol": "TIMETOBUILD",
+      "name": "TimeToBuild",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 70,
+    "minor": 71,
     "patch": 30
   }
 }
