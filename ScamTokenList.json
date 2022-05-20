@@ -74602,11 +74602,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CF4783aFAcE8E89DA127ed520fD92B11e4117aA",
+      "symbol": "WAGSAN",
+      "name": "WagmiSan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 54,
+    "minor": 55,
     "patch": 30
   }
 }
