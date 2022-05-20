@@ -74756,11 +74756,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcad4635A0645d4FAa739bCA96006C2e303349B54",
+      "symbol": "KINU",
+      "name": "KwonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 68,
+    "minor": 69,
     "patch": 30
   }
 }
