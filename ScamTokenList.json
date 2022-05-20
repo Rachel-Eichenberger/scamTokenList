@@ -74371,11 +74371,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x379C53D67f1e73855314AE3e549Bc94EE478c9Fa",
+      "symbol": "KPETS",
+      "name": "KryptoPets",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 33,
+    "minor": 34,
     "patch": 30
   }
 }
