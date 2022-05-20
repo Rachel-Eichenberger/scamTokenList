@@ -74800,11 +74800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCF20DDD3C4a9319470A5554A2bC8bc74870A925d",
+      "symbol": "SPLASH",
+      "name": "Splash",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 72,
+    "minor": 73,
     "patch": 30
   }
 }
