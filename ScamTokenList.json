@@ -74712,11 +74712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x209E00d5D6500f554aBf221bbF63F43032B00ad5",
+      "symbol": "NLA",
+      "name": "NoLimitApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 64,
+    "minor": 65,
     "patch": 30
   }
 }
