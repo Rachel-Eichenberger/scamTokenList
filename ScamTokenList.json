@@ -74283,11 +74283,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76601eA2008CcFdD63F609acd2267C37c89Be7ea",
+      "symbol": "LUNACYBURN",
+      "name": "LunacyBURN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 25,
+    "minor": 26,
     "patch": 30
   }
 }
