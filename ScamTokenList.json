@@ -74294,11 +74294,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa672eC64cf6C8110531E5741608c0db5Ab9d926f",
+      "symbol": "BALLUUNA",
+      "name": "Balluuna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 26,
+    "minor": 27,
     "patch": 30
   }
 }
