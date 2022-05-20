@@ -74327,11 +74327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd36611519d4AaBa895908405C1BaB12617A068bD",
+      "symbol": "LUNAFARM",
+      "name": "LUNAFARM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 29,
+    "minor": 30,
     "patch": 30
   }
 }
