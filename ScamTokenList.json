@@ -74382,11 +74382,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x594d3D44A040DE44dC9C505b0A12FCd1DA237eA3",
+      "symbol": "REU",
+      "name": "REU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 34,
+    "minor": 35,
     "patch": 30
   }
 }
