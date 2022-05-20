@@ -74668,11 +74668,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97a63c3a5437654cd71D4AE39D55b01332B537d4",
+      "symbol": "ELONBOT",
+      "name": "ElonBotInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 60,
+    "minor": 61,
     "patch": 30
   }
 }
