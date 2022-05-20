@@ -74536,11 +74536,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9c805E3b4077276072d4c6151a416cEd71D45D1",
+      "symbol": "CKEK",
+      "name": "NewCommunityKek",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 48,
+    "minor": 49,
     "patch": 30
   }
 }
