@@ -74833,11 +74833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x859942Db33b91666756aB13841A2c3204C4da9F5",
+      "symbol": "PIGURAI",
+      "name": "PIGURAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 75,
+    "minor": 76,
     "patch": 30
   }
 }
