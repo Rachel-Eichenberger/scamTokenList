@@ -74811,11 +74811,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC801A361b0A0A5292c0D28bF77617639b10083D2",
+      "symbol": "SPAD",
+      "name": "SendPadToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 73,
+    "minor": 74,
     "patch": 30
   }
 }
