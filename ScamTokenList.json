@@ -74514,11 +74514,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DDaEB594c2588864F53a8658e7aD24984Fe36B3",
+      "symbol": "CASS",
+      "name": "CommunityAustralian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 46,
+    "minor": 47,
     "patch": 30
   }
 }
