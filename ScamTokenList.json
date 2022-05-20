@@ -74261,11 +74261,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08A0945516A161A45C5578b39254c17B99c67D53",
+      "symbol": "XOX",
+      "name": "XOX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 23,
+    "minor": 24,
     "patch": 30
   }
 }
