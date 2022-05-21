@@ -75207,11 +75207,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa41eE209D43598F2Daf6bC96218DA070f7D1e2D1",
+      "symbol": "STELL",
+      "name": "StellaSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 9,
+    "minor": 10,
     "patch": 31
   }
 }
