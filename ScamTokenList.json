@@ -75053,11 +75053,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28151EEDd51BFf7e233fB30D5Ce6F2C58A48e42F",
+      "symbol": "PSKI",
+      "name": "PharmaShkreliInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 95,
+    "minor": 96,
     "patch": 30
   }
 }
