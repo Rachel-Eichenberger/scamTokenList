@@ -75141,11 +75141,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F950c7C86185b70Df8C1ADa87c6D320435bad51",
+      "symbol": "HIERARCHYOFNEEDS",
+      "name": "HierarchyOfNeeds",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 3,
+    "minor": 4,
     "patch": 31
   }
 }
