@@ -75163,11 +75163,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1Ac926B33223dACD90F6f5afD8981F3358b0749",
+      "symbol": "SUS",
+      "name": "Suspicious",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 5,
+    "minor": 6,
     "patch": 31
   }
 }
