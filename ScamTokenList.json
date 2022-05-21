@@ -75064,11 +75064,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ADD707E6F87204653B2CD44f976F9CAe0CeA649",
+      "symbol": "STEAK",
+      "name": "SteakFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 96,
+    "minor": 97,
     "patch": 30
   }
 }
