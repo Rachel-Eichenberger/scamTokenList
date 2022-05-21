@@ -75339,11 +75339,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4C75F2A0cB1a9ACc33929512dc9733EA1Fd6fde",
+      "symbol": "MSI",
+      "name": "MartinShkreliInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 21,
+    "minor": 22,
     "patch": 31
   }
 }
