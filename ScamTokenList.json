@@ -75108,11 +75108,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25febD7c860B50C79dD38815A451B08f74b7CEE5",
+      "symbol": "CNT",
+      "name": "CommunityNoTax",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 0,
+    "minor": 1,
     "patch": 31
   }
 }
