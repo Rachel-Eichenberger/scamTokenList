@@ -75174,11 +75174,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C6B9EFCD837A8B98bFecDf5f69a786b34a5Bf33",
+      "symbol": "ZHU",
+      "name": "MizukiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 6,
+    "minor": 7,
     "patch": 31
   }
 }
