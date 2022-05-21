@@ -75130,11 +75130,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5927619583371B3Eb9227ec47Dbc5700e1AA3EC8",
+      "symbol": "BEACON",
+      "name": "TheBeacon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 2,
+    "minor": 3,
     "patch": 31
   }
 }
