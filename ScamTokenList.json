@@ -74866,11 +74866,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39Ac11CE0C49B0a772469d7c0EAEBF396a15E12a",
+      "symbol": "KMPOX",
+      "name": "KillMonkeypox",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 78,
+    "minor": 79,
     "patch": 30
   }
 }
