@@ -75383,11 +75383,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d9b4e2b06d8f32CFfB3fb0d34f5AC045FA768B1",
+      "symbol": "FINU",
+      "name": "FireInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 25,
+    "minor": 26,
     "patch": 31
   }
 }
