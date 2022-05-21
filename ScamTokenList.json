@@ -75262,11 +75262,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB75BC151EC78368F80FdCef190E265b96e34360B",
+      "symbol": "BORN",
+      "name": "BornDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 14,
+    "minor": 15,
     "patch": 31
   }
 }
