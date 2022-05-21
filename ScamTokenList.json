@@ -75328,11 +75328,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x282E45F6c19Bbc7894984a77182fc7B8e9f08f6e",
+      "symbol": "VOICE",
+      "name": "VoxPopuli",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 20,
+    "minor": 21,
     "patch": 31
   }
 }
