@@ -75361,11 +75361,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53389F0DA8C94AB11899C6c3461695e2b403A5A1",
+      "symbol": "SHIBLUNA",
+      "name": "SHIBLUNA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 23,
+    "minor": 24,
     "patch": 31
   }
 }
