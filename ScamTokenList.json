@@ -74855,11 +74855,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe84550D82CB15ba3f2811d04EE5AD0E388fE865F",
+      "symbol": "MLUNA",
+      "name": "METALUNA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 77,
+    "minor": 78,
     "patch": 30
   }
 }
