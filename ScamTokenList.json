@@ -74877,11 +74877,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC6826cec3cB7aA6b1A0F6741c5BB9A8E1903f93",
+      "symbol": "POX",
+      "name": "MonkeyBuxx",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 79,
+    "minor": 80,
     "patch": 30
   }
 }
