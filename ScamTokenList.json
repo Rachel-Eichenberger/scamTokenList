@@ -75020,11 +75020,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72295E7904e5dc591f83ef11559dB7A89D1e3CeD",
+      "symbol": "KPETS",
+      "name": "KryptoPets",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 92,
+    "minor": 93,
     "patch": 30
   }
 }
