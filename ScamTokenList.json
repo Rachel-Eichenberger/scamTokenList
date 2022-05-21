@@ -75086,11 +75086,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x189eE99ec4071FD32950d0a145e97Ccd9CbCe014",
+      "symbol": "CROKT",
+      "name": "CroktNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 98,
+    "minor": 99,
     "patch": 30
   }
 }
