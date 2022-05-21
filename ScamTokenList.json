@@ -74921,11 +74921,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x309EcDB17604a6E2E8DE0B5ed6bE576A48BA20e2",
+      "symbol": "APYC",
+      "name": "ApePoxYachtClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 83,
+    "minor": 84,
     "patch": 30
   }
 }
