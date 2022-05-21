@@ -75075,11 +75075,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb5246a99a401F19f41CF15D82Fb106CF3592580",
+      "symbol": "FCM",
+      "name": "FuckCryptoMaster",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 97,
+    "minor": 98,
     "patch": 30
   }
 }
