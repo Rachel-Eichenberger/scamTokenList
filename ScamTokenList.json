@@ -75196,11 +75196,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA56DAb624cd342d047c95405c31420840D97091",
+      "symbol": "OCCULT",
+      "name": "OCCULT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 8,
+    "minor": 9,
     "patch": 31
   }
 }
