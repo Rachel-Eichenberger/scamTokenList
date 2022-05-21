@@ -75031,11 +75031,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e46BEe733305b85Ba05b3fB8eCF322a635a7BA3",
+      "symbol": "SAFE",
+      "name": "SafeToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 93,
+    "minor": 94,
     "patch": 30
   }
 }
