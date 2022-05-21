@@ -75218,11 +75218,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd230d95105465C558AA4ecf7b41CE48eDceD6b58",
+      "symbol": "NGMI",
+      "name": "NGMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 10,
+    "minor": 11,
     "patch": 31
   }
 }
