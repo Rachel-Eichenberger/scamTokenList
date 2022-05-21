@@ -74932,11 +74932,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeB5A7C411d9f281868e8a8cf9a69Ee58BB6a0cc3",
+      "symbol": "ACCELON",
+      "name": "AccurateElon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 84,
+    "minor": 85,
     "patch": 30
   }
 }
