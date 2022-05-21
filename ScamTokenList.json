@@ -75317,11 +75317,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF260e2c5d8403Ee39e1C02C86d1b0779315E1c0",
+      "symbol": "MBZ",
+      "name": "MoonBirdz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 19,
+    "minor": 20,
     "patch": 31
   }
 }
