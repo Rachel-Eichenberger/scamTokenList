@@ -75295,11 +75295,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCc4B6222f66689550CB4205658cA6C0A275dDDE5",
+      "symbol": "CCC",
+      "name": "TheCryptoCommunityC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 17,
+    "minor": 18,
     "patch": 31
   }
 }
