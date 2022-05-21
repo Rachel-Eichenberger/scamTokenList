@@ -74899,11 +74899,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9aC6D09768da32A6029f09CE6DfB9E5242B4ed94",
+      "symbol": "TYRANT",
+      "name": "SicSemperTyrannis",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 81,
+    "minor": 82,
     "patch": 30
   }
 }
