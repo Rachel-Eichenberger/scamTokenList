@@ -74943,11 +74943,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22026c7F70F57dA386dcb5B1352575B84096ebB8",
+      "symbol": "CSP",
+      "name": "CoinSpacers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 85,
+    "minor": 86,
     "patch": 30
   }
 }
