@@ -74888,11 +74888,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a8e9a1A04cB87B67043A44fBE528be3381D9176",
+      "symbol": "DPOX",
+      "name": "DegenPox",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 80,
+    "minor": 81,
     "patch": 30
   }
 }
