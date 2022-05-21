@@ -75350,11 +75350,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2628Aff1F800404788501D980670238EcBEd219",
+      "symbol": "MCGA",
+      "name": "MakeCryptoGreatAgai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 22,
+    "minor": 23,
     "patch": 31
   }
 }
