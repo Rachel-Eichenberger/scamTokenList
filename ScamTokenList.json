@@ -75097,11 +75097,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x118c488D2AF59D91758DE0badf9F0b3aF36efD59",
+      "symbol": "ELUNA",
+      "name": "ElonaLuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 32,
-    "minor": 99,
-    "patch": 30
+    "major": 33,
+    "minor": 0,
+    "patch": 31
   }
 }
