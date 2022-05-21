@@ -74954,11 +74954,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcBe0Db04cC90fA0E447d76C29c2695D27E02E058",
+      "symbol": "NURA",
+      "name": "NuraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 86,
+    "minor": 87,
     "patch": 30
   }
 }
