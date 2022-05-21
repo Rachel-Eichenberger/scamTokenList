@@ -74998,11 +74998,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E438eE04f301Cc1E001922203C5E1D0c89F42EB",
+      "symbol": "LUKA",
+      "name": "LukaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 90,
+    "minor": 91,
     "patch": 30
   }
 }
