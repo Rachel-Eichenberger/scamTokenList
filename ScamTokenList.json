@@ -74976,11 +74976,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6364A5B03719964D56DD5B8f4b38676D96cf3CB5",
+      "symbol": "SKI",
+      "name": "ShkreliInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 32,
-    "minor": 88,
+    "minor": 89,
     "patch": 30
   }
 }
