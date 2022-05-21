@@ -75185,11 +75185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC989D9cb582385f8918ee91A4a978dD3DFC9328F",
+      "symbol": "ETH5",
+      "name": "ETHHALF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 7,
+    "minor": 8,
     "patch": 31
   }
 }
