@@ -75284,11 +75284,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7923889aD131E80374AD4fB329247E74876877Fa",
+      "symbol": "ETH5",
+      "name": "ETHFive",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 16,
+    "minor": 17,
     "patch": 31
   }
 }
