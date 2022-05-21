@@ -75229,11 +75229,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x180456ec516c019beB42b73F2067F326ec55b2dD",
+      "symbol": "ROCKYINU",
+      "name": "RockyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 11,
+    "minor": 12,
     "patch": 31
   }
 }
