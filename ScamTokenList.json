@@ -75306,11 +75306,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x919731A63d9A617E138236e52E6ffcA57e879A14",
+      "symbol": "NWO",
+      "name": "THESYNDICATE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 18,
+    "minor": 19,
     "patch": 31
   }
 }
