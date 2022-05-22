@@ -75724,11 +75724,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17a500626aF4E3FCfa2bE88Ed59F55E9aCa57533",
+      "symbol": "CONTRITION",
+      "name": "Contrition",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 56,
+    "minor": 57,
     "patch": 31
   }
 }
