@@ -75845,11 +75845,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6F0C8b3Abd0d8f1153f274f55A6cC9Cd846eEA2",
+      "symbol": "TTAMA",
+      "name": "Terratama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 67,
+    "minor": 68,
     "patch": 31
   }
 }
