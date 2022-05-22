@@ -75713,11 +75713,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e532A58e90e13d7093cf886EE65A919DAb19D27",
+      "symbol": "BTR",
+      "name": "BABYTERRAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 55,
+    "minor": 56,
     "patch": 31
   }
 }
