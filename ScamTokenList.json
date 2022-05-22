@@ -75405,11 +75405,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85dB4447C496e60e48B56054B88d465C25F52E35",
+      "symbol": "KUMKWON",
+      "name": "KumKwon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 27,
+    "minor": 28,
     "patch": 31
   }
 }
