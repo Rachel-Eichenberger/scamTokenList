@@ -75504,11 +75504,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x182919790F156FD23ED86f80832863310638A0EF",
+      "symbol": "EDGESWAP",
+      "name": "EdgeSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 36,
+    "minor": 37,
     "patch": 31
   }
 }
