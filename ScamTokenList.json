@@ -75856,11 +75856,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC671FfB782832cbe4d5393538D459fe9e4140F6b",
+      "symbol": "IKE",
+      "name": "IKE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 68,
+    "minor": 69,
     "patch": 31
   }
 }
