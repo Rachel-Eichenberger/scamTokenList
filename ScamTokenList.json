@@ -75757,11 +75757,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B4ae563Ba4605aD753B60198d6dFbABB7Bcba66",
+      "symbol": "LGD",
+      "name": "Legend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 59,
+    "minor": 60,
     "patch": 31
   }
 }
