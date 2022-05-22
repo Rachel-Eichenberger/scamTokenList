@@ -75658,11 +75658,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa638F87E55ADdC9D16b7a217e57B514414b1A073",
+      "symbol": "LUNO",
+      "name": "LunoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 50,
+    "minor": 51,
     "patch": 31
   }
 }
