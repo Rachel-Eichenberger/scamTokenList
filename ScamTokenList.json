@@ -75691,11 +75691,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBd54a526CA0416085B604a573FC2B596CBA726cA",
+      "symbol": "HYPER",
+      "name": "HyperChainx",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 53,
+    "minor": 54,
     "patch": 31
   }
 }
