@@ -75449,11 +75449,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd329d312F3cfdb75d7AdfFb3E0667bA6985bc81c",
+      "symbol": "AOAD",
+      "name": "AOAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 31,
+    "minor": 32,
     "patch": 31
   }
 }
