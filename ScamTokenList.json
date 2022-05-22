@@ -75416,11 +75416,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f16a2304e907CC0Fe7D677C94cad0672072b8c4",
+      "symbol": "EXPOINU",
+      "name": "ExponentialCapitalI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 28,
+    "minor": 29,
     "patch": 31
   }
 }
