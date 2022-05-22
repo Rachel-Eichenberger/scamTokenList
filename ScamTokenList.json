@@ -75515,11 +75515,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31bdFadC1c03bBbCaa807d8d28110e6D87c82e0D",
+      "symbol": "TAKA",
+      "name": "TAKAMORIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 37,
+    "minor": 38,
     "patch": 31
   }
 }
