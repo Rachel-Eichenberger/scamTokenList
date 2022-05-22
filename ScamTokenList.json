@@ -75823,11 +75823,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c39f756c2A5Ff2803A5eD03EA8c32F875d48311",
+      "symbol": "BABYTERRAINU",
+      "name": "BABYTERRAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 65,
+    "minor": 66,
     "patch": 31
   }
 }
