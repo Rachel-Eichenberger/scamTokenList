@@ -75878,11 +75878,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29F694625959025e2a375f1d73c289b3451CF5Ec",
+      "symbol": "VOLTORB",
+      "name": "VoltorbInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 70,
+    "minor": 71,
     "patch": 31
   }
 }
