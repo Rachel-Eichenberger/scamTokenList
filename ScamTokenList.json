@@ -75911,11 +75911,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fE568ECe0084E080e4db47e65F144c14474934C",
+      "symbol": "EPIZZA",
+      "name": "ETHPIZZA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 73,
+    "minor": 74,
     "patch": 31
   }
 }
