@@ -75768,11 +75768,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b3D946C76c567cb4e248DBC6D61cC8f3E3f821C",
+      "symbol": "OTS",
+      "name": "OtherS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 60,
+    "minor": 61,
     "patch": 31
   }
 }
