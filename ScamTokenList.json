@@ -75735,11 +75735,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf91838b927F4532326F6DBaf0A6fb1037F32C870",
+      "symbol": "JHB",
+      "name": "JohnnyShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 57,
+    "minor": 58,
     "patch": 31
   }
 }
