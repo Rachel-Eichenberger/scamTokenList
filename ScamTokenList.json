@@ -75438,11 +75438,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9405FEFfa6fDBeb1BAAb2e1E8ede88B91369375",
+      "symbol": "BABYAKIHIKO",
+      "name": "BabyAkihikoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 30,
+    "minor": 31,
     "patch": 31
   }
 }
