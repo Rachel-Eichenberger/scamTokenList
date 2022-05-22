@@ -75581,11 +75581,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F911EbaFC59D36fD464caAFf1c5f1F3798B433e",
+      "symbol": "GOBLIN",
+      "name": "GoblinWTF",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 43,
+    "minor": 44,
     "patch": 31
   }
 }
