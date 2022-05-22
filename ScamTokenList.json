@@ -75493,11 +75493,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08EB3b48ca4255A1fc85E5b6AE9621fC1D59b95b",
+      "symbol": "CORP",
+      "name": "CorpInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 35,
+    "minor": 36,
     "patch": 31
   }
 }
