@@ -75471,11 +75471,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea9229948Fd0aa6AD648ec219cd2BbfcdEabc1DA",
+      "symbol": "MAN",
+      "name": "MangaMon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 33,
+    "minor": 34,
     "patch": 31
   }
 }
