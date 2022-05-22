@@ -75482,11 +75482,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1CFCf985D706673cF2D688F05CbE62D56Adca92",
+      "symbol": "GOODGRAVY",
+      "name": "GMOCHIMPANZEEADENOV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 34,
+    "minor": 35,
     "patch": 31
   }
 }
