@@ -75669,11 +75669,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5FEB7abDA6c29d61bA0c220CA56feeF46e643932",
+      "symbol": "AKITO",
+      "name": "AkitoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 51,
+    "minor": 52,
     "patch": 31
   }
 }
