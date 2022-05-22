@@ -75526,11 +75526,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68C7B07BcAfe6EbA03402bc322E8a4e842d485D3",
+      "symbol": "SAR",
+      "name": "SarDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 38,
+    "minor": 39,
     "patch": 31
   }
 }
