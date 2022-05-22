@@ -75812,11 +75812,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38B416780D5b1926fD96B3D2f5B476E4394235F1",
+      "symbol": "LOIDINU",
+      "name": "LoidInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 64,
+    "minor": 65,
     "patch": 31
   }
 }
