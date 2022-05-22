@@ -75702,11 +75702,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4AC00CCD16E44081Fa0132790902f6C45dbd2Df3",
+      "symbol": "SHARKINU",
+      "name": "SHARKINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 54,
+    "minor": 55,
     "patch": 31
   }
 }
