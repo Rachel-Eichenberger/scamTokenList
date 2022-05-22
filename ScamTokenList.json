@@ -75790,11 +75790,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA939367AF392277f3a4D51E93651131B8005cF23",
+      "symbol": "FS",
+      "name": "Futters",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 62,
+    "minor": 63,
     "patch": 31
   }
 }
