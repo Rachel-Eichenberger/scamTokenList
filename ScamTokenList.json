@@ -75460,11 +75460,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE817E37c8F2F1387E4116Ac9DC9123D34D432c4",
+      "symbol": "OSAKAINU",
+      "name": "OSAKAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 32,
+    "minor": 33,
     "patch": 31
   }
 }
