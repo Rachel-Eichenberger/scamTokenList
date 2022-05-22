@@ -75779,11 +75779,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x725c618cEB08a75c0652C48F08490A264C806323",
+      "symbol": "TK",
+      "name": "TK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 61,
+    "minor": 62,
     "patch": 31
   }
 }
