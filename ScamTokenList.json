@@ -75922,11 +75922,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE25cF799fdb35faf2DD5ca81258E1A32755b8618",
+      "symbol": "KRYPTON",
+      "name": "kryptonian",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 74,
+    "minor": 75,
     "patch": 31
   }
 }
