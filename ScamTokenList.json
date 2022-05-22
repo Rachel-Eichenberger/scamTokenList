@@ -75636,11 +75636,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73Ab0D4Edd796423a6B18eD6a64C868dD5bb0428",
+      "symbol": "LUPOX",
+      "name": "LunaPox",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 48,
+    "minor": 49,
     "patch": 31
   }
 }
