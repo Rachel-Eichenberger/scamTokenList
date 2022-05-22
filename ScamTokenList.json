@@ -75592,11 +75592,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x739736408922d40dCF62457A077de5bd2EC63EDa",
+      "symbol": "BSHKI",
+      "name": "BabyShkreliInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 44,
+    "minor": 45,
     "patch": 31
   }
 }
