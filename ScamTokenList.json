@@ -76219,11 +76219,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA13eFd43D1652b94F1546FE71a69464CC607017",
+      "symbol": "GSHIB",
+      "name": "GShibaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 1,
+    "minor": 2,
     "patch": 32
   }
 }
