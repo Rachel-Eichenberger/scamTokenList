@@ -76736,11 +76736,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F68D11C3E6E198aa6BCda3aDD1202E256270064",
+      "symbol": "SCAW",
+      "name": "ShibCaw",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 48,
+    "minor": 49,
     "patch": 32
   }
 }
