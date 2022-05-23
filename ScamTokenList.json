@@ -76538,11 +76538,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf123FfEEC349704d1Ba5B39E8458204c19577D47",
+      "symbol": "SMOL",
+      "name": "smoltinginu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 30,
+    "minor": 31,
     "patch": 32
   }
 }
