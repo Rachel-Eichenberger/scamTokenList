@@ -76714,11 +76714,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38121d13D5b1B813Ff140460c2870CF45e2b50b5",
+      "symbol": "PHARMABRO",
+      "name": "PharmaBroInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 46,
+    "minor": 47,
     "patch": 32
   }
 }
