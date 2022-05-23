@@ -76593,11 +76593,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9853c2A273BA9AD02545D78e4613eBf12CCf7E27",
+      "symbol": "ELONMINATI",
+      "name": "ELONminati",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 35,
+    "minor": 36,
     "patch": 32
   }
 }
