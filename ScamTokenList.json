@@ -76604,11 +76604,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x143e557931Fd3FF2C4e9E363681e7aaa1d6e3746",
+      "symbol": "SHKRELI",
+      "name": "SHKRELISHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 36,
+    "minor": 37,
     "patch": 32
   }
 }
