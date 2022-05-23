@@ -76175,11 +76175,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed799DD2762B46cC57C45297aec1020Ab763388E",
+      "symbol": "SHKCULT",
+      "name": "SkhreliCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 97,
+    "minor": 98,
     "patch": 31
   }
 }
