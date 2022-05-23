@@ -76076,11 +76076,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8360316359E866f75157B81d499b3777aAA8f2D7",
+      "symbol": "BARRY",
+      "name": "BarryInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 88,
+    "minor": 89,
     "patch": 31
   }
 }
