@@ -76230,11 +76230,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x937Dd89AcBAdb21607d41161d88bbC7B009b78B9",
+      "symbol": "KIZO",
+      "name": "KizoRonin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 2,
+    "minor": 3,
     "patch": 32
   }
 }
