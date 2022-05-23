@@ -76505,11 +76505,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd4cAF69768cd0a0C1B46454a5b1f936363474f0",
+      "symbol": "SHIBATWO",
+      "name": "Shiba20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 27,
+    "minor": 28,
     "patch": 32
   }
 }
