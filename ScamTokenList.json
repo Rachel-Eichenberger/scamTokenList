@@ -76802,11 +76802,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0B33dC9d1a8ae852c9c0776d78255A5f78ef028",
+      "symbol": "THERANOS",
+      "name": "ElizabethHolmes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 54,
+    "minor": 55,
     "patch": 32
   }
 }
