@@ -76307,11 +76307,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4360cB774D8ebF0A84eb878589cE1f8773bF735d",
+      "symbol": "SHILL",
+      "name": "SHILLUMINATI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 9,
+    "minor": 10,
     "patch": 32
   }
 }
