@@ -76285,11 +76285,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb20Cb5428044614DA376149191A34a3f87DC93f1",
+      "symbol": "BHTI",
+      "name": "HATIBURN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 7,
+    "minor": 8,
     "patch": 32
   }
 }
