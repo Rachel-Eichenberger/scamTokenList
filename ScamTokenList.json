@@ -76131,11 +76131,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0738Eeb93b7C32423d6ae11C061F9AD0E8b5a496",
+      "symbol": "DAD",
+      "name": "DaddyIssues",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 93,
+    "minor": 94,
     "patch": 31
   }
 }
