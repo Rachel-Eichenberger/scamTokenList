@@ -76692,11 +76692,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcCa29a82EF0D58Ff0Dc76dED2DD0102FF87D950f",
+      "symbol": "TOX",
+      "name": "TokenX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 44,
+    "minor": 45,
     "patch": 32
   }
 }
