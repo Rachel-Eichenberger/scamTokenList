@@ -76417,11 +76417,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9E29aE0BE207af10667b5E8456ACa7C33Bfd608",
+      "symbol": "TIFA",
+      "name": "TifaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 19,
+    "minor": 20,
     "patch": 32
   }
 }
