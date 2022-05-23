@@ -76835,11 +76835,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A22f90236A76E9aE1a40f81024AaF7CBEc24baB",
+      "symbol": "HISO",
+      "name": "Hisoka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 57,
+    "minor": 58,
     "patch": 32
   }
 }
