@@ -76164,11 +76164,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDae116E21488aEBfb8F9B3ee49E89D9D3Cada3Cb",
+      "symbol": "CINU",
+      "name": "CowInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 96,
+    "minor": 97,
     "patch": 31
   }
 }
