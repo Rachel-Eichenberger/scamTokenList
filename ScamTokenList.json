@@ -76450,11 +76450,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D1b1B9841f527D148f441bCdC0b2Dcb26bD7C3a",
+      "symbol": "SHKKONG",
+      "name": "SkhreliKong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 22,
+    "minor": 23,
     "patch": 32
   }
 }
