@@ -76428,11 +76428,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaf1DB5adB21d9a21684654059f88507bf209e64",
+      "symbol": "KIRO",
+      "name": "KiroInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 20,
+    "minor": 21,
     "patch": 32
   }
 }
