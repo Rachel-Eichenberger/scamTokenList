@@ -76208,11 +76208,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4e69a9e85A5fe5469CA04AE2d81213b013dDC96",
+      "symbol": "ZARAKI",
+      "name": "Kenpachi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 0,
+    "minor": 1,
     "patch": 32
   }
 }
