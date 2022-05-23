@@ -76274,11 +76274,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x607355f16A63F0b143249e91C790d76C1558f817",
+      "symbol": "LUNAPE",
+      "name": "LunaApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 6,
+    "minor": 7,
     "patch": 32
   }
 }
