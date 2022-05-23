@@ -76109,11 +76109,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a6F27f92f2fa8C89c0c5DEd2f99c3726a313af3",
+      "symbol": "RICH",
+      "name": "BillionaireBoysDOA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 91,
+    "minor": 92,
     "patch": 31
   }
 }
