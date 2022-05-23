@@ -75966,11 +75966,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49002D41Dc56e4b67F2b4fC83882C4C6148A272C",
+      "symbol": "EGG",
+      "name": "goblintown",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 78,
+    "minor": 79,
     "patch": 31
   }
 }
