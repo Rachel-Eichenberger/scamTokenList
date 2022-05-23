@@ -76197,11 +76197,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E52C1cf009b0B77995Ce4E5F53F50647b311f21",
+      "symbol": "JOOKIBA",
+      "name": "JookibaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 33,
-    "minor": 99,
-    "patch": 31
+    "major": 34,
+    "minor": 0,
+    "patch": 32
   }
 }
