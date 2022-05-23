@@ -76142,11 +76142,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x254BFf02372343AEBc6D16def4Ac00Cc7176aBC6",
+      "symbol": "BABYHATI",
+      "name": "BabyHATI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 94,
+    "minor": 95,
     "patch": 31
   }
 }
