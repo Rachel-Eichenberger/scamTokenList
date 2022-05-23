@@ -76087,11 +76087,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa53b00A04976D66f15622f80559b223E46A80BBC",
+      "symbol": "SWEET",
+      "name": "SweetestToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 89,
+    "minor": 90,
     "patch": 31
   }
 }
