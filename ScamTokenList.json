@@ -76043,11 +76043,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x729f67F1317CBCf12a682121736b82C7061D81E7",
+      "symbol": "SKAW",
+      "name": "ShkreliHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 85,
+    "minor": 86,
     "patch": 31
   }
 }
