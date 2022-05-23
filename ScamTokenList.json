@@ -76703,11 +76703,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ab392c029141c17d5510de1A2C271c893e0a76a",
+      "symbol": "NEXTGEN",
+      "name": "NextGenerationLabs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 45,
+    "minor": 46,
     "patch": 32
   }
 }
