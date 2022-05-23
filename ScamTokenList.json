@@ -76373,11 +76373,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54473059C4D2bb289d3C0228e63E4D618Ae4Cb25",
+      "symbol": "GZI",
+      "name": "GainzyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 15,
+    "minor": 16,
     "patch": 32
   }
 }
