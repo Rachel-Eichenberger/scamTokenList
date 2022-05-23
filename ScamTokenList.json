@@ -76241,11 +76241,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA1A55f79c6a2226c8830472Aebf1265E5ac74De",
+      "symbol": "LINU",
+      "name": "BabyLINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 3,
+    "minor": 4,
     "patch": 32
   }
 }
