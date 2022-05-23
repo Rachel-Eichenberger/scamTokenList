@@ -76549,11 +76549,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B47B8Ae56b508A8f60A41ee6861b8Be66f11f76",
+      "symbol": "SHKITTY",
+      "name": "MartinShkreliKitty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 31,
+    "minor": 32,
     "patch": 32
   }
 }
