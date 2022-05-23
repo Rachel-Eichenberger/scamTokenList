@@ -76010,11 +76010,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x898fFe67E60b57e0Fb199f30f1d4E277571143F0",
+      "symbol": "SKOM",
+      "name": "ShkreliPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 82,
+    "minor": 83,
     "patch": 31
   }
 }
