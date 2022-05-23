@@ -76351,11 +76351,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeF3e145E1d3734B182D9B26DfE067e319AA5F7f9",
+      "symbol": "POS",
+      "name": "POS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 13,
+    "minor": 14,
     "patch": 32
   }
 }
