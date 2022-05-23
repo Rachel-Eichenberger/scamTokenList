@@ -76681,11 +76681,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D2a6Bcf548110e6E9d91275353d6E6f5b193133",
+      "symbol": "TINU",
+      "name": "TouristInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 43,
+    "minor": 44,
     "patch": 32
   }
 }
