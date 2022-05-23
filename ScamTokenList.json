@@ -75977,11 +75977,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81bA4c47bD212aDE1161544335607b9d9d4f71fE",
+      "symbol": "KYZOOM",
+      "name": "KyzoomToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 79,
+    "minor": 80,
     "patch": 31
   }
 }
