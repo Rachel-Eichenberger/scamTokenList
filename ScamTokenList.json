@@ -76318,11 +76318,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA72f46E028c34B6C6f349799D8D34A776A9170FD",
+      "symbol": "SUFFAGE",
+      "name": "Suffage",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 10,
+    "minor": 11,
     "patch": 32
   }
 }
