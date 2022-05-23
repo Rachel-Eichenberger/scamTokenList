@@ -76153,11 +76153,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb72321dD5788eDd83b2Afc4eE815e9801CbDB44D",
+      "symbol": "GROOT",
+      "name": "GROOTINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 95,
+    "minor": 96,
     "patch": 31
   }
 }
