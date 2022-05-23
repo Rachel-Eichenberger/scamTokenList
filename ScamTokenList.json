@@ -76483,11 +76483,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F5d5EdFF601e4BefB887Ff650A47a5F9641565E",
+      "symbol": "KWONDOM",
+      "name": "KWONDOM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 25,
+    "minor": 26,
     "patch": 32
   }
 }
