@@ -76516,11 +76516,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7B50C083aB93379b1432711Bd9a1C9771468855",
+      "symbol": "BSHK",
+      "name": "BabyShkreli",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 28,
+    "minor": 29,
     "patch": 32
   }
 }
