@@ -76054,11 +76054,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x991bDc2D6E1a21BA1b1EF0064bDaa1c9c3Cb1BC6",
+      "symbol": "LOGE",
+      "name": "LunaDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 86,
+    "minor": 87,
     "patch": 31
   }
 }
