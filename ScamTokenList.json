@@ -76461,11 +76461,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1C802e56bd6c023BF40A606FC989BD4FAd5a9F0",
+      "symbol": "BROKE",
+      "name": "BrokeToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 23,
+    "minor": 24,
     "patch": 32
   }
 }
