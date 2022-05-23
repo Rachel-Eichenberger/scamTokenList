@@ -76527,11 +76527,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0DDAE27185C4D1B82B62654d9e936aA68C55AB48",
+      "symbol": "LINER",
+      "name": "LUNAMINER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 29,
+    "minor": 30,
     "patch": 32
   }
 }
