@@ -76021,11 +76021,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8762918B67902A202b760363b7e895B3c46153CC",
+      "symbol": "SHOKUO",
+      "name": "SHOUKO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 83,
+    "minor": 84,
     "patch": 31
   }
 }
