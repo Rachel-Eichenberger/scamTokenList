@@ -76758,11 +76758,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd8488f082499B974B9C42E41c65A64118FdbC14",
+      "symbol": "SUBUKTS",
+      "name": "Subukts",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 50,
+    "minor": 51,
     "patch": 32
   }
 }
