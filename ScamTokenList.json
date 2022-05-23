@@ -76571,11 +76571,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0917F91119A11Fb7744cB997951D738bF59c4580",
+      "symbol": "PAJIURAI",
+      "name": "Pajiurai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 33,
+    "minor": 34,
     "patch": 32
   }
 }
