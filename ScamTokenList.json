@@ -76065,11 +76065,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b1FA0777F33E3937a6Df37bFf2fc3301684b03f",
+      "symbol": "BOPPY",
+      "name": "BoppyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 87,
+    "minor": 88,
     "patch": 31
   }
 }
