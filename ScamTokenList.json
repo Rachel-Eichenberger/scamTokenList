@@ -76769,11 +76769,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3D7DDAbe6E556Faa7eB1E6eF32cE03aCF446E66A",
+      "symbol": "STI",
+      "name": "ShibaTerraInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 51,
+    "minor": 52,
     "patch": 32
   }
 }
