@@ -75999,11 +75999,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9029AaF921d98423D47F171dDB7F45d50ba6fd2",
+      "symbol": "SOAR",
+      "name": "AnInvestorsParadise",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 33,
-    "minor": 81,
+    "minor": 82,
     "patch": 31
   }
 }
