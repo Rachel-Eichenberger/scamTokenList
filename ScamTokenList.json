@@ -76329,11 +76329,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb10580dDFEE8477F5777ce1Fd3d315888abaAA6",
+      "symbol": "LUNAKONG",
+      "name": "LunaKong",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 11,
+    "minor": 12,
     "patch": 32
   }
 }
