@@ -76296,11 +76296,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d1d3FB5e6c9737f9c6FcB20FA92760290E09AC6",
+      "symbol": "PAJI",
+      "name": "Pajiurai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 8,
+    "minor": 9,
     "patch": 32
   }
 }
