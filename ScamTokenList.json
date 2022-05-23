@@ -76472,11 +76472,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9958dFF8C988896418E6D4DA1D54e6Ce25F928cB",
+      "symbol": "FICO",
+      "name": "FicoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 24,
+    "minor": 25,
     "patch": 32
   }
 }
