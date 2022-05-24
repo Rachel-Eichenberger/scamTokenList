@@ -77121,11 +77121,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50b08EB9Ba4e4226F5F3b08DB9B9BcaeF72eb5c1",
+      "symbol": "MONA",
+      "name": "MonaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 83,
+    "minor": 84,
     "patch": 32
   }
 }
