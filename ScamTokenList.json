@@ -76912,11 +76912,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x162d8f3A2453ca9f3B413d497bFAa9dbA839E68f",
+      "symbol": "JJB",
+      "name": "JohnnyJeetBot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 64,
+    "minor": 65,
     "patch": 32
   }
 }
