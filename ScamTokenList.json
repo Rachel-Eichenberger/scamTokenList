@@ -77385,11 +77385,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5EFfA1D19FB26867aB1Ae88D13AcCC3FB6360c81",
+      "symbol": "HATIBANK",
+      "name": "BankOfHati",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 7,
+    "minor": 8,
     "patch": 33
   }
 }
