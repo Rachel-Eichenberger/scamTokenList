@@ -77000,11 +77000,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa3385fa2E6c8EC5A741Ded79844b4a7BFf5588a",
+      "symbol": "LDD",
+      "name": "LoveDeathDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 72,
+    "minor": 73,
     "patch": 32
   }
 }
