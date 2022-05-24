@@ -76923,11 +76923,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x874c8ccCFCba5D3Cc54302cA0fc81483c4E4660b",
+      "symbol": "YOKA",
+      "name": "YokaDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 65,
+    "minor": 66,
     "patch": 32
   }
 }
