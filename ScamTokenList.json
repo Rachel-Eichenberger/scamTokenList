@@ -77231,11 +77231,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80acB1D09ABc5AaC9B2bAE911C40196Eb0d56A42",
+      "symbol": "ECOCA",
+      "name": "ElonCocaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 93,
+    "minor": 94,
     "patch": 32
   }
 }
