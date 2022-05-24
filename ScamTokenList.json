@@ -77297,11 +77297,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb115fE4b234fcA7d9789C2Bd7DE2D382592959aA",
+      "symbol": "KEY",
+      "name": "Keyless",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 34,
-    "minor": 99,
-    "patch": 32
+    "major": 35,
+    "minor": 0,
+    "patch": 33
   }
 }
