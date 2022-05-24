@@ -77110,11 +77110,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48Bc684f15cAAe52d18c1800Aa094aa06ac8DFaE",
+      "symbol": "NAPOLINU",
+      "name": "NapoleonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 82,
+    "minor": 83,
     "patch": 32
   }
 }
