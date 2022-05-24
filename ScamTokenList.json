@@ -76879,11 +76879,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e2d7A884cc84CeF7db4ac0324cdB56e03FE331b",
+      "symbol": "ENRON",
+      "name": "Enron",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 61,
+    "minor": 62,
     "patch": 32
   }
 }
