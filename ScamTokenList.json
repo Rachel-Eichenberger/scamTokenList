@@ -77583,11 +77583,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a8F92addfe1Cd48B51E1FA926144C0918DBAb67",
+      "symbol": "ANIME",
+      "name": "AnimeVerse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 25,
+    "minor": 26,
     "patch": 33
   }
 }
