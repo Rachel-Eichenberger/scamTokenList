@@ -77033,11 +77033,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb438F7b43ac2E7303b39Cb2B1437a8394640682",
+      "symbol": "QUEST",
+      "name": "QuestInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 75,
+    "minor": 76,
     "patch": 32
   }
 }
