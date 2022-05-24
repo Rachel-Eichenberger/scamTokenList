@@ -76846,11 +76846,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0B37036679D362B0fd3304Ca4200dc9102B9A25",
+      "symbol": "JERRY",
+      "name": "CheesePredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 58,
+    "minor": 59,
     "patch": 32
   }
 }
