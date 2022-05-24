@@ -77242,11 +77242,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB778f2eE6a747101D13C01Cd6D33f5C68956d5e",
+      "symbol": "KURO",
+      "name": "Kurosaki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 94,
+    "minor": 95,
     "patch": 32
   }
 }
