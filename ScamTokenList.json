@@ -76978,11 +76978,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14Cc1824e17282C5E61e7c758FEFB280FF351c0B",
+      "symbol": "RICA",
+      "name": "RicaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 70,
+    "minor": 71,
     "patch": 32
   }
 }
