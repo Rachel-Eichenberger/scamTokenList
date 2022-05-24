@@ -77352,11 +77352,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71708A1dAd5Cd8b990C7c3F9264F198A1355c103",
+      "symbol": "HATIBURN",
+      "name": "HatiBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 4,
+    "minor": 5,
     "patch": 33
   }
 }
