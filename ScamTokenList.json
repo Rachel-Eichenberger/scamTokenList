@@ -76989,11 +76989,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bd97629196c8D9dD2de3080C36715CC4AEE68aC",
+      "symbol": "SPIKE",
+      "name": "SpiegelInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 71,
+    "minor": 72,
     "patch": 32
   }
 }
