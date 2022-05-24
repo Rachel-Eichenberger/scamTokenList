@@ -77143,11 +77143,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2EB6977E3008874bB8cF9c810c0564D73fdD802",
+      "symbol": "SPARTAN",
+      "name": "SpartanInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 85,
+    "minor": 86,
     "patch": 32
   }
 }
