@@ -77506,11 +77506,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF506E17ec0d39cF70C50AE069d76B62Cc69CfF56",
+      "symbol": "LMN",
+      "name": "LunaMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 18,
+    "minor": 19,
     "patch": 33
   }
 }
