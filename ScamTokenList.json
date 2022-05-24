@@ -77572,11 +77572,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x262Fc30F5C2fa3b253D366EB0Aad745AC37Bee42",
+      "symbol": "ABRRE",
+      "name": "Abrre",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 24,
+    "minor": 25,
     "patch": 33
   }
 }
