@@ -77462,11 +77462,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a766fd6165f5eEDD54b903B08Add5ce363002Ff",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 14,
+    "minor": 15,
     "patch": 33
   }
 }
