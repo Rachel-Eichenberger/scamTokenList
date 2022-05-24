@@ -77220,11 +77220,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7f5237391C2e61B32509b2a0b68c7f3726a64a3",
+      "symbol": "LORD",
+      "name": "BITLORDINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 92,
+    "minor": 93,
     "patch": 32
   }
 }
