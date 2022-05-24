@@ -77253,11 +77253,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f04EDa34E316Ecea5E561D84f2dF47c22b80561",
+      "symbol": "HODLENRUGFIELD",
+      "name": "hodlencaufieldsabit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 95,
+    "minor": 96,
     "patch": 32
   }
 }
