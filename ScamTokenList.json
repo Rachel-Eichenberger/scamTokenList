@@ -77319,11 +77319,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B9aE5085eE6E0a14fDad264ED34B6aF1948DaD9",
+      "symbol": "ALAMEDA",
+      "name": "AlamedaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 1,
+    "minor": 2,
     "patch": 33
   }
 }
