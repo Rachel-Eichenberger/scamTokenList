@@ -77176,11 +77176,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5d2eD73536249f842566c9A64B0BFCFE92d6a28",
+      "symbol": "FISH",
+      "name": "IceJJFishINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 88,
+    "minor": 89,
     "patch": 32
   }
 }
