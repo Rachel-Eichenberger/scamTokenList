@@ -76857,11 +76857,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee6f28162bF19051Ec7e3b7c84e113E8e68773DD",
+      "symbol": "FRAUD",
+      "name": "FraudsterInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 59,
+    "minor": 60,
     "patch": 32
   }
 }
