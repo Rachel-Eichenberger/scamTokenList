@@ -77154,11 +77154,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A75941763f31c930b19c041b709742B0B31ebB6",
+      "symbol": "RGRK",
+      "name": "RAGNAROK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 86,
+    "minor": 87,
     "patch": 32
   }
 }
