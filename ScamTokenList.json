@@ -76945,11 +76945,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x510820b74d0D1E0310D670A94Ee6f3204238DA37",
+      "symbol": "CQC",
+      "name": "CQC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 67,
+    "minor": 68,
     "patch": 32
   }
 }
