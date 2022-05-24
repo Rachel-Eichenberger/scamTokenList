@@ -77198,11 +77198,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63D78Af357a84AB81Eb8ADC2E08f4d1af1A4fc67",
+      "symbol": "FSI",
+      "name": "FertilitySlumpInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 90,
+    "minor": 91,
     "patch": 32
   }
 }
