@@ -77473,11 +77473,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a905D9064bdc37a2Aa98b168c79472cD7b6eF2E",
+      "symbol": "CLSL",
+      "name": "Colossal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 15,
+    "minor": 16,
     "patch": 33
   }
 }
