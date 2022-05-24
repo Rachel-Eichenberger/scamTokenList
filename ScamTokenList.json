@@ -77561,11 +77561,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2fC76128F55616d96B07F021ACCBB0aE4fd091f2",
+      "symbol": "DEW",
+      "name": "CryptoDEW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 23,
+    "minor": 24,
     "patch": 33
   }
 }
