@@ -77429,11 +77429,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3ce8BB09Ce4d5f2cd01463f0d7FEd469b4560d3",
+      "symbol": "THREAT",
+      "name": "PopulationCollapse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 11,
+    "minor": 12,
     "patch": 33
   }
 }
