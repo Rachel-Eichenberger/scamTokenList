@@ -77341,11 +77341,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32E9a5F2c6784DD682afDe7EbCCee70118053C59",
+      "symbol": "COLOSSAL",
+      "name": "COLOSSAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 3,
+    "minor": 4,
     "patch": 33
   }
 }
