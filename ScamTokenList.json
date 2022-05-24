@@ -77132,11 +77132,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37e093693b12fc3bE55E752B204bfDE8bE9AAAda",
+      "symbol": "SUNTZU",
+      "name": "SunTzu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 84,
+    "minor": 85,
     "patch": 32
   }
 }
