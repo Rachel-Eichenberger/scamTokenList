@@ -77517,11 +77517,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C73ab2d55e41410FF551E91AA83E87D8B3f7B3A",
+      "symbol": "DOS",
+      "name": "DOS",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 19,
+    "minor": 20,
     "patch": 33
   }
 }
