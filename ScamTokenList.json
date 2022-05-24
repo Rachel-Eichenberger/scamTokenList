@@ -77264,11 +77264,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBB1d50A3427F0264f33C6209C99c13A0F34451A9",
+      "symbol": "ESHK",
+      "name": "EverShkreli",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 96,
+    "minor": 97,
     "patch": 32
   }
 }
