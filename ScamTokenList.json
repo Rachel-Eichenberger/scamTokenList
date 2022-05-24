@@ -77539,11 +77539,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9492E8F95061793B82EEE78b726C17400E838dc3",
+      "symbol": "WADMI",
+      "name": "WhatADickMoveInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 21,
+    "minor": 22,
     "patch": 33
   }
 }
