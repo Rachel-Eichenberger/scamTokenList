@@ -77044,11 +77044,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DDd0Fb692a179Cad6526f054F2E9Cbe18de9743",
+      "symbol": "MOMO",
+      "name": "MomoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 76,
+    "minor": 77,
     "patch": 32
   }
 }
