@@ -77451,11 +77451,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe095268fed6EF4f16f96D6bd4D264b87B3994dFd",
+      "symbol": "BCCINU",
+      "name": "BitConnectInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 13,
+    "minor": 14,
     "patch": 33
   }
 }
