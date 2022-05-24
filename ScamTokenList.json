@@ -76934,11 +76934,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7886D5Fbf67694E41A31E8E6C60e68412238caC1",
+      "symbol": "BAIKI",
+      "name": "BaiKiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 66,
+    "minor": 67,
     "patch": 32
   }
 }
