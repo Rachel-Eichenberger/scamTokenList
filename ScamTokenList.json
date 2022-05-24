@@ -76868,11 +76868,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00434bF12f134B0E8f6207cd362140ff7516283E",
+      "symbol": "LONGDOGE",
+      "name": "LongDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 60,
+    "minor": 61,
     "patch": 32
   }
 }
