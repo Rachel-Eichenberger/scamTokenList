@@ -77363,11 +77363,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x342Bb60866fc2DFb20bbc4c65B6Bd3E15de724bd",
+      "symbol": "ANNA",
+      "name": "AnnaSorokinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 5,
+    "minor": 6,
     "patch": 33
   }
 }
