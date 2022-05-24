@@ -77374,11 +77374,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7266bbc8e9DD34f5590e8aAd5347b21E80582dFB",
+      "symbol": "PIKAINU",
+      "name": "PikachuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 6,
+    "minor": 7,
     "patch": 33
   }
 }
