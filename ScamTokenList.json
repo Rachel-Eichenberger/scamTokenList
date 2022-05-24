@@ -77011,11 +77011,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8E9edb7C4265Ac196b95f31019EC981eF0Eacc4",
+      "symbol": "DECAFI",
+      "name": "DecagonDefi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 73,
+    "minor": 74,
     "patch": 32
   }
 }
