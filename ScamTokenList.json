@@ -77209,11 +77209,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2387DE05e203111Ef5bC959144aCD1191ff7676",
+      "symbol": "HATIBANK",
+      "name": "BankOfHati",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 91,
+    "minor": 92,
     "patch": 32
   }
 }
