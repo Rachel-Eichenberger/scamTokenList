@@ -77066,11 +77066,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5F00a8f042827A9ea4A7b53A550500aE152eC91",
+      "symbol": "LOGAN",
+      "name": "LoganPaulInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 78,
+    "minor": 79,
     "patch": 32
   }
 }
