@@ -77528,11 +77528,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2aF5C5d930843258C2320EBF300233eD5A85A227",
+      "symbol": "KINU",
+      "name": "KizoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 20,
+    "minor": 21,
     "patch": 33
   }
 }
