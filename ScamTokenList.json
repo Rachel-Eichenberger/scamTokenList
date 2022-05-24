@@ -77418,11 +77418,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa83ad5987e1FD6F53d33BE0D298C83fAb9165c6C",
+      "symbol": "BEARS",
+      "name": "MADBEARS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 10,
+    "minor": 11,
     "patch": 33
   }
 }
