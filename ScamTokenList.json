@@ -77187,11 +77187,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1922cD74702ea96c7b43571Df1e42f8Db810b293",
+      "symbol": "LOKI",
+      "name": "LOKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 89,
+    "minor": 90,
     "patch": 32
   }
 }
