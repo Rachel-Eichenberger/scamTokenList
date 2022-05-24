@@ -77022,11 +77022,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0789373885Fc6e8dA12B34D68fE499847C009C70",
+      "symbol": "COLOSSAL",
+      "name": "ShibaTitan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 34,
-    "minor": 74,
+    "minor": 75,
     "patch": 32
   }
 }
