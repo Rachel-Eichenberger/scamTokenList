@@ -77990,11 +77990,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD90dd6d909beAE966b3BaDD9b9F8441FCA2B986E",
+      "symbol": "GIFT",
+      "name": "TodaysGift",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 62,
+    "minor": 63,
     "patch": 33
   }
 }
