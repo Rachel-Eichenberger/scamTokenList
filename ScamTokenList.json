@@ -78221,11 +78221,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05C2D552E8BBdc3F551a7126433f9251BcD96904",
+      "symbol": "SHIKU",
+      "name": "Shiku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 83,
+    "minor": 84,
     "patch": 33
   }
 }
