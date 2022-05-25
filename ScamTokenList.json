@@ -78155,11 +78155,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdEeFFD4dB779a0ac83C535c22ad1354f6a1E1C85",
+      "symbol": "ELI",
+      "name": "EthlordInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 77,
+    "minor": 78,
     "patch": 33
   }
 }
