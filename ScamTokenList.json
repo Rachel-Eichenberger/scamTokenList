@@ -77726,11 +77726,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc69bc65F480c9384c75Ab49604930e21784E459",
+      "symbol": "REDGOBLIN",
+      "name": "RedGoblininu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 38,
+    "minor": 39,
     "patch": 33
   }
 }
