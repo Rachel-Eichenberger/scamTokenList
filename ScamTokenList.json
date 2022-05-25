@@ -78496,11 +78496,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x893a557409041522e902c6Ed88622878020322aC",
+      "symbol": "NINU",
+      "name": "NAYANCATINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 8,
+    "minor": 9,
     "patch": 34
   }
 }
