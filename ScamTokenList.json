@@ -78474,11 +78474,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6Ef361C43970e7e34eccA8f8447672B5489D6A2",
+      "symbol": "CITADEL2",
+      "name": "TheCitadelTwo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 6,
+    "minor": 7,
     "patch": 34
   }
 }
