@@ -77715,11 +77715,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0717c765FEDb94D5C0AA49CA6Ef8F022003e57ce",
+      "symbol": "YBYB",
+      "name": "YBYB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 37,
+    "minor": 38,
     "patch": 33
   }
 }
