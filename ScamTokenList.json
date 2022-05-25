@@ -78133,11 +78133,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x334CFC102516DbEbc96C883FCeB5A1DbAE33be53",
+      "symbol": "CULT2",
+      "name": "Cult20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 75,
+    "minor": 76,
     "patch": 33
   }
 }
