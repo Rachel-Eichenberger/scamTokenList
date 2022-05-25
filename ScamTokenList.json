@@ -77638,11 +77638,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x030c04a21f4EAF4B1720e83cA43693C1e3C62F5D",
+      "symbol": "GT",
+      "name": "gObLiNtOwN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 30,
+    "minor": 31,
     "patch": 33
   }
 }
