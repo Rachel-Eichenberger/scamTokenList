@@ -77660,11 +77660,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x447304E497f613eF456bda6bB88BEdf85076F2C6",
+      "symbol": "ZOSMA",
+      "name": "ZosmaINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 32,
+    "minor": 33,
     "patch": 33
   }
 }
