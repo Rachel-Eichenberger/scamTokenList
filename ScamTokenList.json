@@ -77693,11 +77693,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bbd4a0Da01bca1603894914479857BBA12F31eB",
+      "symbol": "WONO",
+      "name": "WonoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 35,
+    "minor": 36,
     "patch": 33
   }
 }
