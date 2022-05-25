@@ -78463,11 +78463,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x220088098B6A9576b7b96E8Fd5ff20E9bf46A785",
+      "symbol": "ZEROINU",
+      "name": "ZeroInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 5,
+    "minor": 6,
     "patch": 34
   }
 }
