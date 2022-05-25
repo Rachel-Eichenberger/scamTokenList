@@ -78485,11 +78485,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x114F773a4293de2C2b8fcBFF5B2D0698B52eBF3b",
+      "symbol": "CORGY",
+      "name": "CORGIORGY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 7,
+    "minor": 8,
     "patch": 34
   }
 }
