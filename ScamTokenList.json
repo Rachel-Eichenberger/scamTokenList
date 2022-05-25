@@ -78276,11 +78276,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe21D7729d584Fb19B49555A3EA47FEb398080e6f",
+      "symbol": "PAMP",
+      "name": "PumpingETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 88,
+    "minor": 89,
     "patch": 33
   }
 }
