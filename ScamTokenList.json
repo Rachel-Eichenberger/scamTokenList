@@ -77979,11 +77979,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9743A96a2cB8aCd6e181F651BcF8669dCFb2640",
+      "symbol": "BOTTO",
+      "name": "BottoDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 61,
+    "minor": 62,
     "patch": 33
   }
 }
