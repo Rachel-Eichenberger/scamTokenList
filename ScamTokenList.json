@@ -78045,11 +78045,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B50aBD6c0DA718FC8F14CB66B87327a67453907",
+      "symbol": "CAW2",
+      "name": "CAW2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 67,
+    "minor": 68,
     "patch": 33
   }
 }
