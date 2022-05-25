@@ -77649,11 +77649,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x432D7BC032B1bd8C9FD319f8c9e5d6b08bc14c24",
+      "symbol": "TITAN",
+      "name": "Titan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 31,
+    "minor": 32,
     "patch": 33
   }
 }
