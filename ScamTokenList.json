@@ -77737,11 +77737,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1825771ef5f278982c7e8aEA1ef2CcBc2d7351d",
+      "symbol": "NINJAVIKING",
+      "name": "NINJAVIKINGINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 39,
+    "minor": 40,
     "patch": 33
   }
 }
