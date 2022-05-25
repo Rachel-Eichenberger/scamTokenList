@@ -78188,11 +78188,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBaba7A2fF21371DD9E5950178761Eb3f634E6df7",
+      "symbol": "FOMO2",
+      "name": "FreddyFOMO20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 80,
+    "minor": 81,
     "patch": 33
   }
 }
