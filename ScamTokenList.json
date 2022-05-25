@@ -78364,11 +78364,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCaA482A64246055d22e5ebd2Fa7067Ced5bfA8A9",
+      "symbol": "GN2",
+      "name": "GoodNight20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 96,
+    "minor": 97,
     "patch": 33
   }
 }
