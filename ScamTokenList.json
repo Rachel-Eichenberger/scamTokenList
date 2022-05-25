@@ -78232,11 +78232,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28243BB59f388763fE08daD0163Ba55094fF95fD",
+      "symbol": "MASKOINU",
+      "name": "MaskoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 84,
+    "minor": 85,
     "patch": 33
   }
 }
