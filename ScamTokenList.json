@@ -78375,11 +78375,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3059F9d25ACDb584a04442D393bd0Dc0E6B61d4B",
+      "symbol": "JESUS",
+      "name": "Jesus20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 97,
+    "minor": 98,
     "patch": 33
   }
 }
