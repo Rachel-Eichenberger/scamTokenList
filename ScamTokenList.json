@@ -78298,11 +78298,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F8A2881b977384299340370d78D8B0a04386e23",
+      "symbol": "PLUTO",
+      "name": "PlutoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 90,
+    "minor": 91,
     "patch": 33
   }
 }
