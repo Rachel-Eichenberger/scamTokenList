@@ -78023,11 +78023,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04d36DE42EFD2A59f15Ea42fCD43420D4e4C91B0",
+      "symbol": "TAMA2",
+      "name": "SAITAMA20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 65,
+    "minor": 66,
     "patch": 33
   }
 }
