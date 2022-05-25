@@ -78100,11 +78100,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc59AAF45Ee4481dDD1DF41502A45F46072220374",
+      "symbol": "BIGGIE",
+      "name": "BiggieCheese",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 72,
+    "minor": 73,
     "patch": 33
   }
 }
