@@ -77704,11 +77704,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81495cC75daBfE485B7A20d6EFF28C27753D1576",
+      "symbol": "BURNTHELIQUIDITY",
+      "name": "BTL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 36,
+    "minor": 37,
     "patch": 33
   }
 }
