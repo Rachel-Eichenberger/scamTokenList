@@ -78243,11 +78243,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f1301736Df4FA5358aFE1C43Bc43031d3AA9708",
+      "symbol": "KLOOT",
+      "name": "KaizokuLoot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 85,
+    "minor": 86,
     "patch": 33
   }
 }
