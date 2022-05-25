@@ -78122,11 +78122,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x173b0f0A106BB77959EeCd1A9b3721A5b231Ee87",
+      "symbol": "CUMROCKET2",
+      "name": "CumRocket2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 74,
+    "minor": 75,
     "patch": 33
   }
 }
