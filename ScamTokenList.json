@@ -77957,11 +77957,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06718Aa949D19d2eC48FEd8FbbCEE8C50AE48e7e",
+      "symbol": "NANA",
+      "name": "NanaToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 59,
+    "minor": 60,
     "patch": 33
   }
 }
