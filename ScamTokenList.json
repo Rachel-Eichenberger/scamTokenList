@@ -78342,11 +78342,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4400EBDc0Db477EE3f4692bE8EC1A0fa6a47c505",
+      "symbol": "MAMAK",
+      "name": "MamaKong",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 94,
+    "minor": 95,
     "patch": 33
   }
 }
