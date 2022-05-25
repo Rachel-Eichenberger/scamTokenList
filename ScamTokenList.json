@@ -78089,11 +78089,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7982A932E31D3ba89259835C77af464EB0654fD",
+      "symbol": "SWARM",
+      "name": "Swarm",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 71,
+    "minor": 72,
     "patch": 33
   }
 }
