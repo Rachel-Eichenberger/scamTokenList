@@ -77671,11 +77671,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B8c69f3b3e2fc2854bBFc02a95a58A352F62eD7",
+      "symbol": "CYBERKONGZ",
+      "name": "CyberKongz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 33,
+    "minor": 34,
     "patch": 33
   }
 }
