@@ -78012,11 +78012,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD62eDdD3944b91e7e6D579337940a9e0d20848eC",
+      "symbol": "ETH2",
+      "name": "ETH20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 64,
+    "minor": 65,
     "patch": 33
   }
 }
