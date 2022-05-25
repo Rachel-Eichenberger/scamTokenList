@@ -78408,11 +78408,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x293b779d2cEE53755f8c871AdC3F8Fe7859F52Ae",
+      "symbol": "CYCLE",
+      "name": "Cycle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 0,
+    "minor": 1,
     "patch": 34
   }
 }
