@@ -77825,11 +77825,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0158ec253Ae59d533e1a70927dfb94F7b43B23ab",
+      "symbol": "GAARA",
+      "name": "Gaarainu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 47,
+    "minor": 48,
     "patch": 33
   }
 }
