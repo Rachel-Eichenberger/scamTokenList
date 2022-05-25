@@ -77946,11 +77946,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44F4dB048F0033C2B62fe3D2693401d60f0f08A9",
+      "symbol": "TIGER",
+      "name": "WhiteSwanProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 58,
+    "minor": 59,
     "patch": 33
   }
 }
