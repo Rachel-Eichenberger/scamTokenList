@@ -77803,11 +77803,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x368DD82daA0C287c5d6cb9dc83b082C3D457c375",
+      "symbol": "HANNYA",
+      "name": "HANNYA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 45,
+    "minor": 46,
     "patch": 33
   }
 }
