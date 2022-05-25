@@ -77605,11 +77605,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c59FCce14e91aE1a0038b41141B5A3a4fCFDB2C",
+      "symbol": "MOLES",
+      "name": "Groundworks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 27,
+    "minor": 28,
     "patch": 33
   }
 }
