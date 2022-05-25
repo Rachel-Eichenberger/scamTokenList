@@ -78397,11 +78397,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37391b3d09DBcB96A8da053188B56bCC19a43c52",
+      "symbol": "CMLNB",
+      "name": "ChameleonBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 35,
-    "minor": 99,
-    "patch": 33
+    "major": 36,
+    "minor": 0,
+    "patch": 34
   }
 }
