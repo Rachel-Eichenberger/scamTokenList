@@ -77814,11 +77814,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36688E432c3D1B6343F40B94b73235c1E1f9f662",
+      "symbol": "GUMO",
+      "name": "Jorogumo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 46,
+    "minor": 47,
     "patch": 33
   }
 }
