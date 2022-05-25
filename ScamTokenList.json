@@ -77902,11 +77902,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAB7c651d73bA3BD0eD67d3693e4639394D772949",
+      "symbol": "SHIB2",
+      "name": "Shiba20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 54,
+    "minor": 55,
     "patch": 33
   }
 }
