@@ -77880,11 +77880,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd902a5382e7b3070546B715CeeB682E2781fF9cc",
+      "symbol": "DOGE2",
+      "name": "DOGE20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 52,
+    "minor": 53,
     "patch": 33
   }
 }
