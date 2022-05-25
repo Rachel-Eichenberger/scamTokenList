@@ -78067,11 +78067,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDEfcAdd50bd3AFAeA20fC4EDEEa0192364F9651E",
+      "symbol": "QOM2",
+      "name": "QOM2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 69,
+    "minor": 70,
     "patch": 33
   }
 }
