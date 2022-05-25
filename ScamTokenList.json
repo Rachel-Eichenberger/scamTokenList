@@ -78309,11 +78309,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd9f3038DE39f379bdb670F5019767680092Cd58",
+      "symbol": "USTAMA2",
+      "name": "USTAMA20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 91,
+    "minor": 92,
     "patch": 33
   }
 }
