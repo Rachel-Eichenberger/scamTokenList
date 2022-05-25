@@ -78144,11 +78144,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7695459B9DCc32c2Ab09c920314a0c43F7733F8E",
+      "symbol": "AURELIUS",
+      "name": "MarcusAureliusInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 76,
+    "minor": 77,
     "patch": 33
   }
 }
