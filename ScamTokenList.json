@@ -77616,11 +77616,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4536865CB6c5a45B0c505B8889F1125CeC0d91Ac",
+      "symbol": "CAPY",
+      "name": "CapybaraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 28,
+    "minor": 29,
     "patch": 33
   }
 }
