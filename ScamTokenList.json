@@ -78254,11 +78254,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A32dA1BB96978899F0d90708edd50ABf3312222",
+      "symbol": "PIERVIDALNAKAY",
+      "name": "PierVidalNakay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 86,
+    "minor": 87,
     "patch": 33
   }
 }
