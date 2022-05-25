@@ -77770,11 +77770,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaB738e445ffcd275d2E42E6BfFfAD33f09E6EC58",
+      "symbol": "VIRO",
+      "name": "ViroInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 42,
+    "minor": 43,
     "patch": 33
   }
 }
