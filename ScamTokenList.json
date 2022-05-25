@@ -78078,11 +78078,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3E5414eA42F819C37447c7841C81809c5c03be0",
+      "symbol": "SAFEMOON2",
+      "name": "Safemoon20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 70,
+    "minor": 71,
     "patch": 33
   }
 }
