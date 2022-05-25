@@ -78430,11 +78430,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac657320448bbaaf19944ae2830F508218f2aC81",
+      "symbol": "KOMO",
+      "name": "Komodo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 2,
+    "minor": 3,
     "patch": 34
   }
 }
