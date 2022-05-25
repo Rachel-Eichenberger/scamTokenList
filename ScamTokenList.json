@@ -77869,11 +77869,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F7595666832850195Fa8eF6c4088642845079Bf",
+      "symbol": "OCTOPUS",
+      "name": "Octopus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 51,
+    "minor": 52,
     "patch": 33
   }
 }
