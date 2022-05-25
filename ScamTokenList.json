@@ -78034,11 +78034,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7929C03A9bE4e6Ef6eD199D06f807295aDa74ecc",
+      "symbol": "MORSH",
+      "name": "MorningShib",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 66,
+    "minor": 67,
     "patch": 33
   }
 }
