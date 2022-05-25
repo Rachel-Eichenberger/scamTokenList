@@ -77913,11 +77913,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x096D9DDdAe7E27Bf0629DBCc2d6ad70C42169D81",
+      "symbol": "FLOKI2",
+      "name": "FLOKI20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 55,
+    "minor": 56,
     "patch": 33
   }
 }
