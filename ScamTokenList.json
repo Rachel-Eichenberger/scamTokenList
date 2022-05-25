@@ -78210,11 +78210,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x523Bda548bC08Cb432335422C7634fE1DB4D4EFF",
+      "symbol": "AZUKIINU",
+      "name": "AzukiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 82,
+    "minor": 83,
     "patch": 33
   }
 }
