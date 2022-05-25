@@ -78177,11 +78177,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCAbEeA2548866fE5a8fBf73b5d8716D90519C393",
+      "symbol": "AKITA2",
+      "name": "AKITAINU2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 79,
+    "minor": 80,
     "patch": 33
   }
 }
