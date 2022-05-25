@@ -78111,11 +78111,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFD23171621c51de774e7Abe7990B6B9aDA45d209",
+      "symbol": "USHIB",
+      "name": "UltimateShibaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 35,
-    "minor": 73,
+    "minor": 74,
     "patch": 33
   }
 }
