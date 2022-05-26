@@ -78804,11 +78804,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb78892bF41A5E3BF710700BeEa62558aa4f75bC",
+      "symbol": "ASS",
+      "name": "ASS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 36,
+    "minor": 37,
     "patch": 34
   }
 }
