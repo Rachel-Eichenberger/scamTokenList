@@ -78771,11 +78771,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3eC5F75a093C764A5482Eca08C6d1f55dDa2BC4",
+      "symbol": "PAPAINU",
+      "name": "PAPAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 33,
+    "minor": 34,
     "patch": 34
   }
 }
