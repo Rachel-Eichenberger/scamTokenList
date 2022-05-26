@@ -78716,11 +78716,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5696B5Eb31654f3F4033aa3d81382baDd5650E8e",
+      "symbol": "TDAC",
+      "name": "TERRAdactyl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 28,
+    "minor": 29,
     "patch": 34
   }
 }
