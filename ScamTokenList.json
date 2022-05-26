@@ -78793,11 +78793,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14eFC5F3dDa072413671ce9E42aA1FaA5A2CfaC7",
+      "symbol": "MAMBA",
+      "name": "Mamba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 35,
+    "minor": 36,
     "patch": 34
   }
 }
