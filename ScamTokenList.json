@@ -78639,11 +78639,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9aF9c34B01550cF8a3334C46cCE27c781FffFA6",
+      "symbol": "GOBLINU",
+      "name": "GoblinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 21,
+    "minor": 22,
     "patch": 34
   }
 }
