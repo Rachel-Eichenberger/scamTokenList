@@ -78540,11 +78540,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9e56E230873d58B986e79795BaEeeB999016df3",
+      "symbol": "WYVERN",
+      "name": "HicSuntDracones",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 12,
+    "minor": 13,
     "patch": 34
   }
 }
