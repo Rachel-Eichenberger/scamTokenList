@@ -78859,11 +78859,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAfDa752f49e78c1362BA7760cfEA04aB96F44010",
+      "symbol": "BECIMI",
+      "name": "BecimiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 41,
+    "minor": 42,
     "patch": 34
   }
 }
