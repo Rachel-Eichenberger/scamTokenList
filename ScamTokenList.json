@@ -78683,11 +78683,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12dB4b1100882a28084e9886F243D59690d2dd89",
+      "symbol": "DAVINCI",
+      "name": "PrioryofZion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 25,
+    "minor": 26,
     "patch": 34
   }
 }
