@@ -78727,11 +78727,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68E28f121Fee5962fA52F36FF15372eb84F2e9c5",
+      "symbol": "LEAGUE",
+      "name": "LeagueClash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 29,
+    "minor": 30,
     "patch": 34
   }
 }
