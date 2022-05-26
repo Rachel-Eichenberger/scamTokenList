@@ -78914,11 +78914,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e4076741A2da69761A8E6f0cB2730aa08a2cd78",
+      "symbol": "SHINJA20",
+      "name": "SHINJA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 46,
+    "minor": 47,
     "patch": 34
   }
 }
