@@ -78848,11 +78848,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd02083Fe8f0A16d16ce7A2470deE3c702D6DC5df",
+      "symbol": "GINU",
+      "name": "GMTINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 40,
+    "minor": 41,
     "patch": 34
   }
 }
