@@ -78628,11 +78628,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE9c1Ea4DCF0AAf4Ff2D78B6fF83AA69797B65Eb",
+      "symbol": "SAFE",
+      "name": "SAFEAnWang",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 20,
+    "minor": 21,
     "patch": 34
   }
 }
