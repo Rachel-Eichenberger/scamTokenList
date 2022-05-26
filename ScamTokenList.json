@@ -78925,11 +78925,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57dA1eFCc2f5EFC041e0A3F4507c85E4C2b6c69f",
+      "symbol": "SALLY",
+      "name": "Salamander",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 47,
+    "minor": 48,
     "patch": 34
   }
 }
