@@ -78518,11 +78518,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e40dD0BdD6Dc73210FC76AC897d4FEbe5Cf5e06",
+      "symbol": "BERNIE",
+      "name": "BernieInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 10,
+    "minor": 11,
     "patch": 34
   }
 }
