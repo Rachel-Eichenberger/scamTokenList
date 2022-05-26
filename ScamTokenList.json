@@ -78826,11 +78826,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06d56131d48853044836795d7335353EC3B338C8",
+      "symbol": "PRISM20",
+      "name": "PRISMNetwork20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 38,
+    "minor": 39,
     "patch": 34
   }
 }
