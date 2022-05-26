@@ -78694,11 +78694,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf249639f2Eb101cAA08ADb49fD66438a1E6951D",
+      "symbol": "QWERTY",
+      "name": "QWERTYINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 26,
+    "minor": 27,
     "patch": 34
   }
 }
