@@ -78529,11 +78529,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2dA3CFb0de6D5FAcAdDB96625B98fD70F69a31D5",
+      "symbol": "SARA",
+      "name": "SaraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 11,
+    "minor": 12,
     "patch": 34
   }
 }
