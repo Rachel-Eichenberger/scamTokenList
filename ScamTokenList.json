@@ -78650,11 +78650,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xADf842347B18095EeEAdfF9374AA87E87D336249",
+      "symbol": "METAFS",
+      "name": "MetaFashionCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 22,
+    "minor": 23,
     "patch": 34
   }
 }
