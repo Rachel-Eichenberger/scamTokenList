@@ -78672,11 +78672,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5F994eAa7b33b187A7259C7331314dE748CeF0b",
+      "symbol": "RANA",
+      "name": "RanaINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 24,
+    "minor": 25,
     "patch": 34
   }
 }
