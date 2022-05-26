@@ -78936,11 +78936,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7962F394c9cb3dB1EB95d433eD9F27cb7c8f4b2",
+      "symbol": "KISHU2",
+      "name": "Kishu2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 48,
+    "minor": 49,
     "patch": 34
   }
 }
