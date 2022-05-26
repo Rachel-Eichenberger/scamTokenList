@@ -78562,11 +78562,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f253c204Fc2E19D86B37eE0a4e4664E5D3Ec152",
+      "symbol": "BBS",
+      "name": "MarilynMonroeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 14,
+    "minor": 15,
     "patch": 34
   }
 }
