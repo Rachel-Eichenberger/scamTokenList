@@ -78903,11 +78903,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62dc705088743d689aaFC5D9FCF10596e7d1b6D5",
+      "symbol": "TELU",
+      "name": "TerraLunaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 45,
+    "minor": 46,
     "patch": 34
   }
 }
