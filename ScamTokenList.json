@@ -78617,11 +78617,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x409c37D3Db3ae1c924c361bfc176A465eB10387D",
+      "symbol": "H20",
+      "name": "Hati20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 19,
+    "minor": 20,
     "patch": 34
   }
 }
