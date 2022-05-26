@@ -78815,11 +78815,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA37f71b9B2cc396a96d695D470B5E03831515bC2",
+      "symbol": "SHIBPOX",
+      "name": "ShibaPox",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 37,
+    "minor": 38,
     "patch": 34
   }
 }
