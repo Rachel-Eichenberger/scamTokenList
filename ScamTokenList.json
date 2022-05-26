@@ -78661,11 +78661,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x631900673AD40Ec6b51C5A1a8b43c95749E42c00",
+      "symbol": "HOGE",
+      "name": "HATIDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 23,
+    "minor": 24,
     "patch": 34
   }
 }
