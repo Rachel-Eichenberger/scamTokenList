@@ -78870,11 +78870,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5422Cd2C1109531B87B1B6b903D08BE389214e95",
+      "symbol": "ECLIPSE",
+      "name": "EclipseInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 42,
+    "minor": 43,
     "patch": 34
   }
 }
