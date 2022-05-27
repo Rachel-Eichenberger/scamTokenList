@@ -79321,11 +79321,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97be992dF21B77e3918189870A553deB3Cda4aD8",
+      "symbol": "AINU",
+      "name": "AudioInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 83,
+    "minor": 84,
     "patch": 34
   }
 }
