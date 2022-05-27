@@ -79002,11 +79002,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D16a6133385660E9551fE6Bb0DAF2B6A8c20B44",
+      "symbol": "INFERNO",
+      "name": "DivineComedy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 54,
+    "minor": 55,
     "patch": 34
   }
 }
