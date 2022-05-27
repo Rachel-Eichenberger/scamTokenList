@@ -79112,11 +79112,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac6B042a2633bFE0aa176C34cf3c32799D6D359c",
+      "symbol": "BTTC",
+      "name": "BTTCNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 64,
+    "minor": 65,
     "patch": 34
   }
 }
