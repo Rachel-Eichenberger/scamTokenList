@@ -79057,11 +79057,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46361bF5e4299363A4fa511E8B2e6F228F3A91EB",
+      "symbol": "CMLNBURN",
+      "name": "ChameleonBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 59,
+    "minor": 60,
     "patch": 34
   }
 }
