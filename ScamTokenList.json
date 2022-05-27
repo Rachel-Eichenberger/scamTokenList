@@ -79310,11 +79310,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e664c5655EA9E956810fE46eb90Bb08ABe53574",
+      "symbol": "CHOGE",
+      "name": "ChadDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 82,
+    "minor": 83,
     "patch": 34
   }
 }
