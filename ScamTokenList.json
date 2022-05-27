@@ -78958,11 +78958,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x526ca17C6A959ABcF281bB0C6E1f293706681321",
+      "symbol": "ETHFLECT",
+      "name": "ETHflect",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 50,
+    "minor": 51,
     "patch": 34
   }
 }
