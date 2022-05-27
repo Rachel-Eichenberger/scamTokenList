@@ -79134,11 +79134,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd66991C2e9Fa80709d3f3da09efaA37077A444AD",
+      "symbol": "SEKAI",
+      "name": "SHINSEKAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 66,
+    "minor": 67,
     "patch": 34
   }
 }
