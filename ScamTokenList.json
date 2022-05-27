@@ -79266,11 +79266,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBDf723C7aFb3755e9DB8746Aa0413eeb52c071ce",
+      "symbol": "RAP",
+      "name": "RapperInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 78,
+    "minor": 79,
     "patch": 34
   }
 }
