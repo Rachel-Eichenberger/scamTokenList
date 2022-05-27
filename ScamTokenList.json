@@ -79167,11 +79167,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80e9352Dc4195D75811A07C70891AF6f91654582",
+      "symbol": "TEGM",
+      "name": "TegmenProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 69,
+    "minor": 70,
     "patch": 34
   }
 }
