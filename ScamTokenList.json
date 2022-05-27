@@ -79365,11 +79365,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x199716eDf7E7710F8FE0FDC727168931838059ab",
+      "symbol": "DOGEPOX",
+      "name": "DogePox",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 87,
+    "minor": 88,
     "patch": 34
   }
 }
