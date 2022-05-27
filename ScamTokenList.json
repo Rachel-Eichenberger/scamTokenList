@@ -79200,11 +79200,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC99764Fc8f5276f16D5d779Ff216E93deF50159",
+      "symbol": "GXG",
+      "name": "GXG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 72,
+    "minor": 73,
     "patch": 34
   }
 }
