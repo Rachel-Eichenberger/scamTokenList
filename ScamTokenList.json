@@ -79299,11 +79299,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61c4253D0D6e41BaB93D5a07F0EB8AB0F2D452B9",
+      "symbol": "BZB",
+      "name": "Buyzeblood",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 81,
+    "minor": 82,
     "patch": 34
   }
 }
