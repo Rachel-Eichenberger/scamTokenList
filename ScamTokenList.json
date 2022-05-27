@@ -79145,11 +79145,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7eA6133403387A18E57ACbE441cc2b54895d9649",
+      "symbol": "PPL2",
+      "name": "People20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 67,
+    "minor": 68,
     "patch": 34
   }
 }
