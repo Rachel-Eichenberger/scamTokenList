@@ -79090,11 +79090,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85cF21545838CeBd9CAD14FDb7903F267D83911D",
+      "symbol": "GRMLN",
+      "name": "GREMLINTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 62,
+    "minor": 63,
     "patch": 34
   }
 }
