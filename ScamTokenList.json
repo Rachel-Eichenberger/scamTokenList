@@ -79288,11 +79288,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBa62FdBe3025E3f13B8C1Ec1209b35b66A9f1A96",
+      "symbol": "NAME",
+      "name": "NAME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 80,
+    "minor": 81,
     "patch": 34
   }
 }
