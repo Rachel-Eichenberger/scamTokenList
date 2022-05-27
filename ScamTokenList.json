@@ -79211,11 +79211,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50cCce36c20513F4610093c1C2b91fF0f3D14F67",
+      "symbol": "AUVA",
+      "name": "AuvaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 73,
+    "minor": 74,
     "patch": 34
   }
 }
