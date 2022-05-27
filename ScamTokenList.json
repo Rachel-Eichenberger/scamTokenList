@@ -79079,11 +79079,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B5D8E4D2eb351D3db87A1BDfb5dE92Cffac3b0f",
+      "symbol": "TORA",
+      "name": "ToraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 61,
+    "minor": 62,
     "patch": 34
   }
 }
