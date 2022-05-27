@@ -78969,11 +78969,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd284855EE74EF1C917C090f095a0728a574A972C",
+      "symbol": "CRAZY",
+      "name": "CrazyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xceA92710d9da5c51232B71C4cdc9f3Ebc1cC115B",
+      "symbol": "SHIBNUTS",
+      "name": "shibnutscom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 51,
+    "minor": 53,
     "patch": 34
   }
 }
