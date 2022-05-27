@@ -79222,11 +79222,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19004154dE811517Ba66d51DB41270894D6ac74D",
+      "symbol": "JBK",
+      "name": "JBK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 74,
+    "minor": 75,
     "patch": 34
   }
 }
