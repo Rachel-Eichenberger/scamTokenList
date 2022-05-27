@@ -79035,11 +79035,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4B184d75FbF9ee1Af1B10245A448FD8a98CDc8f",
+      "symbol": "XRPRIP",
+      "name": "XRP20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 57,
+    "minor": 58,
     "patch": 34
   }
 }
