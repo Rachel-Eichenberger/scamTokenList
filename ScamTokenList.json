@@ -79024,11 +79024,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2BA367AcAC0C42eF0A6572eCdc8021Af02d42be5",
+      "symbol": "OP",
+      "name": "WrappedOptimismToke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 56,
+    "minor": 57,
     "patch": 34
   }
 }
