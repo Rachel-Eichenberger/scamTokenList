@@ -79244,11 +79244,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5050EF2c2c402E6963e20905B5cc2F5B3A04b7BA",
+      "symbol": "KP",
+      "name": "KongPox",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 76,
+    "minor": 77,
     "patch": 34
   }
 }
