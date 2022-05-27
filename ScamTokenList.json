@@ -79255,11 +79255,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfFC5B48dE4a3D68e2f4953a70A0f77f14427E09d",
+      "symbol": "LIGHT",
+      "name": "VisibleSpectrum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 77,
+    "minor": 78,
     "patch": 34
   }
 }
