@@ -79013,11 +79013,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86aFe550e4d128a2760D54043537126B2706466D",
+      "symbol": "FBI",
+      "name": "FuckBtcInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 55,
+    "minor": 56,
     "patch": 34
   }
 }
