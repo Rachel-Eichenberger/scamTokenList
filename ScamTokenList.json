@@ -79332,11 +79332,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F7427E05E9834874bEcf525E8AA95BFCcc1a1eC",
+      "symbol": "CHOGE",
+      "name": "CHOGECOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 84,
+    "minor": 85,
     "patch": 34
   }
 }
