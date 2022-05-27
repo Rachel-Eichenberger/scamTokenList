@@ -78947,11 +78947,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E54Bc58AF3D18E39980a324F7DA65b79e970a68",
+      "symbol": "PGI",
+      "name": "ProGunInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 49,
+    "minor": 50,
     "patch": 34
   }
 }
