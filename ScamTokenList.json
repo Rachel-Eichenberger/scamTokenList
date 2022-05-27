@@ -79068,11 +79068,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5676BF344bb49660C84B6B92d95748F60202F799",
+      "symbol": "STOIC",
+      "name": "Stoicism",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 60,
+    "minor": 61,
     "patch": 34
   }
 }
