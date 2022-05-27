@@ -79123,11 +79123,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF82f4693d9e2ccA6D60a649953257920Ae6e6e8d",
+      "symbol": "SAITAMA2",
+      "name": "SaitamaInu20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 65,
+    "minor": 66,
     "patch": 34
   }
 }
