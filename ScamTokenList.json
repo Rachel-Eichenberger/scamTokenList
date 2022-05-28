@@ -80113,11 +80113,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x574fd94b835fad71cA3528E24530C0ceb4AA435A",
+      "symbol": "STINU",
+      "name": "StellaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 55,
+    "minor": 56,
     "patch": 35
   }
 }
