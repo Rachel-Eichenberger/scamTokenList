@@ -80135,11 +80135,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87D793549fA99D8F3620C5d1E97e347960a06E74",
+      "symbol": "BBAS",
+      "name": "BBAS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 57,
+    "minor": 58,
     "patch": 35
   }
 }
