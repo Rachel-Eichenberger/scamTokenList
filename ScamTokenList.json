@@ -79596,11 +79596,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x389Bd6D079B9a73c3E25deb1ED2b23964005a340",
+      "symbol": "INUIT",
+      "name": "ArcticShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 8,
+    "minor": 9,
     "patch": 35
   }
 }
