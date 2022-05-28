@@ -79431,11 +79431,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x984E516c6a89fC622e89F5aF8fcF89c927470a7b",
+      "symbol": "DGR",
+      "name": "Dagger",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 93,
+    "minor": 94,
     "patch": 34
   }
 }
