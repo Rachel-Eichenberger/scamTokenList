@@ -79387,11 +79387,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x407a24a71b5B3ecf4dB0047788b10aC152FcdB6B",
+      "symbol": "CLEAGUE",
+      "name": "CryptoLeague",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 89,
+    "minor": 90,
     "patch": 34
   }
 }
