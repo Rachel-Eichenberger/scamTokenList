@@ -79805,11 +79805,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF962c25832594db87A291B3DC8C1D71972bD3741",
+      "symbol": "SHINMONK",
+      "name": "ShinMonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 27,
+    "minor": 28,
     "patch": 35
   }
 }
