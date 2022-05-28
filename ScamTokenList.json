@@ -79893,11 +79893,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x255a34B9d2Db44431e67fDf95c889BC95236b8F5",
+      "symbol": "JGB",
+      "name": "JimmyGetsBucketsBut",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 35,
+    "minor": 36,
     "patch": 35
   }
 }
