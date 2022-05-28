@@ -79574,11 +79574,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3997AD22199EB774dbc8c75e811a2997073f5771",
+      "symbol": "PONZI",
+      "name": "PONZIInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 6,
+    "minor": 7,
     "patch": 35
   }
 }
