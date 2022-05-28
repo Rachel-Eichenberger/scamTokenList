@@ -79662,11 +79662,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FCB9C9D4b0965A8730F34C3AF2F7D1A6d982486",
+      "symbol": "ERA",
+      "name": "EraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 14,
+    "minor": 15,
     "patch": 35
   }
 }
