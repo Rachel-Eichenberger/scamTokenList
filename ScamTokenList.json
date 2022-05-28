@@ -79860,11 +79860,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3897b70c05c23e29E3C64d839A81e663e09A5Aa4",
+      "symbol": "FINDUS",
+      "name": "FindUs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 32,
+    "minor": 33,
     "patch": 35
   }
 }
