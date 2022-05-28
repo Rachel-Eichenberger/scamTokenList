@@ -80102,11 +80102,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9337E56A23DbD4f4f7a5bAA37DCFE07AaE53884e",
+      "symbol": "PHX",
+      "name": "PHOENIX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 54,
+    "minor": 55,
     "patch": 35
   }
 }
