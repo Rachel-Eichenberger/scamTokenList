@@ -80058,11 +80058,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B4D7b88a415ae76b0ed7F2316e0E854b950f001",
+      "symbol": "LUNAX",
+      "name": "LunaX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 50,
+    "minor": 51,
     "patch": 35
   }
 }
