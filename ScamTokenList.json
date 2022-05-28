@@ -79970,11 +79970,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DF690B9122c5839707A9f0185c9eCFe8B473E73",
+      "symbol": "KOMODO",
+      "name": "Dragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 42,
+    "minor": 43,
     "patch": 35
   }
 }
