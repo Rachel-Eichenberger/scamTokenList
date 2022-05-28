@@ -79530,11 +79530,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc332aB607cC4d188bb4574DE687b828027bA5403",
+      "symbol": "FNAF",
+      "name": "FreddyFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 2,
+    "minor": 3,
     "patch": 35
   }
 }
