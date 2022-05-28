@@ -79541,11 +79541,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb22A5Cc91DB8864Ade7743e468276F2E2c774164",
+      "symbol": "REORG",
+      "name": "Reorganization",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 3,
+    "minor": 4,
     "patch": 35
   }
 }
