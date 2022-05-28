@@ -79717,11 +79717,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb72611924476147C1a2f6fE54B8980454F51d644",
+      "symbol": "SMASH",
+      "name": "SMASHCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 19,
+    "minor": 20,
     "patch": 35
   }
 }
