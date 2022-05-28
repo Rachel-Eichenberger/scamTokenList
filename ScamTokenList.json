@@ -79981,11 +79981,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53d7213f5A2FbD1F579ce093dDaE40610810725A",
+      "symbol": "CSTN",
+      "name": "Constellation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 43,
+    "minor": 44,
     "patch": 35
   }
 }
