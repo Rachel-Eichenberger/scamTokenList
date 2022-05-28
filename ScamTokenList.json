@@ -80047,11 +80047,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa89DBBAC344C14E6699678eef07ec18f0e673CC3",
+      "symbol": "FINU",
+      "name": "FlameInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 49,
+    "minor": 50,
     "patch": 35
   }
 }
