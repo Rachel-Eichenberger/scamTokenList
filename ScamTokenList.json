@@ -79783,11 +79783,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36a5CCF50C2895A87961db9CBe4db746c231B2a6",
+      "symbol": "RINU",
+      "name": "RoboticInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 25,
+    "minor": 26,
     "patch": 35
   }
 }
