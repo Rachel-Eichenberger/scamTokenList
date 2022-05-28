@@ -79409,11 +79409,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2612f8eAFd8A5Ba5c7799a265B922d80B73232CD",
+      "symbol": "LINU",
+      "name": "LunaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 91,
+    "minor": 92,
     "patch": 34
   }
 }
