@@ -79629,11 +79629,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15f8F2D5B65c94dAc7d868d424062bA9BA73A8f1",
+      "symbol": "HATIMA",
+      "name": "HatiSaitama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 11,
+    "minor": 12,
     "patch": 35
   }
 }
