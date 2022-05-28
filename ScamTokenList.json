@@ -79794,11 +79794,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ee95375e9D4eC15133999664476eCC8B825AA54",
+      "symbol": "NINJAINU",
+      "name": "NinjaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 26,
+    "minor": 27,
     "patch": 35
   }
 }
