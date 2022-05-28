@@ -80025,11 +80025,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36409A0aEbab4bEd2904f0A777Cb9595E2C588e5",
+      "symbol": "RMI",
+      "name": "RealMadridInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 47,
+    "minor": 48,
     "patch": 35
   }
 }
