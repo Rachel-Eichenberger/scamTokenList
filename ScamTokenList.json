@@ -79871,11 +79871,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2033a472C248Fb32b8CdC29b3A2399Ebe8100694",
+      "symbol": "MOPA",
+      "name": "MoonPandaToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 33,
+    "minor": 34,
     "patch": 35
   }
 }
