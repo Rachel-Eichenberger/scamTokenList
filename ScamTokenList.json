@@ -79519,11 +79519,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x908d51e5CdEfCBE72e73C83E89e0f5f8f465cbcb",
+      "symbol": "BHATI",
+      "name": "BankofHati",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 1,
+    "minor": 2,
     "patch": 35
   }
 }
