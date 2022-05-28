@@ -79926,11 +79926,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B060d5743Ea2C433Dd9Bc4949342A4A333FAB3f",
+      "symbol": "CXC",
+      "name": "CXC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 38,
+    "minor": 39,
     "patch": 35
   }
 }
