@@ -80091,11 +80091,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCbb13072e4485Db8F90D19fA09ad29B3715516d1",
+      "symbol": "SCRX",
+      "name": "SacrificeX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 53,
+    "minor": 54,
     "patch": 35
   }
 }
