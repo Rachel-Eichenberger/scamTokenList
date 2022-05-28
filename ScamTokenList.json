@@ -79453,11 +79453,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFA936B154831b2297694a330728A5E2B08D0d51C",
+      "symbol": "MIMIC",
+      "name": "Mimic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 95,
+    "minor": 96,
     "patch": 34
   }
 }
