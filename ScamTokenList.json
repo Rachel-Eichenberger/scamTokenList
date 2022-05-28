@@ -79563,11 +79563,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b24c9635d8547AD61566B647fD6aAb511691673",
+      "symbol": "WILD",
+      "name": "WildCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 5,
+    "minor": 6,
     "patch": 35
   }
 }
