@@ -80069,11 +80069,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8ca914C4e5d310bAaeB90EC5C301f3084e212d9",
+      "symbol": "KBNUEVE",
+      "name": "BenzemaETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 51,
+    "minor": 52,
     "patch": 35
   }
 }
