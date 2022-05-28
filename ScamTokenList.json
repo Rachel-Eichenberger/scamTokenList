@@ -79838,11 +79838,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4ae3d8cd34C8bc1A9D5D23f82C767334a5C2ce5",
+      "symbol": "NOROADMAP",
+      "name": "NOROADMAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 30,
+    "minor": 31,
     "patch": 35
   }
 }
