@@ -79673,11 +79673,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5676B22d22dF651FCc2a12aE8B06a2c3567011b",
+      "symbol": "GAG",
+      "name": "GAG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 15,
+    "minor": 16,
     "patch": 35
   }
 }
