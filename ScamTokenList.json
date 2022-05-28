@@ -80080,11 +80080,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96f0D73461D0a2f4cD096009f8cF62eBc304FB35",
+      "symbol": "TBI",
+      "name": "ThibautCourtoisInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 52,
+    "minor": 53,
     "patch": 35
   }
 }
