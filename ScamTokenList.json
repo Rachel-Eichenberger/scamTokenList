@@ -79706,11 +79706,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB7D2eeDE345A18190Bf5CdC87D51d2FeD7bFeB9",
+      "symbol": "LUNA",
+      "name": "Terra20LUNATOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 18,
+    "minor": 19,
     "patch": 35
   }
 }
