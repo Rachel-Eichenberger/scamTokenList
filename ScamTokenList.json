@@ -79464,11 +79464,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaBf608e1c795D81a23352d79377e9b981249d072",
+      "symbol": "FOE",
+      "name": "TheFirstHunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 96,
+    "minor": 97,
     "patch": 34
   }
 }
