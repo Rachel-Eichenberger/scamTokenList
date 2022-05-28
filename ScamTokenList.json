@@ -80036,11 +80036,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x126886634DE2395F714af6122B9bEDBD0119622F",
+      "symbol": "ACCUMULATION",
+      "name": "accumulation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 48,
+    "minor": 49,
     "patch": 35
   }
 }
