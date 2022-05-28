@@ -79849,11 +79849,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1E51663Cb2AA7B5608B5E2eDA264898Ce55Cd8d",
+      "symbol": "AIRSHIBA",
+      "name": "AIRSHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 31,
+    "minor": 32,
     "patch": 35
   }
 }
