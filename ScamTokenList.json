@@ -79640,11 +79640,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C6df8b299af2063a12170521748bB3f24d61963",
+      "symbol": "KISHIMOTOINU20",
+      "name": "KISHIMOTO2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 12,
+    "minor": 13,
     "patch": 35
   }
 }
