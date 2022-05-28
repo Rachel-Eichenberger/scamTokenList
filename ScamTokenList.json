@@ -79420,11 +79420,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1314Cc3830833568aC8eBcdee6aB91edD6fee894",
+      "symbol": "FRANKINU",
+      "name": "FrankAbagnaleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 92,
+    "minor": 93,
     "patch": 34
   }
 }
