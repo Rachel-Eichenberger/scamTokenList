@@ -79508,11 +79508,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06a3458bBc9550E985aa0eB1994Bd829bF4ededF",
+      "symbol": "BLJ",
+      "name": "BillieLunaJean",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 0,
+    "minor": 1,
     "patch": 35
   }
 }
