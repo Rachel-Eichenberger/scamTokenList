@@ -79761,11 +79761,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE862d53D1cF3f57C94B2CB83072328DF877cecCB",
+      "symbol": "AMUSK",
+      "name": "AEONMUSK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 23,
+    "minor": 24,
     "patch": 35
   }
 }
