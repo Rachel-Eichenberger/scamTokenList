@@ -79750,11 +79750,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Fb74982f3203eA516839d8296fdF22dd101f4B4",
+      "symbol": "MANI",
+      "name": "ManiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 22,
+    "minor": 23,
     "patch": 35
   }
 }
