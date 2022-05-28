@@ -79772,11 +79772,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6362Fcdca08336EcD575C052B29E30Ef1465c9C0",
+      "symbol": "LUNA2",
+      "name": "WrappedLuna20Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 24,
+    "minor": 25,
     "patch": 35
   }
 }
