@@ -79959,11 +79959,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63246366741D97331bBa9e7acCE408390eBA2979",
+      "symbol": "FAIR",
+      "name": "FairLaunch",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 41,
+    "minor": 42,
     "patch": 35
   }
 }
