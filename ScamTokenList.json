@@ -79904,11 +79904,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a8778ee661fFC57f8312CB2feb23EebbbBACC0e",
+      "symbol": "TAKY",
+      "name": "TakyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 36,
+    "minor": 37,
     "patch": 35
   }
 }
