@@ -79376,11 +79376,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17916c72ec0DF2D3F2bec1Aa9601DcE469DA40ff",
+      "symbol": "UNDI",
+      "name": "UndyingInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 36,
-    "minor": 88,
+    "minor": 89,
     "patch": 34
   }
 }
