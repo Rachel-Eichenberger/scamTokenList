@@ -79915,11 +79915,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74b2E3CF4a44a4728ed3F8edE63e48E37f5F1F59",
+      "symbol": "KB9",
+      "name": "BenzemaETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 37,
+    "minor": 38,
     "patch": 35
   }
 }
