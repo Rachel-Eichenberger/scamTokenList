@@ -79618,11 +79618,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x935c3940C57451D35C4C0987cAfceB629CffC42e",
+      "symbol": "HODLINU",
+      "name": "HODLINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 10,
+    "minor": 11,
     "patch": 35
   }
 }
