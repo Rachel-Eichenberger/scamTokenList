@@ -80124,11 +80124,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F0784Cd502230f81B3a794441c6071587634F44",
+      "symbol": "OP",
+      "name": "Optimism",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 56,
+    "minor": 57,
     "patch": 35
   }
 }
