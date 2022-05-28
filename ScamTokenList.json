@@ -79882,11 +79882,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74844adAaC1e1BEa192969DaB726720cD508ae44",
+      "symbol": "KB9",
+      "name": "BenzemaETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 34,
+    "minor": 35,
     "patch": 35
   }
 }
