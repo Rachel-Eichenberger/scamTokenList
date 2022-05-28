@@ -79585,11 +79585,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D3C2a5D294656d2f8174c389FBc229233bb3Ce6",
+      "symbol": "GBULL",
+      "name": "GOLDBULL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 7,
+    "minor": 8,
     "patch": 35
   }
 }
