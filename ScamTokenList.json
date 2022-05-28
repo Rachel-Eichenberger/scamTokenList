@@ -79948,11 +79948,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE518Ad498DcF3879abEEE5A91b6375f99541A8Ba",
+      "symbol": "THG",
+      "name": "TestHuge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 40,
+    "minor": 41,
     "patch": 35
   }
 }
