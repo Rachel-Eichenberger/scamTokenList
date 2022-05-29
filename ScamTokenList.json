@@ -80366,11 +80366,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F628548eBF6795a1d0A8820489e53F71F43a94c",
+      "symbol": "CROW",
+      "name": "tehppl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 78,
+    "minor": 79,
     "patch": 35
   }
 }
