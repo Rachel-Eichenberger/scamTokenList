@@ -80333,11 +80333,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x605130AEB73D2d78c46260E4E0C61B8AaCe5d28F",
+      "symbol": "KWORLD",
+      "name": "KONGSWORLD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 75,
+    "minor": 76,
     "patch": 35
   }
 }
