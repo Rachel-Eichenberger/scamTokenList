@@ -80146,11 +80146,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F7045228afd6e41695AEd543f886C8456775725",
+      "symbol": "AINU",
+      "name": "ALPHAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 58,
+    "minor": 59,
     "patch": 35
   }
 }
