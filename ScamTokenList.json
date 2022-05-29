@@ -80410,11 +80410,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD759d95392BBD267949d51d5FF516D134213906",
+      "symbol": "TINU",
+      "name": "TripInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 82,
+    "minor": 83,
     "patch": 35
   }
 }
