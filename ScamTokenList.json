@@ -82687,11 +82687,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA24D36e017617CFA891424492df60e81E99e8aEF",
+      "symbol": "YAMATO",
+      "name": "YAMATOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 37,
-    "minor": 99,
-    "patch": 35
+    "major": 38,
+    "minor": 0,
+    "patch": 36
   }
 }
