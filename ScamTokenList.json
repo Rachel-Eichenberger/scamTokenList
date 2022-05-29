@@ -80531,11 +80531,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c8D0315dFeE1B7F6A8c36FD95f7E9249105B985",
+      "symbol": "HOUND",
+      "name": "DexHound",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 93,
+    "minor": 94,
     "patch": 35
   }
 }
