@@ -80498,11 +80498,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EbEFbD39B33F3D4343d4144043a1bBa5Fb82aA4",
+      "symbol": "VBURN",
+      "name": "ValhallaBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 90,
+    "minor": 91,
     "patch": 35
   }
 }
