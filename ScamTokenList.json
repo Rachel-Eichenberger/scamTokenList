@@ -80168,11 +80168,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16B194FaD1901777aa41048c2B122dF64660efC6",
+      "symbol": "LEVIATHANINU",
+      "name": "LEVIATHAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 60,
+    "minor": 61,
     "patch": 35
   }
 }
