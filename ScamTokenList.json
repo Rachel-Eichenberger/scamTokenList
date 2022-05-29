@@ -82698,11 +82698,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42291Ec5A012C6355Ff42B892A9B5376110c4e10",
+      "symbol": "DOGEN",
+      "name": "DogenInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 0,
+    "minor": 1,
     "patch": 36
   }
 }
