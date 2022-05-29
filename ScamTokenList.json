@@ -82665,11 +82665,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdB64A7f5BFf77cD2f73DFE04CE8A087DC65CB21C",
+      "symbol": "CONTEPARTIRO",
+      "name": "ConTePartiro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 97,
+    "minor": 98,
     "patch": 35
   }
 }
