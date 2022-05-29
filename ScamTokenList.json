@@ -80355,11 +80355,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99E6eCbF2a332FE317DAC8c666307288beB97b97",
+      "symbol": "JAWW",
+      "name": "JawwInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 77,
+    "minor": 78,
     "patch": 35
   }
 }
