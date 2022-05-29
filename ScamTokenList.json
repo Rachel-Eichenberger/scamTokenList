@@ -80520,11 +80520,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC665E3cF80ec24055A9b6b2fC98e2D6dD0115A56",
+      "symbol": "OWI",
+      "name": "OUTWORLDINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 92,
+    "minor": 93,
     "patch": 35
   }
 }
