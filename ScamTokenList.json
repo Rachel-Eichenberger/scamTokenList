@@ -80322,11 +80322,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF553EdE23d47c7157486e6ed824983722c9823b",
+      "symbol": "HDMT",
+      "name": "HUADANMINE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 74,
+    "minor": 75,
     "patch": 35
   }
 }
