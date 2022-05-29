@@ -80179,11 +80179,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa14Df7c989D718A396be0C2c9F116639061e1D5e",
+      "symbol": "FRUGGERS",
+      "name": "FuckRuggers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 61,
+    "minor": 62,
     "patch": 35
   }
 }
