@@ -82720,11 +82720,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe498C57Fc938fb99c93a7945f4D0BbeCf4cfB025",
+      "symbol": "SPICE",
+      "name": "Arrakis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 2,
+    "minor": 3,
     "patch": 36
   }
 }
