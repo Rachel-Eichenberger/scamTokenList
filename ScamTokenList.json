@@ -80157,11 +80157,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x837A18bC1194F80afe927AC4c0ac9C13c2F07a4f",
+      "symbol": "SHINU",
+      "name": "SHINRAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 59,
+    "minor": 60,
     "patch": 35
   }
 }
