@@ -82709,11 +82709,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6861f86e355Fe31c8f15395CA3C5bfcB85591a54",
+      "symbol": "UERN",
+      "name": "USEON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 1,
+    "minor": 2,
     "patch": 36
   }
 }
