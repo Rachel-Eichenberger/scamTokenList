@@ -80432,11 +80432,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfC3834CC18447c713eeA12120DF2F003B17eE4Cb",
+      "symbol": "0",
+      "name": "Zer0",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 84,
+    "minor": 85,
     "patch": 35
   }
 }
