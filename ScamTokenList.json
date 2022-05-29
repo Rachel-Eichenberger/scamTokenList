@@ -80344,11 +80344,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f25F811b5242F55F7586698b288a82232F73969",
+      "symbol": "HM",
+      "name": "HM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 76,
+    "minor": 77,
     "patch": 35
   }
 }
