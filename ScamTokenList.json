@@ -80245,11 +80245,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89F32D466C8A64d8dD23aEF57AC1eEA566A4b4F6",
+      "symbol": "MONA",
+      "name": "MonaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 67,
+    "minor": 68,
     "patch": 35
   }
 }
