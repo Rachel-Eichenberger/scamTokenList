@@ -80223,11 +80223,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfffDE2b76A97aCA7F2fE0f7b193E861C0DDede06",
+      "symbol": "SEEKUS",
+      "name": "Daydream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 65,
+    "minor": 66,
     "patch": 35
   }
 }
