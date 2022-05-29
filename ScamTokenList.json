@@ -80487,11 +80487,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e341361f1fB3F7B140FADb83b602264D66D909F",
+      "symbol": "SMASH",
+      "name": "SMASHCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 89,
+    "minor": 90,
     "patch": 35
   }
 }
