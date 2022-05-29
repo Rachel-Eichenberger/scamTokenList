@@ -80465,11 +80465,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB29B65D498F66c6Df81951e4F49Ac4aDD1070220",
+      "symbol": "FINJA",
+      "name": "FireNinja",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 87,
+    "minor": 88,
     "patch": 35
   }
 }
