@@ -80454,11 +80454,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Fa556548B90c8Cb5F3d0154Dd14513519EF5387",
+      "symbol": "MTI",
+      "name": "MikeTysonInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 86,
+    "minor": 87,
     "patch": 35
   }
 }
