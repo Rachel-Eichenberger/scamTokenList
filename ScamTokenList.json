@@ -80542,11 +80542,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe7aa02f5Accc4a5fAd01316A99313376b5a080E",
+      "symbol": "OWI",
+      "name": "OUTWORLDINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 94,
+    "minor": 95,
     "patch": 35
   }
 }
