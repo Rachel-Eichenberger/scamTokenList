@@ -80399,11 +80399,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDbCc7e3b39B492890548Fa7890c0705bcabE0eA7",
+      "symbol": "EINU",
+      "name": "ELECTRICINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 81,
+    "minor": 82,
     "patch": 35
   }
 }
