@@ -80311,11 +80311,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25456aD3d45863CeCf7039B7628EB8FC913346AD",
+      "symbol": "LUNRR",
+      "name": "LunaRecoveryFund",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 73,
+    "minor": 74,
     "patch": 35
   }
 }
