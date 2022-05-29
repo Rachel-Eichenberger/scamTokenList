@@ -80421,11 +80421,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2e9b4628D5B846f0C04301CCb32233abaeB697A",
+      "symbol": "ANA",
+      "name": "ANA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 83,
+    "minor": 84,
     "patch": 35
   }
 }
