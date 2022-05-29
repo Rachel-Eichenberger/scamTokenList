@@ -82654,11 +82654,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A5fe221E0ca22A5435Ff6662Cc6483468a22487",
+      "symbol": "YAMATO",
+      "name": "YAMATOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 96,
+    "minor": 97,
     "patch": 35
   }
 }
