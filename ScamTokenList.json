@@ -80388,11 +80388,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36aD767Bc2095fE98da1bf27a6432A27A45a59A1",
+      "symbol": "TGI",
+      "name": "TopGunInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 80,
+    "minor": 81,
     "patch": 35
   }
 }
