@@ -80267,11 +80267,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55E596753247EFb7126A965ED07c0d51eB773F6e",
+      "symbol": "METAMASK",
+      "name": "MetaMaskDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 69,
+    "minor": 70,
     "patch": 35
   }
 }
