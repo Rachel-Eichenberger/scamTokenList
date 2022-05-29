@@ -80377,11 +80377,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbBC570590778d927dFcfEb0448E79f1d55270ef",
+      "symbol": "COLA",
+      "name": "ColaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 37,
-    "minor": 79,
+    "minor": 80,
     "patch": 35
   }
 }
