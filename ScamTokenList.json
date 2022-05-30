@@ -83875,11 +83875,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4607F1eE6EA94c2cB8a7413507AeD53dA4a7a8F6",
+      "symbol": "HERO",
+      "name": "WareHero",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 24,
+    "minor": 25,
     "patch": 36
   }
 }
