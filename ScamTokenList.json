@@ -82764,11 +82764,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC9C42fF7caDb9b55b7000bBd87FfA7CcBD75633d",
+      "symbol": "ATHENA",
+      "name": "ATHENA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 6,
+    "minor": 7,
     "patch": 36
   }
 }
