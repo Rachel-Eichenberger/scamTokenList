@@ -83919,11 +83919,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe67E2fcFD09Ae83684D4b4F511116131b037a8e6",
+      "symbol": "APETAMA",
+      "name": "APESAITAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 28,
+    "minor": 29,
     "patch": 36
   }
 }
