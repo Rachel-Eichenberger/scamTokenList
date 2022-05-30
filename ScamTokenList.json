@@ -84381,11 +84381,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF30eD2cC49a2dB1D9C9d7eE707158a1228b3c051",
+      "symbol": "VIRGO",
+      "name": "Virgo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 58,
+    "minor": 59,
     "patch": 36
   }
 }
