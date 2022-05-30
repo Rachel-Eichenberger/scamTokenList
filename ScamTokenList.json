@@ -84337,11 +84337,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC812C89d0b30a5ac473A859BB7Fa2b9f65C7a1a0",
+      "symbol": "USD",
+      "name": "USDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 54,
+    "minor": 55,
     "patch": 36
   }
 }
