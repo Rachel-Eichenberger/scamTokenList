@@ -83897,11 +83897,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61398c09a060eDF03B9B6DdB5837F5a4bC0B3304",
+      "symbol": "VAMPIRE",
+      "name": "VAMPIRE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 26,
+    "minor": 27,
     "patch": 36
   }
 }
