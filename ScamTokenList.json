@@ -82786,11 +82786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0432C8E57CF8d40e75Da35cd168b88aA4D3d59Ba",
+      "symbol": "OKAMI",
+      "name": "Okami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 8,
+    "minor": 9,
     "patch": 36
   }
 }
