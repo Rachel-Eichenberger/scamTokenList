@@ -83754,11 +83754,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B30F3608A38C109fb70556Dd4232eA66674717c",
+      "symbol": "VTT",
+      "name": "VendicaTeTibi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 13,
+    "minor": 14,
     "patch": 36
   }
 }
