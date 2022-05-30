@@ -83886,11 +83886,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f5717827B51459bC6451534F5dFdc7eF72e9DFA",
+      "symbol": "MORB",
+      "name": "MorbiusInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 25,
+    "minor": 26,
     "patch": 36
   }
 }
