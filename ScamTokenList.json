@@ -83809,11 +83809,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x674C09d6E418013B2cbc4Be9871bfD7940f6049b",
+      "symbol": "IBI",
+      "name": "IZZYBALLIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 18,
+    "minor": 19,
     "patch": 36
   }
 }
