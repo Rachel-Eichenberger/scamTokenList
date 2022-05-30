@@ -84370,11 +84370,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcAAA8B5764984700f19a28562ABD9D5835f90DDB",
+      "symbol": "O36",
+      "name": "FountainsofParadise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 57,
+    "minor": 58,
     "patch": 36
   }
 }
