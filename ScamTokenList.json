@@ -84117,11 +84117,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x214180DEfa321b7Ba2fe3ed412E26765bea44c95",
+      "symbol": "TAB",
+      "name": "Tab",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 46,
+    "minor": 47,
     "patch": 36
   }
 }
