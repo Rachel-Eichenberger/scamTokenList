@@ -84315,11 +84315,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE22Aac86f800d2F66E18C22dE92032036E637166",
+      "symbol": "MAFIA",
+      "name": "MafiaToken",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 52,
+    "minor": 53,
     "patch": 36
   }
 }
