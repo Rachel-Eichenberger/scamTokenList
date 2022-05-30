@@ -83732,11 +83732,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88E1Bd473d32939AF4FbE22536CEaD5d4209f4dF",
+      "symbol": "JORA",
+      "name": "JoraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 11,
+    "minor": 12,
     "patch": 36
   }
 }
