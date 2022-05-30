@@ -84403,11 +84403,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9cA070dAba330221B30027348d522823247BaD3C",
+      "symbol": "HYPEEARN",
+      "name": "HypeEarn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 60,
+    "minor": 61,
     "patch": 36
   }
 }
