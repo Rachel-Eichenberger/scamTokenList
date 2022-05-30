@@ -84029,11 +84029,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A10e93EE493B5F7FD21bCD50414cb9CbE064af9",
+      "symbol": "FBANK",
+      "name": "FreezeBankDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 38,
+    "minor": 39,
     "patch": 36
   }
 }
