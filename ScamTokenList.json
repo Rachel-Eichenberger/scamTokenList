@@ -84062,11 +84062,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x783bb6C972bF610698555a3eE273502E3D9e5082",
+      "symbol": "TODOKIINU",
+      "name": "TodokiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 41,
+    "minor": 42,
     "patch": 36
   }
 }
