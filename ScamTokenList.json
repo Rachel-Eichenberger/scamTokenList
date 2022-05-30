@@ -83963,11 +83963,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F0877c2b6FbF9212B7741823f813e22EE0E8B02",
+      "symbol": "RYOSHIV2",
+      "name": "Ryoshiv2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 32,
+    "minor": 33,
     "patch": 36
   }
 }
