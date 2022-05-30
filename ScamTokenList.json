@@ -82753,11 +82753,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6576cF9bAC481499791cb5C3c4b8b3694a5f815",
+      "symbol": "XETA",
+      "name": "XETA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 5,
+    "minor": 6,
     "patch": 36
   }
 }
