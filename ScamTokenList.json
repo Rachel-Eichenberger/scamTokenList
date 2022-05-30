@@ -83864,11 +83864,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE3f08e664693ca792caCE4af1364D5e220827B2",
+      "symbol": "SAITAMA",
+      "name": "SAITAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 23,
+    "minor": 24,
     "patch": 36
   }
 }
