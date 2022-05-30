@@ -84282,11 +84282,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3D4151eF04bbDA5769ea6C8c0F357B872Edd210",
+      "symbol": "GRIFT",
+      "name": "TheGrifters",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 49,
+    "minor": 50,
     "patch": 36
   }
 }
