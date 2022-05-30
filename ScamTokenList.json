@@ -84271,11 +84271,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7B26c0cCDd8B7E1219e47db860A3b25e2d62F9F",
+      "symbol": "VQINU",
+      "name": "VeridisQuoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 48,
+    "minor": 49,
     "patch": 36
   }
 }
