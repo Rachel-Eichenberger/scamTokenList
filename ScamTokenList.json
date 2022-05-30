@@ -84084,11 +84084,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51381999039C307C3023B95e55040D6154Cb896B",
+      "symbol": "YOPO",
+      "name": "YorkipooToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 43,
+    "minor": 44,
     "patch": 36
   }
 }
