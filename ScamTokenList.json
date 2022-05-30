@@ -83765,11 +83765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5A34a4E3A54E57F5bC5D88a206FF515B7082b9D",
+      "symbol": "MIL3",
+      "name": "miltest3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 14,
+    "minor": 15,
     "patch": 36
   }
 }
