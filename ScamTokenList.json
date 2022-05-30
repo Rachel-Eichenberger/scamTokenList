@@ -83952,11 +83952,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2845D7D65b85B0C7D514263f5C15660F9A17e3fe",
+      "symbol": "SIXWORDSOFADVICE",
+      "name": "Tilopa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 31,
+    "minor": 32,
     "patch": 36
   }
 }
