@@ -83996,11 +83996,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80699056fF9FF53DE425e148e4030f7df1B3C8d3",
+      "symbol": "STARSTREAM",
+      "name": "StarstreamTech",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 35,
+    "minor": 36,
     "patch": 36
   }
 }
