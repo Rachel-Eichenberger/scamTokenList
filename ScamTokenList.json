@@ -84326,11 +84326,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11dFe441E402f25516c007f3912Ad08Fabc318D5",
+      "symbol": "APETAMA",
+      "name": "ApeSaitama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 53,
+    "minor": 54,
     "patch": 36
   }
 }
