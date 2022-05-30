@@ -84040,11 +84040,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x739f4450fD818a3745558f68627B98C09Add1B2F",
+      "symbol": "SAKYAMINU",
+      "name": "ShibaoftheShakyas",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 39,
+    "minor": 40,
     "patch": 36
   }
 }
