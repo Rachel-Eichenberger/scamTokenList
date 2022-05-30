@@ -82775,11 +82775,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c358cf18a22200943A41f7cC9916fF6e662C8d0",
+      "symbol": "GN",
+      "name": "GoblinNight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 7,
+    "minor": 8,
     "patch": 36
   }
 }
