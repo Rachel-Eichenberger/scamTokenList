@@ -83853,11 +83853,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C79A0EF1ddFF55Af078365d4D9597b759511f7B",
+      "symbol": "VLC",
+      "name": "NICHEMEME",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 22,
+    "minor": 23,
     "patch": 36
   }
 }
