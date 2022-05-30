@@ -83831,11 +83831,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D82510E289886b3a14677b4c3E401B61D161e24",
+      "symbol": "NICHEMEME",
+      "name": "Nichememe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 20,
+    "minor": 21,
     "patch": 36
   }
 }
