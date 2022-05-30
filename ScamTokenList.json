@@ -82742,11 +82742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1767d62B83c0ad3329ba9A275a364E5651B1763",
+      "symbol": "SKOLL",
+      "name": "SKOLL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 4,
+    "minor": 5,
     "patch": 36
   }
 }
