@@ -84073,11 +84073,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82184eF61A8d41f15C368b443c9C4f344140c55C",
+      "symbol": "GPOX",
+      "name": "GORILLAPOX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 42,
+    "minor": 43,
     "patch": 36
   }
 }
