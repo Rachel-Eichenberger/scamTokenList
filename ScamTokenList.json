@@ -84018,11 +84018,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x275410fae44EFf280a83d739e9B7a2B8734BbD86",
+      "symbol": "RYOSHI",
+      "name": "TheHuntersLegend",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 37,
+    "minor": 38,
     "patch": 36
   }
 }
