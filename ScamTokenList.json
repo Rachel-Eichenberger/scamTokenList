@@ -84106,11 +84106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD1bDeE600A363ee200D19F950a7Ad6ECa1726e0",
+      "symbol": "MORTYTAMA",
+      "name": "MORTYTAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 45,
+    "minor": 46,
     "patch": 36
   }
 }
