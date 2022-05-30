@@ -84348,11 +84348,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ABbD7105F0F73A9D2e71161B6512e32C1A0A2eE",
+      "symbol": "SHIBUNATOR",
+      "name": "Shibunator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 55,
+    "minor": 56,
     "patch": 36
   }
 }
