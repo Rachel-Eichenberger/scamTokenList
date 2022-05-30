@@ -84392,11 +84392,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43520512AEdb98f463a129EC75db30F7C33EA222",
+      "symbol": "BB",
+      "name": "BBVerse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 59,
+    "minor": 60,
     "patch": 36
   }
 }
