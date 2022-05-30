@@ -82731,11 +82731,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d2f87C569BD60c9Dbe57C6F93CD6ed00D92a679",
+      "symbol": "OKAMI",
+      "name": "Okami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 3,
+    "minor": 4,
     "patch": 36
   }
 }
