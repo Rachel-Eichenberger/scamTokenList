@@ -83941,11 +83941,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33cB50396adfC9C369CD138dE41b9C6d00d1570C",
+      "symbol": "DUHKHA",
+      "name": "AGurusDespair",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 30,
+    "minor": 31,
     "patch": 36
   }
 }
