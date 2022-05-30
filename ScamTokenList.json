@@ -83908,11 +83908,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ADb03cD14FB78D09554a1af560eAD53C9ADA34e",
+      "symbol": "DONTBUY",
+      "name": "dontbuy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 27,
+    "minor": 28,
     "patch": 36
   }
 }
