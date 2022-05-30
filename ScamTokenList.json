@@ -83820,11 +83820,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53821D67263daF4c1264049BA41Fc73d1346b8f2",
+      "symbol": "SHIBV3",
+      "name": "ShibaInuv3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 19,
+    "minor": 20,
     "patch": 36
   }
 }
