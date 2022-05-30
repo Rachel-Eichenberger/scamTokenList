@@ -84359,11 +84359,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x693d1493c84a19D0005d929ccBE7F5bfB4679461",
+      "symbol": "MOUNTWOLFI",
+      "name": "MountWolfiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 56,
+    "minor": 57,
     "patch": 36
   }
 }
