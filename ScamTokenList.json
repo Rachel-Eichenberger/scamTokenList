@@ -83842,11 +83842,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66e6EB9bE937927D827ba090656F9511F1CFFC65",
+      "symbol": "WORM",
+      "name": "WormInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 21,
+    "minor": 22,
     "patch": 36
   }
 }
