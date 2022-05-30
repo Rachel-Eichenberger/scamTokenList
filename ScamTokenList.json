@@ -84051,11 +84051,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x505476D7134Cc0ACcD8d410F5143B2E3804a82BE",
+      "symbol": "BULLS",
+      "name": "MICHAELJORDANINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 40,
+    "minor": 41,
     "patch": 36
   }
 }
