@@ -84601,11 +84601,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5275B7Fb41413dFeD32930c27D8C2e52fbd2D071",
+      "symbol": "DEPP",
+      "name": "DEPPCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 78,
+    "minor": 79,
     "patch": 36
   }
 }
