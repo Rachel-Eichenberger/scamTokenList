@@ -84535,11 +84535,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBb2dBA1176d9f49D7bfdd4400c5e44427610F91f",
+      "symbol": "DCITY",
+      "name": "DCITYWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 72,
+    "minor": 73,
     "patch": 36
   }
 }
