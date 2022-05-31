@@ -85217,11 +85217,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b58ec51844FdD4F7F0A64532CD676508A0ADFA4",
+      "symbol": "APG",
+      "name": "APGCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 16,
+    "minor": 17,
     "patch": 37
   }
 }
