@@ -84755,11 +84755,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18Ff6033a8907991Caded299f5B9e78B3C9F5aE2",
+      "symbol": "SHARINGANINU",
+      "name": "SharinganInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 92,
+    "minor": 93,
     "patch": 36
   }
 }
