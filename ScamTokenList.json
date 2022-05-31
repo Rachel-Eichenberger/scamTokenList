@@ -84469,11 +84469,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0b911Fc62Df2C36807D45CBECd94210A5A07672",
+      "symbol": "DCITY",
+      "name": "DCITYWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 66,
+    "minor": 67,
     "patch": 36
   }
 }
