@@ -84722,11 +84722,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6072811e28C40069512596B61abC8fd38658023B",
+      "symbol": "GPS",
+      "name": "GPS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 89,
+    "minor": 90,
     "patch": 36
   }
 }
