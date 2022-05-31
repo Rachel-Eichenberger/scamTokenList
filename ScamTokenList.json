@@ -85096,11 +85096,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98150DE820Fc465d874aA861f74fe33925f1ad36",
+      "symbol": "DRAGO",
+      "name": "Dragoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 5,
+    "minor": 6,
     "patch": 37
   }
 }
