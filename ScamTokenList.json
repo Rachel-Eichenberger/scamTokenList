@@ -84766,11 +84766,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4eB982C35AF0F84e3D229923231b040A2543Ed8",
+      "symbol": "NOTART",
+      "name": "ItsNotArt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 93,
+    "minor": 94,
     "patch": 36
   }
 }
