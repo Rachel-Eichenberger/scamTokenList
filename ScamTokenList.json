@@ -84656,11 +84656,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A2827F9a6EDC8e64DEA7A147f05aD31A5F55BfC",
+      "symbol": "BAMBOO",
+      "name": "BambooTracing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 83,
+    "minor": 84,
     "patch": 36
   }
 }
