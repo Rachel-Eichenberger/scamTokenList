@@ -84480,11 +84480,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA98f25569aC34e87cE8702782115e66c7d4eA401",
+      "symbol": "AIBIRDSXYZ",
+      "name": "AiBirdsxyz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 67,
+    "minor": 68,
     "patch": 36
   }
 }
