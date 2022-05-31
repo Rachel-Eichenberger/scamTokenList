@@ -84502,11 +84502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C272a6ED20d5e9aDAD638A75A1AE03394c94762",
+      "symbol": "MUUINU",
+      "name": "Muuinu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 69,
+    "minor": 70,
     "patch": 36
   }
 }
