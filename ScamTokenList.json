@@ -84711,11 +84711,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3AC910476aF396fd68f74008281ACCa80334e589",
+      "symbol": "NOTART",
+      "name": "ItsNotArt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 88,
+    "minor": 89,
     "patch": 36
   }
 }
