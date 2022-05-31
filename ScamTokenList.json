@@ -84678,11 +84678,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCf2F589BeA4645c3ef47F1F33BeBF100BEe66E05",
+      "symbol": "OAK",
+      "name": "OAKISLAND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 85,
+    "minor": 86,
     "patch": 36
   }
 }
