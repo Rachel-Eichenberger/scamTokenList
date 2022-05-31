@@ -84700,11 +84700,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC48f19eBfAc146087e999F03B96d8dfD9E100b5",
+      "symbol": "OLORIN",
+      "name": "GandalfInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 87,
+    "minor": 88,
     "patch": 36
   }
 }
