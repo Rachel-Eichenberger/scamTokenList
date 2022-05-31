@@ -85140,11 +85140,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C78E45d7D3267d435d07a986b5f07802a1B86Ff",
+      "symbol": "BULL",
+      "name": "BuildABull",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 9,
+    "minor": 10,
     "patch": 37
   }
 }
