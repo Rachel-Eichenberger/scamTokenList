@@ -85118,11 +85118,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58e269cb4f5567bE37c5628B9D3809F28486f9DE",
+      "symbol": "DEPP",
+      "name": "JohnnyDeppInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 7,
+    "minor": 8,
     "patch": 37
   }
 }
