@@ -85129,11 +85129,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d702116731BD199B777654a60a5E924339c32fD",
+      "symbol": "SPURDO",
+      "name": "SPURDO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 8,
+    "minor": 9,
     "patch": 37
   }
 }
