@@ -84458,11 +84458,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7752De3d528cb4228C6BD830a33a169C3c4609f8",
+      "symbol": "ACHEBE",
+      "name": "ArrowofGod",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 65,
+    "minor": 66,
     "patch": 36
   }
 }
