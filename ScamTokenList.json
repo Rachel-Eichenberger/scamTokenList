@@ -84788,11 +84788,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5151Bfc2BCb9810d92746c1DBe78C5CdC5bc69FD",
+      "symbol": "ONERUBY",
+      "name": "OneRuby",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 95,
+    "minor": 96,
     "patch": 36
   }
 }
