@@ -84447,11 +84447,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Bbe080886f5Bdd0f6963496a7994679734475EC",
+      "symbol": "HINU",
+      "name": "HaunterInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 64,
+    "minor": 65,
     "patch": 36
   }
 }
