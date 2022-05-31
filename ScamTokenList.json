@@ -84832,11 +84832,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8BC5A9936E66F74a37708432E27C79CC9A0adDbb",
+      "symbol": "SPF",
+      "name": "SpaceFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 38,
-    "minor": 99,
-    "patch": 36
+    "major": 39,
+    "minor": 0,
+    "patch": 37
   }
 }
