@@ -84689,11 +84689,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAFE10dDC55F243F5223671efEc02826896762E2d",
+      "symbol": "DRIFTCITY",
+      "name": "DriftCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 86,
+    "minor": 87,
     "patch": 36
   }
 }
