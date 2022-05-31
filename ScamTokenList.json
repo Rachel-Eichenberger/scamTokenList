@@ -84810,11 +84810,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2ea71a19f1FD221a4fF72305C68b261cdd01c50",
+      "symbol": "ETHICISM",
+      "name": "ETHICISM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 97,
+    "minor": 98,
     "patch": 36
   }
 }
