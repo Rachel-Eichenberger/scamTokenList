@@ -84546,11 +84546,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DE7D8630B2D78dDC411316a662D9CbC3023EE7e",
+      "symbol": "STEPUP",
+      "name": "StepUPApp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 73,
+    "minor": 74,
     "patch": 36
   }
 }
