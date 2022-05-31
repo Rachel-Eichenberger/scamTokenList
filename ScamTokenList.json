@@ -84799,11 +84799,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5e9504509ADA92Ed98B7F372F8A4aB8a850f8ca",
+      "symbol": "OPINU",
+      "name": "OptimismInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 96,
+    "minor": 97,
     "patch": 36
   }
 }
