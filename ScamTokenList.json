@@ -84667,11 +84667,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2cD013841475B6658Fd885dd5a9Ded5A1e38Db4B",
+      "symbol": "LIGMA",
+      "name": "LigmaBallz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 84,
+    "minor": 85,
     "patch": 36
   }
 }
