@@ -84843,11 +84843,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D98971fA943ed2e1Bb5eA240A20CF86CB27f193",
+      "symbol": "GBEARS",
+      "name": "GUMMYBEARS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 0,
+    "minor": 1,
     "patch": 37
   }
 }
