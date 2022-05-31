@@ -85107,11 +85107,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62b9f614E24c6B0050670293958d89A0965712C2",
+      "symbol": "OP",
+      "name": "WrappedOptimismToke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 6,
+    "minor": 7,
     "patch": 37
   }
 }
