@@ -85173,11 +85173,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98010135CD26d133F9dF9c9A6732C1EbDF3C10Af",
+      "symbol": "QNTM",
+      "name": "Quantum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 12,
+    "minor": 13,
     "patch": 37
   }
 }
