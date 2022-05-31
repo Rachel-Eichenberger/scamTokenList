@@ -85184,11 +85184,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb23d0a8880d69E043dc691e9ce150220AE312BA7",
+      "symbol": "BEST1",
+      "name": "TehBestOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 13,
+    "minor": 14,
     "patch": 37
   }
 }
