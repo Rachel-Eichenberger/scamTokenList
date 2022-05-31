@@ -85085,11 +85085,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x314655ceD8A07DB1Fe38fA4687C9293Ada5E6D78",
+      "symbol": "LUCK",
+      "name": "BobbysLuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 4,
+    "minor": 5,
     "patch": 37
   }
 }
