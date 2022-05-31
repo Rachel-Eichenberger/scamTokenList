@@ -84568,11 +84568,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x489c7c7c1166759312fe86c322432068eEd06a4F",
+      "symbol": "SHINVOLT",
+      "name": "Shinvolt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 75,
+    "minor": 76,
     "patch": 36
   }
 }
