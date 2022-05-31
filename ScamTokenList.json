@@ -84590,11 +84590,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD29eFb2914F0Bf96E5BB513E799A910eAdD72c52",
+      "symbol": "SKOLL",
+      "name": "SKOLL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 77,
+    "minor": 78,
     "patch": 36
   }
 }
