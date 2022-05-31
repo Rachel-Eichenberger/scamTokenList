@@ -84854,11 +84854,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8CECd74b3dfB8B55581D5A329fd30DB00528cAAf",
+      "symbol": "MONARCH",
+      "name": "ANewEmpire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 1,
+    "minor": 2,
     "patch": 37
   }
 }
