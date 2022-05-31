@@ -84821,11 +84821,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ed4553c802Ed5BA745C179E4fDF8caf1f00d1ff",
+      "symbol": "RDOGE",
+      "name": "RetroDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 98,
+    "minor": 99,
     "patch": 36
   }
 }
