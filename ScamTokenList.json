@@ -84513,11 +84513,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E9B8277e869A05a41D843b6c1D5A12df2C82607",
+      "symbol": "OP",
+      "name": "Optimism",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 70,
+    "minor": 71,
     "patch": 36
   }
 }
