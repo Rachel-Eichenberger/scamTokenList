@@ -84777,11 +84777,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0a0eF26b41c868B67f6852eaCe617Bb5F93E8E4",
+      "symbol": "ETHICISM",
+      "name": "ETHICISM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 94,
+    "minor": 95,
     "patch": 36
   }
 }
