@@ -84612,11 +84612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA188c18dBb3E21E03AddfeAf038Bf4A387Cc2Ea0",
+      "symbol": "CRETAN",
+      "name": "TheSeventhLabor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 79,
+    "minor": 80,
     "patch": 36
   }
 }
