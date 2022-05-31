@@ -84865,11 +84865,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9C20640B93cE223b609878Bdc6b4b06DA26eda4",
+      "symbol": "PBD",
+      "name": "PaleBlueDot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 2,
+    "minor": 3,
     "patch": 37
   }
 }
