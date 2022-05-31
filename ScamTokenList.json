@@ -84733,11 +84733,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFBEa290C8f7D224a34c166612C2760329C6B4A48",
+      "symbol": "A",
+      "name": "AdulthoodsBeginning",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 90,
+    "minor": 91,
     "patch": 36
   }
 }
