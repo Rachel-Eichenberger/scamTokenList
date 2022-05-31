@@ -84436,11 +84436,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF99ca49182aBEc979f7ea91c89A0AdB1E5B44E90",
+      "symbol": "GINU",
+      "name": "GinuToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 63,
+    "minor": 64,
     "patch": 36
   }
 }
