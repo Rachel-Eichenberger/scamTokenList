@@ -84623,11 +84623,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3750562D961e34A3DbA3c44cD7ADea44F232fF1",
+      "symbol": "MOSK",
+      "name": "MonaMusk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 38,
-    "minor": 80,
+    "minor": 81,
     "patch": 36
   }
 }
