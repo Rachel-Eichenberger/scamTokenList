@@ -85426,11 +85426,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EbA39186Ca052Fb884174059b6C21A3Ed5cC816",
+      "symbol": "AUTINU",
+      "name": "AutisticInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 35,
+    "minor": 36,
     "patch": 37
   }
 }
