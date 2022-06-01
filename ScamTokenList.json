@@ -85305,11 +85305,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3D6938ED574171895A45E293a6a6C2C6B1343F1",
+      "symbol": "DIAMOND1",
+      "name": "TehDiamondOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 24,
+    "minor": 25,
     "patch": 37
   }
 }
