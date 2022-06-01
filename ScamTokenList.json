@@ -85294,11 +85294,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf663C4509a15e1333fC80ED0F2B8E3B7391C26AB",
+      "symbol": "BOKAY",
+      "name": "BOKAY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 23,
+    "minor": 24,
     "patch": 37
   }
 }
