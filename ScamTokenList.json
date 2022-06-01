@@ -85668,11 +85668,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9088C2191e983d00E40c701fDE61053358063F5",
+      "symbol": "VELO",
+      "name": "Velodrome",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 57,
+    "minor": 58,
     "patch": 37
   }
 }
