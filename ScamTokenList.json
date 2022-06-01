@@ -85448,11 +85448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82940A443a7F1cEE661381d271fD37D89d0574bC",
+      "symbol": "APIS",
+      "name": "BullOfPtah",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 37,
+    "minor": 38,
     "patch": 37
   }
 }
