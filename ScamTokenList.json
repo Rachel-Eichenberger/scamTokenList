@@ -85338,11 +85338,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf79fb17F75d298105B8959aED93924dbeea8159A",
+      "symbol": "APINU",
+      "name": "ApeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 27,
+    "minor": 28,
     "patch": 37
   }
 }
