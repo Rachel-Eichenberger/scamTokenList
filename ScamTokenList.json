@@ -85547,11 +85547,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90373fE017a14BC48D25B787f0f8FA8140d39B52",
+      "symbol": "GAY",
+      "name": "GayInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 46,
+    "minor": 47,
     "patch": 37
   }
 }
