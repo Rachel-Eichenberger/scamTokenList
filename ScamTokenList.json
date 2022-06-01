@@ -85371,11 +85371,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32C07Fe80A12b3Cb91b570d291637B064bB5c9a6",
+      "symbol": "TEHHARDESTONE",
+      "name": "TEHHARDESTONE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 30,
+    "minor": 31,
     "patch": 37
   }
 }
