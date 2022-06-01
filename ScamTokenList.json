@@ -85250,11 +85250,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05B14271EfBDcD5434cc05f2BcA0D1eE5A90FB47",
+      "symbol": "SHIBNU",
+      "name": "ShibNaruto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 19,
+    "minor": 20,
     "patch": 37
   }
 }
