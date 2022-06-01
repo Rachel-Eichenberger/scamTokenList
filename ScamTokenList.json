@@ -85701,11 +85701,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59c6900949aD1835f07a04321f4d9934a054E114",
+      "symbol": "TROVE",
+      "name": "TroveDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 60,
+    "minor": 61,
     "patch": 37
   }
 }
