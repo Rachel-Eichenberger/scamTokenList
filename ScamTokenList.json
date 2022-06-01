@@ -85360,11 +85360,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4183f7E875bf7b85705f4127a6D4630ECc1d0286",
+      "symbol": "WISDOM",
+      "name": "TehValuableOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 29,
+    "minor": 30,
     "patch": 37
   }
 }
