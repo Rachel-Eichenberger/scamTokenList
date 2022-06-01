@@ -85481,11 +85481,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDa9b999c451db1Ccc113500840eA3D59a77C4AaD",
+      "symbol": "30",
+      "name": "30Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 40,
+    "minor": 41,
     "patch": 37
   }
 }
