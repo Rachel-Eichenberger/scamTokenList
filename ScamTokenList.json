@@ -85404,11 +85404,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAEE68685175530ca54E0499795A2142F2b645895",
+      "symbol": "VSN",
+      "name": "AShibaVision",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 33,
+    "minor": 34,
     "patch": 37
   }
 }
