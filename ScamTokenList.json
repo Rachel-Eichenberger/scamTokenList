@@ -85624,11 +85624,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44A8211f5fc517d9e384d5732179eD6BE9982AFC",
+      "symbol": "TROVE",
+      "name": "TroveDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 53,
+    "minor": 54,
     "patch": 37
   }
 }
