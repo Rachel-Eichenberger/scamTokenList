@@ -85503,11 +85503,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52F0eDF97c8575A87118699E368fF1D42977CCdc",
+      "symbol": "SPF",
+      "name": "SpaceFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 42,
+    "minor": 43,
     "patch": 37
   }
 }
