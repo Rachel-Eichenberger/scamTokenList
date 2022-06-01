@@ -85712,11 +85712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1a7a89A38D6f93F908Ce575330dc3800ede4250",
+      "symbol": "INSTINCT",
+      "name": "SixthSense",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 61,
+    "minor": 62,
     "patch": 37
   }
 }
