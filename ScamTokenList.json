@@ -85690,11 +85690,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x528fe44758c520F83A78e5290E5c57bbda88c6cc",
+      "symbol": "DOKKAEBI",
+      "name": "Dokkaebi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 59,
+    "minor": 60,
     "patch": 37
   }
 }
