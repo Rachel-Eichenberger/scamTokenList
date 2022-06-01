@@ -85316,11 +85316,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F99E0F59c64F72Be764Ba235A3381156Bc71D85",
+      "symbol": "GEM",
+      "name": "TehOneAndOnly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 25,
+    "minor": 26,
     "patch": 37
   }
 }
