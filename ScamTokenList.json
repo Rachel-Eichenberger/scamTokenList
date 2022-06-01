@@ -85635,11 +85635,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4E99F685d66A3FA394D8e0D2fEDce5b8757CB09",
+      "symbol": "AMBER1",
+      "name": "TehAmber",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 54,
+    "minor": 55,
     "patch": 37
   }
 }
