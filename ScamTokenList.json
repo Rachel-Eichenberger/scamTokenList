@@ -85239,11 +85239,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66F68002b2582C392660c1969fdc7005f85E84E4",
+      "symbol": "TREVOR",
+      "name": "TrevorTrackBot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 18,
+    "minor": 19,
     "patch": 37
   }
 }
