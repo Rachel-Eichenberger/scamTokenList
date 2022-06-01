@@ -85580,11 +85580,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2510AE1Ed33476b738cBE1B12CC152d3b2Db2eE4",
+      "symbol": "JOHNNY",
+      "name": "JohnnyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 49,
+    "minor": 50,
     "patch": 37
   }
 }
