@@ -85591,11 +85591,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F275C99E9e9ffC3a7E9219E43bD81D056115d85",
+      "symbol": "JDEPP",
+      "name": "JohnnyDeppInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 50,
+    "minor": 51,
     "patch": 37
   }
 }
