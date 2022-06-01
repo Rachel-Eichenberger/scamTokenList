@@ -85415,11 +85415,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4752e43b7E1722c48f7f427e6F4909f936467109",
+      "symbol": "CAW1",
+      "name": "TehHunterOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 34,
+    "minor": 35,
     "patch": 37
   }
 }
