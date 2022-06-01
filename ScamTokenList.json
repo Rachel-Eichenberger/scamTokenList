@@ -85679,11 +85679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2fE8B09857af4A3fCF832CAD180781C8C8CE16F8",
+      "symbol": "PRIDE1",
+      "name": "TehProudOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 58,
+    "minor": 59,
     "patch": 37
   }
 }
