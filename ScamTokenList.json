@@ -85536,11 +85536,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb166971721C1A143392b6bb47a1b53F6D7eB854A",
+      "symbol": "COINFT",
+      "name": "CoiNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 45,
+    "minor": 46,
     "patch": 37
   }
 }
