@@ -85327,11 +85327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15e40c7bD303f98179B5b361A3df62164913A8a3",
+      "symbol": "QNTMDAO",
+      "name": "QuantumDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 26,
+    "minor": 27,
     "patch": 37
   }
 }
