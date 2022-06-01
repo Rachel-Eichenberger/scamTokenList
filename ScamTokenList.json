@@ -85393,11 +85393,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B86431653cF1F1D8D0079aa09079D87B76C2A0E",
+      "symbol": "ARETE",
+      "name": "Arete",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 32,
+    "minor": 33,
     "patch": 37
   }
 }
