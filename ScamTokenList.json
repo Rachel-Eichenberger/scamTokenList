@@ -85558,11 +85558,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34a2227787bea0aCBA52d7c6534A91Fc396FEbEF",
+      "symbol": "DEPP",
+      "name": "JohnnyDeppWins",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 47,
+    "minor": 48,
     "patch": 37
   }
 }
