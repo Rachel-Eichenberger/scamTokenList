@@ -85283,11 +85283,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEaF2Ee2BCDD0820CDe5b5a5f232794Eb2c23828F",
+      "symbol": "GOLD2",
+      "name": "TehGoldenTwo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 22,
+    "minor": 23,
     "patch": 37
   }
 }
