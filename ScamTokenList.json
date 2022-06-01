@@ -85525,11 +85525,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1bD7501A2CfFaD6c1C52596EfB93493B5786160",
+      "symbol": "COM",
+      "name": "CAWPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 44,
+    "minor": 45,
     "patch": 37
   }
 }
