@@ -85987,11 +85987,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff903BAa98816E4D8764E6C3E43cf7841cc6D558",
+      "symbol": "SHINJA2",
+      "name": "Shibnobi20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 86,
+    "minor": 87,
     "patch": 37
   }
 }
