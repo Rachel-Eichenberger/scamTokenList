@@ -85932,11 +85932,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E79e52b2C89f7AC1F40fA266D55a98689dCAE5A",
+      "symbol": "OF",
+      "name": "BankofGoblin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 81,
+    "minor": 82,
     "patch": 37
   }
 }
