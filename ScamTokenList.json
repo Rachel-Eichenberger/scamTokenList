@@ -86031,11 +86031,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD48e250E49594E8131C3e3439610C404FCF38877",
+      "symbol": "GM",
+      "name": "GoblinMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 90,
+    "minor": 91,
     "patch": 37
   }
 }
