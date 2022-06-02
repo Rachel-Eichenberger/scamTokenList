@@ -85855,11 +85855,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17528c8435Ed4a3883dE5EB83249f861aC6CB243",
+      "symbol": "DOGEAZON",
+      "name": "Dogeazon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 74,
+    "minor": 75,
     "patch": 37
   }
 }
