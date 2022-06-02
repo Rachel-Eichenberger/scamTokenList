@@ -85800,11 +85800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa104f172d246b779425772a79A91B17e6b4Ab917",
+      "symbol": "DOGN",
+      "name": "Dogn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 69,
+    "minor": 70,
     "patch": 37
   }
 }
