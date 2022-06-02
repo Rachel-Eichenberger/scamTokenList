@@ -85811,11 +85811,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4226C87823C112439B670Ba5e6f331DbFB6a853C",
+      "symbol": "SECRET",
+      "name": "TehHiddenOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 70,
+    "minor": 71,
     "patch": 37
   }
 }
