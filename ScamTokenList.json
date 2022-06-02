@@ -85954,11 +85954,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf71A99890059Cd0eA2C8f4796e9a70C19aa029E5",
+      "symbol": "KHON",
+      "name": "httpstmeKhonsuEth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 83,
+    "minor": 84,
     "patch": 37
   }
 }
