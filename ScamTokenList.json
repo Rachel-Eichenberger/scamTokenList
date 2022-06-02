@@ -85822,11 +85822,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1Fe2E3876907969B8686288dF91C2B42Ae932aB",
+      "symbol": "CPNK",
+      "name": "Cypherpunk",
+      "decimals": 2,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 71,
+    "minor": 72,
     "patch": 37
   }
 }
