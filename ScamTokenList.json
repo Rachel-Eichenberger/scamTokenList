@@ -85789,11 +85789,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x510f1Fd815Beb07A561E19c56FeB7ff6B84386Cd",
+      "symbol": "CRAZY1",
+      "name": "TehCrazyOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 68,
+    "minor": 69,
     "patch": 37
   }
 }
