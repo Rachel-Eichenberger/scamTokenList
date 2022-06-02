@@ -85888,11 +85888,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F7c7EDCE870bBFbff46466E9979F8c6D73474ba",
+      "symbol": "WILDWARS",
+      "name": "WildWarsGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 77,
+    "minor": 78,
     "patch": 37
   }
 }
