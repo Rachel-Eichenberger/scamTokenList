@@ -85866,11 +85866,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c3A324B304713B2Baf702Fd360049c43DAD1A6b",
+      "symbol": "ERCSTEIN",
+      "name": "AlbertErcstein",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 75,
+    "minor": 76,
     "patch": 37
   }
 }
