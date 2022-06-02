@@ -85778,11 +85778,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE2f2F579cB0E874A9C607570Fa9a69a87F9196E",
+      "symbol": "TFW",
+      "name": "TehFinalWish",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 67,
+    "minor": 68,
     "patch": 37
   }
 }
