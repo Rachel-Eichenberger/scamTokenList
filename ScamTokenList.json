@@ -85767,11 +85767,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA741C18244804027b5f01F32203bbB3a94C2EbD9",
+      "symbol": "GERANOS",
+      "name": "7Cranes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 66,
+    "minor": 67,
     "patch": 37
   }
 }
