@@ -85833,11 +85833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1DafD4637a6B2c230465E29D280BC79d43cef04",
+      "symbol": "EVON",
+      "name": "EvilElon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 72,
+    "minor": 73,
     "patch": 37
   }
 }
