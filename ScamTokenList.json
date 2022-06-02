@@ -85910,11 +85910,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8B03E04ECaF9e3Fe4f46E2997a81766a1b2ab24",
+      "symbol": "SINU",
+      "name": "ShuttleInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 79,
+    "minor": 80,
     "patch": 37
   }
 }
