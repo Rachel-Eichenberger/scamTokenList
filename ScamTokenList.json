@@ -85976,11 +85976,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E2C5a79129d0e4eea7245cF7E82590e4862064b",
+      "symbol": "ZYZZ",
+      "name": "ZYZZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 85,
+    "minor": 86,
     "patch": 37
   }
 }
