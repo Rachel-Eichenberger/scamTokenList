@@ -85921,11 +85921,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D5E669a3dfe1583B05612f3dC5f113b00334D90",
+      "symbol": "BEARKILLER",
+      "name": "BearKiller",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 80,
+    "minor": 81,
     "patch": 37
   }
 }
