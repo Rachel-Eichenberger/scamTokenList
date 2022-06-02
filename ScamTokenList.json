@@ -85844,11 +85844,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FBC65937fd2e3c2cdF99C7E786eA97A7B09f941",
+      "symbol": "ERCSTEIN",
+      "name": "AlbertErcstein",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 73,
+    "minor": 74,
     "patch": 37
   }
 }
