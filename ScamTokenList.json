@@ -86020,11 +86020,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C465Caf7B9f69819a3220bE7258760B28Bf0397",
+      "symbol": "MELON",
+      "name": "MEMELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 89,
+    "minor": 90,
     "patch": 37
   }
 }
