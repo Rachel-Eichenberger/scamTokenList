@@ -85899,11 +85899,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b6412054A480156C9a2DccE40d5c2724D9077DD",
+      "symbol": "COME",
+      "name": "CommunityMeme",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 78,
+    "minor": 79,
     "patch": 37
   }
 }
