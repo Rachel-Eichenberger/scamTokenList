@@ -85965,11 +85965,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB3530aC51DEd9c48Bb74da82E803Cfa334500EA",
+      "symbol": "AB",
+      "name": "WrappedArbitrumToke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 84,
+    "minor": 85,
     "patch": 37
   }
 }
