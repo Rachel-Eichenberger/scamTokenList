@@ -86009,11 +86009,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38DAb37c496400D51B723b831A301723e01B7597",
+      "symbol": "GARY",
+      "name": "GaryGasBot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 88,
+    "minor": 89,
     "patch": 37
   }
 }
