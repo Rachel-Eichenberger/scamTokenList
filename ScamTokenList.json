@@ -85745,11 +85745,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5B2Ca829a99F6743c3f186D4b8a5A6401398e97",
+      "symbol": "DEBT",
+      "name": "JohnnyDebt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 64,
+    "minor": 65,
     "patch": 37
   }
 }
