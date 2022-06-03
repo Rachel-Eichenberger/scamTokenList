@@ -86075,11 +86075,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x936cd6dc3dffd1C5bF13A857590C19e482127ED3",
+      "symbol": "KUMO",
+      "name": "KumoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 94,
+    "minor": 95,
     "patch": 37
   }
 }
