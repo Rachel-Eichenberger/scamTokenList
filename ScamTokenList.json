@@ -86086,11 +86086,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd2C4Df4DBbd1bE534394548A61518D0B19e2d6a",
+      "symbol": "BEGINNING",
+      "name": "Beresheet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 95,
+    "minor": 96,
     "patch": 37
   }
 }
