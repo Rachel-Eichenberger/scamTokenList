@@ -86042,11 +86042,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cD21832b19C26ED4B05955F1b43C666E2e2e63A",
+      "symbol": "GOBLINPRIDE",
+      "name": "GAYGOBLIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 91,
+    "minor": 92,
     "patch": 37
   }
 }
