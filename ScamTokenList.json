@@ -86207,11 +86207,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCF6401fD7c15d2F1a6C26488C50C4aa2CF2b717d",
+      "symbol": "CELTICS",
+      "name": "TehMythsOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 6,
+    "minor": 7,
     "patch": 38
   }
 }
