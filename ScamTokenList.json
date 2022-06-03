@@ -86295,11 +86295,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58EFf1d5dcCC88B4544D0FC7eD45bf9304Eec22b",
+      "symbol": "MTER",
+      "name": "MetaEther",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 14,
+    "minor": 15,
     "patch": 38
   }
 }
