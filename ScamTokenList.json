@@ -86196,11 +86196,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9465A444AEc054adB136c515987bdD4b9404f962",
+      "symbol": "SHINJA20",
+      "name": "Shibnobi20",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 5,
+    "minor": 6,
     "patch": 38
   }
 }
