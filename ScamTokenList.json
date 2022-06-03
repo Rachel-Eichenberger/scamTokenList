@@ -86284,11 +86284,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2f069232A2Daa7b9D934aC6CE02B8c62f4F8113",
+      "symbol": "COPPERFIELD",
+      "name": "TehIllusionist",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 13,
+    "minor": 14,
     "patch": 38
   }
 }
