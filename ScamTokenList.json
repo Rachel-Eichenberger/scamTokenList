@@ -86218,11 +86218,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A28B84A60B1ac9D4dc49F14DFBaFA628C1B4ca3",
+      "symbol": "CUCKOO",
+      "name": "Cuckoo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 7,
+    "minor": 8,
     "patch": 38
   }
 }
