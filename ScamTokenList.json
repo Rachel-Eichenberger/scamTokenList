@@ -86053,11 +86053,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9De5E39Dff45bBac20aB864fBc3A6882D70287B3",
+      "symbol": "JSPR",
+      "name": "JASPER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 92,
+    "minor": 93,
     "patch": 37
   }
 }
