@@ -86229,11 +86229,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4EF91750CB8A1D67dfE47D8d2900dB98c879E3Be",
+      "symbol": "FGI",
+      "name": "FrogInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 8,
+    "minor": 9,
     "patch": 38
   }
 }
