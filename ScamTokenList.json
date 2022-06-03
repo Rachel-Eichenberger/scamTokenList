@@ -86097,11 +86097,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37AF9D32562acB48a5EFc4b203aa4836BBE202d7",
+      "symbol": "SB",
+      "name": "StreamerBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 96,
+    "minor": 97,
     "patch": 37
   }
 }
