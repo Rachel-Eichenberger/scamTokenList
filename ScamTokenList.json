@@ -86174,11 +86174,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3aFCfEBc6d58DC6042bD039A6c53Aec1A924fb0e",
+      "symbol": "BB",
+      "name": "BBVerse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 3,
+    "minor": 4,
     "patch": 38
   }
 }
