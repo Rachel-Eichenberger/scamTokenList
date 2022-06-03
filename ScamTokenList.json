@@ -86240,11 +86240,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b66eb7F0394130914B341b7B628D83FC231A089",
+      "symbol": "TEHMOONISNEAR",
+      "name": "TehMoonIsNear",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 9,
+    "minor": 10,
     "patch": 38
   }
 }
