@@ -86185,11 +86185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28fF3f5674D498a40525C34b8510154abFFE7744",
+      "symbol": "KTI",
+      "name": "Kintobi",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 4,
+    "minor": 5,
     "patch": 38
   }
 }
