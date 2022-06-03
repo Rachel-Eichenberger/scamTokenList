@@ -86119,11 +86119,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24dc74E1540A48d873415d3d0973400A9f10DEDA",
+      "symbol": "WHO",
+      "name": "HOUDINI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 39,
-    "minor": 98,
+    "minor": 99,
     "patch": 37
   }
 }
