@@ -86317,11 +86317,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa207b975E63046187C07825152Ef209787C07E95",
+      "symbol": "SADAHARU",
+      "name": "SadaharuToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 16,
+    "minor": 17,
     "patch": 38
   }
 }
