@@ -86273,11 +86273,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3db72BD63e2b7cCCA15227528F9225163e947A19",
+      "symbol": "ROCKY",
+      "name": "RockyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 12,
+    "minor": 13,
     "patch": 38
   }
 }
