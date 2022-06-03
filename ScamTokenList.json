@@ -86350,11 +86350,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95407C78d6B088B06ca70Bd144727eD0028Ae3B6",
+      "symbol": "RARE",
+      "name": "4LeafClover",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 19,
+    "minor": 20,
     "patch": 38
   }
 }
