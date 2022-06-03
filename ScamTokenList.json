@@ -86152,11 +86152,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28a119F7CaC253042223004d5a6829D2322c5De3",
+      "symbol": "LUCIFER",
+      "name": "Lucifer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 1,
+    "minor": 2,
     "patch": 38
   }
 }
