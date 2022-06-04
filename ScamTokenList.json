@@ -86471,11 +86471,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE136A3D667d4747c8FE7e7437dD5A63AC1f92676",
+      "symbol": "KIMI",
+      "name": "KimChiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 30,
+    "minor": 31,
     "patch": 38
   }
 }
