@@ -86504,11 +86504,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x849BEb2CCECfe80177C0F9910Bc91612C7D42673",
+      "symbol": "NILE",
+      "name": "TheGreatRiver",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 33,
+    "minor": 34,
     "patch": 38
   }
 }
