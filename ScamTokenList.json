@@ -86570,11 +86570,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC95AF63774CbA3828B86104A547f021A6565D50",
+      "symbol": "TEDY",
+      "name": "TedyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 39,
+    "minor": 40,
     "patch": 38
   }
 }
