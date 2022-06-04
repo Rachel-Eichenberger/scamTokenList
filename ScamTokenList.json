@@ -86625,11 +86625,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A53D0458FCa0398f78B1102a217C628699D7DE1",
+      "symbol": "GIZA5310",
+      "name": "ThePyramidofKhafre",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 44,
+    "minor": 45,
     "patch": 38
   }
 }
