@@ -86449,11 +86449,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC85c696E044aa811E15550E586393FB21F29937",
+      "symbol": "SHIBAMARU",
+      "name": "ShibaMaruInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 28,
+    "minor": 29,
     "patch": 38
   }
 }
