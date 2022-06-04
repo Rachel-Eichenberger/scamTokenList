@@ -86493,11 +86493,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x753ab026A0485b2c12d8AD0B50Dd89235cED309c",
+      "symbol": "MERGA",
+      "name": "MergaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 32,
+    "minor": 33,
     "patch": 38
   }
 }
