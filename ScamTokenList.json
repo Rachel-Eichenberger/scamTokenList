@@ -86559,11 +86559,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85D33bea6b1f253230784C5B9eC763824738838f",
+      "symbol": "SAHARA",
+      "name": "TheGreatDesert",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 38,
+    "minor": 39,
     "patch": 38
   }
 }
