@@ -86405,11 +86405,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3878733885264D89FCe8B31ED4708629a684fC85",
+      "symbol": "SHOHEI",
+      "name": "ShoheiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 24,
+    "minor": 25,
     "patch": 38
   }
 }
