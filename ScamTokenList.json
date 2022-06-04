@@ -86548,11 +86548,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc94a161712C0f9fB7Bba3F2E309a37c91e5497CA",
+      "symbol": "IMPGOB",
+      "name": "Impostor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 37,
+    "minor": 38,
     "patch": 38
   }
 }
