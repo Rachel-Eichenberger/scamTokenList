@@ -86416,11 +86416,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE1dFb504D2Ff1646a2c4251666F120f352645A2",
+      "symbol": "RAVEN",
+      "name": "Tehppl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 25,
+    "minor": 26,
     "patch": 38
   }
 }
