@@ -86427,11 +86427,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf671beC60Bd93B74C337B2bD404B79e60d5122E5",
+      "symbol": "DIABOLICAL",
+      "name": "DiabolicalInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 26,
+    "minor": 27,
     "patch": 38
   }
 }
