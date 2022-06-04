@@ -86614,11 +86614,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59Cb47e1C135ABBA49427CD0182d6829C028a9E8",
+      "symbol": "RA",
+      "name": "AMUNRA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 43,
+    "minor": 44,
     "patch": 38
   }
 }
