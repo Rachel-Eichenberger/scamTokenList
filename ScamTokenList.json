@@ -86581,11 +86581,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7627D89e1D0ce89685Cbb1d6a9FAA881dEbEa71",
+      "symbol": "THEGREATVORTEX",
+      "name": "TheGreatVortex",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 40,
+    "minor": 41,
     "patch": 38
   }
 }
