@@ -86383,11 +86383,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b9A78fdfA2BFDE9fCfB0c9919a073cD4C6375b7",
+      "symbol": "BG",
+      "name": "BabyGiza",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 22,
+    "minor": 23,
     "patch": 38
   }
 }
