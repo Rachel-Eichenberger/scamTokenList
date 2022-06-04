@@ -86592,11 +86592,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA67Aa1CF8F5C0E44527CFe22653cF18a6ebe061",
+      "symbol": "GIZABURN",
+      "name": "GizaBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 41,
+    "minor": 42,
     "patch": 38
   }
 }
