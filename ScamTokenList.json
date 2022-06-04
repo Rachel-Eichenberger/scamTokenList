@@ -86603,11 +86603,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32F7D0F7bCFA3b7a3dC925283684De85Ca55FcBA",
+      "symbol": "CLEOPATRA",
+      "name": "TheGreatQueen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 42,
+    "minor": 43,
     "patch": 38
   }
 }
