@@ -86537,11 +86537,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC7108F5Fb3aA927b7fABb3be3f25Eb7202bc21B",
+      "symbol": "SUNNA",
+      "name": "SUNNA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 36,
+    "minor": 37,
     "patch": 38
   }
 }
