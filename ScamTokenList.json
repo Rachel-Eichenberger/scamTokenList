@@ -86460,11 +86460,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf139eD81F56C54fe6ABFE51A89640B09676B1770",
+      "symbol": "UNC",
+      "name": "UNCInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 29,
+    "minor": 30,
     "patch": 38
   }
 }
