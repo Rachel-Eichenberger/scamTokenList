@@ -87659,11 +87659,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A5BD0Bf365d264C8d9d0CC9e6df6d839c8BF26F",
+      "symbol": "MAICCHU",
+      "name": "MachuPicchu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 72,
+    "minor": 73,
     "patch": 38
   }
 }
