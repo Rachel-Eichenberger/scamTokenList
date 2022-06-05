@@ -87571,11 +87571,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE607081C0C18EA415e77f614345aF14b258700d2",
+      "symbol": "QURO",
+      "name": "QuroDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 64,
+    "minor": 65,
     "patch": 38
   }
 }
