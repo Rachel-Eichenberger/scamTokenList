@@ -87615,11 +87615,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x147ec059cBbFAb9B7D085f5C52aD93BF3F93a72f",
+      "symbol": "EERS",
+      "name": "EERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 68,
+    "minor": 69,
     "patch": 38
   }
 }
