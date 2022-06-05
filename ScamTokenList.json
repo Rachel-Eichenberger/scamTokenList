@@ -87428,11 +87428,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdF78985c1dc46711b7B83EeD2f386ed6B9Bd1BB5",
+      "symbol": "PLSHIB",
+      "name": "PulseShib",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 51,
+    "minor": 52,
     "patch": 38
   }
 }
