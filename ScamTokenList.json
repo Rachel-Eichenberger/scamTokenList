@@ -87483,11 +87483,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD19D93146b7Caa85fe5215D78142D88c263AFEB9",
+      "symbol": "THERION",
+      "name": "TheBookofThoth",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 56,
+    "minor": 57,
     "patch": 38
   }
 }
