@@ -87890,11 +87890,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1e749a0462943a269292f7Fc52abb7b88f42793",
+      "symbol": "MINT",
+      "name": "MintInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 85,
+    "minor": 86,
     "patch": 39
   }
 }
