@@ -87439,11 +87439,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE453fA8d8AC50acd28c47efAa6195E527f44bb4e",
+      "symbol": "RYOSHILEGACY",
+      "name": "RyoshiLegacy",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 52,
+    "minor": 53,
     "patch": 38
   }
 }
