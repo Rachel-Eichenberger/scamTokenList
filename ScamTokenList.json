@@ -83658,17 +83658,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x85b8Ab055B1dCC3cB0f2BB39f515c9eb271c69dE",
-      "symbol": "ALTERIANDOLLAR",
-      "name": "The Alterian Dollar",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71809A10feb74c84B59fF79ddA5Fa4543b7C8798",
       "symbol": "JAXRE",
       "name": "JAXRE",
@@ -83716,17 +83705,6 @@
       "address": "0x935b0bF173552cd55E53AD651a783430a5700cD4",
       "symbol": "JAXULD",
       "name": "JAXULD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x88d7FE32284f1dBD398D58222DE8DFd87dD75460",
-      "symbol": "JAXRE",
-      "name": "JAXRE",
       "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -87739,8 +87717,8 @@
     }
   ],
   "version": {
-    "major": 40,
-    "minor": 79,
-    "patch": 38
+    "major": 41,
+    "minor": 80,
+    "patch": 39
   }
 }
