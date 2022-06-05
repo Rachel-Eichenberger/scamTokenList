@@ -87549,11 +87549,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB36eC104570c8052e4676975e4c1874c59A535b9",
+      "symbol": "OMEGA",
+      "name": "OmegaSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 62,
+    "minor": 63,
     "patch": 38
   }
 }
