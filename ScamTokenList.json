@@ -87868,11 +87868,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x920e4Cc5c50548ED2825de9e380A4d7b2A7Ff143",
+      "symbol": "MONKE",
+      "name": "ENLIGHTEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 83,
+    "minor": 84,
     "patch": 39
   }
 }
