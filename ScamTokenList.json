@@ -87912,11 +87912,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA384176De2A4B32fCB6B8166D849CFa16678c92f",
+      "symbol": "ONIK",
+      "name": "Onikuma",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 87,
+    "minor": 88,
     "patch": 39
   }
 }
