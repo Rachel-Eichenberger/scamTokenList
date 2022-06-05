@@ -87472,11 +87472,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x234736F78a6F18d20d3d2eD0544c55d38F26b1CD",
+      "symbol": "PHAROAH",
+      "name": "NovusOrdoSeclorum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 55,
+    "minor": 56,
     "patch": 38
   }
 }
