@@ -87560,11 +87560,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdF53c615dc295A1f8c427b0Cc3560E2C18728E78",
+      "symbol": "314159",
+      "name": "JourneyOfPi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 63,
+    "minor": 64,
     "patch": 38
   }
 }
