@@ -87417,11 +87417,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0E8Ed5F96c2279FAa28BFb266143B0283dEaCCa",
+      "symbol": "HIKARU",
+      "name": "HIKARUINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 50,
+    "minor": 51,
     "patch": 38
   }
 }
