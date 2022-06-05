@@ -87637,11 +87637,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5530dee446A50a35170C4BaE2D2494B2B3de328",
+      "symbol": "CRAID",
+      "name": "Raidmachine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 70,
+    "minor": 71,
     "patch": 38
   }
 }
