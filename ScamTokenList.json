@@ -87450,11 +87450,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44a6ce8Bb30Ab9942b90aD5eBaA70aaB47BB6E9f",
+      "symbol": "EDOGE",
+      "name": "ElonDogeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 53,
+    "minor": 54,
     "patch": 38
   }
 }
