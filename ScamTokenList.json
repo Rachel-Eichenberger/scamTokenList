@@ -87461,11 +87461,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD43fd77b143A42987be854fdE6Dbb6a482Ed8F2D",
+      "symbol": "GALAXYBAR",
+      "name": "GALAXYBARBARIAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 54,
+    "minor": 55,
     "patch": 38
   }
 }
