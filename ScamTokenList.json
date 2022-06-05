@@ -87879,11 +87879,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDdB6241F371C2731B4e4A91E0879276A23c94fc5",
+      "symbol": "MATSUYAMA",
+      "name": "MirrorofSouls",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 84,
+    "minor": 85,
     "patch": 39
   }
 }
