@@ -87681,11 +87681,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD91ED983DAed3cD8F5a6aC0448B94b82B832096a",
+      "symbol": "4HORSEMAN",
+      "name": "TheApocalypse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 74,
+    "minor": 75,
     "patch": 38
   }
 }
