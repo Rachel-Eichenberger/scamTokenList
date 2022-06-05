@@ -87725,11 +87725,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2593646780F543D6b2E90a8185d14697496BB735",
+      "symbol": "MARLEYS",
+      "name": "BlueMarleys",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 78,
+    "minor": 79,
     "patch": 38
   }
 }
