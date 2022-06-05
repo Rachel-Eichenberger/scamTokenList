@@ -87714,11 +87714,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC74d48A1645c5DaA29B8a901b86B5A34BcACDF9E",
+      "symbol": "SOLGALEO",
+      "name": "SolgaleoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 77,
+    "minor": 78,
     "patch": 38
   }
 }
