@@ -87703,11 +87703,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd10B13c4175CAa519Ff3Cdbe9CF83236EF024Aca",
+      "symbol": "TENT",
+      "name": "SmartChainRental",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 76,
+    "minor": 77,
     "patch": 38
   }
 }
