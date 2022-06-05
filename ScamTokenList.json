@@ -87384,11 +87384,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB19118Fd6b67b31b7084621D934E331dB44f2227",
+      "symbol": "ANUBIS",
+      "name": "AnubisInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 47,
+    "minor": 48,
     "patch": 38
   }
 }
