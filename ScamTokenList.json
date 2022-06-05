@@ -87406,11 +87406,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf03F2e97E8E9Ef75FdE13A50189D0ac92804cB1a",
+      "symbol": "KJMA",
+      "name": "KAIJUMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 49,
+    "minor": 50,
     "patch": 38
   }
 }
