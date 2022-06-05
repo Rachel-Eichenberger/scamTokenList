@@ -87670,11 +87670,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21CA33520bd1D3682f27296c55e93DEf8FeeF26C",
+      "symbol": "EYESOFHUMAN",
+      "name": "EyesOfHumanity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 73,
+    "minor": 74,
     "patch": 38
   }
 }
