@@ -87604,11 +87604,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55160dA707C007B34676BbE1b14B468cDE94f7c5",
+      "symbol": "OROCHI",
+      "name": "OrochiOnePunchMan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 67,
+    "minor": 68,
     "patch": 38
   }
 }
