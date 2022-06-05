@@ -87505,11 +87505,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ef2b30756E215e8BFD82298dbaC784D3541bDf6",
+      "symbol": "SADY",
+      "name": "SadyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 40,
-    "minor": 58,
+    "minor": 59,
     "patch": 38
   }
 }
