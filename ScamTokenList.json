@@ -88132,11 +88132,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB3D18bA72E3C7e4275c40618537A9cA40e6a855",
+      "symbol": "PIKAPOOL",
+      "name": "PikaPool",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 7,
+    "minor": 8,
     "patch": 40
   }
 }
