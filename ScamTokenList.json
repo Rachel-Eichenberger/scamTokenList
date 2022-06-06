@@ -88154,11 +88154,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E0E22e2492cc24e5e2c5408701594736edC4A3C",
+      "symbol": "DITTO",
+      "name": "DittoSniper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 9,
+    "minor": 10,
     "patch": 40
   }
 }
