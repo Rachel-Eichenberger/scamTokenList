@@ -88165,11 +88165,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3726660779bAFf5E93CA4063A30e63eE12B719d8",
+      "symbol": "HERCULES",
+      "name": "Hercules",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 10,
+    "minor": 11,
     "patch": 40
   }
 }
