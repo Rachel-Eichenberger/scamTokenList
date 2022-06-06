@@ -88363,11 +88363,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2935cf748c6669ADD1194B7B3F445f4B5F1b7496",
+      "symbol": "PAW",
+      "name": "AHuntersFriend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 28,
+    "minor": 29,
     "patch": 40
   }
 }
