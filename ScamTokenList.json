@@ -88275,11 +88275,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7EC1916b6948e0B66e20d9ABaa0A1EE0A6d5CC07",
+      "symbol": "CROW",
+      "name": "Carrion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 20,
+    "minor": 21,
     "patch": 40
   }
 }
