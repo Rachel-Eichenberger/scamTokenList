@@ -88088,11 +88088,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf535b98e6dA774964a51A6676Ce4Cb7D4BF1F6d",
+      "symbol": "MOHAI",
+      "name": "EasterIsland",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 3,
+    "minor": 4,
     "patch": 40
   }
 }
