@@ -87989,11 +87989,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb54cb3759E30af577752BC0DAAD24D765CD22d96",
+      "symbol": "I",
+      "name": "AdulthoodsBeginning",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 94,
+    "minor": 95,
     "patch": 39
   }
 }
