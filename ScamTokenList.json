@@ -87967,11 +87967,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7f29158B6cAE18297fd104915820d217D6A9f5F",
+      "symbol": "OVERLORD",
+      "name": "TheOverlordProject",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 92,
+    "minor": 93,
     "patch": 39
   }
 }
