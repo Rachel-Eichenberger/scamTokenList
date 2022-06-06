@@ -88022,11 +88022,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9606325A34e876e883790E01d1fC7262C206cAe",
+      "symbol": "QR",
+      "name": "QR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 97,
+    "minor": 98,
     "patch": 39
   }
 }
