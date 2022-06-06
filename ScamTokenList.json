@@ -88176,11 +88176,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb66BFf218444c46dfE7eF73F1B46f461b6Ab54b",
+      "symbol": "TENT",
+      "name": "SmartChainRental",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 11,
+    "minor": 12,
     "patch": 40
   }
 }
