@@ -88099,11 +88099,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD215153E713C92306363B97717c6Ea895D38461F",
+      "symbol": "MOONINGINU",
+      "name": "MooningInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 4,
+    "minor": 5,
     "patch": 40
   }
 }
