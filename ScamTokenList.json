@@ -88033,11 +88033,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6826f113922c4e862D111119b8E6eeB291aE31eB",
+      "symbol": "SHIBM",
+      "name": "ShibamaruINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 98,
+    "minor": 99,
     "patch": 39
   }
 }
