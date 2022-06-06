@@ -88198,11 +88198,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46471B207CE7C89cA3fD8509742920e568328c3C",
+      "symbol": "SHIBOSHIINU",
+      "name": "ShiboShinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 13,
+    "minor": 14,
     "patch": 40
   }
 }
