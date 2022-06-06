@@ -87945,11 +87945,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1831E110B02DCF48898c41711b631C002FC4e14B",
+      "symbol": "GT",
+      "name": "GoldenTimer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 90,
+    "minor": 91,
     "patch": 39
   }
 }
