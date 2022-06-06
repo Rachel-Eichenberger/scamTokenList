@@ -88297,11 +88297,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c4A49567Cf002A99941cb19C973E794c04B8c30",
+      "symbol": "BBT",
+      "name": "BigBankTheory",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 22,
+    "minor": 23,
     "patch": 40
   }
 }
