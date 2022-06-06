@@ -88308,11 +88308,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95a703981f34DAfE7B320464Ee24A82c6c286bAB",
+      "symbol": "APEFATHER",
+      "name": "TheCryptoEmpire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 23,
+    "minor": 24,
     "patch": 40
   }
 }
