@@ -88374,11 +88374,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2D6ba442D231EA00F4562D8272951B83168cFE7",
+      "symbol": "SAVEOURSOULS",
+      "name": "SaveOurSouls",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 29,
+    "minor": 30,
     "patch": 40
   }
 }
