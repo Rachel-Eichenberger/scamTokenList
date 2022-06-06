@@ -87904,21 +87904,10 @@
     },
     {
       "chainId": 1,
-      "address": "0xd7CA1a37D91deDfcbc0741629E0fa9C877dCcbBf",
-      "symbol": "EDEN",
-      "name": "TheFall",
+      "address": "0x4cd4441F169e472dD7EA462167bA93180b6E6074",
+      "symbol": "CHAIN",
+      "name": "CUREChain",
       "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0xA384176De2A4B32fCB6B8166D849CFa16678c92f",
-      "symbol": "ONIK",
-      "name": "Onikuma",
-      "decimals": 18,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
         "scam"
@@ -87927,7 +87916,7 @@
   ],
   "version": {
     "major": 41,
-    "minor": 88,
+    "minor": 87,
     "patch": 39
   }
 }
