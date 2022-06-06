@@ -88066,11 +88066,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBc5e5AE20BcAd214A9a9485AF3328A3fB8162E03",
+      "symbol": "COMMUNITY",
+      "name": "Community",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 1,
+    "minor": 2,
     "patch": 40
   }
 }
