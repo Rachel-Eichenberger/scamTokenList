@@ -88011,11 +88011,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04b88dD5853993Ff33194BBc9c36cC1bCF899658",
+      "symbol": "ALEXANDRIA",
+      "name": "TheGreatLibrary",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 96,
+    "minor": 97,
     "patch": 39
   }
 }
