@@ -87912,11 +87912,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d4F48f86AdcEA095c80cA90f705B8E33DA44EB4",
+      "symbol": "SHENOBI",
+      "name": "SheisaShinobi",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 87,
+    "minor": 88,
     "patch": 39
   }
 }
