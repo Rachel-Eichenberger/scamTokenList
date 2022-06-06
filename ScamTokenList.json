@@ -88077,11 +88077,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f49CCc18A359B6FBAF59e33AE30f0cc64fbea5c",
+      "symbol": "TOLP",
+      "name": "TheOneLeggedPigeon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 2,
+    "minor": 3,
     "patch": 40
   }
 }
