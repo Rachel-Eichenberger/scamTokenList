@@ -88385,11 +88385,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0FA50612c1982269c07fbB57b7Aca109048Fa62",
+      "symbol": "RYUDAO",
+      "name": "DragonDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 30,
+    "minor": 31,
     "patch": 40
   }
 }
