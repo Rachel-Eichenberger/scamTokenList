@@ -88319,11 +88319,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xadd539d4a494BCCDEEc7C0ba47457F7B4D299320",
+      "symbol": "WIND",
+      "name": "TheWindBlows",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 24,
+    "minor": 25,
     "patch": 40
   }
 }
