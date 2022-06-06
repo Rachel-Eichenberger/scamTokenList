@@ -88110,11 +88110,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEba36fe658B40C21A09B7C4F4407cfc0eBcc6d0E",
+      "symbol": "BABYSHIT",
+      "name": "BabyShitCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 5,
+    "minor": 6,
     "patch": 40
   }
 }
