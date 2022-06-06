@@ -88000,11 +88000,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6707a3ab900725F29c77B5f1E20644FA5B951B1E",
+      "symbol": "WARMACHINE",
+      "name": "WarMachine",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 41,
-    "minor": 95,
+    "minor": 96,
     "patch": 39
   }
 }
