@@ -88253,11 +88253,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6ced6eBf9720b5c8253a139176b61774C738e1F",
+      "symbol": "ATLAS",
+      "name": "Atlas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 18,
+    "minor": 19,
     "patch": 40
   }
 }
