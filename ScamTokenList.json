@@ -88121,11 +88121,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2EcB7C7F30D8c6a36014e58e29C5F4388991c277",
+      "symbol": "SHIZA",
+      "name": "Shiza",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 6,
+    "minor": 7,
     "patch": 40
   }
 }
