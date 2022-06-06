@@ -88209,11 +88209,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1C3fEde515EB3d209a0c72B330013c883157061",
+      "symbol": "MA",
+      "name": "MoonAstra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 14,
+    "minor": 15,
     "patch": 40
   }
 }
