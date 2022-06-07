@@ -88737,11 +88737,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B15058d8A0dBE5DAeE9B10Ec81f80E183A0467B",
+      "symbol": "WIND",
+      "name": "TheWindBlows",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 62,
+    "minor": 63,
     "patch": 40
   }
 }
