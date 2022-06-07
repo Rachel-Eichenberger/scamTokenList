@@ -88638,11 +88638,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fb510D2dFB043193b66F919CaEd3331A64b4619",
+      "symbol": "ENNEAD",
+      "name": "ENNEAD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 53,
+    "minor": 54,
     "patch": 40
   }
 }
