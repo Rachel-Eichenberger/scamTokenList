@@ -88682,11 +88682,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x980a64e33e4C5cC6D5179e00e4606839aE7Bf94b",
+      "symbol": "PON",
+      "name": "PONPU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 57,
+    "minor": 58,
     "patch": 40
   }
 }
