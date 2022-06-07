@@ -88440,11 +88440,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xABa4200fE2f9a3264a62c25c8168d8D98297C460",
+      "symbol": "SHIBNU",
+      "name": "ShibNaruto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 35,
+    "minor": 36,
     "patch": 40
   }
 }
