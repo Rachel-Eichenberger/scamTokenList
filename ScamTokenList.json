@@ -88616,11 +88616,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8abb2230c990EC8765a950bc05e7751afDCd34B",
+      "symbol": "C2E2",
+      "name": "C2E2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 51,
+    "minor": 52,
     "patch": 40
   }
 }
