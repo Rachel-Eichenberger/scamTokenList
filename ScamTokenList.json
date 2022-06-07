@@ -88649,11 +88649,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54b0e349D8Ee1F1B17f561F026053afeb7820BAb",
+      "symbol": "LUMMIS",
+      "name": "CynthiaMLummis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 54,
+    "minor": 55,
     "patch": 40
   }
 }
