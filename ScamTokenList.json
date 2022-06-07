@@ -88726,11 +88726,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA316099347A76F2A548942E7B667eD239C59053",
+      "symbol": "PHAZA",
+      "name": "Pharaoza",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 61,
+    "minor": 62,
     "patch": 40
   }
 }
