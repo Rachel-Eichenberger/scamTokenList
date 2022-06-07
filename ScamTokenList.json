@@ -88715,11 +88715,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x671f56e2534458067A02944288a08ff303Bd8D38",
+      "symbol": "LOTTI",
+      "name": "LottiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 60,
+    "minor": 61,
     "patch": 40
   }
 }
