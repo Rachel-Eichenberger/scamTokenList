@@ -88704,11 +88704,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAA41C3946D34E3b31C3f520D2e24175fc5731529",
+      "symbol": "SHIBGIZA",
+      "name": "ShibaGiza",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 59,
+    "minor": 60,
     "patch": 40
   }
 }
