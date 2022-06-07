@@ -88605,11 +88605,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E2765449DB48b2f31eb584f39074F6545056d72",
+      "symbol": "BULLHORN",
+      "name": "BULLHORN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 50,
+    "minor": 51,
     "patch": 40
   }
 }
