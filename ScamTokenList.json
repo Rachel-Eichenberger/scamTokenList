@@ -88462,11 +88462,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90c23bBD876a0A3b7f4dbeCc4f5F3a1D930e5AC0",
+      "symbol": "XC",
+      "name": "XenobladeChronicles",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 37,
+    "minor": 38,
     "patch": 40
   }
 }
