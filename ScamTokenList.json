@@ -88495,11 +88495,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96BCA2ff6cde3AC03d0F610CE6423B1B816C151d",
+      "symbol": "DAVINCI",
+      "name": "DAVINCI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 40,
+    "minor": 41,
     "patch": 40
   }
 }
