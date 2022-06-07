@@ -88671,11 +88671,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83902ee6DFbBa839B80dd4406a63F256872C3517",
+      "symbol": "VOLTAMA",
+      "name": "VOLTAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 56,
+    "minor": 57,
     "patch": 40
   }
 }
