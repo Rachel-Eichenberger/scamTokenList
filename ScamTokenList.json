@@ -88594,11 +88594,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd887104B24DDD6AF99ac5193a30905973f8b4C05",
+      "symbol": "8KINU",
+      "name": "8KINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 49,
+    "minor": 50,
     "patch": 40
   }
 }
