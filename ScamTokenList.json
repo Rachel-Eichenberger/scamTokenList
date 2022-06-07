@@ -88583,11 +88583,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4798b6E5Ab6224D55eC5706e29ebae95BbA8FA2",
+      "symbol": "GUST",
+      "name": "TheGustSweeps",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 48,
+    "minor": 49,
     "patch": 40
   }
 }
