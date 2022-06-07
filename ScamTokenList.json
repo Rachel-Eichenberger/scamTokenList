@@ -88550,11 +88550,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa944418A1403986ebA4AFFECB02e4bA3Cb485280",
+      "symbol": "NARUTAKI",
+      "name": "Narutaki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 45,
+    "minor": 46,
     "patch": 40
   }
 }
