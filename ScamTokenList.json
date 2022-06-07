@@ -88693,11 +88693,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAc2F0Bd7f4FafBaa77cc742d658ED78DB38DDc3a",
+      "symbol": "DEARCRYPTO",
+      "name": "dearcrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 58,
+    "minor": 59,
     "patch": 40
   }
 }
