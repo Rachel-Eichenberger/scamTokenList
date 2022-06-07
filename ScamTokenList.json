@@ -88451,11 +88451,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B14a4d7a561B924C76E8a356727a5dcCBDfB38F",
+      "symbol": "WPC",
+      "name": "WorldPopulationCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 36,
+    "minor": 37,
     "patch": 40
   }
 }
