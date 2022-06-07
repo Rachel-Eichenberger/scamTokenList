@@ -88572,11 +88572,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x033E2260DfAa31382b98dD9FFceaE93a68284c5B",
+      "symbol": "DWARF",
+      "name": "DwarfInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 47,
+    "minor": 48,
     "patch": 40
   }
 }
