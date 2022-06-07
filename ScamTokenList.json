@@ -88660,11 +88660,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E69953D2624927f11b190Ba1bA9218baE91d1F1",
+      "symbol": "ZFG",
+      "name": "ZeroFvcksGiven",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 55,
+    "minor": 56,
     "patch": 40
   }
 }
