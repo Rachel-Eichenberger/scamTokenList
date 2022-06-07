@@ -88418,11 +88418,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C297021ff013DFB9D45c88dbD8e24A3E61040B3",
+      "symbol": "SAITAMAV2",
+      "name": "SaitamaV2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 33,
+    "minor": 34,
     "patch": 40
   }
 }
