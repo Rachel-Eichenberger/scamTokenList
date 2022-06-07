@@ -88561,11 +88561,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f28fa1ce0461Cc60724Fb2eb46F0AA611a11a31",
+      "symbol": "ANT",
+      "name": "Adyingnobody",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 46,
+    "minor": 47,
     "patch": 40
   }
 }
