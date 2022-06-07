@@ -88528,11 +88528,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8FdC6FEc5E33b26aa47C0837CCC2a929A5D794a2",
+      "symbol": "QOMX",
+      "name": "QOMChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 43,
+    "minor": 44,
     "patch": 40
   }
 }
