@@ -88517,11 +88517,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39d6F8aa2AAEe4792dA64c6a6a3e82fF0e13A2b1",
+      "symbol": "GUZZI",
+      "name": "GUZZI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 42,
+    "minor": 43,
     "patch": 40
   }
 }
