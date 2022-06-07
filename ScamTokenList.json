@@ -88748,11 +88748,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE44465a0EA65Cf327dBcC7DB9Ef91ac177Cfa097",
+      "symbol": "NOBODY",
+      "name": "Nobody",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 63,
+    "minor": 64,
     "patch": 40
   }
 }
