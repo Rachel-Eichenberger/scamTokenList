@@ -88484,11 +88484,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f67E44f842a184Ac79D595386924EEf06ba971b",
+      "symbol": "GAMAYUN",
+      "name": "GAMAYUN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 39,
+    "minor": 40,
     "patch": 40
   }
 }
