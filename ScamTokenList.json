@@ -88407,11 +88407,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70aC29146633030Da2989c913e7464bFccf57aCB",
+      "symbol": "CCC",
+      "name": "Cocainecoke",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 32,
+    "minor": 33,
     "patch": 40
   }
 }
