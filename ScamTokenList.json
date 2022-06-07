@@ -88627,11 +88627,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa70a1f3C439f76157d798f79fDa4a1948E51c94d",
+      "symbol": "WOOF",
+      "name": "WoofWoof",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 52,
+    "minor": 53,
     "patch": 40
   }
 }
