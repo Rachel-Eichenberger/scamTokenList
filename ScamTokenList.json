@@ -88429,11 +88429,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F8a0A24d8a59B5E519a858EAA3586Dcc03C5E4d",
+      "symbol": "NAME",
+      "name": "NAME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 34,
+    "minor": 35,
     "patch": 40
   }
 }
