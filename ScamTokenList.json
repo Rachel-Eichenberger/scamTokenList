@@ -89155,11 +89155,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14B46D127D553d078A40dDF70A00d920C8214094",
+      "symbol": "SHUCKS",
+      "name": "ShitBucks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 0,
+    "minor": 1,
     "patch": 41
   }
 }
