@@ -88803,11 +88803,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb215809b56324851210d2408d503dc3277788c2b",
+      "symbol": "ECHO",
+      "name": "EchoNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 68,
+    "minor": 69,
     "patch": 40
   }
 }
