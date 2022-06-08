@@ -89078,11 +89078,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78207918bF65890Edcd330096EFFD330dfd7307c",
+      "symbol": "SAICHAN",
+      "name": "SAITAMACHAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 93,
+    "minor": 94,
     "patch": 40
   }
 }
