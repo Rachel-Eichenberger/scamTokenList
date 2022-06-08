@@ -89023,11 +89023,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x442a64993434b75C9549Ea0D6943CDCC63793173",
+      "symbol": "SKELESON",
+      "name": "Skeleson",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 88,
+    "minor": 89,
     "patch": 40
   }
 }
