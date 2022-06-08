@@ -89144,11 +89144,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D66c6a2E0b8c8F306C3b21Ad3CE9bAA6B36b998",
+      "symbol": "YINYANGINU",
+      "name": "YINYANGINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 42,
-    "minor": 99,
-    "patch": 40
+    "major": 43,
+    "minor": 0,
+    "patch": 41
   }
 }
