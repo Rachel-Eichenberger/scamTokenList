@@ -88891,11 +88891,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf697684e5425433CD704DBDCEFe22DE82781FF6E",
+      "symbol": "MEOOOW",
+      "name": "MEOOOW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 76,
+    "minor": 77,
     "patch": 40
   }
 }
