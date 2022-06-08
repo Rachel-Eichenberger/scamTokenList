@@ -88913,11 +88913,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xadd65C4D97B199b860f0Bc8faA158dC3525020dE",
+      "symbol": "TIWI",
+      "name": "TiwiIToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 78,
+    "minor": 79,
     "patch": 40
   }
 }
