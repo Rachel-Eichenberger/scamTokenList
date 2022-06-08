@@ -89001,11 +89001,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA103E5aCc93BAA3e0c4113E3cBe0633bf099829",
+      "symbol": "EXO",
+      "name": "Exoticsy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 86,
+    "minor": 87,
     "patch": 40
   }
 }
