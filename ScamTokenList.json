@@ -89034,11 +89034,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7D8E9DB3b56E7764EffEA6B7C84eA55d03DfA1c",
+      "symbol": "COLONY",
+      "name": "ANewHope",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 89,
+    "minor": 90,
     "patch": 40
   }
 }
