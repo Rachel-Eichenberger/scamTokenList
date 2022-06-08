@@ -89122,11 +89122,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D9F3d2D2a6FBfFe0e4eAeB2F9eF9c194691cd07",
+      "symbol": "PEPE",
+      "name": "PepePride",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x024e246c45012448982956795897229cD64831E9",
+      "symbol": "CIT",
+      "name": "Chinatown",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 97,
+    "minor": 99,
     "patch": 40
   }
 }
