@@ -89045,11 +89045,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FD0Fdc27Ce1CD5b93005CdDb8294Cbf337332d4",
+      "symbol": "SHIBPA",
+      "name": "Shibpa",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 90,
+    "minor": 91,
     "patch": 40
   }
 }
