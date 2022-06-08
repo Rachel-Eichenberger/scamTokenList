@@ -89100,11 +89100,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F093E9D0D8b4BE9922e142013d983706aFF9E23",
+      "symbol": "HINU",
+      "name": "HomelessInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 95,
+    "minor": 96,
     "patch": 40
   }
 }
