@@ -88770,11 +88770,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF94e7fD6969Eac0A010ca9997549539c84C78031",
+      "symbol": "NEST",
+      "name": "Nest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 65,
+    "minor": 66,
     "patch": 40
   }
 }
