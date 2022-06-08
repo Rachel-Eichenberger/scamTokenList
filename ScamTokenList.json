@@ -88957,11 +88957,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdDB04Ab1eFD8BCB6390758344df705eF22551CE7",
+      "symbol": "BSHIT",
+      "name": "BabyShitCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 82,
+    "minor": 83,
     "patch": 40
   }
 }
