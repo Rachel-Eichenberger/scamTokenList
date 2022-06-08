@@ -88781,11 +88781,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe431B9aaCd61c897dEC2F19Aa5cb69308d405eCe",
+      "symbol": "SYFR",
+      "name": "SCYFER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 66,
+    "minor": 67,
     "patch": 40
   }
 }
