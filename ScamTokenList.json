@@ -89067,11 +89067,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70285990dbc5b3CD59A0374708666C40bE34D767",
+      "symbol": "SHITOILET",
+      "name": "ShitToilet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 92,
+    "minor": 93,
     "patch": 40
   }
 }
