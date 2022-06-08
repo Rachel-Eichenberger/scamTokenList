@@ -89089,11 +89089,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47380BdCF2c95Ab2447eb4440e60ee282275e3eA",
+      "symbol": "OME",
+      "name": "Hansame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 94,
+    "minor": 95,
     "patch": 40
   }
 }
