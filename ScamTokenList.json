@@ -89012,11 +89012,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50C8594B3c1e4C4321C89ab1687Ca48Ac2987aBd",
+      "symbol": "SHIT",
+      "name": "ShitCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 87,
+    "minor": 88,
     "patch": 40
   }
 }
