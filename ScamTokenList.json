@@ -88990,11 +88990,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0754A90049d39ac82244925Ac67f13EC464a5f31",
+      "symbol": "CHAD",
+      "name": "WORLDOFCHAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 85,
+    "minor": 86,
     "patch": 40
   }
 }
