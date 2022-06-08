@@ -88979,11 +88979,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2295b60acFC2A35f860b5163aE9B7ce5eeB47c7",
+      "symbol": "MK",
+      "name": "MoonKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 84,
+    "minor": 85,
     "patch": 40
   }
 }
