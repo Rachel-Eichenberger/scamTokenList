@@ -88935,11 +88935,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80EaC3e93007C02A4c236b21314Ee711790b8A65",
+      "symbol": "O",
+      "name": "E8",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 80,
+    "minor": 81,
     "patch": 40
   }
 }
