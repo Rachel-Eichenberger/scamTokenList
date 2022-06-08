@@ -88902,11 +88902,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55F5C6f198f3C2df6A8C83b10bDE0f6C9eB2B527",
+      "symbol": "SHIT20",
+      "name": "ShittiestCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 77,
+    "minor": 78,
     "patch": 40
   }
 }
