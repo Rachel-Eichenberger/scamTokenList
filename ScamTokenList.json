@@ -88825,11 +88825,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x069fa9CF588516bfBcDB2Bf39EA058491344d5a1",
+      "symbol": "BLOSSOM",
+      "name": "BlossomedCalamity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 70,
+    "minor": 71,
     "patch": 40
   }
 }
