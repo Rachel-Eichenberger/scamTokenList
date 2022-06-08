@@ -88792,11 +88792,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x241D950bBB5C0cBdFBF0424f6968180E1B42257f",
+      "symbol": "YORINU",
+      "name": "YorInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 42,
-    "minor": 67,
+    "minor": 68,
     "patch": 40
   }
 }
