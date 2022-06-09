@@ -90222,11 +90222,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31C355792BA5bff7f0319470D6caE90CB98Fb356",
+      "symbol": "ISEETHINGS",
+      "name": "SCHIZO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 47,
+    "minor": 48,
     "patch": 41
   }
 }
