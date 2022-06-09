@@ -89529,11 +89529,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40293656f5d0D4d811fA6Ef30FC30042475494d3",
+      "symbol": "CLOUD",
+      "name": "CLOUDDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 34,
+    "minor": 35,
     "patch": 41
   }
 }
