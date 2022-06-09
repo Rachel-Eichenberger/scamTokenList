@@ -89408,11 +89408,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62b71cc154CB52A2260582D1837958eE3bD0f611",
+      "symbol": "YUNO",
+      "name": "YUNO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 23,
+    "minor": 24,
     "patch": 41
   }
 }
