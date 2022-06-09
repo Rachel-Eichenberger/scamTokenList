@@ -89221,11 +89221,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x014d9917Ec9adbDB8B0631e6978a3f7FB1bE9b42",
+      "symbol": "RITE",
+      "name": "ADruidsRitual",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 6,
+    "minor": 7,
     "patch": 41
   }
 }
