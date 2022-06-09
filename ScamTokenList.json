@@ -89210,11 +89210,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68486e75E65e4fc96C024bB7f195957D8943ecf4",
+      "symbol": "SHITAMA",
+      "name": "ShittyMushroom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 5,
+    "minor": 6,
     "patch": 41
   }
 }
