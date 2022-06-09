@@ -90233,11 +90233,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF12742b136CFcCFc23E9673BDB31b68B656558E",
+      "symbol": "DONTTELL",
+      "name": "OurLittleSecret",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 48,
+    "minor": 49,
     "patch": 41
   }
 }
