@@ -89276,11 +89276,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4D327427C6e339369d2281211ccE5535BF37f85",
+      "symbol": "HAMSA",
+      "name": "APsalmofLife",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 11,
+    "minor": 12,
     "patch": 41
   }
 }
