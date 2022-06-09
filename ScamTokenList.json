@@ -89617,11 +89617,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18d20a9FD597BF1BBA87c26c3DB6C24232aBE91f",
+      "symbol": "MACHINE",
+      "name": "TheMachine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 42,
+    "minor": 43,
     "patch": 41
   }
 }
