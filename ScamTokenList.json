@@ -89573,11 +89573,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xecFC2DB13958c9c02bC8AeD879393ABdb399b881",
+      "symbol": "BICHON",
+      "name": "BichonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 38,
+    "minor": 39,
     "patch": 41
   }
 }
