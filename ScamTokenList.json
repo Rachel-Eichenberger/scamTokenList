@@ -89177,11 +89177,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b0c43ED8600BFACA21230B51e4db468Bc68D063",
+      "symbol": "TENDIESINU",
+      "name": "TendiesInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 2,
+    "minor": 3,
     "patch": 41
   }
 }
