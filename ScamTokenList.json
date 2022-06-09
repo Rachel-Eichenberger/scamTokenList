@@ -89606,11 +89606,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65ded4c951E9a20cdBbf4B8A6536e5027D391Fe4",
+      "symbol": "CRDAO",
+      "name": "CrazyRichDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 41,
+    "minor": 42,
     "patch": 41
   }
 }
