@@ -89540,11 +89540,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b0704951239577c63B47DEb6A8508Db84C253ef",
+      "symbol": "LUNA",
+      "name": "TerraCiassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 35,
+    "minor": 36,
     "patch": 41
   }
 }
