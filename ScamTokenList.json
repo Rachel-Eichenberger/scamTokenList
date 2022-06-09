@@ -89188,11 +89188,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D0F7B174a568C769e6dBaA76ABD4145d338E70F",
+      "symbol": "RSC",
+      "name": "RaveniteSocialClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 3,
+    "minor": 4,
     "patch": 41
   }
 }
