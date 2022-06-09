@@ -89397,11 +89397,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1B9608e184672f4E76A24D293aF71B4EFD2b239",
+      "symbol": "BONE20",
+      "name": "BONESHIBASWAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 22,
+    "minor": 23,
     "patch": 41
   }
 }
