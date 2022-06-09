@@ -89375,11 +89375,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b34dD299adfE2cB704831D07E09C6fCc0243b23",
+      "symbol": "TROLLTOWN",
+      "name": "trolltown",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 20,
+    "minor": 21,
     "patch": 41
   }
 }
