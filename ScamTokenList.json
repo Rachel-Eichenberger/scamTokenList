@@ -89298,11 +89298,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2cE2ceD9E1937D832fA40a3bbefd6889C7eC419",
+      "symbol": "SHITNU",
+      "name": "ShitcoinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 13,
+    "minor": 14,
     "patch": 41
   }
 }
