@@ -89309,11 +89309,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0024e74a336fcBf03F27B418C10Da1Fa89f7C50d",
+      "symbol": "VOLTV3",
+      "name": "VOLTV3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 14,
+    "minor": 15,
     "patch": 41
   }
 }
