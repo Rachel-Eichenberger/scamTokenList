@@ -90211,11 +90211,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE68bd4705011F032d5F5488cAE6cCd7AE0eE3Aa4",
+      "symbol": "RHODES",
+      "name": "COLOSSUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 46,
+    "minor": 47,
     "patch": 41
   }
 }
