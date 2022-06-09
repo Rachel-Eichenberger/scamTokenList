@@ -89463,11 +89463,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B01725430f93B419c6D2a4b97305B29D04F8D41",
+      "symbol": "FREETAX",
+      "name": "FreeTax",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 28,
+    "minor": 29,
     "patch": 41
   }
 }
