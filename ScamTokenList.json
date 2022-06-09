@@ -89254,11 +89254,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF58F85d57EBAB6606982F8e3E57B4769d5d295F2",
+      "symbol": "KIYOSHI",
+      "name": "TheIronHeart",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 9,
+    "minor": 10,
     "patch": 41
   }
 }
