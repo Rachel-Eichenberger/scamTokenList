@@ -89551,11 +89551,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c43afA8B483C74CB417338a0f87dc2adDA7cDf4",
+      "symbol": "SHIBAPE",
+      "name": "SHIBAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 36,
+    "minor": 37,
     "patch": 41
   }
 }
