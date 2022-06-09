@@ -89419,11 +89419,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeD9535442796AD645398d29472868e3FFB9c7158",
+      "symbol": "GAMI",
+      "name": "InugamiWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 24,
+    "minor": 25,
     "patch": 41
   }
 }
