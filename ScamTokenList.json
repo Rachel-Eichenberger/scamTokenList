@@ -89496,11 +89496,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52441AFa80Cd3A6b44C76ec3e8ADFE0f34CE5E9A",
+      "symbol": "BOS",
+      "name": "BankofShit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 31,
+    "minor": 32,
     "patch": 41
   }
 }
