@@ -89364,11 +89364,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d2616CB81ab867C7Aa59A556F730e3E2d97473f",
+      "symbol": "RIPDK",
+      "name": "RIPDoKwon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 19,
+    "minor": 20,
     "patch": 41
   }
 }
