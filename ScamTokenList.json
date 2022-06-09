@@ -89628,11 +89628,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04487444B2d3AdF07f4B8F55Dae9ff27C94a5AFd",
+      "symbol": "V",
+      "name": "Verdun",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 43,
+    "minor": 44,
     "patch": 41
   }
 }
