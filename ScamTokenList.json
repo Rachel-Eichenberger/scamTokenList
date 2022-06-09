@@ -89441,11 +89441,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x798eeCEb41a75697cC880CAcc14559470E9287C5",
+      "symbol": "SPACECITIZEN",
+      "name": "SpaceCitizen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 26,
+    "minor": 27,
     "patch": 41
   }
 }
