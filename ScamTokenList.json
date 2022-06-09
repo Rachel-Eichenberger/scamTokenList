@@ -90244,11 +90244,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAFCEe97c34F8410bb7eCE1E373F3126617e48241",
+      "symbol": "INDY",
+      "name": "TechnicallySpeaking",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 49,
+    "minor": 50,
     "patch": 41
   }
 }
