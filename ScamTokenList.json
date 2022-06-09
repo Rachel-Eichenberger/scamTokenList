@@ -89584,11 +89584,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9C2eF069Be8A03bfD41De8758FA770eC29898CD",
+      "symbol": "TWOPEARL",
+      "name": "TwoPearl",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 39,
+    "minor": 40,
     "patch": 41
   }
 }
