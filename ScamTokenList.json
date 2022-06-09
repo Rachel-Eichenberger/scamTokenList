@@ -89507,11 +89507,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66D045Fc82d94a32E9cB46296b8054ceFf84E628",
+      "symbol": "BEETLE",
+      "name": "BeetlejuiceGreen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 32,
+    "minor": 33,
     "patch": 41
   }
 }
