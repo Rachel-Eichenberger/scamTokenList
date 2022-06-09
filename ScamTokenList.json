@@ -89243,11 +89243,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ec8a1E2A8479c8C7A0809559CF74673960De4fB",
+      "symbol": "CRASH",
+      "name": "Crashinu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 8,
+    "minor": 9,
     "patch": 41
   }
 }
