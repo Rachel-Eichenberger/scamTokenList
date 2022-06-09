@@ -89485,11 +89485,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD36471f8519846c3e29987A2db221a6cBccA8d73",
+      "symbol": "BTM",
+      "name": "BackToMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 30,
+    "minor": 31,
     "patch": 41
   }
 }
