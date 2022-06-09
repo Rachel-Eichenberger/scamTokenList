@@ -90200,11 +90200,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDc4e535a0a9fE553E8B72019408aE57f950459c1",
+      "symbol": "ANNUITY",
+      "name": "Annuity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 45,
+    "minor": 46,
     "patch": 41
   }
 }
