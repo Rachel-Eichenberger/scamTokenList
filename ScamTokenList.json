@@ -89452,11 +89452,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6702997fb8EA08aE6874390692D1DbB3A654ad3E",
+      "symbol": "YUNO",
+      "name": "YUNO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 27,
+    "minor": 28,
     "patch": 41
   }
 }
