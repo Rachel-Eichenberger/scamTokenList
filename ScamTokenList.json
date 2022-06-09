@@ -89287,11 +89287,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84E73597fe9d21462CF7070fa364fa0F35ecD7ed",
+      "symbol": "BAABAA",
+      "name": "BAABAAToken",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 12,
+    "minor": 13,
     "patch": 41
   }
 }
