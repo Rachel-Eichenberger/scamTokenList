@@ -89562,11 +89562,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5E3afA22eb1AcB96A4f582BC9958fEADC8ae9A7",
+      "symbol": "BLISS",
+      "name": "BLISS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 37,
+    "minor": 38,
     "patch": 41
   }
 }
