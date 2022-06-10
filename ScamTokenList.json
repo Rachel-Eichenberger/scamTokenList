@@ -90519,11 +90519,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCea32A149D90BA5272Ff99a94CD7b491619AE80d",
+      "symbol": "WOODINU",
+      "name": "WOODINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 74,
+    "minor": 75,
     "patch": 41
   }
 }
