@@ -90508,11 +90508,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8B09D7036d9037b85D4947d62439A1c17C83132",
+      "symbol": "RVLT",
+      "name": "REVOLT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 73,
+    "minor": 74,
     "patch": 41
   }
 }
