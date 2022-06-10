@@ -90475,11 +90475,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a3A3B8812b0DF660106531348452EB1b27f9805",
+      "symbol": "7UP",
+      "name": "DustUp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 70,
+    "minor": 71,
     "patch": 41
   }
 }
