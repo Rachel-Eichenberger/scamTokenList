@@ -90277,11 +90277,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa822efa8f49E463F34b65C8DcAAF7a10a3626C9a",
+      "symbol": "FUCKER",
+      "name": "MotherFuckerCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 52,
+    "minor": 53,
     "patch": 41
   }
 }
