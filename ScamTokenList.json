@@ -90288,11 +90288,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a939B023900978C69BF2178F5F8B19F833e99d1",
+      "symbol": "PLUNA",
+      "name": "PrincessLuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 53,
+    "minor": 54,
     "patch": 41
   }
 }
