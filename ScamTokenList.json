@@ -90409,11 +90409,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3D645c84372Bd055F6c049aC7A17e18E00c7429",
+      "symbol": "DPUMP",
+      "name": "DonaldPump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 64,
+    "minor": 65,
     "patch": 41
   }
 }
