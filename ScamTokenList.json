@@ -90266,11 +90266,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB38EE3A61BdED43248aE04B9E08E34cAA9Cd9bA7",
+      "symbol": "MICROV",
+      "name": "MicroValidator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 51,
+    "minor": 52,
     "patch": 41
   }
 }
