@@ -90552,11 +90552,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51f46a4937B944f6643b9f3DE830E2e0B22518C3",
+      "symbol": "OOM",
+      "name": "OneOfMany",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 77,
+    "minor": 78,
     "patch": 41
   }
 }
