@@ -90398,11 +90398,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E9D9124596af6D8FaaeFc9B3e07b3cE397d34F7",
+      "symbol": "REIT",
+      "name": "REIToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 63,
+    "minor": 64,
     "patch": 41
   }
 }
