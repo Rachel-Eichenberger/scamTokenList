@@ -90442,11 +90442,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eb55E03e87E60C54232714119DF679ab2e386f1",
+      "symbol": "JADE",
+      "name": "JewelOfHeaven",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 67,
+    "minor": 68,
     "patch": 41
   }
 }
