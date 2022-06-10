@@ -90431,11 +90431,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A64D5E5637f592CB25ee81ecb53D1c1e0d374fe",
+      "symbol": "SHX",
+      "name": "Shxnobi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 66,
+    "minor": 67,
     "patch": 41
   }
 }
