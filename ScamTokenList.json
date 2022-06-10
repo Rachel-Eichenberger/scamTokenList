@@ -90486,11 +90486,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD88570675E9ecd40159545aa8c0ecC7b0Aa75b5",
+      "symbol": "CURSED",
+      "name": "BlackMagic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 71,
+    "minor": 72,
     "patch": 41
   }
 }
