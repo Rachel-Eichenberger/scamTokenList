@@ -90464,11 +90464,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x592B34d7047bDD2Eb9A79F373530351487Ed9C54",
+      "symbol": "OSEA",
+      "name": "Omnisea",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 69,
+    "minor": 70,
     "patch": 41
   }
 }
