@@ -90365,11 +90365,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0dcA75A9F205eBCB7E8408a6fc52010B3F9270b",
+      "symbol": "BOPEARL",
+      "name": "BankOfPearl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 60,
+    "minor": 61,
     "patch": 41
   }
 }
