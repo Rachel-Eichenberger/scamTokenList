@@ -90563,11 +90563,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD490eeeD715d08b35A7EFD5eFB28ac54aE6c430",
+      "symbol": "SPITZ",
+      "name": "SpitzInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 78,
+    "minor": 79,
     "patch": 41
   }
 }
