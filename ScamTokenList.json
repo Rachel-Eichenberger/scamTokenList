@@ -90387,11 +90387,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b76e6C0E6f5ACADD5e5aFeA21CD36Ab2f3F01e9",
+      "symbol": "BANKOFPEARL",
+      "name": "BankOfPearl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 62,
+    "minor": 63,
     "patch": 41
   }
 }
