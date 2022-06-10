@@ -90332,11 +90332,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE13DBebF5aE9bc2975aa9427B42b3Ab6f700b04",
+      "symbol": "GOBLIN",
+      "name": "GoblinBucks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 57,
+    "minor": 58,
     "patch": 41
   }
 }
