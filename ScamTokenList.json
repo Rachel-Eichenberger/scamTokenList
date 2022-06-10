@@ -90420,11 +90420,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F2c87555CB9702a0D1745359D5EbFb57e52717a",
+      "symbol": "BILLIONAIRE",
+      "name": "Billionaire",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 65,
+    "minor": 66,
     "patch": 41
   }
 }
