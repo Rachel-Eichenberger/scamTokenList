@@ -90497,11 +90497,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4007716CC04ABE49a220C8F9d3E9093Acf949325",
+      "symbol": "G4M",
+      "name": "THECHILDREN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 72,
+    "minor": 73,
     "patch": 41
   }
 }
