@@ -90827,11 +90827,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA473F33020158642B4621e3a6589C4dfA065d26A",
+      "symbol": "CELINU",
+      "name": "CELSIUSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 2,
+    "minor": 3,
     "patch": 42
   }
 }
