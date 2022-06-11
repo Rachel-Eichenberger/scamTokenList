@@ -90805,11 +90805,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34901b641ac50E2F327232d0d560C0E81aE9b76f",
+      "symbol": "SD",
+      "name": "SuperDouble",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 0,
+    "minor": 1,
     "patch": 42
   }
 }
