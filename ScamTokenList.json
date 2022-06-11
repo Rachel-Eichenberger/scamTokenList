@@ -90640,11 +90640,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DBDff0d8e8da7B30e38885531cfBfda8D4862D8",
+      "symbol": "MAS",
+      "name": "Master",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 85,
+    "minor": 86,
     "patch": 41
   }
 }
