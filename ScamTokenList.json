@@ -90860,11 +90860,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26bFF12f1144508F0b50aB10F372045D7160aE15",
+      "symbol": "CCELS",
+      "name": "NewCommunityCelsius",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 5,
+    "minor": 6,
     "patch": 42
   }
 }
