@@ -90893,11 +90893,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C621c98cbe8fa96dE547cD7C482957eD8C9F2Bf",
+      "symbol": "HIKRU",
+      "name": "HikruToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 8,
+    "minor": 9,
     "patch": 42
   }
 }
