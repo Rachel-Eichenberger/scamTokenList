@@ -90838,11 +90838,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46F247CA87C2a223660046A6B9DD5D564dfab050",
+      "symbol": "SEED",
+      "name": "SEEDPHRASE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 3,
+    "minor": 4,
     "patch": 42
   }
 }
