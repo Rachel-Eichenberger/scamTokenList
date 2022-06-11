@@ -90882,11 +90882,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2745FF266C73936b956A2B789d9661Ecd0B8Bc0",
+      "symbol": "WEB5",
+      "name": "WEB5",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 7,
+    "minor": 8,
     "patch": 42
   }
 }
