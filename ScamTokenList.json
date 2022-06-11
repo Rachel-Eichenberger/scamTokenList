@@ -90816,11 +90816,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA21C8991481987796A4112B34Aa3Fc542Ef8C729",
+      "symbol": "DIAMOND",
+      "name": "DiamondInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 1,
+    "minor": 2,
     "patch": 42
   }
 }
