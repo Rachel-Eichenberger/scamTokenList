@@ -90794,11 +90794,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49b24c99c02ac38105bf125978c83A71e2f293F5",
+      "symbol": "THEDEATH",
+      "name": "Thanatos",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 43,
-    "minor": 99,
-    "patch": 41
+    "major": 44,
+    "minor": 0,
+    "patch": 42
   }
 }
