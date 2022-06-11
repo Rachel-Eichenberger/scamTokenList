@@ -90618,11 +90618,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27C17e21b547a492372F104347C7eA2A1844C5cF",
+      "symbol": "LARP",
+      "name": "LarpInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 83,
+    "minor": 84,
     "patch": 41
   }
 }
