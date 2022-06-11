@@ -90849,11 +90849,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A538432BadEEb38ab5E144646Dd1463545793b9",
+      "symbol": "PEA",
+      "name": "EZPEAZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 4,
+    "minor": 5,
     "patch": 42
   }
 }
