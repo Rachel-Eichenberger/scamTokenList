@@ -90706,11 +90706,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b33bb33fAd95A3698A0009813A01Ec229B77212",
+      "symbol": "202",
+      "name": "TwoOfTwo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 91,
+    "minor": 92,
     "patch": 41
   }
 }
