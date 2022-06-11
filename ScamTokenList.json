@@ -90750,11 +90750,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x201EcC596D1Dc1A710B5E36a95148070B09792e3",
+      "symbol": "NIJI",
+      "name": "NinjiruInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 95,
+    "minor": 96,
     "patch": 41
   }
 }
