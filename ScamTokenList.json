@@ -90772,11 +90772,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fE61CA9F0190D3e4E9482EdaDB3A674e8Ea605C",
+      "symbol": "BLKFRI",
+      "name": "BlackFriday",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 97,
+    "minor": 98,
     "patch": 41
   }
 }
