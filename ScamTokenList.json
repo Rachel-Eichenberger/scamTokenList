@@ -90783,11 +90783,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE23F9c0da7268d3D1e38A3B3e8496b9374c4797D",
+      "symbol": "WEBV",
+      "name": "WEB5DOTOMG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 98,
+    "minor": 99,
     "patch": 41
   }
 }
