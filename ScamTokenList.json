@@ -90717,11 +90717,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73c7360Fc6aD84b3DE78AB4f5733Ef1CCb600cD9",
+      "symbol": "MEXIL",
+      "name": "MexilDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 92,
+    "minor": 93,
     "patch": 41
   }
 }
