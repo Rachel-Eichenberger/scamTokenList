@@ -90596,11 +90596,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62bAB6338296D6fF5eA801E782fe95d7B127f6d2",
+      "symbol": "INDY",
+      "name": "INDYINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 81,
+    "minor": 82,
     "patch": 41
   }
 }
