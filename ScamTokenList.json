@@ -90728,11 +90728,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4747C25381bD8D54443Bf9B76ACc821faB7ddA8",
+      "symbol": "SLUMP",
+      "name": "SLUMP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 93,
+    "minor": 94,
     "patch": 41
   }
 }
