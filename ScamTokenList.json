@@ -90629,11 +90629,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31F601702B5ec4adF5e1fA3798410Be50613730d",
+      "symbol": "MEME",
+      "name": "MemeCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 84,
+    "minor": 85,
     "patch": 41
   }
 }
