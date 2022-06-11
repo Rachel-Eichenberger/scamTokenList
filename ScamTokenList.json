@@ -90761,11 +90761,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0F882f456de9E5be26F256ae7680B49c7872389",
+      "symbol": "WEB420",
+      "name": "Web420",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 96,
+    "minor": 97,
     "patch": 41
   }
 }
