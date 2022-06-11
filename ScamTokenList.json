@@ -90673,11 +90673,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0618139FDE9Ed43B3154DC9Ae5CFc4306E1280D4",
+      "symbol": "CAW2",
+      "name": "A2HuntersDreamToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 43,
-    "minor": 88,
+    "minor": 89,
     "patch": 41
   }
 }
