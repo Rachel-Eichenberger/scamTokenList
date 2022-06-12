@@ -91080,11 +91080,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x025F4C9f9f53157B90044d7E746889B21c0D7BA9",
+      "symbol": "CHARM",
+      "name": "CharmToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 25,
+    "minor": 26,
     "patch": 42
   }
 }
