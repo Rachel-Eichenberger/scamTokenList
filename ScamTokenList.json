@@ -90981,11 +90981,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B2aa3B384A736989Bb18d5e88200A2F704449A5",
+      "symbol": "POS",
+      "name": "PiceOfShit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 16,
+    "minor": 17,
     "patch": 42
   }
 }
