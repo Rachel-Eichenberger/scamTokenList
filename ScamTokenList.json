@@ -91036,11 +91036,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0C62f441a4c974d1908bb46d4D3adF9EE9ce36c",
+      "symbol": "ETHDIAMONDS",
+      "name": "EthDiamonds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 21,
+    "minor": 22,
     "patch": 42
   }
 }
