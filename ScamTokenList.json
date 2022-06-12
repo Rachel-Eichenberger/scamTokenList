@@ -91058,11 +91058,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FFFCA74a77180395e284E300ca1c68594dF14d8",
+      "symbol": "ONEBURN",
+      "name": "OneBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 23,
+    "minor": 24,
     "patch": 42
   }
 }
