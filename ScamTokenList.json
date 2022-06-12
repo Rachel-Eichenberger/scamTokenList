@@ -90970,11 +90970,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85B1902Ad00Ed7d004098F2459f8e6f29a3Af518",
+      "symbol": "MEMO",
+      "name": "MemoDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 15,
+    "minor": 16,
     "patch": 42
   }
 }
