@@ -90915,11 +90915,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3B1f993b9F29E8a93D500Cc634a9d2741b2F436",
+      "symbol": "224",
+      "name": "TodayTomorrowForeve",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 10,
+    "minor": 11,
     "patch": 42
   }
 }
