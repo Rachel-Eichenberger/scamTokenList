@@ -90926,11 +90926,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x805d788C77898163DDdd1841C2e5Ba324506aF9D",
+      "symbol": "HAPPY",
+      "name": "Happy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 11,
+    "minor": 12,
     "patch": 42
   }
 }
