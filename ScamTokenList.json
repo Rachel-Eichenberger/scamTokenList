@@ -91421,11 +91421,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fA9354859F6b4eb667f9bCAE1280edaB2A5400f",
+      "symbol": "LUNANA",
+      "name": "Lunana",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 30,
+    "minor": 31,
     "patch": 42
   }
 }
