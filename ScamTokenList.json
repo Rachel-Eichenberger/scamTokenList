@@ -90937,11 +90937,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC69927dadB43F6263aae3A0E7Be602e524F283a8",
+      "symbol": "UNVERIFIED",
+      "name": "tmeUnverifiedeth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 12,
+    "minor": 13,
     "patch": 42
   }
 }
