@@ -91047,11 +91047,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x197CbE29a4fd78a0C39bd0463B260C294874E891",
+      "symbol": "404INU",
+      "name": "ShibaNotFound",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 22,
+    "minor": 23,
     "patch": 42
   }
 }
