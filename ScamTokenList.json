@@ -90904,11 +90904,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7471e516F915BcA37375C28D1C635fd631a53f69",
+      "symbol": "CARBO",
+      "name": "CleanCarbon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 9,
+    "minor": 10,
     "patch": 42
   }
 }
