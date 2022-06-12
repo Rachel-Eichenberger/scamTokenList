@@ -91091,11 +91091,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97",
+      "symbol": "MND",
+      "name": "MindMusic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 26,
+    "minor": 27,
     "patch": 42
   }
 }
