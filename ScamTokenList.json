@@ -90959,11 +90959,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x345584345b711CA4f77A1E321AcC1A33915B94ff",
+      "symbol": "EHUMOR",
+      "name": "ElonsHumor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 14,
+    "minor": 15,
     "patch": 42
   }
 }
