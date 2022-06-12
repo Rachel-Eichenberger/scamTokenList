@@ -91410,11 +91410,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8df174cE4dC6e5e7A28404BB771f61068f3EA7C1",
+      "symbol": "BULL",
+      "name": "Bullish",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 29,
+    "minor": 30,
     "patch": 42
   }
 }
