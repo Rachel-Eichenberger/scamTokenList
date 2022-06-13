@@ -91575,11 +91575,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f63908C962A0455b5E08560F5529726AC82a59F",
+      "symbol": "SHIBALLER",
+      "name": "ShiballerMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 44,
+    "minor": 45,
     "patch": 42
   }
 }
