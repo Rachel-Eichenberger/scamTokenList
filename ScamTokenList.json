@@ -91498,11 +91498,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F1b76bad843D389961bF609262D75b998a4B52D",
+      "symbol": "FARMZOLY",
+      "name": "FarmzolyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 37,
+    "minor": 38,
     "patch": 42
   }
 }
