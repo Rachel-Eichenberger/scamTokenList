@@ -91487,11 +91487,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01296d3fD20f0911BE50cdb9F1C2775aF1e7447B",
+      "symbol": "CEL2",
+      "name": "Celsius20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 36,
+    "minor": 37,
     "patch": 42
   }
 }
