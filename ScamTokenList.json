@@ -91564,11 +91564,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0d96c1DA8922CFbEF04c6C391192142B1a15a3b",
+      "symbol": "CUMMUNITY",
+      "name": "CUMMUNITY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 43,
+    "minor": 44,
     "patch": 42
   }
 }
