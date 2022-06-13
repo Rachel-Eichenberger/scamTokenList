@@ -91465,11 +91465,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce4B2EFAca094fe7cc90923408121f59249618Ee",
+      "symbol": "CENU",
+      "name": "CelciusInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 34,
+    "minor": 35,
     "patch": 42
   }
 }
