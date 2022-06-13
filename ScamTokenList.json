@@ -91597,11 +91597,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08E01C9bA839C4d10FFfAa05D5184A9b2C8308B4",
+      "symbol": "NTECH",
+      "name": "NewCommunityTech",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 46,
+    "minor": 47,
     "patch": 42
   }
 }
