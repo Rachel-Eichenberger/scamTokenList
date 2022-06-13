@@ -91509,11 +91509,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4dFC3Ad62ea997278502AE6EDBB73E74A76bD7D",
+      "symbol": "UNITE",
+      "name": "WeAreOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 38,
+    "minor": 39,
     "patch": 42
   }
 }
