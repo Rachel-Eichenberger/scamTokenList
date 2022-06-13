@@ -91531,11 +91531,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbBBacD2D065AD99FfdAa4dBF05026290Cd1BC294",
+      "symbol": "5TH",
+      "name": "TheFifthHerald",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 40,
+    "minor": 41,
     "patch": 42
   }
 }
