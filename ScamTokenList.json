@@ -91476,11 +91476,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4968d8EFf88FAD8e96e1604b7041C176faB5405",
+      "symbol": "SHIBALLER",
+      "name": "Shiballer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 35,
+    "minor": 36,
     "patch": 42
   }
 }
