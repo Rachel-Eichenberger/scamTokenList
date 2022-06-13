@@ -91454,11 +91454,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7112fc9334C9A0A843a7e9Dc301B162300D7e40",
+      "symbol": "MARIO",
+      "name": "MarioInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 33,
+    "minor": 34,
     "patch": 42
   }
 }
