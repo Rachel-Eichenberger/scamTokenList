@@ -91432,11 +91432,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9FfD6B4AD346bBe99Eb23b455B26FE8EdF7F560",
+      "symbol": "ORG",
+      "name": "Organism",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 31,
+    "minor": 32,
     "patch": 42
   }
 }
