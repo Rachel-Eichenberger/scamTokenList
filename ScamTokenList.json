@@ -91542,11 +91542,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6550A34Ea1181a4De4b98173C084803D8D4c014",
+      "symbol": "CEL",
+      "name": "CelsiusSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 41,
+    "minor": 42,
     "patch": 42
   }
 }
