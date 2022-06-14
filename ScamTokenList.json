@@ -91674,11 +91674,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ae7B8F28E2177f4c68478357A6FE62A6172a8d8",
+      "symbol": "WCD",
+      "name": "WcDonalds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 53,
+    "minor": 54,
     "patch": 42
   }
 }
