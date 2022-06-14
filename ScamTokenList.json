@@ -91608,11 +91608,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95FF0a6005ab34579BB1F1bF741F2EF2d41873bC",
+      "symbol": "GINU",
+      "name": "GoogolInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 47,
+    "minor": 48,
     "patch": 42
   }
 }
