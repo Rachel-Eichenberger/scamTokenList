@@ -91784,11 +91784,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x964B98c4ade7F2108c1C570b8A71Ff9Ec488740B",
+      "symbol": "WEEDAO",
+      "name": "WeeDAOFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 63,
+    "minor": 64,
     "patch": 42
   }
 }
