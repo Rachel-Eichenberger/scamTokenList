@@ -91663,11 +91663,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe49e66382F460E47E296E1c267627Ce6c0Fa3DCF",
+      "symbol": "NEO",
+      "name": "tmeneopolistoken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 52,
+    "minor": 53,
     "patch": 42
   }
 }
