@@ -91630,11 +91630,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84058686fC687b60A8a06D3DE81A175571eeB3e2",
+      "symbol": "TEST112",
+      "name": "test112",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 49,
+    "minor": 50,
     "patch": 42
   }
 }
