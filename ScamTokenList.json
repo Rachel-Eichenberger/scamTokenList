@@ -91894,11 +91894,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE58cEf87bA44d97e21e70a424Ae1eD33AC1F9b5",
+      "symbol": "SQUIDGAME",
+      "name": "TheChallenge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 73,
+    "minor": 74,
     "patch": 42
   }
 }
