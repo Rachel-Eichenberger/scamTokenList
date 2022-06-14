@@ -91619,11 +91619,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDf6c207dB4dFb05e133c43FA72B01Feb1777EEF4",
+      "symbol": "NTECH",
+      "name": "NewCommunityTech",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 48,
+    "minor": 49,
     "patch": 42
   }
 }
