@@ -91795,11 +91795,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Bec10f275314c660D1431829Dd244D1B3765D53",
+      "symbol": "REVOLT",
+      "name": "ReVoltInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 64,
+    "minor": 65,
     "patch": 42
   }
 }
