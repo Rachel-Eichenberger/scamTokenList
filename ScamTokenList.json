@@ -91872,11 +91872,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x938489a2cF5f2dcD00784020dDae3F899598A1DC",
+      "symbol": "TSUKI",
+      "name": "TSUKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 71,
+    "minor": 72,
     "patch": 42
   }
 }
