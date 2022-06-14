@@ -91641,11 +91641,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD04EB67199A641884c2bd985a4B9dc474534722f",
+      "symbol": "VOLTAMA",
+      "name": "VoltamaDao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 50,
+    "minor": 51,
     "patch": 42
   }
 }
