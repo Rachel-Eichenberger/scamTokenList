@@ -91828,11 +91828,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x134c5Dc0e7b9E0051fD61a2015652243A296a303",
+      "symbol": "ITHECURE",
+      "name": "MonkeypoxCure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 67,
+    "minor": 68,
     "patch": 42
   }
 }
