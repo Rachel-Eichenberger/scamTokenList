@@ -91806,11 +91806,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79175965BFd21f55B35b15a9d8a41b8E58937b7b",
+      "symbol": "LARVABURN",
+      "name": "LARVABURN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 65,
+    "minor": 66,
     "patch": 42
   }
 }
