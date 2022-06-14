@@ -91839,11 +91839,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCAB9833CE7888A56A686c3Bb34c1Fd93E53EA19e",
+      "symbol": "TRUTH187",
+      "name": "TheTruth187",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 68,
+    "minor": 69,
     "patch": 42
   }
 }
