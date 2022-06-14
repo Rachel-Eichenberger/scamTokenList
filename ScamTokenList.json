@@ -91718,11 +91718,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae9a096832955C758EFA69a5fDe6cd4c5c0cA89E",
+      "symbol": "TENGOKU",
+      "name": "TengokuDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 57,
+    "minor": 58,
     "patch": 42
   }
 }
