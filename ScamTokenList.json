@@ -91927,11 +91927,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5Ea2F2578D03333cb49e5e06238e2B04a9776c3",
+      "symbol": "SCRO",
+      "name": "SCRO",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 76,
+    "minor": 77,
     "patch": 42
   }
 }
