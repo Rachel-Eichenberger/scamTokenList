@@ -91685,11 +91685,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54e701Da9C54aedB08e44f80e40055F1771c604a",
+      "symbol": "FCKBEAR",
+      "name": "FCKTHEBEAR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 54,
+    "minor": 55,
     "patch": 42
   }
 }
