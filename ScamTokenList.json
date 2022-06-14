@@ -91773,11 +91773,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03C3a0bc0009f04947aEA8310f11b90209533ea1",
+      "symbol": "LARVABURN",
+      "name": "LarvaBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 62,
+    "minor": 63,
     "patch": 42
   }
 }
