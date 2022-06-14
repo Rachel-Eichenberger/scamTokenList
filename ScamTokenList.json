@@ -91652,11 +91652,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56eC5D6674d71d6a19E282cf79D1e719cE47b7ce",
+      "symbol": "ISHIB",
+      "name": "InflationShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 51,
+    "minor": 52,
     "patch": 42
   }
 }
