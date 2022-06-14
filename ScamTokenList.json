@@ -91762,11 +91762,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39da420AC0D9A6d8E05c5d9acac75377deCFbb42",
+      "symbol": "WANGMI",
+      "name": "WAnotGMI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 61,
+    "minor": 62,
     "patch": 42
   }
 }
