@@ -91817,11 +91817,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x644Bd89Bc4924088A8A338D11EDE53f342475418",
+      "symbol": "JKWON",
+      "name": "JAILKWON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 66,
+    "minor": 67,
     "patch": 42
   }
 }
