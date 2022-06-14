@@ -91729,11 +91729,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75077F832F210132465F534366076C3b811a0D1B",
+      "symbol": "NOCOMMENT",
+      "name": "NoComment",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 58,
+    "minor": 59,
     "patch": 42
   }
 }
