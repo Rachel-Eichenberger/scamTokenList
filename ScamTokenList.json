@@ -91740,11 +91740,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c52FD7D73C8d7dbF622a4e22F65beE4648A7249",
+      "symbol": "ANCHOR",
+      "name": "TheLastStand",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 59,
+    "minor": 60,
     "patch": 42
   }
 }
