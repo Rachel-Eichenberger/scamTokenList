@@ -92235,11 +92235,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd35b5586400052978f1869Ff573d81832A497CC4",
+      "symbol": "SINU",
+      "name": "SinkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 4,
+    "minor": 5,
     "patch": 43
   }
 }
