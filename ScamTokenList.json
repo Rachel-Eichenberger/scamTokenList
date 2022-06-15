@@ -92004,11 +92004,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07F755e2dB2Ac340EAdE0E4990eb077d4E8c1C54",
+      "symbol": "CT",
+      "name": "Cryptotonight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 83,
+    "minor": 84,
     "patch": 42
   }
 }
