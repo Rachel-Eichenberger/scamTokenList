@@ -91993,11 +91993,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87E6cBcb7c8cf888c308648b5454A47f86BB6466",
+      "symbol": "CRYPTONIGHT",
+      "name": "Cryptonight",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 82,
+    "minor": 83,
     "patch": 42
   }
 }
