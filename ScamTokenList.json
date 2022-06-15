@@ -92125,11 +92125,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ACEC01bFEC1eBcF273728F7f15d23CFb5C4061b",
+      "symbol": "SEA",
+      "name": "SeaPort",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 94,
+    "minor": 95,
     "patch": 42
   }
 }
