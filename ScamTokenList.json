@@ -92081,11 +92081,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19DB2416424B5B7F86c082E8427e7aD88D8e34e7",
+      "symbol": "MEOWY",
+      "name": "MeowylolToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 90,
+    "minor": 91,
     "patch": 42
   }
 }
