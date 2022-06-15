@@ -92224,11 +92224,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1796Ad6a3dD1B2b428E97C1d5ae26a51D4A5701a",
+      "symbol": "NBNP",
+      "name": "NoBrainNoPain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 3,
+    "minor": 4,
     "patch": 43
   }
 }
