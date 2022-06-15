@@ -92048,11 +92048,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63A237972fCcE946E8C4E05BAa20F2Cb5F3cCA6e",
+      "symbol": "NOSHIT",
+      "name": "NoShit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 87,
+    "minor": 88,
     "patch": 42
   }
 }
