@@ -92092,11 +92092,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e19d8e0d635D57523044D7CF07FCd9106A416E3",
+      "symbol": "PEPES",
+      "name": "PepeNewStart",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 91,
+    "minor": 92,
     "patch": 42
   }
 }
