@@ -92169,11 +92169,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22B7A6ACE65E29E494e012c0A2d5D09ded3041C4",
+      "symbol": "75BPS",
+      "name": "FOMC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 98,
+    "minor": 99,
     "patch": 42
   }
 }
