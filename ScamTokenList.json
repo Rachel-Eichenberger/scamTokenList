@@ -91971,11 +91971,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x373a7c3ad2D432474670616fC7958A5d2688CB9C",
+      "symbol": "SHIN",
+      "name": "SHINTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 80,
+    "minor": 81,
     "patch": 42
   }
 }
