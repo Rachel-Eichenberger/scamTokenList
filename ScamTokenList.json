@@ -91960,11 +91960,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6e2ECB0aA36EbAB3bAfDA9A63361DF62283a6A9",
+      "symbol": "WEB4",
+      "name": "web4",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 79,
+    "minor": 80,
     "patch": 42
   }
 }
