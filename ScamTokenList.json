@@ -92070,11 +92070,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e7F6655e0dfC844C022F4FF07a61fC2190d017a",
+      "symbol": "SHIT2",
+      "name": "Shit2Coin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 89,
+    "minor": 90,
     "patch": 42
   }
 }
