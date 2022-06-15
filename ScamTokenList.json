@@ -92059,11 +92059,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85A0778f3508844EC3da2BDF1e7327dD3b8Cc8E4",
+      "symbol": "OGY",
+      "name": "Origyn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 88,
+    "minor": 89,
     "patch": 42
   }
 }
