@@ -92158,11 +92158,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75F274eA14C058296F847f2a4921bA27e79d5F7b",
+      "symbol": "MARIOY",
+      "name": "MarioInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 97,
+    "minor": 98,
     "patch": 42
   }
 }
