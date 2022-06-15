@@ -92202,11 +92202,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3393d90e1B1626fF22c1AB8608cf185fb973363",
+      "symbol": "BETCOIN",
+      "name": "BetcoinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 1,
+    "minor": 2,
     "patch": 43
   }
 }
