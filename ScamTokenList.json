@@ -92026,11 +92026,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08cce68CfE23BbF13E3151c2a43dCc02623710d6",
+      "symbol": "BTCH",
+      "name": "bitchcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 85,
+    "minor": 86,
     "patch": 42
   }
 }
