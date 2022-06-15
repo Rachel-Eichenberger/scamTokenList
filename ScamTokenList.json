@@ -92136,11 +92136,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1711E21940e1bEa1a0102C35d6E6c761f0510872",
+      "symbol": "QUARRY",
+      "name": "TheQuarry",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 95,
+    "minor": 96,
     "patch": 42
   }
 }
