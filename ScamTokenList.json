@@ -92147,11 +92147,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x920fEE828d5Cc95b81c80d1FF125B6B15B40cD5C",
+      "symbol": "3AC",
+      "name": "3ACINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 96,
+    "minor": 97,
     "patch": 42
   }
 }
