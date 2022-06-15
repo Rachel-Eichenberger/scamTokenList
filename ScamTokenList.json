@@ -92037,11 +92037,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4c9724c2a1BD54f60b072f8CA303E51807fbB38",
+      "symbol": "FOCUS",
+      "name": "PositiveAttraction",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 86,
+    "minor": 87,
     "patch": 42
   }
 }
