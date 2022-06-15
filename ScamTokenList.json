@@ -92114,11 +92114,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6D5d8Ba2d1Fc63f5dC000475402087E23bB7213",
+      "symbol": "ACE",
+      "name": "ACryptosEnd",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 44,
-    "minor": 93,
+    "minor": 94,
     "patch": 42
   }
 }
