@@ -92191,11 +92191,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85c1Fe82FD92a304ee6bbB026F3c4B999F9d3076",
+      "symbol": "PARTHENON",
+      "name": "OfTheWealth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 0,
+    "minor": 1,
     "patch": 43
   }
 }
