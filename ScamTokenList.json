@@ -92356,11 +92356,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEb3b17b9279EEA6e8A902Fb36B1Cd338E275cf77",
+      "symbol": "SINU",
+      "name": "STABLEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 15,
+    "minor": 16,
     "patch": 43
   }
 }
