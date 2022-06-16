@@ -92444,11 +92444,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79D0F11D230F59954e3FD879199Bcd870C914eCc",
+      "symbol": "WORKTOEARN",
+      "name": "WorkToEarn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 23,
+    "minor": 24,
     "patch": 43
   }
 }
