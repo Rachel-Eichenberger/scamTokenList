@@ -92400,11 +92400,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE19ADC1eFab0D5D8EeFeb8025cB67EFf0dE70AB6",
+      "symbol": "AQUAVITAE",
+      "name": "AquaVitae",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 19,
+    "minor": 20,
     "patch": 43
   }
 }
