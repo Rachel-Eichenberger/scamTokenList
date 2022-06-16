@@ -92477,11 +92477,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5997a94e0865b3d8eD11dB8C593E014e74Ce92Ed",
+      "symbol": "PHONY",
+      "name": "Phony",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 26,
+    "minor": 27,
     "patch": 43
   }
 }
