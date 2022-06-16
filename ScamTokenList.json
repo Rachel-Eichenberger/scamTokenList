@@ -92543,11 +92543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2a4005Ce040471578C1b6621979eE98104Ad439",
+      "symbol": "FINU",
+      "name": "TheFinalInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 32,
+    "minor": 33,
     "patch": 43
   }
 }
