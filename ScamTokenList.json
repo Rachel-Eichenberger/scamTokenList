@@ -92334,11 +92334,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09032f290DD2649B03B964c10D8a0f8937D8C09B",
+      "symbol": "POWWAP",
+      "name": "PowWap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 13,
+    "minor": 14,
     "patch": 43
   }
 }
