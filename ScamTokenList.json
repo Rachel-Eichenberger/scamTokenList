@@ -92323,11 +92323,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56b0Ccc4E8AeFEC710300500C7f583731e392852",
+      "symbol": "ESDEATH",
+      "name": "Esdeath",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 12,
+    "minor": 13,
     "patch": 43
   }
 }
