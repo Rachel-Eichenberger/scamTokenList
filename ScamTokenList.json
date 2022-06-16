@@ -92312,11 +92312,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCCf83674f75bfe04FD3ec66487Bdda4533e4969d",
+      "symbol": "SHIN",
+      "name": "SHINTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 11,
+    "minor": 12,
     "patch": 43
   }
 }
