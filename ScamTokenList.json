@@ -92532,11 +92532,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e50763fbbD9a2474c429041b338624Bb2A8B7Bd",
+      "symbol": "IZA",
+      "name": "IzanamiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 31,
+    "minor": 32,
     "patch": 43
   }
 }
