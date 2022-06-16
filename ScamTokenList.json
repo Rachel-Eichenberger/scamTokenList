@@ -92510,11 +92510,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAADfC460DC99644142ba41D4da9C43c2cF445BEd",
+      "symbol": "SQUID",
+      "name": "SquidGame20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 29,
+    "minor": 30,
     "patch": 43
   }
 }
