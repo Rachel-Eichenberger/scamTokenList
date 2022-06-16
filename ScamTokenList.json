@@ -92290,11 +92290,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23a6C16B7D533245f3aacFf4c22cAfC2505aCF59",
+      "symbol": "ROO",
+      "name": "LuckyRoo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 9,
+    "minor": 10,
     "patch": 43
   }
 }
