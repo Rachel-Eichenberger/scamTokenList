@@ -92455,11 +92455,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3567318f8F4d42D12a92A9193aCb5eD0905346eE",
+      "symbol": "REKT",
+      "name": "RektInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 24,
+    "minor": 25,
     "patch": 43
   }
 }
