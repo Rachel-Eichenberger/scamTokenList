@@ -92554,11 +92554,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB88339C3B8F525Cfe46c7E0a3D7d748f356C79cd",
+      "symbol": "RYO",
+      "name": "RYO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 33,
+    "minor": 34,
     "patch": 43
   }
 }
