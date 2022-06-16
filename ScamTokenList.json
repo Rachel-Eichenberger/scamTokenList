@@ -92268,11 +92268,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6624606837209F00599dd47F132fB152a448175",
+      "symbol": "NEANDERTHAL",
+      "name": "Darken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 7,
+    "minor": 8,
     "patch": 43
   }
 }
