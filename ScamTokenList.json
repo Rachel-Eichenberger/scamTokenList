@@ -92411,11 +92411,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA01323135c284aC93880A7b64B2AFCF8Cd04F3E3",
+      "symbol": "SUS",
+      "name": "SushETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 20,
+    "minor": 21,
     "patch": 43
   }
 }
