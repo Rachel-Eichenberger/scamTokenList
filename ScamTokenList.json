@@ -92422,11 +92422,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25fa1FD3987a76bEaA79d1e181AF59C6A30Cae0B",
+      "symbol": "EMAX2",
+      "name": "EthereumMax20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 21,
+    "minor": 22,
     "patch": 43
   }
 }
