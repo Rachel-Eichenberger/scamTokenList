@@ -92433,11 +92433,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xece410Ba11EF541059d243F725C3b59837ed1d36",
+      "symbol": "SAGA",
+      "name": "SAGA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 22,
+    "minor": 23,
     "patch": 43
   }
 }
