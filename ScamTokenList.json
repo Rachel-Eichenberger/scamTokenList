@@ -92488,11 +92488,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9FA16d6C4728c5EBbbA203E98EF82157E06A3ed2",
+      "symbol": "FUCKETH",
+      "name": "FuckETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 27,
+    "minor": 28,
     "patch": 43
   }
 }
