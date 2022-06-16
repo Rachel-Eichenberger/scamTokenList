@@ -92301,11 +92301,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fbFfE490CCD25eA01641ABD5774e705f23ea57A",
+      "symbol": "DXI",
+      "name": "DoxingInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 10,
+    "minor": 11,
     "patch": 43
   }
 }
