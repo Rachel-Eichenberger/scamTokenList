@@ -92246,11 +92246,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01172b1f063f03cC9062Fc39395D21B9De453F6E",
+      "symbol": "SICK",
+      "name": "TheCure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 5,
+    "minor": 6,
     "patch": 43
   }
 }
