@@ -92389,11 +92389,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ABB4D4a91BE11F831304c95De871D829bA2670F",
+      "symbol": "U1F30A",
+      "name": "AquaVitae",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 18,
+    "minor": 19,
     "patch": 43
   }
 }
