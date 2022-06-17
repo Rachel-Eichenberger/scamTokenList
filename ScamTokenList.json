@@ -93247,11 +93247,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf57b489c68953F48bb3Fe72418Fdc18cD8C9ba6b",
+      "symbol": "THESEDAYS",
+      "name": "THESEDAYS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 61,
+    "minor": 62,
     "patch": 43
   }
 }
