@@ -92675,11 +92675,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB75e16346294393A5701945D16362c7Ad9a01f2C",
+      "symbol": "DRIZZY",
+      "name": "DrakeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 44,
+    "minor": 45,
     "patch": 43
   }
 }
