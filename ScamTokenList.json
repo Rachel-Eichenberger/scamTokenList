@@ -93170,11 +93170,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8174B08697022E4506849fDce66cD54FB5401727",
+      "symbol": "MEAN",
+      "name": "MeanProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 54,
+    "minor": 55,
     "patch": 43
   }
 }
