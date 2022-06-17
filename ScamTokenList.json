@@ -93368,11 +93368,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4fc91ecEf6d111be041fF682896319BF0DE587C",
+      "symbol": "FLIP",
+      "name": "FLIP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 72,
+    "minor": 73,
     "patch": 43
   }
 }
