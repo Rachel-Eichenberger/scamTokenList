@@ -93203,11 +93203,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBaC1fC6fb6A428125257240DA06580908492b83A",
+      "symbol": "GOSHILL",
+      "name": "GOSHILL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 57,
+    "minor": 58,
     "patch": 43
   }
 }
