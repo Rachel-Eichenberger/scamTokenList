@@ -92697,11 +92697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6085a0abF39e7bF08D297e73816EEab28c8B29F3",
+      "symbol": "GSWINU",
+      "name": "GSWInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 46,
+    "minor": 47,
     "patch": 43
   }
 }
