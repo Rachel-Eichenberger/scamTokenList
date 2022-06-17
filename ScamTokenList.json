@@ -92598,11 +92598,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9a5b5AF7C7bb7141541c5B84D090C2211782e1a",
+      "symbol": "BEARWITHME",
+      "name": "BearWithMe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 37,
+    "minor": 38,
     "patch": 43
   }
 }
