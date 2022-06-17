@@ -93137,11 +93137,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb77B72AFacd1C10979f4644C020b4E54D25634d9",
+      "symbol": "GOAT",
+      "name": "Philoctetes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 51,
+    "minor": 52,
     "patch": 43
   }
 }
