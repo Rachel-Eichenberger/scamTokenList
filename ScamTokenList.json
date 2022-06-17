@@ -93324,11 +93324,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE0D7d6803a8997335782f9bCba57e013c805b808",
+      "symbol": "PBULL",
+      "name": "PumpBull",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 68,
+    "minor": 69,
     "patch": 43
   }
 }
