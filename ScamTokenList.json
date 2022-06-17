@@ -93423,11 +93423,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19DDa08252122b32F4e3fB6CF46666e9E34FFF34",
+      "symbol": "BUM",
+      "name": "BottomsUp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e4c73485b44f35D30C17529bA177a5060e7e429",
+      "symbol": "RACE",
+      "name": "TheRace",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 77,
+    "minor": 79,
     "patch": 43
   }
 }
