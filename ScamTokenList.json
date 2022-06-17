@@ -93280,11 +93280,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x909174e8EF9CfB007dCC958b7d4B60016D717c93",
+      "symbol": "SGQ3",
+      "name": "SQUIDGAME30",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 64,
+    "minor": 65,
     "patch": 43
   }
 }
