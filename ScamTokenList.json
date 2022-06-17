@@ -93192,11 +93192,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9318469feBcdAd1297f853206aA5dD8ce8AFebB0",
+      "symbol": "VSG",
+      "name": "Visage",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 56,
+    "minor": 57,
     "patch": 43
   }
 }
