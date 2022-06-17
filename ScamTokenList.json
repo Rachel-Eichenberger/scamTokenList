@@ -93225,11 +93225,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A397406E522933B3f6D6fA9DfB6Eb2F8D6A7aC1",
+      "symbol": "STEPH4",
+      "name": "STEPH4",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 59,
+    "minor": 60,
     "patch": 43
   }
 }
