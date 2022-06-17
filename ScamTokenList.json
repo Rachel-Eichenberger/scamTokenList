@@ -93258,11 +93258,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12d53e4dBf6F80b7A415bE6a745b397973be06b3",
+      "symbol": "EXP",
+      "name": "TheExperiment",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 62,
+    "minor": 63,
     "patch": 43
   }
 }
