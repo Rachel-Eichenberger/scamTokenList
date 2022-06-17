@@ -93445,11 +93445,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05156776a196f9AD49375974dD0aD80Fce313B7b",
+      "symbol": "DOM",
+      "name": "DawnOfMirage",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 79,
+    "minor": 80,
     "patch": 43
   }
 }
