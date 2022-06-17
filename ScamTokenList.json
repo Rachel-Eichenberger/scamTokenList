@@ -92609,11 +92609,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x726893d8f6339D62146E719550427fbd41526db9",
+      "symbol": "SQDMN2",
+      "name": "SquidMoon20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 38,
+    "minor": 39,
     "patch": 43
   }
 }
