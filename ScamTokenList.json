@@ -92653,11 +92653,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa673f277297BC33ECd1F3b9b9A95F4EeA51100dF",
+      "symbol": "CPEARL",
+      "name": "CommunityOnePearl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 42,
+    "minor": 43,
     "patch": 43
   }
 }
