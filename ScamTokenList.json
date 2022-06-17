@@ -93148,11 +93148,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30196717eAF42f3a29820c485b282063BE441831",
+      "symbol": "TOP",
+      "name": "BullTrap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 52,
+    "minor": 53,
     "patch": 43
   }
 }
