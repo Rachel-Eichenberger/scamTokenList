@@ -92686,11 +92686,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB820690E855DC6071a702B56561E1c63CCB6E2F",
+      "symbol": "LAND",
+      "name": "RevenueLandCollecti",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 45,
+    "minor": 46,
     "patch": 43
   }
 }
