@@ -93115,11 +93115,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3BE25E976115257A120A6109365eBC8CF7a8F755",
+      "symbol": "CURRY",
+      "name": "CURRY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 49,
+    "minor": 50,
     "patch": 43
   }
 }
