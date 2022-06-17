@@ -93302,11 +93302,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a7dE8995dD13FF027D88EE314D935093f16DF61",
+      "symbol": "HPND",
+      "name": "HAPPYPANDA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 66,
+    "minor": 67,
     "patch": 43
   }
 }
