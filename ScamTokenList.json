@@ -93313,11 +93313,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E4109bfff114c15e8FdE365f89c20240d204bbD",
+      "symbol": "THEVOICE",
+      "name": "TheVoice",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 67,
+    "minor": 68,
     "patch": 43
   }
 }
