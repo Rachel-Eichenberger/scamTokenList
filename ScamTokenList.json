@@ -93126,11 +93126,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf103069c7BC494Ca453ED53fA3C62C08F0c3291",
+      "symbol": "GSWI",
+      "name": "GoldenStateWarriors",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 50,
+    "minor": 51,
     "patch": 43
   }
 }
