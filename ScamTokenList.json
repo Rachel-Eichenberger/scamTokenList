@@ -93269,11 +93269,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C69f99eF85bbC279329a67Ac856e28942aBaEf9",
+      "symbol": "GOBLIN",
+      "name": "Goblin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 63,
+    "minor": 64,
     "patch": 43
   }
 }
