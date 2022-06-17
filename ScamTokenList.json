@@ -93236,11 +93236,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1B83382e34f6E1655fabFa6B8A42403a4047F41",
+      "symbol": "CHEWINGGUM",
+      "name": "ChewingGum",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 60,
+    "minor": 61,
     "patch": 43
   }
 }
