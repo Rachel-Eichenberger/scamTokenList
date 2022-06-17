@@ -93357,11 +93357,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6faa3aa8C1999bf7c0626976Ad8E710F4e8C0BEC",
+      "symbol": "VISION",
+      "name": "TheVision",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 71,
+    "minor": 72,
     "patch": 43
   }
 }
