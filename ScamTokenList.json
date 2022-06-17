@@ -92664,11 +92664,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd10E1b9d3bEAB23BA712Fc1b1e5435D9d5fA5cf8",
+      "symbol": "DRAKEINU",
+      "name": "DrakeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 43,
+    "minor": 44,
     "patch": 43
   }
 }
