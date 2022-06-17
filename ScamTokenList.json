@@ -93390,11 +93390,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a91D3Cff6b85Bc4EEBAB2938650edC55272b0b0",
+      "symbol": "VAN",
+      "name": "Vanderbool",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 74,
+    "minor": 75,
     "patch": 43
   }
 }
