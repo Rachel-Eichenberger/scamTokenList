@@ -93401,11 +93401,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba2c22D2C6e33c7Ba638Eb91d174f1E25f4a2F42",
+      "symbol": "UNDW4",
+      "name": "UNDW4Lacoste",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 75,
+    "minor": 76,
     "patch": 43
   }
 }
