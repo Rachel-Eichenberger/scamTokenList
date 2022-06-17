@@ -93379,11 +93379,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x362e6A9aDF21d6117301713bAF16A0DeC7E912D1",
+      "symbol": "DUCKER",
+      "name": "DuckerToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 73,
+    "minor": 74,
     "patch": 43
   }
 }
