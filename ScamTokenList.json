@@ -92620,11 +92620,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6964B78E6017fB9e47F2C705812000B00baf1e71",
+      "symbol": "HETH",
+      "name": "HEPHAETHUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 39,
+    "minor": 40,
     "patch": 43
   }
 }
