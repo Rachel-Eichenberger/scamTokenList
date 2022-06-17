@@ -92708,11 +92708,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3d355de74f9540C7e780b26832fE0189bb977Ce",
+      "symbol": "GLDNRTVR",
+      "name": "THEGOLDENRETRIEVER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 47,
+    "minor": 48,
     "patch": 43
   }
 }
