@@ -93621,11 +93621,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A4d62B1cd1aef064741692b36002a0b22d21FAe",
+      "symbol": "GINU",
+      "name": "TheGreatGas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 95,
+    "minor": 96,
     "patch": 43
   }
 }
