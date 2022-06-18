@@ -93544,11 +93544,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8410fe0E32a9a67979F16A8C6291753aC6dD3DB7",
+      "symbol": "CRYSTALBALL",
+      "name": "CrystalBall",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 88,
+    "minor": 89,
     "patch": 43
   }
 }
