@@ -93555,11 +93555,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA20342e2710699266FBd9c10bD0ed20f57148Fc9",
+      "symbol": "MOGE",
+      "name": "MozzleDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 89,
+    "minor": 90,
     "patch": 43
   }
 }
