@@ -93577,11 +93577,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE6d643fF8AE88d50dc06913Ed959B9ce7b2BfcB",
+      "symbol": "METAH",
+      "name": "Metahorse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 91,
+    "minor": 92,
     "patch": 43
   }
 }
