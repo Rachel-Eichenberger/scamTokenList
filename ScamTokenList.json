@@ -93522,11 +93522,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B1fA5232b7412D68BecC870DE9De2B88ba79694",
+      "symbol": "LIQUID",
+      "name": "LiquidMachine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 86,
+    "minor": 87,
     "patch": 43
   }
 }
