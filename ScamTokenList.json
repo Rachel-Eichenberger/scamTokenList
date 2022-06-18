@@ -93643,11 +93643,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA76097371B96d8F8c1F77ff158818D73B212324D",
+      "symbol": "ETHAVEN",
+      "name": "ETHHAVEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 97,
+    "minor": 98,
     "patch": 43
   }
 }
