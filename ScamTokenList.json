@@ -93610,11 +93610,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38140193Ed76C49FB2f115a770f3CE70947B28ec",
+      "symbol": "PEACHBOY",
+      "name": "Momotaro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 94,
+    "minor": 95,
     "patch": 43
   }
 }
