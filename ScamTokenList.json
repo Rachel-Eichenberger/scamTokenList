@@ -93599,11 +93599,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d94D2480dbb8eb869F5e3FE4761834f48db67F3",
+      "symbol": "JUNU",
+      "name": "JuneteenthInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 93,
+    "minor": 94,
     "patch": 43
   }
 }
