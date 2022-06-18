@@ -93687,11 +93687,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb4D1099D53e92593430e33483Db41c63525f55F",
+      "symbol": "JOY",
+      "name": "JoyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 1,
+    "minor": 2,
     "patch": 44
   }
 }
