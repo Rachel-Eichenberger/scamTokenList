@@ -93632,11 +93632,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC218bb2e15cc4d39A2861EF6C99F89E3B533aDA7",
+      "symbol": "DEV",
+      "name": "devto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 96,
+    "minor": 97,
     "patch": 43
   }
 }
