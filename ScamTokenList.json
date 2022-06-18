@@ -93489,11 +93489,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1780eD7b69E5789D3eb05607c06865562A4fBcB6",
+      "symbol": "DAIKOKU",
+      "name": "Godofwealth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 83,
+    "minor": 84,
     "patch": 43
   }
 }
