@@ -93709,11 +93709,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcB49a82fC35D99029E2b15778Ea9A1b878329455",
+      "symbol": "CAVE",
+      "name": "BearCaveDeFi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 3,
+    "minor": 4,
     "patch": 44
   }
 }
