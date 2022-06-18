@@ -93676,11 +93676,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1153Af6d1EeE9BFEfD25e091622a918fAD1A2eE",
+      "symbol": "BUZZ",
+      "name": "BuzzInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 0,
+    "minor": 1,
     "patch": 44
   }
 }
