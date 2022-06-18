@@ -93566,11 +93566,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD32dCB7D642C53daf5E7b04731c4805665D36B30",
+      "symbol": "GBEL",
+      "name": "GigaBerlin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 45,
-    "minor": 90,
+    "minor": 91,
     "patch": 43
   }
 }
