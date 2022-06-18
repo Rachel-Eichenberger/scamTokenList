@@ -93665,11 +93665,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x876EdaF044Ceb66a33fD2629162D28Fe26502D06",
+      "symbol": "SMOKINGDINO",
+      "name": "SmokingDino",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 45,
-    "minor": 99,
-    "patch": 43
+    "major": 46,
+    "minor": 0,
+    "patch": 44
   }
 }
