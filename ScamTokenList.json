@@ -93885,11 +93885,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb465de10cb8b990967b4FbE62a56f68199Ba3B2a",
+      "symbol": "BFI",
+      "name": "BidenFallsInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 19,
+    "minor": 20,
     "patch": 44
   }
 }
