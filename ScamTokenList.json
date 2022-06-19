@@ -93819,11 +93819,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe83F8a5dB89baa2f7FB29786b38C927Ff4F757B4",
+      "symbol": "AG8",
+      "name": "Aggreg8Finance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 13,
+    "minor": 14,
     "patch": 44
   }
 }
