@@ -93797,11 +93797,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x323532D6a445A4d3Ea409f8cE906f8d4E4168c20",
+      "symbol": "PIXIU",
+      "name": "Pixiu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 11,
+    "minor": 12,
     "patch": 44
   }
 }
