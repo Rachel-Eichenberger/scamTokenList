@@ -94039,11 +94039,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcE1b2780F15eC6A2bEda0D5f48D5Ec66C2B32113",
+      "symbol": "HODL",
+      "name": "HODL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 33,
+    "minor": 34,
     "patch": 44
   }
 }
