@@ -93874,11 +93874,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bB4f5f19da7c2C872CBD1631f0D8b1067d94944",
+      "symbol": "SQUGE",
+      "name": "SQUIDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 18,
+    "minor": 19,
     "patch": 44
   }
 }
