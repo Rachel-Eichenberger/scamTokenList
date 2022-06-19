@@ -93830,11 +93830,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96d25255aFd756AdA0dd548Db0a5a10bBf4B538e",
+      "symbol": "THEMANWITHTHEYELLOW",
+      "name": "Bananas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 14,
+    "minor": 15,
     "patch": 44
   }
 }
