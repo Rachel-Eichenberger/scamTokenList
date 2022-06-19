@@ -94138,11 +94138,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4952952874363Eb7DDD35A5e0c6D2910b79482f3",
+      "symbol": "BTC20",
+      "name": "BTC20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 42,
+    "minor": 43,
     "patch": 44
   }
 }
