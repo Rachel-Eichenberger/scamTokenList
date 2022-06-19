@@ -93962,11 +93962,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D978Ec040114Df65E2a3aEDf7888f5Cf125e180",
+      "symbol": "LEVY",
+      "name": "LevyIny",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 26,
+    "minor": 27,
     "patch": 44
   }
 }
