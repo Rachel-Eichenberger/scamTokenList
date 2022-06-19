@@ -94028,11 +94028,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2665EE9BA95eBCA18C1F79638f68f7c641aB6dfD",
+      "symbol": "CHAD",
+      "name": "GIGA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 32,
+    "minor": 33,
     "patch": 44
   }
 }
