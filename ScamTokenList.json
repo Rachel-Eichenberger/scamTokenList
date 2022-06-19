@@ -93742,11 +93742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6447fb529f1c5a6417d0bC63136BCB035F856E41",
+      "symbol": "HFDI",
+      "name": "HappyFathersDayInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 6,
+    "minor": 7,
     "patch": 44
   }
 }
