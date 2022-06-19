@@ -93918,11 +93918,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x081b73416eb651c9ca20690969d70F35D11704DC",
+      "symbol": "CATETH",
+      "name": "CATETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 22,
+    "minor": 23,
     "patch": 44
   }
 }
