@@ -94105,11 +94105,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C56d1E33510060Ec8Be1Ba385F7A67625BF7d2d",
+      "symbol": "SHIB20",
+      "name": "SHIB20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 39,
+    "minor": 40,
     "patch": 44
   }
 }
