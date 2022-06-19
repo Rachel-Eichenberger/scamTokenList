@@ -93775,11 +93775,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44F2d0A61cC1d08d2FD7b89dfb6fae2f8305840E",
+      "symbol": "DOGE20",
+      "name": "DOGE20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 9,
+    "minor": 10,
     "patch": 44
   }
 }
