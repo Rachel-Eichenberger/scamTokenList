@@ -94149,11 +94149,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x700EDDeA0d4e9648B30ee26d584FcFDac8765F60",
+      "symbol": "BABYDOGE20",
+      "name": "BabyDoge20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 43,
+    "minor": 44,
     "patch": 44
   }
 }
