@@ -94127,11 +94127,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7518Ff54f1Ac73F82B58c49090353cdEd0A33E62",
+      "symbol": "SHIBA20",
+      "name": "SHIBA20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 41,
+    "minor": 42,
     "patch": 44
   }
 }
