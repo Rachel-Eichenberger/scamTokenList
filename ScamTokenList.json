@@ -93841,11 +93841,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEbE062fEC96B2e0Ab4dFC94C0BE64E0691BCE7bA",
+      "symbol": "FEX",
+      "name": "Fengxian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 15,
+    "minor": 16,
     "patch": 44
   }
 }
