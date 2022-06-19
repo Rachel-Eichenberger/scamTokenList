@@ -93995,11 +93995,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAcf69B3E75cB7941F30B15575c0264F271170844",
+      "symbol": "PETH",
+      "name": "PepeETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 29,
+    "minor": 30,
     "patch": 44
   }
 }
