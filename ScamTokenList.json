@@ -94094,11 +94094,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fd5a12c827fAe4c063D785c62d15EE067d9b5e7",
+      "symbol": "PEPE",
+      "name": "PEPEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 38,
+    "minor": 39,
     "patch": 44
   }
 }
