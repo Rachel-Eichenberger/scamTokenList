@@ -93786,11 +93786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C209D31FC7fb0e88ABc45bA0fDE2E2E9d7E439c",
+      "symbol": "DOGE20",
+      "name": "Dogecoin20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 10,
+    "minor": 11,
     "patch": 44
   }
 }
