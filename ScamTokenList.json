@@ -93973,11 +93973,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0989B4422A215095897233C9fC6CdeF8a7783cC8",
+      "symbol": "SIGN",
+      "name": "TheSign",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 27,
+    "minor": 28,
     "patch": 44
   }
 }
