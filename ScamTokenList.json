@@ -93808,11 +93808,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2242C10924f7699220C7CFaBeE6dFAe7De722dA6",
+      "symbol": "ELDOGE",
+      "name": "Dogecoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 12,
+    "minor": 13,
     "patch": 44
   }
 }
