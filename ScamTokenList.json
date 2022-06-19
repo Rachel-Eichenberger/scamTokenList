@@ -94050,11 +94050,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcba4B6310FfF6305797ceCD44D915d55D05BbeD8",
+      "symbol": "BINU",
+      "name": "BalancerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 34,
+    "minor": 35,
     "patch": 44
   }
 }
