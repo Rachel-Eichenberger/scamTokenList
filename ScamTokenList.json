@@ -93896,11 +93896,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Ea341551E5B3B7b3088f897185D9F72bB6612d6",
+      "symbol": "LEAFCLOVER",
+      "name": "LeafClover",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 20,
+    "minor": 21,
     "patch": 44
   }
 }
