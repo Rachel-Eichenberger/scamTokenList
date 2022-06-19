@@ -94017,11 +94017,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x728De3088032732aE913219994cB2f64562a4d41",
+      "symbol": "BGOLD1",
+      "name": "BURNTEHGOLDENONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 31,
+    "minor": 32,
     "patch": 44
   }
 }
