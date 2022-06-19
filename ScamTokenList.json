@@ -93720,11 +93720,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27F2663EAE17952D9A02B6B5c218092abdF3AE64",
+      "symbol": "TUT",
+      "name": "TheUndergroundTomb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 4,
+    "minor": 5,
     "patch": 44
   }
 }
