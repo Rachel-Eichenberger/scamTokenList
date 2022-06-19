@@ -94006,11 +94006,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce62eaB465b1EDf56b99CD3F020F69e7dCDbFFf5",
+      "symbol": "JARS",
+      "name": "JarsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 30,
+    "minor": 31,
     "patch": 44
   }
 }
