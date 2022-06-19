@@ -94116,11 +94116,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8df7F9EE426b9DEB115aF99908Ca4c6b7852CA9B",
+      "symbol": "DOGEG",
+      "name": "DogeGame",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 40,
+    "minor": 41,
     "patch": 44
   }
 }
