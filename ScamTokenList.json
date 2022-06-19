@@ -93940,11 +93940,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33F92A8816FCf657b10fbE41F8b40D0c915179dF",
+      "symbol": "TWTT",
+      "name": "Tweettex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 24,
+    "minor": 25,
     "patch": 44
   }
 }
