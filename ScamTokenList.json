@@ -94072,11 +94072,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07b441D23B3284Fdfbb4ae045B0608866f63aa2e",
+      "symbol": "FLOKI20",
+      "name": "FLOKI20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 36,
+    "minor": 37,
     "patch": 44
   }
 }
