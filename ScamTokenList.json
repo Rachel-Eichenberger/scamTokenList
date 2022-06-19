@@ -94083,11 +94083,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D35e982eD4fC47376347D930966D968924445Cf",
+      "symbol": "KONGTRON",
+      "name": "KongTronToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 37,
+    "minor": 38,
     "patch": 44
   }
 }
