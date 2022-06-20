@@ -94446,11 +94446,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28FedbbBb213648869072615a6365Ad58f8afCb2",
+      "symbol": "LIFE",
+      "name": "Recovery",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 70,
+    "minor": 71,
     "patch": 44
   }
 }
