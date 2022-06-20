@@ -94292,11 +94292,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31F61C740d189498575fbd6F1Ee0548811307585",
+      "symbol": "MONONOKE20",
+      "name": "Mononoke20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 56,
+    "minor": 57,
     "patch": 44
   }
 }
