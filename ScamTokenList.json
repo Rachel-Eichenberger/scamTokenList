@@ -94336,11 +94336,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5FDFD8A7D64684e8FabdA6d0E9f2f6eDDA30b1D6",
+      "symbol": "SHID",
+      "name": "ShiDogCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 60,
+    "minor": 61,
     "patch": 44
   }
 }
