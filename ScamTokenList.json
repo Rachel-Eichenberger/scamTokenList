@@ -94369,11 +94369,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6aFcB0b81895F119fbF9c2fb851461bcB81e98ca",
+      "symbol": "GOBLINU",
+      "name": "GOBLINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 63,
+    "minor": 64,
     "patch": 44
   }
 }
