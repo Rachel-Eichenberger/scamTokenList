@@ -94567,11 +94567,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17Ebd32c6a898f46957b50c66e92979e5bCe7761",
+      "symbol": "SORA",
+      "name": "SoraZuki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 81,
+    "minor": 82,
     "patch": 44
   }
 }
