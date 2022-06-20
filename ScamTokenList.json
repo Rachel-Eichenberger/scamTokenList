@@ -94523,11 +94523,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79dAA53Ea93AE9086124A058887816fbdCB78765",
+      "symbol": "GOLDB",
+      "name": "TehGoldenBaby",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 77,
+    "minor": 78,
     "patch": 44
   }
 }
