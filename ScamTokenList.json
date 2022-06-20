@@ -94490,11 +94490,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea3441b14a8a0c01D86a2990B61f285Cb43bCb18",
+      "symbol": "HAHA",
+      "name": "IMINDANGER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 74,
+    "minor": 75,
     "patch": 44
   }
 }
