@@ -94622,11 +94622,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcCBcd1D98342AE787fd818bb09291FfaDfceD9b6",
+      "symbol": "42",
+      "name": "42",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 86,
+    "minor": 87,
     "patch": 44
   }
 }
