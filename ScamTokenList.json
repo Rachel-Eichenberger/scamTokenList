@@ -94589,11 +94589,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF39995eA4e34F829969d292d3F713e71d0B5057",
+      "symbol": "AREA51",
+      "name": "Area51",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 83,
+    "minor": 84,
     "patch": 44
   }
 }
