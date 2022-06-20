@@ -94358,11 +94358,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB9A22CBd9fcCdbF17616147c492122f5Cb0Fee5",
+      "symbol": "KUMA2",
+      "name": "KUMA20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 62,
+    "minor": 63,
     "patch": 44
   }
 }
