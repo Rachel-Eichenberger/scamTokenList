@@ -94325,11 +94325,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e0608147b84728E267854538896D2cB2FAe0D8C",
+      "symbol": "GOLDBULL",
+      "name": "TehGoldenBullrun",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 59,
+    "minor": 60,
     "patch": 44
   }
 }
