@@ -94303,11 +94303,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdadCcde303f0c6249dF862DEBaAd4408313dD1af",
+      "symbol": "SPACESHIBA",
+      "name": "SpaceShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 57,
+    "minor": 58,
     "patch": 44
   }
 }
