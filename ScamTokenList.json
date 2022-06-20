@@ -94578,11 +94578,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x287C715c55C73CcDaD2C3764Fdf1a59062e24e5b",
+      "symbol": "SHIR20",
+      "name": "Shiryo20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 82,
+    "minor": 83,
     "patch": 44
   }
 }
