@@ -94380,11 +94380,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x124E8057A11bEF6d872565c8816F9EF259612F38",
+      "symbol": "DOGE101",
+      "name": "DOGE101",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 64,
+    "minor": 65,
     "patch": 44
   }
 }
