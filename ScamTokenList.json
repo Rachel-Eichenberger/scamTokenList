@@ -94402,11 +94402,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA20373a42757abfDE202CA07250873c895fBCe97",
+      "symbol": "MONKE20",
+      "name": "MONKE20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 66,
+    "minor": 67,
     "patch": 44
   }
 }
