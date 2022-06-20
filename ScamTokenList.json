@@ -94457,11 +94457,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf733cF10832e9aC93CE6bc1741c620a0564923C4",
+      "symbol": "BIKEDEN",
+      "name": "BIKEDEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 71,
+    "minor": 72,
     "patch": 44
   }
 }
