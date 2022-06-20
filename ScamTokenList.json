@@ -94413,11 +94413,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8de5EeCC03C799FcbE2798ed5cb561f0D0aCd4b8",
+      "symbol": "PUNKYBOY",
+      "name": "PunkyBoy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 67,
+    "minor": 68,
     "patch": 44
   }
 }
