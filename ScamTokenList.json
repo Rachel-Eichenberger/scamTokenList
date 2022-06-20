@@ -94600,11 +94600,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D47ab6CcdA3d4CA6498FbD4309E6F3359F5b695",
+      "symbol": "CHEDDA20",
+      "name": "CHEDDA20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 84,
+    "minor": 85,
     "patch": 44
   }
 }
