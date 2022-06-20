@@ -94259,11 +94259,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E3824cF77C95a12201C6b575342711D448b8B90",
+      "symbol": "LUNASREBIRTH",
+      "name": "LunasRebirth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 53,
+    "minor": 54,
     "patch": 44
   }
 }
