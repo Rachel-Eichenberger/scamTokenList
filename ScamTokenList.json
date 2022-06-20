@@ -94611,11 +94611,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e0F86e3Ad4f320a4B3893ec15F6748c876e9a11",
+      "symbol": "CHEESSE",
+      "name": "Cheesse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 85,
+    "minor": 86,
     "patch": 44
   }
 }
