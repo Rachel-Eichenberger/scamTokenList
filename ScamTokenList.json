@@ -94314,11 +94314,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9aCc147faE8e25Ca81Ada2D0fb8D89A4E2b04ff",
+      "symbol": "BARCO",
+      "name": "BarcoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 58,
+    "minor": 59,
     "patch": 44
   }
 }
