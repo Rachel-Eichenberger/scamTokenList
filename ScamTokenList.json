@@ -94171,11 +94171,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x028a449241BB0Ea08A0b1C5A6c6cF9f0FEC92198",
+      "symbol": "ELON20",
+      "name": "DogeElonMars20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 45,
+    "minor": 46,
     "patch": 44
   }
 }
