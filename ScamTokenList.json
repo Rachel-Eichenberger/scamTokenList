@@ -94545,11 +94545,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a9A8B2E8dB54884d52586a80d28Be66E237d08b",
+      "symbol": "NATA",
+      "name": "NataInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 79,
+    "minor": 80,
     "patch": 44
   }
 }
