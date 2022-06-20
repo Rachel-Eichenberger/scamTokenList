@@ -94556,11 +94556,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31CdA2C4796A44906577BF3171359f17AA9aee87",
+      "symbol": "BETA",
+      "name": "beta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 80,
+    "minor": 81,
     "patch": 44
   }
 }
