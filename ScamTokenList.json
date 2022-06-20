@@ -94270,11 +94270,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEDd8013B04e96f6ca601A5359485959CCA77D50F",
+      "symbol": "IKIGAMI",
+      "name": "IKIGAMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 54,
+    "minor": 55,
     "patch": 44
   }
 }
