@@ -94160,11 +94160,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7095DcbEB79d500a630949D139F2b4158B45245e",
+      "symbol": "TEHBANK",
+      "name": "TehBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 44,
+    "minor": 45,
     "patch": 44
   }
 }
