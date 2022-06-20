@@ -94204,11 +94204,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51F05C3cCBee863777d89dDf069Cc3E4d51da33b",
+      "symbol": "ASHIT",
+      "name": "AShitCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 48,
+    "minor": 49,
     "patch": 44
   }
 }
