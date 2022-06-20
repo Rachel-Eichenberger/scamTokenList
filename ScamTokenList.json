@@ -94347,11 +94347,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E30Bc9512306534B85aFd0c75065B455af55d45",
+      "symbol": "COPIUM",
+      "name": "COPIUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 61,
+    "minor": 62,
     "patch": 44
   }
 }
