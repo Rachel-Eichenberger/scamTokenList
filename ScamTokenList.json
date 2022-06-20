@@ -94226,11 +94226,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3be7Ac39E57F5ED83825093317FD4432027dB79",
+      "symbol": "CULT20",
+      "name": "CULT20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 50,
+    "minor": 51,
     "patch": 44
   }
 }
