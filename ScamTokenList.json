@@ -94391,11 +94391,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07BA9E7cb17fF24924Bc15A04d17A9ca259913E2",
+      "symbol": "BURNBAYC",
+      "name": "BURNBAYC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 65,
+    "minor": 66,
     "patch": 44
   }
 }
