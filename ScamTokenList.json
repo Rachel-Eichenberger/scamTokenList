@@ -94479,11 +94479,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccD9b98e3cAf9589947ee6f4CB43C0D792613910",
+      "symbol": "WRD",
+      "name": "wordcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 73,
+    "minor": 74,
     "patch": 44
   }
 }
