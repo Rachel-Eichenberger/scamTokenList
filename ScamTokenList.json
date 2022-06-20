@@ -94501,11 +94501,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53a662d8D4663a28a77cD8A01925b9C547c9c87b",
+      "symbol": "COROL",
+      "name": "CorolInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 75,
+    "minor": 76,
     "patch": 44
   }
 }
