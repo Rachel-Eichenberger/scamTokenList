@@ -95139,11 +95139,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99Ec6dBD2806c20aF9c81F1a023A90d087d6E85F",
+      "symbol": "FKSEC",
+      "name": "FuckTheSEC",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 33,
+    "minor": 34,
     "patch": 45
   }
 }
