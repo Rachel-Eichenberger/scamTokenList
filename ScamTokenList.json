@@ -94688,11 +94688,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa501eE23e92D3BB36CF17A6F396a52316662BE92",
+      "symbol": "SRE",
+      "name": "SaitaRebate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 92,
+    "minor": 93,
     "patch": 44
   }
 }
