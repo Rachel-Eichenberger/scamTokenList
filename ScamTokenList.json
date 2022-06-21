@@ -94941,11 +94941,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x025e8287BDBcEdf252E011dC10AEf422502Ac974",
+      "symbol": "CROW",
+      "name": "Carrion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 15,
+    "minor": 16,
     "patch": 45
   }
 }
