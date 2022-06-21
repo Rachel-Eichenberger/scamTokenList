@@ -95018,11 +95018,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x853AB45d9CD7208cc3451C56eA94263F6C82BbB5",
+      "symbol": "MINISTARDOGE",
+      "name": "MiniStarDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 22,
+    "minor": 23,
     "patch": 45
   }
 }
