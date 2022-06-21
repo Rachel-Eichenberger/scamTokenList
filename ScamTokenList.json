@@ -94754,11 +94754,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8442a6677f51D0BF4d704c1f3646c38d60E9ce3",
+      "symbol": "RRI",
+      "name": "RyderRippsInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 98,
+    "minor": 99,
     "patch": 44
   }
 }
