@@ -95172,11 +95172,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8475214db0D6bF979ae3d7C484c136cBa8d1Ff4",
+      "symbol": "FSM",
+      "name": "FlyingSpaghettiMons",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 36,
+    "minor": 37,
     "patch": 45
   }
 }
