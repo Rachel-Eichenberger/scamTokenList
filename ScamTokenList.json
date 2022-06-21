@@ -95029,11 +95029,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51BDE723D5cF0ce453870Ab8e0Faa17E228adF1b",
+      "symbol": "AQS",
+      "name": "Aquasis",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 23,
+    "minor": 24,
     "patch": 45
   }
 }
