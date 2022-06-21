@@ -94644,11 +94644,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeEaEa193bF3fcA94c454d39341bd28EfBeeD2c0b",
+      "symbol": "USA",
+      "name": "USA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 88,
+    "minor": 89,
     "patch": 44
   }
 }
