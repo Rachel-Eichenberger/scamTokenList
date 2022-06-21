@@ -94853,11 +94853,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2E6d0Aa78e50a33d07BDB6bdf21334da187F768",
+      "symbol": "NORO",
+      "name": "NoroInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 7,
+    "minor": 8,
     "patch": 45
   }
 }
