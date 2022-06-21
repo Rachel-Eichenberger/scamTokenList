@@ -95205,11 +95205,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55f5906b24fF7eA57fabC9CA0F101AAe57741dDB",
+      "symbol": "SHIB20",
+      "name": "SHIBA20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 39,
+    "minor": 40,
     "patch": 45
   }
 }
