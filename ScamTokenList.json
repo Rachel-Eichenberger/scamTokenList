@@ -95084,11 +95084,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19CE9eE1233613FCAA83cd7372113dA9F77e83D4",
+      "symbol": "BFF",
+      "name": "bfffrens",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 28,
+    "minor": 29,
     "patch": 45
   }
 }
