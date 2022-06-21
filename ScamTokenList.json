@@ -95183,11 +95183,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x746c42bD7d87DEe3a8D7BaF64239552D0003744a",
+      "symbol": "HNT",
+      "name": "HyperNation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 37,
+    "minor": 38,
     "patch": 45
   }
 }
