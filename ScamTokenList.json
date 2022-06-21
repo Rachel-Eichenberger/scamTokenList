@@ -95062,11 +95062,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE4B1cC9C39D4FD0e22515D0725307cbD5E83E2e",
+      "symbol": "VENGERBURN",
+      "name": "VengerBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 26,
+    "minor": 27,
     "patch": 45
   }
 }
