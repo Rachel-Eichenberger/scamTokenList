@@ -94963,11 +94963,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b57c506518EB67Aea66f7F85D388Beb7392C2Ec",
+      "symbol": "SAITAMA20",
+      "name": "SAITAMA20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 17,
+    "minor": 18,
     "patch": 45
   }
 }
