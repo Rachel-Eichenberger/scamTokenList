@@ -94952,11 +94952,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb55a965F596C7Ee3dBEcD8905973B970c60f0Fd9",
+      "symbol": "3OK",
+      "name": "TREEOFKNOWLEDGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 16,
+    "minor": 17,
     "patch": 45
   }
 }
