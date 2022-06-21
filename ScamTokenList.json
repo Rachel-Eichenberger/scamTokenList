@@ -95216,11 +95216,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7452A8fE99391CF6c606d3004F8b2B83A4a8420",
+      "symbol": "ELOGE100",
+      "name": "ElonDOGE100M",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 40,
+    "minor": 41,
     "patch": 45
   }
 }
