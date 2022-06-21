@@ -95073,11 +95073,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9bB7Db6eB7ac3cCF241d5E4A11ae7F3bDf29c89",
+      "symbol": "BFF",
+      "name": "BFFToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 27,
+    "minor": 28,
     "patch": 45
   }
 }
