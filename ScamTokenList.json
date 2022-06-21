@@ -94765,11 +94765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3c0EcF9190CA5c3A287e95014c6a6413D67899b",
+      "symbol": "DOGEX",
+      "name": "DogecoinX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 46,
-    "minor": 99,
-    "patch": 44
+    "major": 47,
+    "minor": 0,
+    "patch": 45
   }
 }
