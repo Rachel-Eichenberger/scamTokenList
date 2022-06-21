@@ -94787,11 +94787,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88b69700af53392518477C0Ea80F1506b3C63cF8",
+      "symbol": "STREAMER20",
+      "name": "STREAMER20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 1,
+    "minor": 2,
     "patch": 45
   }
 }
