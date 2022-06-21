@@ -94985,11 +94985,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9eb4719bf4295Ec31B28f67F7F94f7ef4dFDC3a1",
+      "symbol": "BOOM",
+      "name": "BoomerangCapital",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 19,
+    "minor": 20,
     "patch": 45
   }
 }
