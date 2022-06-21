@@ -94842,11 +94842,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98A2585eae1d376EF69672542cBb4D25de4bA998",
+      "symbol": "WORK2EARN",
+      "name": "Work2Earn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 6,
+    "minor": 7,
     "patch": 45
   }
 }
