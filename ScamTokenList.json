@@ -94743,11 +94743,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x405e8bA97cC8299d7b2c01696667DfD3214a8668",
+      "symbol": "TEHGOLDENONES",
+      "name": "Gold20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 97,
+    "minor": 98,
     "patch": 44
   }
 }
