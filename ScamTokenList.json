@@ -94710,11 +94710,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b61E07289db0f654c9266061B49cC44cCefc1a8",
+      "symbol": "FIND",
+      "name": "Find",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 94,
+    "minor": 95,
     "patch": 44
   }
 }
