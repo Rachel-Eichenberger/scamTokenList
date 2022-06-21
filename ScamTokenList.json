@@ -94677,11 +94677,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6312bEAe52B18a891BF17eFAf814A22Db594FA30",
+      "symbol": "USA",
+      "name": "USA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 91,
+    "minor": 92,
     "patch": 44
   }
 }
