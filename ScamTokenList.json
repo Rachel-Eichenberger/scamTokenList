@@ -95161,11 +95161,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57e11b2F52e57c2173217Ae87b9A0F16875c2957",
+      "symbol": "FALDO",
+      "name": "FaldoToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 35,
+    "minor": 36,
     "patch": 45
   }
 }
