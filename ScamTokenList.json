@@ -94864,11 +94864,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80643C93Af02E8BfdDB6FC2F04bc14B3a5FB81ca",
+      "symbol": "FUKU",
+      "name": "Fukurokuju",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 8,
+    "minor": 9,
     "patch": 45
   }
 }
