@@ -95194,11 +95194,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF314E38B61a5cd4B66e3a704118ACe143B48BfA1",
+      "symbol": "NWA",
+      "name": "FuckThePolice",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 38,
+    "minor": 39,
     "patch": 45
   }
 }
