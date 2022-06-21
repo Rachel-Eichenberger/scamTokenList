@@ -94633,11 +94633,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03df1D6f95fb374cd799b82cC960342C7032eE6d",
+      "symbol": "AI",
+      "name": "AI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 87,
+    "minor": 88,
     "patch": 44
   }
 }
