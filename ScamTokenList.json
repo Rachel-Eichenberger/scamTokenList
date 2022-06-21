@@ -95150,11 +95150,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaE1B648cDd77Cc1657eDb0aA4De1970F256381f6",
+      "symbol": "DOGE30",
+      "name": "DOGE30",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 34,
+    "minor": 35,
     "patch": 45
   }
 }
