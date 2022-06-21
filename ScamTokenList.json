@@ -95227,11 +95227,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdCC597eC273B98335DCb9d9AFe3c8b54D54a6AE5",
+      "symbol": "DRAWLY",
+      "name": "Drawly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 41,
+    "minor": 42,
     "patch": 45
   }
 }
