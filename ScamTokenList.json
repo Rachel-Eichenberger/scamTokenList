@@ -94974,11 +94974,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x674c57CDbD56c67a3d5380684c98A82B54AEaf6c",
+      "symbol": "BASE58",
+      "name": "TehCryptology",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 18,
+    "minor": 19,
     "patch": 45
   }
 }
