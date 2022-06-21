@@ -95106,11 +95106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B9298ef535e8240CE34f0D5712D1127C5AAaEE0",
+      "symbol": "TMRG",
+      "name": "TheMerge",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 30,
+    "minor": 31,
     "patch": 45
   }
 }
