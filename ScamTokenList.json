@@ -94776,11 +94776,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b33DBaEA36e7A8C9fFe85b1dA9693459f41049A",
+      "symbol": "GOLD20",
+      "name": "TehGoldenOnes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 0,
+    "minor": 1,
     "patch": 45
   }
 }
