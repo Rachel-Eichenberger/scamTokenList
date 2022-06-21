@@ -95040,11 +95040,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3Ff6bfD6D64db4bbb31d7a963d3D16624ad6529",
+      "symbol": "711",
+      "name": "711",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 24,
+    "minor": 25,
     "patch": 45
   }
 }
