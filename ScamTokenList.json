@@ -94809,11 +94809,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc97bf9DfAf8131732FB7d62f8ef95d16A3FAa1e6",
+      "symbol": "RR",
+      "name": "RRBAYC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 3,
+    "minor": 4,
     "patch": 45
   }
 }
