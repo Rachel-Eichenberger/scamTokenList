@@ -95117,11 +95117,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c171AD5Bff8Dbf7f0A4c4874b6B046eD26c49b1",
+      "symbol": "BD20",
+      "name": "BABYDOGE20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 31,
+    "minor": 32,
     "patch": 45
   }
 }
