@@ -95128,11 +95128,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4238F58F74aF1a2c32abBf0500976C9174b3C228",
+      "symbol": "CLIFF20",
+      "name": "CLIFF20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 32,
+    "minor": 33,
     "patch": 45
   }
 }
