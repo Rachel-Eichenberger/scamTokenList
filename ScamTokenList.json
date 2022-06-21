@@ -95051,11 +95051,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22D00A95f682957A68eB3226a21e462506580f76",
+      "symbol": "AAHHHH",
+      "name": "SCREAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 25,
+    "minor": 26,
     "patch": 45
   }
 }
