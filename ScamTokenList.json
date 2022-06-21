@@ -94655,11 +94655,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B97C579C06456D909aAC917de34f2afCc010Dfa",
+      "symbol": "WHATHEFUK",
+      "name": "Biking4Biden",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 89,
+    "minor": 90,
     "patch": 44
   }
 }
