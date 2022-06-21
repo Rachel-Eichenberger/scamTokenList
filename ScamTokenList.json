@@ -94732,11 +94732,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x901Ff383a66556f3690AD3439cbEC9b773C07bc9",
+      "symbol": "SHIB2",
+      "name": "SHIB20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 46,
-    "minor": 96,
+    "minor": 97,
     "patch": 44
   }
 }
