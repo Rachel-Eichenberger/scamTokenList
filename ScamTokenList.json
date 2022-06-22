@@ -95601,11 +95601,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111A982A7957D8eEf76EBdAA5AE1A355Be4cDBf0",
+      "symbol": "NAME",
+      "name": "NAME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 75,
+    "minor": 76,
     "patch": 45
   }
 }
