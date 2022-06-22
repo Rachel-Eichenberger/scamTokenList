@@ -95513,11 +95513,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1136C6c0e30E9284349Ff98883324eE14b2826b4",
+      "symbol": "LIFE",
+      "name": "Recovery",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 67,
+    "minor": 68,
     "patch": 45
   }
 }
