@@ -95557,11 +95557,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02Ad61Ad17D3eE26BB1f72096464CE8ad0Fcf73E",
+      "symbol": "SHIBFLATION",
+      "name": "Shibflation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 71,
+    "minor": 72,
     "patch": 45
   }
 }
