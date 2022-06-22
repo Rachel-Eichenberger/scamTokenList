@@ -95480,11 +95480,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d448529090fc85AD73CFcff2C06cb338C5295cB",
+      "symbol": "SHITGOD",
+      "name": "ShitGod",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 64,
+    "minor": 65,
     "patch": 45
   }
 }
