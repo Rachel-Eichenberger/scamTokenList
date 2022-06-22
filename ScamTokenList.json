@@ -95546,11 +95546,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2588119D4D633c288f384AF48c57209bD16E6BB",
+      "symbol": "BAPES",
+      "name": "ByFrendsForApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 70,
+    "minor": 71,
     "patch": 45
   }
 }
