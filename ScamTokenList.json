@@ -95678,11 +95678,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB163e283970b07c6A8959F1fa12a8D9fDa9F3b0a",
+      "symbol": "ARASHINOME",
+      "name": "TheEyeoftehStorm",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 82,
+    "minor": 83,
     "patch": 45
   }
 }
