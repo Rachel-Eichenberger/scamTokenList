@@ -95656,11 +95656,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A6600eAC15Dd78E782607006cC6f722487a3a68",
+      "symbol": "SBI",
+      "name": "StepOnABeeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 80,
+    "minor": 81,
     "patch": 45
   }
 }
