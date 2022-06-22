@@ -95579,11 +95579,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Aed77819b8D57edf795f5BAa8d75A994411d109",
+      "symbol": "THEWHITELOTUS",
+      "name": "TheWhiteLotus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 73,
+    "minor": 74,
     "patch": 45
   }
 }
