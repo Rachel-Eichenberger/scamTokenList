@@ -95370,11 +95370,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02f86B6103CE8D623EE15006B8ba1f63BecC5ed6",
+      "symbol": "KINU",
+      "name": "KomachiInu",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 54,
+    "minor": 55,
     "patch": 45
   }
 }
