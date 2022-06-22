@@ -95403,11 +95403,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467614A76912F685AE8cA85866b00DC07B8c1fAf",
+      "symbol": "TGB",
+      "name": "TehGoldenBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 57,
+    "minor": 58,
     "patch": 45
   }
 }
