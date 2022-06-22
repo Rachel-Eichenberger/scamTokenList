@@ -95623,11 +95623,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf09b757282819bD2b1ca8eE621108717eA112ef2",
+      "symbol": "CUMMIES",
+      "name": "CumRocket",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 77,
+    "minor": 78,
     "patch": 45
   }
 }
