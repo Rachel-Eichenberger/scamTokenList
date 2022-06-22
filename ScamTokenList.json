@@ -95315,11 +95315,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd06e9B4E206239522905c2B558118eeF8179B1ea",
+      "symbol": "AIKUCHI",
+      "name": "AIKUCHIPROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 49,
+    "minor": 50,
     "patch": 45
   }
 }
