@@ -95425,11 +95425,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fbE327c8098D47702F1816BDaDb04D9AEC40FA5",
+      "symbol": "NOCTEM",
+      "name": "CarpeNoctem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 59,
+    "minor": 60,
     "patch": 45
   }
 }
