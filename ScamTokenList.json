@@ -95568,11 +95568,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x467375a53c82f06D3DC4F808f27aC0d7F0895dd7",
+      "symbol": "SHINJA20",
+      "name": "SHINJA20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 72,
+    "minor": 73,
     "patch": 45
   }
 }
