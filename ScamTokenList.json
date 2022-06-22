@@ -95447,11 +95447,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6551C144F5382f6FcDe4fA46C538841B3938fDD8",
+      "symbol": "ESHIT",
+      "name": "eShitCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 61,
+    "minor": 62,
     "patch": 45
   }
 }
