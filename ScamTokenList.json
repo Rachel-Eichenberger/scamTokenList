@@ -95645,11 +95645,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bCEbf76cEB19C73986CE714a659cC05A7C6a63d",
+      "symbol": "MNM",
+      "name": "MoonandMcDonalds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 79,
+    "minor": 80,
     "patch": 45
   }
 }
