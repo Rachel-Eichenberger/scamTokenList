@@ -95260,11 +95260,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D54AcF3B3d363fd9ce9153BFA26bD123b511FDd",
+      "symbol": "V",
+      "name": "7Virtues",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 44,
+    "minor": 45,
     "patch": 45
   }
 }
