@@ -95249,11 +95249,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76aa9676CE9620C06515144D603F14ad2e5463ED",
+      "symbol": "IMLOVINIT",
+      "name": "Imlovinit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 43,
+    "minor": 44,
     "patch": 45
   }
 }
