@@ -95326,11 +95326,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA7AE3A02D02d6e3480f512a914bD7E169d9C329f",
+      "symbol": "FIND",
+      "name": "TehAnswer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 50,
+    "minor": 51,
     "patch": 45
   }
 }
