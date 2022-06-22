@@ -95590,11 +95590,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33B8cacAbAFe2aB2f67F6B4eA409f71c1A250D54",
+      "symbol": "PIECEOFSHITGOD",
+      "name": "PieceOfShitGod",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 74,
+    "minor": 75,
     "patch": 45
   }
 }
