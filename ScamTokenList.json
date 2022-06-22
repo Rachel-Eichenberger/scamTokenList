@@ -95436,11 +95436,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69aB056d443ec4aF5A42aFfB60FBA461617AdbD2",
+      "symbol": "APEC",
+      "name": "ApeCow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 60,
+    "minor": 61,
     "patch": 45
   }
 }
