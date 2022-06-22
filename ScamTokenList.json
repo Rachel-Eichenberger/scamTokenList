@@ -95293,11 +95293,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x235Ad3942653de408abae6bfFf91ed396F83F11f",
+      "symbol": "UFO20",
+      "name": "TheTruth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 47,
+    "minor": 48,
     "patch": 45
   }
 }
