@@ -95502,11 +95502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a0D766e6AEc4020f87A921a3e1c2a9fCa13cb9a",
+      "symbol": "HINOKAMI",
+      "name": "Hinokami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 66,
+    "minor": 67,
     "patch": 45
   }
 }
