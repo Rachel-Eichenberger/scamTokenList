@@ -95282,11 +95282,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcbD37e7dB65462D513c1Fe342319154aB272902d",
+      "symbol": "TGA",
+      "name": "TehGoldenApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 46,
+    "minor": 47,
     "patch": 45
   }
 }
