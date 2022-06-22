@@ -95689,11 +95689,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50ECa2e341FB3C4565cf08FC48e5c8752C7Dfa37",
+      "symbol": "MCAFEEINU",
+      "name": "McAfeeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 83,
+    "minor": 84,
     "patch": 45
   }
 }
