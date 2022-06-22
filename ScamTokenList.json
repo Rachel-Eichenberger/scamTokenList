@@ -95271,11 +95271,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbD42A1dDBE48Cc9141AFB3E8F43Cf5C16f34974b",
+      "symbol": "VIVIAN",
+      "name": "VivianInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 45,
+    "minor": 46,
     "patch": 45
   }
 }
