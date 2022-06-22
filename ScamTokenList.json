@@ -95359,11 +95359,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD320eaC7Ee2B01d8cc8c9D00023Bf50f49DCB7C5",
+      "symbol": "BBR",
+      "name": "BuybackBurnRepeat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 53,
+    "minor": 54,
     "patch": 45
   }
 }
