@@ -95634,11 +95634,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x191ECbcF55a3d414edC7d780DdC4B3C0BA0A9A4C",
+      "symbol": "APOLLO20",
+      "name": "APOLLO20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 78,
+    "minor": 79,
     "patch": 45
   }
 }
