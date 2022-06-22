@@ -95612,11 +95612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
+      "symbol": "GVR",
+      "name": "GroveToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 76,
+    "minor": 77,
     "patch": 45
   }
 }
