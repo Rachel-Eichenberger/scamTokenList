@@ -96162,11 +96162,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a0E7c594dcAdB425D4C20f133988a35215Bf4d2",
+      "symbol": "MEYE",
+      "name": "TheMightyEye",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 26,
+    "minor": 27,
     "patch": 46
   }
 }
