@@ -96074,11 +96074,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b7f2442D4B3a01A9D63952F22000c3CD291848e",
+      "symbol": "RING",
+      "name": "RING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 18,
+    "minor": 19,
     "patch": 46
   }
 }
