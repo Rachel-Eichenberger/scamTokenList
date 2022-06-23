@@ -95744,11 +95744,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C50bb582EDD4FC96a848377f8CA48Db58c77a3F",
+      "symbol": "BTFP",
+      "name": "BUYTHEFUCKINGDIP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 88,
+    "minor": 89,
     "patch": 45
   }
 }
