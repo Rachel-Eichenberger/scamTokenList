@@ -95920,11 +95920,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x979c929055492F6dC88ef2BF80f146cffc2D1cf4",
+      "symbol": "HANA",
+      "name": "HanaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 4,
+    "minor": 5,
     "patch": 46
   }
 }
