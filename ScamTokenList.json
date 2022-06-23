@@ -95854,11 +95854,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5A44f4c0436816c0057CE99a8Dac429950f57B6",
+      "symbol": "AZAL",
+      "name": "AZADILION",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 98,
+    "minor": 99,
     "patch": 45
   }
 }
