@@ -95821,11 +95821,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0A99F5934b691De331CA1e3c036e860654d7Eda",
+      "symbol": "BEDOGE",
+      "name": "Bezosdoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 95,
+    "minor": 96,
     "patch": 45
   }
 }
