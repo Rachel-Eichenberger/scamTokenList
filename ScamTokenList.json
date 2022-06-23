@@ -95964,11 +95964,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc97EF0906535c4b6Da63A2001C076A5ec7e673b9",
+      "symbol": "FLOKIC20",
+      "name": "FlokiClassic20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 8,
+    "minor": 9,
     "patch": 46
   }
 }
