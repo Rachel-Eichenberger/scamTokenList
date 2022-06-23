@@ -96261,11 +96261,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61d9578C96dde5AC2b4979c095670424C106D813",
+      "symbol": "MRBEAR",
+      "name": "MRBEARETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 35,
+    "minor": 36,
     "patch": 46
   }
 }
