@@ -95931,11 +95931,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70918473Ee09E51646c47A815373d41be50E3B9a",
+      "symbol": "SHIBADOGE20",
+      "name": "ShibaDoge20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 5,
+    "minor": 6,
     "patch": 46
   }
 }
