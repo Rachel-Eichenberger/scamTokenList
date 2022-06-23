@@ -96228,11 +96228,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9272E2E85f8e9741BB2f8765433FDBfa3e5c7b9",
+      "symbol": "APESC",
+      "name": "ApesClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 32,
+    "minor": 33,
     "patch": 46
   }
 }
