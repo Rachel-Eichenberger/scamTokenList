@@ -96107,11 +96107,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1d5983fa7Ed54F56cEb1D95C2a501154D5c9Ef6",
+      "symbol": "ELVIS",
+      "name": "TehKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 21,
+    "minor": 22,
     "patch": 46
   }
 }
