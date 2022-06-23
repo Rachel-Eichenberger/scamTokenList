@@ -96052,11 +96052,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5370a8dC874c3227F5Ce6B7925bdfe3b2b016c14",
+      "symbol": "CLAINU",
+      "name": "InuClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 16,
+    "minor": 17,
     "patch": 46
   }
 }
