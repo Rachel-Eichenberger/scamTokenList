@@ -95722,11 +95722,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b59Fe6aF1339B3cDBddc7cA68cfC4e724C1D14F",
+      "symbol": "SMC",
+      "name": "SalarymansClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 86,
+    "minor": 87,
     "patch": 45
   }
 }
