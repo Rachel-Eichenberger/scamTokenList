@@ -95733,11 +95733,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x219Ba48912F8169fbC588236aFDdf43cd8f8e450",
+      "symbol": "FURBY",
+      "name": "Furby20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 87,
+    "minor": 88,
     "patch": 45
   }
 }
