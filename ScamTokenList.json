@@ -96206,11 +96206,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf1B0f204FF4f1a63A04f27AF6Ce6071E08AD535",
+      "symbol": "FLOKI2",
+      "name": "FLOKI20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 30,
+    "minor": 31,
     "patch": 46
   }
 }
