@@ -96173,11 +96173,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8879a6eA1a19921D191De8E5D9D45cba927a148",
+      "symbol": "SHIBRIDGE",
+      "name": "SHIBRIDGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 27,
+    "minor": 28,
     "patch": 46
   }
 }
