@@ -95832,11 +95832,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77bfc9A8853AFA95CAAD6212292C2f39E4fd7894",
+      "symbol": "NICE",
+      "name": "NiceProjekt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 96,
+    "minor": 97,
     "patch": 45
   }
 }
