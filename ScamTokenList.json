@@ -95986,11 +95986,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3751953915e08166f20a31Bde2F63BBdA43aE42",
+      "symbol": "SAITAMAC",
+      "name": "SaitamaClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 10,
+    "minor": 11,
     "patch": 46
   }
 }
