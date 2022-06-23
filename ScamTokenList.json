@@ -95909,11 +95909,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC243462870346BaEfc31dd1Bf0A4868CF51af8b9",
+      "symbol": "LAMB",
+      "name": "Altar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 3,
+    "minor": 4,
     "patch": 46
   }
 }
