@@ -95997,11 +95997,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D3b21dda56673be70362b605C866685394f3db5",
+      "symbol": "TAMAC",
+      "name": "SaitamaClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 11,
+    "minor": 12,
     "patch": 46
   }
 }
