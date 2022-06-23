@@ -95766,11 +95766,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAcB998927D5779605d9221c59Cc89a502eb2a81B",
+      "symbol": "DESTINY",
+      "name": "DestinyDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 90,
+    "minor": 91,
     "patch": 45
   }
 }
