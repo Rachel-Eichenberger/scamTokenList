@@ -95953,11 +95953,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2F123846065846C514Ef084324364dB4302e36e",
+      "symbol": "DOGEM",
+      "name": "DogeMarley",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 7,
+    "minor": 8,
     "patch": 46
   }
 }
