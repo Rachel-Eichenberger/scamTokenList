@@ -96030,11 +96030,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x635cAD9f0874Fbc7d74f11cBb02d4Ba199D1d588",
+      "symbol": "KISHUC",
+      "name": "KishuClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 14,
+    "minor": 15,
     "patch": 46
   }
 }
