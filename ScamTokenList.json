@@ -96217,11 +96217,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5928470F0747a0DB496E0788D57F06a28b338e82",
+      "symbol": "DBUY2",
+      "name": "doontBUY20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 31,
+    "minor": 32,
     "patch": 46
   }
 }
