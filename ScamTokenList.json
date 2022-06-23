@@ -96184,11 +96184,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9713D49c4E8307c1337eed928218b9ba871e76Cd",
+      "symbol": "VRTX",
+      "name": "VORTEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 28,
+    "minor": 29,
     "patch": 46
   }
 }
