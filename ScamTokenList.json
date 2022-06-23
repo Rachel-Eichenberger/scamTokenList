@@ -96151,11 +96151,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe31efDE39BA3a5Edc9f11D78231B91BA68A684AF",
+      "symbol": "DICKBUTT",
+      "name": "DickButt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 25,
+    "minor": 26,
     "patch": 46
   }
 }
