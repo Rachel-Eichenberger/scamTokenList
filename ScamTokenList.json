@@ -95711,11 +95711,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8dB58efa147Fcf0096A987a074c5B2154477063",
+      "symbol": "ZZ",
+      "name": "ZigZag",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 47,
-    "minor": 85,
+    "minor": 86,
     "patch": 45
   }
 }
