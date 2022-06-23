@@ -96019,11 +96019,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47A8a2d1642e2a4f924FCAA293304AD6a6c1dD4C",
+      "symbol": "ZFG",
+      "name": "ZeroFvcksGiven20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 13,
+    "minor": 14,
     "patch": 46
   }
 }
