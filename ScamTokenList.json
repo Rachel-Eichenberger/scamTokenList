@@ -96008,11 +96008,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x041C817639b1D116Ec8251D4ffD58eD0081c05E5",
+      "symbol": "REBIRTH",
+      "name": "ANewDawn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 12,
+    "minor": 13,
     "patch": 46
   }
 }
