@@ -96118,11 +96118,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD41e0F8da654F6b504E1EEBA92f86A038c8397E6",
+      "symbol": "GALACTIC",
+      "name": "GalacticInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 22,
+    "minor": 23,
     "patch": 46
   }
 }
