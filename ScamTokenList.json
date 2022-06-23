@@ -95898,11 +95898,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a80097CF5273B5E21802CfA4b2D08dbeD2bE535",
+      "symbol": "ANTITWOZERO",
+      "name": "Anti20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 2,
+    "minor": 3,
     "patch": 46
   }
 }
