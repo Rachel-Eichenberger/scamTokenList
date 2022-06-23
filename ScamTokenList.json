@@ -96041,11 +96041,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF070B4ecAFc6D6694C864ef7903cF7E96b36Bf8a",
+      "symbol": "AKC",
+      "name": "AKITAClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 15,
+    "minor": 16,
     "patch": 46
   }
 }
