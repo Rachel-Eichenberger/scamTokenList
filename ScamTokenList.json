@@ -96613,11 +96613,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC4af1acAa836C0f0590672F2aC8C11288031D27d",
+      "symbol": "MESSENGER",
+      "name": "IRIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 67,
+    "minor": 68,
     "patch": 46
   }
 }
