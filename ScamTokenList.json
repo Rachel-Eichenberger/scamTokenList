@@ -96393,11 +96393,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce3d6F5dC6B67B209Ff096105eA2ba6401d56316",
+      "symbol": "CSYN",
+      "name": "CryptoSyno",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 47,
+    "minor": 48,
     "patch": 46
   }
 }
