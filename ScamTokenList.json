@@ -96635,11 +96635,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x578C9480966a9c27186CFB8eFF2DcA88E9fdA2a4",
+      "symbol": "ABTN",
+      "name": "AbortionToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 69,
+    "minor": 70,
     "patch": 46
   }
 }
