@@ -96404,11 +96404,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x212Dbcd4c3CeA7BBEC03bA713233d587B00c742D",
+      "symbol": "GCAW",
+      "name": "TehGoldenHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 48,
+    "minor": 49,
     "patch": 46
   }
 }
