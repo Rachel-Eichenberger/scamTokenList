@@ -96294,11 +96294,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cf8e1B76a6C1cD2659F98760257aCd18b9c12b8",
+      "symbol": "CAWC",
+      "name": "TehClassicDream",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 38,
+    "minor": 39,
     "patch": 46
   }
 }
