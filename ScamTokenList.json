@@ -96316,11 +96316,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D1f397C895978A5A966262424Ec7d691A438E95",
+      "symbol": "FCAKE",
+      "name": "FATCAKEPROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 40,
+    "minor": 41,
     "patch": 46
   }
 }
