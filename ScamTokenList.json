@@ -96283,11 +96283,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2D2572fdcd0D560B954e810497dd63e77Bf782D",
+      "symbol": "HYDRA",
+      "name": "HYDRA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 37,
+    "minor": 38,
     "patch": 46
   }
 }
