@@ -96470,11 +96470,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x898bbe80FB7248999F1ABa7Db2C92b9761046cFD",
+      "symbol": "TNT",
+      "name": "TrashandTreasure",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 54,
+    "minor": 55,
     "patch": 46
   }
 }
