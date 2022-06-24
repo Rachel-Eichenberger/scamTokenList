@@ -96525,11 +96525,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x526CCbdf04D6673d1A9151aDC043FcB738427349",
+      "symbol": "DOGESHIT",
+      "name": "DogeShit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 59,
+    "minor": 60,
     "patch": 46
   }
 }
