@@ -96734,11 +96734,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B8d8B9Ca97678ed6E0aad8a268CDDF76Ef09400",
+      "symbol": "RUN",
+      "name": "UPSIDEDOWN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 78,
+    "minor": 79,
     "patch": 46
   }
 }
