@@ -96602,11 +96602,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x074335f3DcB429Cf754Fa3eAe205bbE4912935f1",
+      "symbol": "SHIBRA",
+      "name": "SHIBRAHIMOVIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 66,
+    "minor": 67,
     "patch": 46
   }
 }
