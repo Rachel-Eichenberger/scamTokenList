@@ -96371,11 +96371,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9cFF8780ABaDc6285385E959A8b86B902ba855AE",
+      "symbol": "VOYAGER",
+      "name": "Voyager",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 45,
+    "minor": 46,
     "patch": 46
   }
 }
