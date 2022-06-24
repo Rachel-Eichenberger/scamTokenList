@@ -96492,11 +96492,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA33Edc08d0bA8460a1c7b0939fae5a776f71b2ce",
+      "symbol": "STRIDE",
+      "name": "StrideToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 56,
+    "minor": 57,
     "patch": 46
   }
 }
