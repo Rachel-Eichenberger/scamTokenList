@@ -96624,11 +96624,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ae10a65116Ba3C208652509e8e659087C1bCD97",
+      "symbol": "R",
+      "name": "TygraInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 68,
+    "minor": 69,
     "patch": 46
   }
 }
