@@ -96679,11 +96679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Fc167a99386d5B4cD26a06848521663Bbd9E497",
+      "symbol": "SFMC",
+      "name": "SafemoonClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 73,
+    "minor": 74,
     "patch": 46
   }
 }
