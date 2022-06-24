@@ -96536,11 +96536,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26012052cC8c34cED01e6Aa5B7193ee8bE41A1f5",
+      "symbol": "ORBIT",
+      "name": "OrbitalStation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 60,
+    "minor": 61,
     "patch": 46
   }
 }
