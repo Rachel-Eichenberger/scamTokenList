@@ -96349,11 +96349,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E1e129240ced0976C1f9fAC43052196E9170d8D",
+      "symbol": "26",
+      "name": "TwentySixWords",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 43,
+    "minor": 44,
     "patch": 46
   }
 }
