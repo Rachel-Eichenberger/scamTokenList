@@ -96745,11 +96745,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65E36ae6F9FbaF81324EC5C3c3722Eef6926D113",
+      "symbol": "GMC",
+      "name": "GMClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 79,
+    "minor": 80,
     "patch": 46
   }
 }
