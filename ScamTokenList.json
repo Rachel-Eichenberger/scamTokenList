@@ -96437,11 +96437,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1eBfE39cCf63F11f0981FC7C6463f2db776Ca77B",
+      "symbol": "MAFIA",
+      "name": "Godfather",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 51,
+    "minor": 52,
     "patch": 46
   }
 }
