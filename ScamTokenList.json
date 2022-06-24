@@ -96646,11 +96646,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf877CA0Db514dAb34aEbc247C51a93775dA954eC",
+      "symbol": "FUGU",
+      "name": "Fugu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 70,
+    "minor": 71,
     "patch": 46
   }
 }
