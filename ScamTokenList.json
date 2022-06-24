@@ -96657,11 +96657,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6CA00fF33DBd079C879af7Fe7b60Ca6EF7CBef54",
+      "symbol": "BRADY",
+      "name": "TomBradyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 71,
+    "minor": 72,
     "patch": 46
   }
 }
