@@ -96305,11 +96305,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3AE1753D8dC7cfd819544E15822aD917400369b9",
+      "symbol": "SIGNAL",
+      "name": "BullTrap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 39,
+    "minor": 40,
     "patch": 46
   }
 }
