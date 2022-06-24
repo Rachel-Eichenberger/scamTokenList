@@ -96426,11 +96426,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD04728277A7192E01244bb60A60B8146493D3f53",
+      "symbol": "GSHIB",
+      "name": "GoldenShibaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 50,
+    "minor": 51,
     "patch": 46
   }
 }
