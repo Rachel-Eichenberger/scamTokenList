@@ -96723,11 +96723,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBdF49f7E574886FD5A5969C3f50Ce2B1b6560Ab3",
+      "symbol": "RANDALTHOR",
+      "name": "RandalThor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 77,
+    "minor": 78,
     "patch": 46
   }
 }
