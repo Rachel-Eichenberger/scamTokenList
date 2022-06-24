@@ -96448,11 +96448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67c53BfdFf314d2CEB3EfC8e503d7d9c3c86Df13",
+      "symbol": "MESSI",
+      "name": "MessiCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 52,
+    "minor": 53,
     "patch": 46
   }
 }
