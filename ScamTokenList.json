@@ -96415,11 +96415,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29Ed3f9F4080BF0B7d36B297F454F7d86929a240",
+      "symbol": "GOASHIBA",
+      "name": "GoaShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 49,
+    "minor": 50,
     "patch": 46
   }
 }
