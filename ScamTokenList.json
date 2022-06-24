@@ -96712,11 +96712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6dE1AD7e5e23b487df08eaBa109dd6dfE588ae3",
+      "symbol": "DEMON",
+      "name": "DemonDao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 76,
+    "minor": 77,
     "patch": 46
   }
 }
