@@ -96272,11 +96272,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d76246B9fC660EE46D554019c5884bbB6fE405B",
+      "symbol": "A11",
+      "name": "APOLLO11",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 36,
+    "minor": 37,
     "patch": 46
   }
 }
