@@ -96382,11 +96382,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78656001B1aEC4fe5d21Fc86ED00Bba83d9c06cB",
+      "symbol": "POOLIN",
+      "name": "PoolinDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 46,
+    "minor": 47,
     "patch": 46
   }
 }
