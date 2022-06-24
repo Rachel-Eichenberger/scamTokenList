@@ -96503,11 +96503,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x435ec34fA0f18bc820f9970EdbA8359F257c0c8f",
+      "symbol": "HOPE",
+      "name": "AnthonyHopkinsINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 57,
+    "minor": 58,
     "patch": 46
   }
 }
