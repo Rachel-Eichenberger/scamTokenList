@@ -96547,11 +96547,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF9e5488cD32a76b4b729B74A0388556acEb2178",
+      "symbol": "FLUFFY",
+      "name": "Fluffy30",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 61,
+    "minor": 62,
     "patch": 46
   }
 }
