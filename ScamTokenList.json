@@ -96327,11 +96327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93192e3220FF911503BeD04aC3D3beC5D337ca97",
+      "symbol": "DOGEC",
+      "name": "DogeClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 41,
+    "minor": 42,
     "patch": 46
   }
 }
