@@ -96701,11 +96701,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x099168C28EBa6a748dED5ae13FaE505320C0c7EA",
+      "symbol": "TMT",
+      "name": "TheMysteryToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 75,
+    "minor": 76,
     "patch": 46
   }
 }
