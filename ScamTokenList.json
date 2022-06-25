@@ -96921,11 +96921,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x267fDF6F472573E818cC65954AdF1B587f2D16dD",
+      "symbol": "KSKS",
+      "name": "ksks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 95,
+    "minor": 96,
     "patch": 46
   }
 }
