@@ -97009,11 +97009,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe790CFaDA2eC464149f073F8e5cf01D5bfCb9b1C",
+      "symbol": "HSHIBA",
+      "name": "HACKERSHIBA",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 3,
+    "minor": 4,
     "patch": 47
   }
 }
