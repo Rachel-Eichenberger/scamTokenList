@@ -96767,11 +96767,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC86219B778A375B7d187B5C49b5A3b9f6B5bB0b5",
+      "symbol": "TTM",
+      "name": "ToTehMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 81,
+    "minor": 82,
     "patch": 46
   }
 }
