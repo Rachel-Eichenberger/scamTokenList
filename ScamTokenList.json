@@ -96888,11 +96888,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52AF2dbb5776f19C2756Ae3c14E4A5F29C4c7be4",
+      "symbol": "ISLAND",
+      "name": "IslandToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 92,
+    "minor": 93,
     "patch": 46
   }
 }
