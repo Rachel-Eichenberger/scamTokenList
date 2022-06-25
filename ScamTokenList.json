@@ -96877,11 +96877,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17E913e6a7E8bD2A2E4D814dBA8b240E404ED906",
+      "symbol": "TURN",
+      "name": "TurnAround",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 91,
+    "minor": 92,
     "patch": 46
   }
 }
