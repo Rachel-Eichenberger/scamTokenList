@@ -96800,11 +96800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a31d04b045A7641766d95ac0eddE120bD50FbB1",
+      "symbol": "GNC",
+      "name": "GoodNightClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 84,
+    "minor": 85,
     "patch": 46
   }
 }
