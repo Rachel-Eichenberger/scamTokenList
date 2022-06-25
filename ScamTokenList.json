@@ -97075,11 +97075,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8CaD5334a438E5ac603EDCFC4a3D71f45663F2ED",
+      "symbol": "RCSN",
+      "name": "Recession",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 9,
+    "minor": 10,
     "patch": 47
   }
 }
