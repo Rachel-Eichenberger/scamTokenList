@@ -97064,11 +97064,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4eE90bbAE984895b81e2257E34e63Cf2Df559F94",
+      "symbol": "DOGHOUSE",
+      "name": "DogHouse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 8,
+    "minor": 9,
     "patch": 47
   }
 }
