@@ -96866,11 +96866,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AE4155B31a8916e962a933A3c75551E18B85c75",
+      "symbol": "FANG",
+      "name": "FangToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 90,
+    "minor": 91,
     "patch": 46
   }
 }
