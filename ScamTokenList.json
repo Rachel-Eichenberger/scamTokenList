@@ -96811,11 +96811,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44cCbcA63B9d36c468868E975d3e323d24ABd88f",
+      "symbol": "RANDALTHOR",
+      "name": "RandalThor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 85,
+    "minor": 86,
     "patch": 46
   }
 }
