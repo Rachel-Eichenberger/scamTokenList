@@ -96756,11 +96756,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85C5f5997e8f9F4A2a12F5095dA7AA111977D62c",
+      "symbol": "3DFLOKI",
+      "name": "3DFlokiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 80,
+    "minor": 81,
     "patch": 46
   }
 }
