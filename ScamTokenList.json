@@ -96998,11 +96998,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00C35D4FAF8C63cDaea047c89E29593Ed1A16a8C",
+      "symbol": "SIC",
+      "name": "ShinaInuClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 2,
+    "minor": 3,
     "patch": 47
   }
 }
