@@ -96833,11 +96833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x361c09d5Ca1c40dDe5465981fBE88450D90a3Ba3",
+      "symbol": "ETHC",
+      "name": "ETHEREUMCLASSIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 87,
+    "minor": 88,
     "patch": 46
   }
 }
