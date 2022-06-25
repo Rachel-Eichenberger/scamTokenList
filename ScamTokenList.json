@@ -96932,11 +96932,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x951cC94a8a2F1a4640480d6A8df3638d9Eae723D",
+      "symbol": "LZRD",
+      "name": "LizardToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 96,
+    "minor": 97,
     "patch": 46
   }
 }
