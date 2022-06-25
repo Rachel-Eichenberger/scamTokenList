@@ -96822,11 +96822,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x933192d85104AF8405398FE75cF9ced8A4a9D5BF",
+      "symbol": "GMC",
+      "name": "GoodMorningClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 86,
+    "minor": 87,
     "patch": 46
   }
 }
