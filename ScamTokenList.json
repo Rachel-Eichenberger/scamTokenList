@@ -97020,11 +97020,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x965AE480fA102e15BB22C77e1Eec51097367B1B8",
+      "symbol": "GC",
+      "name": "TehGoldenClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 4,
+    "minor": 5,
     "patch": 47
   }
 }
