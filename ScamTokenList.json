@@ -96943,11 +96943,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x973Bf0dEdb1593B1Bff6fB22a503F930f9DdB159",
+      "symbol": "69",
+      "name": "69",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 97,
+    "minor": 98,
     "patch": 46
   }
 }
