@@ -97086,11 +97086,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Dd64863A9381715a66DfB76b7059698b841Ff5e",
+      "symbol": "BIYC",
+      "name": "BoredInuYachtClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 10,
+    "minor": 11,
     "patch": 47
   }
 }
