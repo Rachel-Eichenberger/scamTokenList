@@ -97053,11 +97053,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3202B2fA97A5A85Cf166cb3eB54eC65f074D4C02",
+      "symbol": "EON",
+      "name": "EpitomeOfNothing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 7,
+    "minor": 8,
     "patch": 47
   }
 }
