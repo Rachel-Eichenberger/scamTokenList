@@ -96899,11 +96899,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61c5600D40396202f31863e020a206a5CA7c2caF",
+      "symbol": "BIGMAC",
+      "name": "thebigmacxyz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 48,
-    "minor": 93,
+    "minor": 94,
     "patch": 46
   }
 }
