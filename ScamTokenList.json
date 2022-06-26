@@ -97152,11 +97152,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1e9c88E9a733a9C085Fe4B8572729EBA0474Cef",
+      "symbol": "GCAW",
+      "name": "GoldenHuntersDream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 16,
+    "minor": 17,
     "patch": 47
   }
 }
