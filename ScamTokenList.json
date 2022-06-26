@@ -97273,11 +97273,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B1eB5e65B715b911BF3C4C867229E574d925109",
+      "symbol": "FLOKIM",
+      "name": "FlokiModern",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 27,
+    "minor": 28,
     "patch": 47
   }
 }
