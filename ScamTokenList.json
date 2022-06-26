@@ -97471,11 +97471,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb609395B4479fe923a37FeCb64300D5d60a53Cf",
+      "symbol": "ELON51",
+      "name": "ELON51Birthday",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 45,
+    "minor": 46,
     "patch": 47
   }
 }
