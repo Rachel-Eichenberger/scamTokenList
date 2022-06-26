@@ -97207,11 +97207,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF856b7fFf13d5b6186AE7cd14B44F8617E63f713",
+      "symbol": "ETHTO1245LFG",
+      "name": "ETHto1245LFG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 21,
+    "minor": 22,
     "patch": 47
   }
 }
