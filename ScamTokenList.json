@@ -97449,11 +97449,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad96fa8f3Fec9e80426deF5111C3BA1719add9b1",
+      "symbol": "ADIH",
+      "name": "AnotherDayinHell",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 43,
+    "minor": 44,
     "patch": 47
   }
 }
