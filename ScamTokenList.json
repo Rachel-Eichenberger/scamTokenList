@@ -97537,11 +97537,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC59f32A86d7CE3f06E0A931353AAd965aB7Ad4CF",
+      "symbol": "OLUX",
+      "name": "OLUXToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 51,
+    "minor": 52,
     "patch": 47
   }
 }
