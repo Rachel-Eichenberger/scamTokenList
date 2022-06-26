@@ -97405,11 +97405,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B45aD4325805BB82dc4B73cE68B43387aD54bF0",
+      "symbol": "DOGGERC",
+      "name": "DoggerClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 39,
+    "minor": 40,
     "patch": 47
   }
 }
