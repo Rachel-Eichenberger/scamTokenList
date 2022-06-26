@@ -97251,11 +97251,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98569055F736C78131BE86e77ac060899cb9f7E3",
+      "symbol": "FPUNKZ",
+      "name": "FlokiPunkz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 25,
+    "minor": 26,
     "patch": 47
   }
 }
