@@ -97592,11 +97592,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34D5D515C1a9824237B7f3946074Ee0188c6ce8a",
+      "symbol": "LUST",
+      "name": "SevenDeadlySins",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 56,
+    "minor": 57,
     "patch": 47
   }
 }
