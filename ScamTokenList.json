@@ -97570,11 +97570,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xecf76a34f724cC47E43Bb0709d22b1B935959f11",
+      "symbol": "POOPETH",
+      "name": "MrPoopETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 54,
+    "minor": 55,
     "patch": 47
   }
 }
