@@ -97306,11 +97306,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf840E53C96f5f62c87E4C5d5f45BaEBf79f310E7",
+      "symbol": "GTA",
+      "name": "GrandTheftAutoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 30,
+    "minor": 31,
     "patch": 47
   }
 }
