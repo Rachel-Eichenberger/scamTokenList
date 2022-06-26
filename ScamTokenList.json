@@ -97317,11 +97317,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CCeA7321Ab8CbE5Ce0d3ec9578BB8efDf5debF3",
+      "symbol": "DOGEFAMILY",
+      "name": "DogeFamily",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 31,
+    "minor": 32,
     "patch": 47
   }
 }
