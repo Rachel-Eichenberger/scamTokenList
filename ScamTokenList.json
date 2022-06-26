@@ -97372,11 +97372,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3b92eA89482129cC331ec9Ef0fF2b91f4BcF291",
+      "symbol": "DDUMP",
+      "name": "DDumpter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 36,
+    "minor": 37,
     "patch": 47
   }
 }
