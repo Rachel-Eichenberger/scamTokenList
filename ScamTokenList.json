@@ -97350,11 +97350,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EcFc843d5DAaE1CAcd07665cfBa8F4720741775",
+      "symbol": "MJI",
+      "name": "MichaelJacksonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 34,
+    "minor": 35,
     "patch": 47
   }
 }
