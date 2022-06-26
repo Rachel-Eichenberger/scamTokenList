@@ -97559,11 +97559,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67bCAcc3AF34057b8c6798957344170E333530A2",
+      "symbol": "ELONC",
+      "name": "DogelonClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 53,
+    "minor": 54,
     "patch": 47
   }
 }
