@@ -97328,11 +97328,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d63dC2DA36AAa37c40cB8350165c4e1aa35E6E8",
+      "symbol": "BOBAMASK",
+      "name": "Bobamask",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 32,
+    "minor": 33,
     "patch": 47
   }
 }
