@@ -97185,11 +97185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x681610c36d95E69C1bC08a3A4a684ecb9b53E7FB",
+      "symbol": "DP",
+      "name": "DEGENPOWER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 19,
+    "minor": 20,
     "patch": 47
   }
 }
