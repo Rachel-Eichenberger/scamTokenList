@@ -97174,11 +97174,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x253757A261D1056007f61A33d519D5470b1B0425",
+      "symbol": "GHOST",
+      "name": "Ghost",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 18,
+    "minor": 19,
     "patch": 47
   }
 }
