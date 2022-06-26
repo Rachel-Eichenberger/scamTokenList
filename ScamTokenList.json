@@ -97427,11 +97427,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1DE5a5905Aa4223a4035F39C73101Fd8C35e55f",
+      "symbol": "MAFIA",
+      "name": "MAFIA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 41,
+    "minor": 42,
     "patch": 47
   }
 }
