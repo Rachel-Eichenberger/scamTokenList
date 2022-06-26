@@ -97438,11 +97438,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x509F4Afa61867f3BcD1D891cB12D5233cc0Ef1bF",
+      "symbol": "CAWC",
+      "name": "CawClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 42,
+    "minor": 43,
     "patch": 47
   }
 }
