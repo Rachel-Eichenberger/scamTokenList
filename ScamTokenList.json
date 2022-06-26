@@ -97460,11 +97460,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x914b05CaE395164152A32f036F79c3D07791F993",
+      "symbol": "MCCC",
+      "name": "MultiChainCapitalCl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 44,
+    "minor": 45,
     "patch": 47
   }
 }
