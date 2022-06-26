@@ -97548,11 +97548,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38710F83583713D8397A3e207775de46F72dA9eB",
+      "symbol": "SIGNOFTHEFISH",
+      "name": "Ichthys",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 52,
+    "minor": 53,
     "patch": 47
   }
 }
