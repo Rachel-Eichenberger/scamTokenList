@@ -97141,11 +97141,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5C8C38a41DF6687b10060e2C5Adc3FA62F0E2c8",
+      "symbol": "SHOBE",
+      "name": "ShibKobe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 15,
+    "minor": 16,
     "patch": 47
   }
 }
