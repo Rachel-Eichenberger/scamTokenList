@@ -97614,11 +97614,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB73dF4947106A4Bfc4850CFE72B5AF478196dFcF",
+      "symbol": "BABEL",
+      "name": "TowerOfBabel",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 58,
+    "minor": 59,
     "patch": 47
   }
 }
