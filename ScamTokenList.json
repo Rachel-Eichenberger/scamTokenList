@@ -97856,11 +97856,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2De1c71EA8dbBB7956bc42879b1fB55Ff4B709C",
+      "symbol": "KISHUC",
+      "name": "KishuClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 80,
+    "minor": 81,
     "patch": 47
   }
 }
