@@ -97669,11 +97669,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x208539932f28f83C9A5fd8B723fdC3fC50BC444b",
+      "symbol": "CLASSIC2",
+      "name": "Classic20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 63,
+    "minor": 64,
     "patch": 47
   }
 }
