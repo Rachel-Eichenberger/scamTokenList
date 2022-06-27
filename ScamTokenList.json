@@ -97900,11 +97900,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B59019a773e8a5A7935DED175079be01c86B4C3",
+      "symbol": "HOKKR",
+      "name": "HokkaidoReloaded",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 84,
+    "minor": 85,
     "patch": 47
   }
 }
