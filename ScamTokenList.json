@@ -97768,11 +97768,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E39E5b97e8425DeA8F59a83Eb2D6eE4Acc62CF4",
+      "symbol": "FLOKIR",
+      "name": "FlokiReloaded",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 72,
+    "minor": 73,
     "patch": 47
   }
 }
