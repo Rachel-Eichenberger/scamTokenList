@@ -97636,11 +97636,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB36196eD48444F679DBD8e86307F2bE88818D1F4",
+      "symbol": "SWAT",
+      "name": "SWAT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 60,
+    "minor": 61,
     "patch": 47
   }
 }
