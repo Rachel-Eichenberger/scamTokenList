@@ -97955,11 +97955,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d649A2Aa1BD33961D6546eD6Cb567cB56eCa351",
+      "symbol": "SHIBR",
+      "name": "ShibaReloaded",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 89,
+    "minor": 90,
     "patch": 47
   }
 }
