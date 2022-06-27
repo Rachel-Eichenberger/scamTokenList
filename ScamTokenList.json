@@ -97812,11 +97812,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51A99CbF399D7EC378A54aA9de58D24785819205",
+      "symbol": "SHINI",
+      "name": "ShinigamiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 76,
+    "minor": 77,
     "patch": 47
   }
 }
