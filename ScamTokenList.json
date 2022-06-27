@@ -97647,11 +97647,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c7E34EacD1298caAe1157F2A4Cf9062F413a0ee",
+      "symbol": "SHIBORT",
+      "name": "ShiBortion",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 61,
+    "minor": 62,
     "patch": 47
   }
 }
