@@ -97922,11 +97922,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0dc80c9F3184106f2c08802bD8f5bCa0B2E7eEe5",
+      "symbol": "OURSDELUNE",
+      "name": "OursDeLune",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 86,
+    "minor": 87,
     "patch": 47
   }
 }
