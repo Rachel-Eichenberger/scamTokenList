@@ -97878,11 +97878,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ea47Cb8BA49c7F91737ffD2593a1C211b106df9",
+      "symbol": "DHAND",
+      "name": "DiamondHandInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 82,
+    "minor": 83,
     "patch": 47
   }
 }
