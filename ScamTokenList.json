@@ -97603,11 +97603,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x877BF50b9d3fD7f9E3107BeeC1a9EC7d09b8E11B",
+      "symbol": "FLOKIC2",
+      "name": "FlokiClassic20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 57,
+    "minor": 58,
     "patch": 47
   }
 }
