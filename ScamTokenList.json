@@ -97713,11 +97713,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E6E5CDe0777CaA63816237bEa1C0C882a0FCf60",
+      "symbol": "SHITC",
+      "name": "ShitClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 67,
+    "minor": 68,
     "patch": 47
   }
 }
