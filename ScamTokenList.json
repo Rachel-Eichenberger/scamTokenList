@@ -97834,11 +97834,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f3048d13D1d9ceE8d7aae4EDace721beB43b6B6",
+      "symbol": "6DC",
+      "name": "SixDimensionCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 78,
+    "minor": 79,
     "patch": 47
   }
 }
