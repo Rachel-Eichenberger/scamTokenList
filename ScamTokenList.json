@@ -98813,11 +98813,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91742119E963166455b286EDEf2867D09ad74281",
+      "symbol": "MAFIA",
+      "name": "MAFIA",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 67,
+    "minor": 68,
     "patch": 48
   }
 }
