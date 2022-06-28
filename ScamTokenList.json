@@ -98934,11 +98934,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a7174EA369B1622cb7926AF92A8524ef9E7735c",
+      "symbol": "UP",
+      "name": "ETHflation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 78,
+    "minor": 79,
     "patch": 48
   }
 }
