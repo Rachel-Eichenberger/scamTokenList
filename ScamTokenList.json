@@ -98692,11 +98692,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B113dE74421787EA0c6D1a52475b36dAE3fa1Fd",
+      "symbol": "SHET",
+      "name": "SHITEREUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 56,
+    "minor": 57,
     "patch": 48
   }
 }
