@@ -98835,11 +98835,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d252c568969D571aF591e454f0049eDA1d29A2d",
+      "symbol": "WP",
+      "name": "WagPunkz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 69,
+    "minor": 70,
     "patch": 48
   }
 }
