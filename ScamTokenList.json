@@ -98208,11 +98208,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EE7231a273EF75b2562543d7A19a356e688335E",
+      "symbol": "APEC",
+      "name": "ApeCoinClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 12,
+    "minor": 13,
     "patch": 48
   }
 }
