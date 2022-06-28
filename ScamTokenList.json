@@ -97977,11 +97977,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Ff165a4cc4A152eFBa9D54483494E3c1403036A",
+      "symbol": "GNF",
+      "name": "GoodNightFrens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 91,
+    "minor": 92,
     "patch": 47
   }
 }
