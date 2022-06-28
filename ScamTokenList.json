@@ -98681,11 +98681,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac40Ff2253E58E759A9efc4A0F39778453Dde958",
+      "symbol": "USDC",
+      "name": "USDClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 55,
+    "minor": 56,
     "patch": 48
   }
 }
