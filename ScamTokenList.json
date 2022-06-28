@@ -98879,11 +98879,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfAAFec02c38ebb2a7920f6307E7B4E147eB110E3",
+      "symbol": "VELARIUM",
+      "name": "Velarium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 73,
+    "minor": 74,
     "patch": 48
   }
 }
