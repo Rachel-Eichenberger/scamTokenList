@@ -98120,11 +98120,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBd344Ea9E528Df6752B0E04028E10ED1d0fC2a79",
+      "symbol": "FOOT",
+      "name": "CLASSICFOOT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 4,
+    "minor": 5,
     "patch": 48
   }
 }
