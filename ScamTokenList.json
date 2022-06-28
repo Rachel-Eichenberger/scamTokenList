@@ -98318,11 +98318,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c261EaB9e800754DA30aEa9144983a991554D5e",
+      "symbol": "GENGARC",
+      "name": "GengarClassic",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 22,
+    "minor": 23,
     "patch": 48
   }
 }
