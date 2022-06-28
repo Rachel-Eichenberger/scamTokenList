@@ -97988,11 +97988,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3b1fA6f0548Cf8C7Deb335510DC50668eb4a15C",
+      "symbol": "LIZOGE",
+      "name": "Lizoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 92,
+    "minor": 93,
     "patch": 47
   }
 }
