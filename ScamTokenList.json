@@ -98791,11 +98791,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC25691CF5a6e8d0E0689bD43f25CBc8516736F25",
+      "symbol": "GTAVI",
+      "name": "GrandTheftAutoVI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 65,
+    "minor": 66,
     "patch": 48
   }
 }
