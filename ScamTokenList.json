@@ -98186,11 +98186,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB4b93ab067554C444180DD7a05930304365090a",
+      "symbol": "BABYSHIBACLASSIC",
+      "name": "BabyShibaClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 10,
+    "minor": 11,
     "patch": 48
   }
 }
