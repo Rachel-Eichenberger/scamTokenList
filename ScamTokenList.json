@@ -98472,11 +98472,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c4f0212E97265CE27739a8b302F3317B80C0297",
+      "symbol": "BIKEF",
+      "name": "BikeFiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 36,
+    "minor": 37,
     "patch": 48
   }
 }
