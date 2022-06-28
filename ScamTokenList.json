@@ -98494,11 +98494,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3032b2Ca0748dA4A47e29D44398D34F48a1Be2bF",
+      "symbol": "BABYDOGEC",
+      "name": "BabyDogeClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 38,
+    "minor": 39,
     "patch": 48
   }
 }
