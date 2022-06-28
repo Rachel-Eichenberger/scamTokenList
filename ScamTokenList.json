@@ -98153,11 +98153,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3984478D878053Eea2b154bCDf916429d09bfBF9",
+      "symbol": "DEAD",
+      "name": "CRYPTOISDEAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 7,
+    "minor": 8,
     "patch": 48
   }
 }
