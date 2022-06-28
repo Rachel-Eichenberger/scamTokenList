@@ -98230,11 +98230,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBD9d59BEd253CCCd4A6A500FBEFf2F4F36709095",
+      "symbol": "DOGEZILLAC",
+      "name": "DogezillaClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 14,
+    "minor": 15,
     "patch": 48
   }
 }
