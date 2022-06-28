@@ -98329,11 +98329,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4071EFd58634FA46aA6DAB0A2f3eA23d9F5E37b3",
+      "symbol": "LLGT",
+      "name": "LLGTtest",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 23,
+    "minor": 24,
     "patch": 48
   }
 }
