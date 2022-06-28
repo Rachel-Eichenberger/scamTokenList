@@ -98362,11 +98362,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e552dEDDB9168D0074069664f4C86822919A58B",
+      "symbol": "KAI",
+      "name": "Kai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 26,
+    "minor": 27,
     "patch": 48
   }
 }
