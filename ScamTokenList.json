@@ -98450,11 +98450,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95174658d819936d93390EbFc561d0529F9a5D9e",
+      "symbol": "GOBY",
+      "name": "GoblinTowntoken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 34,
+    "minor": 35,
     "patch": 48
   }
 }
