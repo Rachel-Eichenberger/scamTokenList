@@ -98901,11 +98901,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x797E4bFC003e832b4b0828e05426A99c84C91102",
+      "symbol": "ELON51",
+      "name": "Elon51",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 75,
+    "minor": 76,
     "patch": 48
   }
 }
