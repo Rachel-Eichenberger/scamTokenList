@@ -98252,11 +98252,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20E62B11c6d855Ad8025EB900Ab532Ec0fFeB643",
+      "symbol": "XMMT",
+      "name": "MSHETest",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 16,
+    "minor": 17,
     "patch": 48
   }
 }
