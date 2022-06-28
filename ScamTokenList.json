@@ -98846,11 +98846,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9c1C6364467dF64E91e1A175c00990d17775275",
+      "symbol": "OCTA",
+      "name": "Octa",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 70,
+    "minor": 71,
     "patch": 48
   }
 }
