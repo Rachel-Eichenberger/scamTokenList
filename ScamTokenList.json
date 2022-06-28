@@ -98351,11 +98351,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xABe9eF01a536c72c841Dde89826b745587E2E65A",
+      "symbol": "PUP",
+      "name": "PUPSDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 25,
+    "minor": 26,
     "patch": 48
   }
 }
