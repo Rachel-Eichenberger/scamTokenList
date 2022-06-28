@@ -98417,11 +98417,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59f0BaB8d92F94B711ADF35b7458D5dd6a1512DC",
+      "symbol": "EOS",
+      "name": "EthereumonSteroids",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 31,
+    "minor": 32,
     "patch": 48
   }
 }
