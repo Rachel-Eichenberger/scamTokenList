@@ -98945,11 +98945,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7FFdc2B82a05d78A22e145E9A747f88E9DF1B04",
+      "symbol": "F9C",
+      "name": "F9Classic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 79,
+    "minor": 80,
     "patch": 48
   }
 }
