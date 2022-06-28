@@ -98483,11 +98483,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x631Fb3E9a82C8d5Cb871841A4a94d1844a45dC56",
+      "symbol": "DOG",
+      "name": "DOG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 37,
+    "minor": 38,
     "patch": 48
   }
 }
