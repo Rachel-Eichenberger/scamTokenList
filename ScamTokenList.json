@@ -98087,11 +98087,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51cce3b62462DC76fe31e57cC740f6b2484e134c",
+      "symbol": "SOS",
+      "name": "ShibaOnSteroids",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 1,
+    "minor": 2,
     "patch": 48
   }
 }
