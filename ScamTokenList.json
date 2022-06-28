@@ -98241,11 +98241,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96580623753bAC8e6817eF65C58bAe41d656CE1E",
+      "symbol": "MINIFLOKIC",
+      "name": "miniFLOKIClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 15,
+    "minor": 16,
     "patch": 48
   }
 }
