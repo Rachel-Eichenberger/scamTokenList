@@ -98923,11 +98923,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0b4E849aaFe91FB4F362a5Add6370f07532cAf5",
+      "symbol": "OSHI",
+      "name": "RyoshisDeath",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 77,
+    "minor": 78,
     "patch": 48
   }
 }
