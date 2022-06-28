@@ -98780,11 +98780,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72e22E9332e3ac5d879114Eb41c478867725bDe6",
+      "symbol": "YUGI",
+      "name": "YugiPunkz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 64,
+    "minor": 65,
     "patch": 48
   }
 }
