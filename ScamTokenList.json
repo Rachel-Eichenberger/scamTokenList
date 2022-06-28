@@ -98340,11 +98340,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa28fFE42Faf75AaDB5461ab9F36EB5b972713b5B",
+      "symbol": "GMF",
+      "name": "GoodMorningFrens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 24,
+    "minor": 25,
     "patch": 48
   }
 }
