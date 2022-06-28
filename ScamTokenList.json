@@ -98626,11 +98626,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcab7E11bffC90A3C715522912799B195ee2B0468",
+      "symbol": "DOGEO",
+      "name": "DogeOriginal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 50,
+    "minor": 51,
     "patch": 48
   }
 }
