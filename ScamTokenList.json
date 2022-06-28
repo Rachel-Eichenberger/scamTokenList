@@ -98076,11 +98076,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0bf1803d9470244F22675E64A432D4f9211862b",
+      "symbol": "SAITAMAC",
+      "name": "SAITAMACLASSIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 0,
+    "minor": 1,
     "patch": 48
   }
 }
