@@ -97966,11 +97966,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C808DC929ae15960Aa93a5239065163C5697e1C",
+      "symbol": "APOLLO",
+      "name": "ApolloClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 90,
+    "minor": 91,
     "patch": 47
   }
 }
