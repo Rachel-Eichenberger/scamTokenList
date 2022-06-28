@@ -98604,11 +98604,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4333c641191B4eD04125a152CBCDC945fB60981",
+      "symbol": "FUCKCLASSICS",
+      "name": "FUCKCLASSICS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 48,
+    "minor": 49,
     "patch": 48
   }
 }
