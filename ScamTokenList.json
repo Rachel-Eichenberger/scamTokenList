@@ -98065,11 +98065,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5D9d2BeD5c1b6673f4eccc7e890d4908f20458a",
+      "symbol": "MAGIC",
+      "name": "MagicInternetMoney",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 49,
-    "minor": 99,
-    "patch": 47
+    "major": 50,
+    "minor": 0,
+    "patch": 48
   }
 }
