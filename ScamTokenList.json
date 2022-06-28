@@ -98142,11 +98142,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8eB8fcde4A66c737Fe0096B0E516aAC71ae41F33",
+      "symbol": "LINUC",
+      "name": "LunaInuClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 6,
+    "minor": 7,
     "patch": 48
   }
 }
