@@ -98461,11 +98461,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe8C9930Bb5AB5Aa6BF0f38c63A2ffbF5d73a591",
+      "symbol": "APOLLOC",
+      "name": "APOLLOCLASSIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 35,
+    "minor": 36,
     "patch": 48
   }
 }
