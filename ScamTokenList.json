@@ -98615,11 +98615,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2f33D1CD44bE6556443074EB1Ccc363A7C87e4E",
+      "symbol": "JUSTITIA",
+      "name": "Justitia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 49,
+    "minor": 50,
     "patch": 48
   }
 }
