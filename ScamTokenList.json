@@ -98725,11 +98725,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB814D0FA851296Aab0cDe205FB516F4C682F695d",
+      "symbol": "SHIBRAI",
+      "name": "SamuraiShib",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 59,
+    "minor": 60,
     "patch": 48
   }
 }
