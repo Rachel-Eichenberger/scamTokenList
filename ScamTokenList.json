@@ -98109,11 +98109,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7056A7ECe9Bb514930745aE7c43529E4DC6Fdb3",
+      "symbol": "CCT",
+      "name": "ClassicCryptoToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 3,
+    "minor": 4,
     "patch": 48
   }
 }
