@@ -98857,11 +98857,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79d1316C07344Cc93053512a79F4E1B110fFE402",
+      "symbol": "DOGEC",
+      "name": "DOGECLASSIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 71,
+    "minor": 72,
     "patch": 48
   }
 }
