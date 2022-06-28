@@ -98054,11 +98054,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cE71d1cc476cDfa5A197D92a5ce5b47B41a46c0",
+      "symbol": "MKTO",
+      "name": "MKTO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 49,
-    "minor": 98,
+    "minor": 99,
     "patch": 47
   }
 }
