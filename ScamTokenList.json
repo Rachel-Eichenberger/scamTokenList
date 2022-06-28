@@ -98406,11 +98406,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBBa0202d7B415f82F41ef9fB32b02026D3970A8B",
+      "symbol": "TSKA",
+      "name": "TSUKABLYAT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 30,
+    "minor": 31,
     "patch": 48
   }
 }
