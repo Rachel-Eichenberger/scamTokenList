@@ -98912,11 +98912,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A78c0eAC81a1C15C12A2c7eA74534b83B22a117",
+      "symbol": "ZADING",
+      "name": "ZadingToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 76,
+    "minor": 77,
     "patch": 48
   }
 }
