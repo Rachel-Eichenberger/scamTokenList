@@ -98582,11 +98582,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D3b24F4294e1F6EE9067799C5AB308079Cd8F18",
+      "symbol": "SONIC",
+      "name": "SonicClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 46,
+    "minor": 47,
     "patch": 48
   }
 }
