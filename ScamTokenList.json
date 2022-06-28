@@ -98571,11 +98571,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd306aC03a2143869C103e1792F60452d8Ca177f4",
+      "symbol": "TGW",
+      "name": "TheGreatWall",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 45,
+    "minor": 46,
     "patch": 48
   }
 }
