@@ -98395,11 +98395,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2F9BF07F8818115EFBEccC6035864a1740cb08F",
+      "symbol": "MTB",
+      "name": "MerlinTheBlue",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 29,
+    "minor": 30,
     "patch": 48
   }
 }
