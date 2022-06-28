@@ -98197,11 +98197,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78Ef250CB865ec4c603E04386b6233cEcE22f4E2",
+      "symbol": "DARKMAGE",
+      "name": "TheDarkMage",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 11,
+    "minor": 12,
     "patch": 48
   }
 }
