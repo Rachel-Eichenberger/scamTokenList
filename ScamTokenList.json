@@ -98703,11 +98703,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86ae636fC0281dc182A1A96E9471d776Ff93544d",
+      "symbol": "DOTC",
+      "name": "POLKADOTCLASSIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 57,
+    "minor": 58,
     "patch": 48
   }
 }
