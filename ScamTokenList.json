@@ -98648,11 +98648,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2640cb07aC653625E3fc554666c14a3E0BFd0c80",
+      "symbol": "1PC",
+      "name": "ONEPIECECLASSIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 52,
+    "minor": 53,
     "patch": 48
   }
 }
