@@ -98890,11 +98890,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52560f43Bf2aa2D8aCc3875515e7398EE395315E",
+      "symbol": "DALLEINU",
+      "name": "DalleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 74,
+    "minor": 75,
     "patch": 48
   }
 }
