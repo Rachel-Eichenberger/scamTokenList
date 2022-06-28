@@ -98736,11 +98736,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x481d539d25207742D74D3d7183436FA5d5787408",
+      "symbol": "CLASSICMEME",
+      "name": "ClassicMeme",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 60,
+    "minor": 61,
     "patch": 48
   }
 }
