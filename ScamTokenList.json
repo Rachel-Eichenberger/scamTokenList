@@ -98274,11 +98274,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x390e313907801a46D1afE78bf432CeEFae9702bF",
+      "symbol": "EOS",
+      "name": "EthereumOnSteroids",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 18,
+    "minor": 19,
     "patch": 48
   }
 }
