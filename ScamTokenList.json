@@ -98747,11 +98747,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd7F7B910cb4d2C07D430d284fbB7692CB0f40bF",
+      "symbol": "DIRT",
+      "name": "DirtDiggerDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 61,
+    "minor": 62,
     "patch": 48
   }
 }
