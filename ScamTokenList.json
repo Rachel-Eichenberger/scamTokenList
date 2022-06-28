@@ -98175,11 +98175,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf2Fd8228CAC02d499774fe8775e942Fd291e311F",
+      "symbol": "LFG",
+      "name": "LEARNFROMJEET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 9,
+    "minor": 10,
     "patch": 48
   }
 }
