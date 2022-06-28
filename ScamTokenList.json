@@ -98769,11 +98769,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57A853aB4540D187d3cBEA1Da4DC46E8C2Fc4290",
+      "symbol": "MYSTERYTOKEN",
+      "name": "MysteryToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 63,
+    "minor": 64,
     "patch": 48
   }
 }
