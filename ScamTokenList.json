@@ -98670,11 +98670,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e7e1806668701F8EbC45cdC65A2D1eB8c69B00F",
+      "symbol": "IGNITE",
+      "name": "KillCliff",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 54,
+    "minor": 55,
     "patch": 48
   }
 }
