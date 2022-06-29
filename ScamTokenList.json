@@ -99264,11 +99264,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70a99a1f210321375C97d7F28F2bCed10dB12F0E",
+      "symbol": "BPDAO30",
+      "name": "BodypartsDAO",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 8,
+    "minor": 9,
     "patch": 49
   }
 }
