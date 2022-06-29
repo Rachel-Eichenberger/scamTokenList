@@ -99033,11 +99033,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e0e00Bfb95C71679c42a996601d8a337daA8491",
+      "symbol": "BEARINU",
+      "name": "BearInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 87,
+    "minor": 88,
     "patch": 48
   }
 }
