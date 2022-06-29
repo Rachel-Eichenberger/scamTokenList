@@ -99077,11 +99077,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa43f318502e1b231D2f9FDb5D2F3a5EdaB73b267",
+      "symbol": "SQC",
+      "name": "SquidClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 91,
+    "minor": 92,
     "patch": 48
   }
 }
