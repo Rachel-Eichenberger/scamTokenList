@@ -99187,11 +99187,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56123908ACA89bf60cE9659aE9F4589E46c8D2cF",
+      "symbol": "XMU",
+      "name": "Mushe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 1,
+    "minor": 2,
     "patch": 49
   }
 }
