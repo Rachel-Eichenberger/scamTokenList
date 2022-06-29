@@ -99165,11 +99165,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0801761bDB686e800B5d07636440f2CB74C2eDe2",
+      "symbol": "CULTC",
+      "name": "CULTCLASSIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 50,
-    "minor": 99,
-    "patch": 48
+    "major": 51,
+    "minor": 0,
+    "patch": 49
   }
 }
