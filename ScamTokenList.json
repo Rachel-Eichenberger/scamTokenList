@@ -99198,11 +99198,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC327d7590b7E1496F0e67005B66E6FEd6351cb41",
+      "symbol": "ANTIINFLATIONINU",
+      "name": "AntiInflationInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 2,
+    "minor": 3,
     "patch": 49
   }
 }
