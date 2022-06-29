@@ -99220,11 +99220,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85BE3EA36058E7fFaedD31Ba256527Aac09d05BB",
+      "symbol": "FOF",
+      "name": "FieldsofFurryio",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 4,
+    "minor": 5,
     "patch": 49
   }
 }
