@@ -99286,11 +99286,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCe79794e83E51A263271336f3321c89d072D1BDc",
+      "symbol": "NJINU",
+      "name": "NoJeetsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 10,
+    "minor": 11,
     "patch": 49
   }
 }
