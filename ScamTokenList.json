@@ -99341,11 +99341,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42C361aDE5F65FDe44315EB713BF01c03f885ADb",
+      "symbol": "TTP",
+      "name": "TrustTehProcess",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 15,
+    "minor": 16,
     "patch": 49
   }
 }
