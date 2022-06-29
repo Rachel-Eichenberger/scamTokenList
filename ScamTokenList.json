@@ -99088,11 +99088,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22aD461c539F5E92c368Eb738EdF34bed1782541",
+      "symbol": "GTAC",
+      "name": "GTACLASSIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 92,
+    "minor": 93,
     "patch": 48
   }
 }
