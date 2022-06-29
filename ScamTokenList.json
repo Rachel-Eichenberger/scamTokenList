@@ -99209,11 +99209,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60990D3892a5069d149bB29dD18cb1b46e00B453",
+      "symbol": "MYSTERYSTEALTHLAUNC",
+      "name": "MysteryStealthLaunc",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 3,
+    "minor": 4,
     "patch": 49
   }
 }
