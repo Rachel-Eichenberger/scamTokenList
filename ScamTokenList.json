@@ -99176,11 +99176,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0314bbfd428c53216c956011DAF876A35d782988",
+      "symbol": "ANTICLASSIC",
+      "name": "AntiClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 0,
+    "minor": 1,
     "patch": 49
   }
 }
