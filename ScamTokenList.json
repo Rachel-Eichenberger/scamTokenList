@@ -99154,11 +99154,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC0c2Eb7134c510fF5FB327b70fC451F6A5F4B026",
+      "symbol": "TOGE",
+      "name": "INUMAKITOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 98,
+    "minor": 99,
     "patch": 48
   }
 }
