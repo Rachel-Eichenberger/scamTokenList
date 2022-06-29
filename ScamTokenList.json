@@ -99275,11 +99275,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4557139A29AbccF801d3F745B27E1ED5e9D7Aab2",
+      "symbol": "SUN",
+      "name": "AmunRa",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 9,
+    "minor": 10,
     "patch": 49
   }
 }
