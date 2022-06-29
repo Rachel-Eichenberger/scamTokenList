@@ -99044,11 +99044,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce802f5964ba19A9E9d9aB4346843c8bb09dC4A5",
+      "symbol": "BULLINU",
+      "name": "BullInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 88,
+    "minor": 89,
     "patch": 48
   }
 }
