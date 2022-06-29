@@ -99022,11 +99022,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x775ad77f80129B3C2a12369e69e90d488753437a",
+      "symbol": "CW",
+      "name": "CryptoWinter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 86,
+    "minor": 87,
     "patch": 48
   }
 }
