@@ -99385,11 +99385,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDE1A2Ed7F35ef4fcFc666dDA764f9FD4fd99ED12",
+      "symbol": "HAKE",
+      "name": "Hake",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 19,
+    "minor": 20,
     "patch": 49
   }
 }
