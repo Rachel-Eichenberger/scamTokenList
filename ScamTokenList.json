@@ -99132,11 +99132,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52AaB63009377bd3C1d0FeEE0f7Fc4c843eD4020",
+      "symbol": "GOHANINU",
+      "name": "GohanInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 96,
+    "minor": 97,
     "patch": 48
   }
 }
