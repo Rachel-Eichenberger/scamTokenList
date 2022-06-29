@@ -99110,11 +99110,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF529bE0262b4b0D7a2C782DD39Fb1CB93eaF81eE",
+      "symbol": "USTIC",
+      "name": "USTINUCLASSIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 94,
+    "minor": 95,
     "patch": 48
   }
 }
