@@ -99121,11 +99121,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe9681B1B4D669E61bc3a4013836c2629821C9b2",
+      "symbol": "CHOICE",
+      "name": "ProtectOurChoice",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 95,
+    "minor": 96,
     "patch": 48
   }
 }
