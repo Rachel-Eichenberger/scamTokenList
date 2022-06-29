@@ -99000,11 +99000,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c3232ac91E48a64E2883DD5ab8eDdd3522cF6FF",
+      "symbol": "HOKKAIDOC",
+      "name": "HokkaidoClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 84,
+    "minor": 85,
     "patch": 48
   }
 }
