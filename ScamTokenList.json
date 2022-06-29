@@ -99297,11 +99297,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Ff1155D1B1EE34a1117164e5bF5e521ad7Cb7D6",
+      "symbol": "DEFCON5",
+      "name": "Defcon5",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 11,
+    "minor": 12,
     "patch": 49
   }
 }
