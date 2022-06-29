@@ -98978,11 +98978,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C31e295133c1F0890CE003662e1d9CD1C8a751F",
+      "symbol": "MONGOOSEC",
+      "name": "MongooseClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 82,
+    "minor": 83,
     "patch": 48
   }
 }
