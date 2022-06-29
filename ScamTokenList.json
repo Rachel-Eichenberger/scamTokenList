@@ -99352,11 +99352,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a76349f33247E3D7Df302beB966d0Eb9da1Cf44",
+      "symbol": "MAFIA",
+      "name": "MAFIA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 16,
+    "minor": 17,
     "patch": 49
   }
 }
