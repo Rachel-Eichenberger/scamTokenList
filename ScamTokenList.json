@@ -99242,11 +99242,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4aA1dAb8b70Bc684c610E917A39c9197B023eC0",
+      "symbol": "CHEESEJERRYC",
+      "name": "CheeseJerryC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 6,
+    "minor": 7,
     "patch": 49
   }
 }
