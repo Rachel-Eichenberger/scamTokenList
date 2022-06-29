@@ -98967,11 +98967,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c887C50253eC6b58d7f2729465712c1abA7355A",
+      "symbol": "ELEVEN",
+      "name": "Eleven",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 81,
+    "minor": 82,
     "patch": 48
   }
 }
