@@ -99374,11 +99374,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F5CFEEd7D7A55B1e9A0714dc209B15b00f75DD8",
+      "symbol": "TIMEC",
+      "name": "WonderlandClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 18,
+    "minor": 19,
     "patch": 49
   }
 }
