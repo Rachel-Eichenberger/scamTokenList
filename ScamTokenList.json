@@ -99253,11 +99253,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeB82E251e6AC8D51d53C73d8A3da789486F8F153",
+      "symbol": "LAMB",
+      "name": "AltarOftheLamb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 7,
+    "minor": 8,
     "patch": 49
   }
 }
