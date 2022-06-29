@@ -99066,11 +99066,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48e40066eB117d6E8D135564ae7b098a1137B38E",
+      "symbol": "SHIGOKU",
+      "name": "ShigokuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 90,
+    "minor": 91,
     "patch": 48
   }
 }
