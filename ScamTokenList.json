@@ -99319,11 +99319,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c4ddBeaD14Fbeb640385eEfa12c02c4A1e146FA",
+      "symbol": "SEH",
+      "name": "Mizbeah",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 13,
+    "minor": 14,
     "patch": 49
   }
 }
