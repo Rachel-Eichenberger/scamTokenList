@@ -99011,11 +99011,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC4b8737737b23097613d653eaeE3cBDDb4cF43aA",
+      "symbol": "INUC",
+      "name": "InuClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 50,
-    "minor": 85,
+    "minor": 86,
     "patch": 48
   }
 }
