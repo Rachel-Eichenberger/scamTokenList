@@ -99649,11 +99649,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1425Cc1Ba9e2F6a09468060d83554F2Bd361B4C6",
+      "symbol": "E",
+      "name": "esquie",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 43,
+    "minor": 44,
     "patch": 49
   }
 }
