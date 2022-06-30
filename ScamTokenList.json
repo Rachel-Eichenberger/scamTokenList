@@ -99616,11 +99616,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x853038d354CFCd3D63A0d4390AF4290e5fE5d0E9",
+      "symbol": "BURNBL",
+      "name": "BurnBearLand",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 40,
+    "minor": 41,
     "patch": 49
   }
 }
