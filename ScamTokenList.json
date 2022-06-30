@@ -99451,11 +99451,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A727D57af6EdDE5B1803935896fb9f003d3f27C",
+      "symbol": "USTINU",
+      "name": "USTInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 25,
+    "minor": 26,
     "patch": 49
   }
 }
