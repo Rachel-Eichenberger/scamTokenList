@@ -99759,11 +99759,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65E19Ab13D6f3B095aE252eA37B08942E01b7465",
+      "symbol": "INSTITUT",
+      "name": "TheInstitut",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 53,
+    "minor": 54,
     "patch": 49
   }
 }
