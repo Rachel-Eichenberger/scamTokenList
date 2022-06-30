@@ -99407,11 +99407,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4d96337e12ECE20Ce414a45E129d05A8513726C",
+      "symbol": "OKOS",
+      "name": "BandOfBulls",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 21,
+    "minor": 22,
     "patch": 49
   }
 }
