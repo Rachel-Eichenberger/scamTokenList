@@ -99671,11 +99671,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x344D75Fc4A6Bc41DFFEA3005c41426cdfcd8e4Fb",
+      "symbol": "STARLIGHTANYA",
+      "name": "STARLIGHTANYA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 45,
+    "minor": 46,
     "patch": 49
   }
 }
