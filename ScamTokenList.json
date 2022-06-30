@@ -99737,11 +99737,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f1af8FE23a2ccB4CD5e30a9133865842cb6a9b2",
+      "symbol": "PAW",
+      "name": "PawCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 51,
+    "minor": 52,
     "patch": 49
   }
 }
