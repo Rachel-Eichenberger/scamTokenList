@@ -99693,11 +99693,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4AE189Ee4974bcCe993918E82C6BBBBbE56A034f",
+      "symbol": "M1",
+      "name": "SUPERNOVA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 47,
+    "minor": 48,
     "patch": 49
   }
 }
