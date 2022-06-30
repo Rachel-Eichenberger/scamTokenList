@@ -99682,11 +99682,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAf0e7569de08611bbdCa18354c2ecB7b42fe8f14",
+      "symbol": "GATS",
+      "name": "GuerrillaArts",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 46,
+    "minor": 47,
     "patch": 49
   }
 }
