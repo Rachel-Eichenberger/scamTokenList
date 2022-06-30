@@ -99660,11 +99660,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26f22c365095F44b8343DeF4B18B45d6415885FD",
+      "symbol": "SAPES",
+      "name": "SolarApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 44,
+    "minor": 45,
     "patch": 49
   }
 }
