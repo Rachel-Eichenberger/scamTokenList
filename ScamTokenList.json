@@ -99770,11 +99770,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b1843D333AEce549314f19916a3AaF16647060B",
+      "symbol": "MINIONS",
+      "name": "TheRiseOfGru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 54,
+    "minor": 55,
     "patch": 49
   }
 }
