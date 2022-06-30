@@ -99429,11 +99429,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16e83475c46Ff65852e1f59299E690fDdB925d68",
+      "symbol": "USTINU",
+      "name": "USTInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 23,
+    "minor": 24,
     "patch": 49
   }
 }
