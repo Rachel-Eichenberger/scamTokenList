@@ -99550,11 +99550,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8943bACA38620Cc6956D199Bc0A98B9Bf92E23A5",
+      "symbol": "GAHOY",
+      "name": "GetaHoldofYourself",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 34,
+    "minor": 35,
     "patch": 49
   }
 }
