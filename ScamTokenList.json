@@ -99781,11 +99781,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2967Ec0A6ef70b2655eAB8Cbc346F011ba305bAb",
+      "symbol": "ROCK",
+      "name": "TheRockToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 55,
+    "minor": 56,
     "patch": 49
   }
 }
