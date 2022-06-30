@@ -99594,11 +99594,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde1E7981F27d6c68A9b886C87d8176758178098d",
+      "symbol": "KHABYLAME",
+      "name": "KhabyLameInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 38,
+    "minor": 39,
     "patch": 49
   }
 }
