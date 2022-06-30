@@ -99726,11 +99726,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63A04a1e45233e0B7cb24E4C2D0EBAC8647aac09",
+      "symbol": "ARCH",
+      "name": "ArcherProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 50,
+    "minor": 51,
     "patch": 49
   }
 }
