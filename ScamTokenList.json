@@ -99715,11 +99715,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2a9115650b6479e6CF0220C68360a5Ee803eb5D",
+      "symbol": "TONK",
+      "name": "TonkineseNeko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 49,
+    "minor": 50,
     "patch": 49
   }
 }
