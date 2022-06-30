@@ -99462,11 +99462,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39545A09779C274D31774469e7aE5D10075621CF",
+      "symbol": "NOSELLTAX",
+      "name": "NoSellTax",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 26,
+    "minor": 27,
     "patch": 49
   }
 }
