@@ -99583,11 +99583,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE368b2456a2c7E10832B22738F40314a5F38fb0a",
+      "symbol": "GENSHO",
+      "name": "Gensho",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 37,
+    "minor": 38,
     "patch": 49
   }
 }
