@@ -99528,11 +99528,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35f7F41A0D07b099000A3a39C8C513CdFaa3b518",
+      "symbol": "GNC",
+      "name": "GNCLASSIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 32,
+    "minor": 33,
     "patch": 49
   }
 }
