@@ -99561,11 +99561,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6493db72f595824F434D83682Ed6F9aEfa1a3D8",
+      "symbol": "AUR",
+      "name": "AUREUS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 35,
+    "minor": 36,
     "patch": 49
   }
 }
