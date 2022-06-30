@@ -99517,11 +99517,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x829800d876F8998C314d4e14de7BEAAc4C006E97",
+      "symbol": "FOS",
+      "name": "FuckOpenSea",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 31,
+    "minor": 32,
     "patch": 49
   }
 }
