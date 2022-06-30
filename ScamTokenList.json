@@ -99792,11 +99792,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb54AA6765E0B4CE1e3aa15A05aD7475fD6b783d",
+      "symbol": "WEB420",
+      "name": "Web420",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 56,
+    "minor": 57,
     "patch": 49
   }
 }
