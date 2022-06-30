@@ -99638,11 +99638,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x870ff76A2E630afD41cE2EfEc0a1fe885Ca9e753",
+      "symbol": "RELIGARE",
+      "name": "Religare",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 42,
+    "minor": 43,
     "patch": 49
   }
 }
