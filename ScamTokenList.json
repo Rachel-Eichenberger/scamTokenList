@@ -99748,11 +99748,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5817e4D7717419759070B0B24DE455774735cA3c",
+      "symbol": "BOYS",
+      "name": "TheBoys",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 52,
+    "minor": 53,
     "patch": 49
   }
 }
