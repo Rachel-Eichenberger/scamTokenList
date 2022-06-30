@@ -99473,11 +99473,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E3DE425737705A8A40E6b2A629BfE9404C9d564",
+      "symbol": "LOOKSC",
+      "name": "LooksClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 27,
+    "minor": 28,
     "patch": 49
   }
 }
