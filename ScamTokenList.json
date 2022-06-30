@@ -99627,11 +99627,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B7D6dDfA0916a6E99a75AfC5E120b0754947B64",
+      "symbol": "BLACKBIRDC",
+      "name": "BlackbirdClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 41,
+    "minor": 42,
     "patch": 49
   }
 }
