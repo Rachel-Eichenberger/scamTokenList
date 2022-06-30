@@ -99825,11 +99825,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFd74526301cAfd62AF34931f12C4bd1Dfd82629C",
+      "symbol": "REKT",
+      "name": "Copytrader",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 59,
+    "minor": 60,
     "patch": 49
   }
 }
