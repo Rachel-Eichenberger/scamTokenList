@@ -99836,11 +99836,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd82123f34036Ca3393e4BaC0e7F54727B8aFCc8",
+      "symbol": "MILOYI",
+      "name": "MiloyiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 60,
+    "minor": 61,
     "patch": 49
   }
 }
