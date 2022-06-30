@@ -99704,11 +99704,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17B99FD04b4D5A84EA26A54Bbf4d1eabbF446620",
+      "symbol": "LRI",
+      "name": "LabradorRetrieverIn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 48,
+    "minor": 49,
     "patch": 49
   }
 }
