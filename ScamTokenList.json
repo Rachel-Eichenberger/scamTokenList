@@ -99418,11 +99418,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE4D0775105C9E5D75E5bb25Fe86710E74566386",
+      "symbol": "HELON",
+      "name": "HEXELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 22,
+    "minor": 23,
     "patch": 49
   }
 }
