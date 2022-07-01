@@ -100188,11 +100188,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x903198e76a45caCed7537C443429b37c5cFE8037",
+      "symbol": "SQUIDGROW",
+      "name": "SquidGrow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 92,
+    "minor": 93,
     "patch": 49
   }
 }
