@@ -99946,11 +99946,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB99431198a4aDA69C008c79363b472c11Cb70C93",
+      "symbol": "UNICORN",
+      "name": "TheERC20Unicorn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 70,
+    "minor": 71,
     "patch": 49
   }
 }
