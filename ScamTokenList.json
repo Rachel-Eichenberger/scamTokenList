@@ -100177,11 +100177,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2a18B87f60f8fE7C3B685e58e4342bE376E3c80",
+      "symbol": "SLAY2EARN",
+      "name": "SLAY2EARN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 91,
+    "minor": 92,
     "patch": 49
   }
 }
