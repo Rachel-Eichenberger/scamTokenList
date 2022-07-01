@@ -99957,11 +99957,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01E83c4df50F233fFf3Da9D8835Ab94F77993006",
+      "symbol": "MVN",
+      "name": "Maven",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 71,
+    "minor": 72,
     "patch": 49
   }
 }
