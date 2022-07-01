@@ -100012,11 +100012,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF82B12dD23D3E526B2e3b74ecd8F5A0B76F00ab8",
+      "symbol": "GAARA",
+      "name": "GAARA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 76,
+    "minor": 77,
     "patch": 49
   }
 }
