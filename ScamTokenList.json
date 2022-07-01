@@ -100100,11 +100100,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x742Bade6960EdFfC6E464e5175FbC68ae755401e",
+      "symbol": "SW1987",
+      "name": "SpidersWeb",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 84,
+    "minor": 85,
     "patch": 49
   }
 }
