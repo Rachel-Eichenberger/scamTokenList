@@ -100078,11 +100078,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBaa9c87C92E8B1408AC1302A6D2099073359f9A8",
+      "symbol": "STUPID",
+      "name": "StupidMoney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 82,
+    "minor": 83,
     "patch": 49
   }
 }
