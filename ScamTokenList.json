@@ -100144,11 +100144,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Ae3DAbb2924940FF4115dF190875e475c429254",
+      "symbol": "BSU",
+      "name": "BLACKSHEEPUNITED",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 88,
+    "minor": 89,
     "patch": 49
   }
 }
