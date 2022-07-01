@@ -100265,11 +100265,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82b5D812d37d4e5099409C55C7057596755139a8",
+      "symbol": "OWNER",
+      "name": "Degenville",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 51,
-    "minor": 99,
-    "patch": 49
+    "major": 52,
+    "minor": 0,
+    "patch": 50
   }
 }
