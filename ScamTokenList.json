@@ -100122,11 +100122,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcFeF8d1d8490D99EbfDd036d681dD57BECD7A7C9",
+      "symbol": "SHRED",
+      "name": "ShibnobiReloaded",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 86,
+    "minor": 87,
     "patch": 49
   }
 }
