@@ -100199,11 +100199,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x622F5f08Fe5C7A5fAB89498b3eB03CE2D3072087",
+      "symbol": "QUICKIE",
+      "name": "THEGREATRACE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 93,
+    "minor": 94,
     "patch": 49
   }
 }
