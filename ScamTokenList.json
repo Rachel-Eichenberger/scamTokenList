@@ -100067,11 +100067,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AD20875dCE548eBDc47445bB3e7d21E66A9F16d",
+      "symbol": "FUKYEH",
+      "name": "Murica",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 81,
+    "minor": 82,
     "patch": 49
   }
 }
