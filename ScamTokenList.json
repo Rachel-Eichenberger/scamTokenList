@@ -100089,11 +100089,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44cbf53666ee06327869FF06A10205f83c76AC58",
+      "symbol": "HEROES",
+      "name": "FantasyHeroes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 83,
+    "minor": 84,
     "patch": 49
   }
 }
