@@ -99891,11 +99891,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB488b71960AEAD7Bb6616c1AaE6Ea24A0fbfB814",
+      "symbol": "CGN",
+      "name": "ClassicGoodNight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 65,
+    "minor": 66,
     "patch": 49
   }
 }
