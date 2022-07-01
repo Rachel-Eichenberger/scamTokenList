@@ -99979,11 +99979,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E8cb9CCdd2Eb2404089596E0D9c67912dAbB2E1",
+      "symbol": "SHITGAME",
+      "name": "ShitCoinGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 73,
+    "minor": 74,
     "patch": 49
   }
 }
