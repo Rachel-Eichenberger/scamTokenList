@@ -100056,11 +100056,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d1C6771b236F8974D4D2068806c81C539B0EE4B",
+      "symbol": "KAMAITA",
+      "name": "KamaitachiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 80,
+    "minor": 81,
     "patch": 49
   }
 }
