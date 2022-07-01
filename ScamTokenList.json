@@ -100221,11 +100221,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73d6B1EF5227EA7f97426a9ADE2b9006eb88eE5D",
+      "symbol": "WOJAK",
+      "name": "MRANDMRSWOJAK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 95,
+    "minor": 96,
     "patch": 49
   }
 }
