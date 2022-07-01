@@ -100001,11 +100001,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ff337d152f90e482550D67ed5B86369D1DCC704",
+      "symbol": "M00N",
+      "name": "Tehm00n",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 75,
+    "minor": 76,
     "patch": 49
   }
 }
