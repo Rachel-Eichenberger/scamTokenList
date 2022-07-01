@@ -100276,11 +100276,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3462F9043d4e66aE57C0E4578B5493f59fd259fB",
+      "symbol": "GMC",
+      "name": "GMC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 0,
+    "minor": 1,
     "patch": 50
   }
 }
