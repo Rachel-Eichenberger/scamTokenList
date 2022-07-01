@@ -99847,11 +99847,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb37868F74D414121BBc5E7879449EB4215C12D15",
+      "symbol": "ONEPIECE",
+      "name": "OnePieceGearUp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 61,
+    "minor": 62,
     "patch": 49
   }
 }
