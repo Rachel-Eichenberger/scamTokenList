@@ -100133,11 +100133,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F43cD0D0BfC6c8b3ad458f58953751e04e2fcB6",
+      "symbol": "FPUNK",
+      "name": "FlokiPunkz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 87,
+    "minor": 88,
     "patch": 49
   }
 }
