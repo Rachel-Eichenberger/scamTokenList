@@ -99913,11 +99913,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed519ced9d058C52934669979fE1892C70e6F9D7",
+      "symbol": "YFIII",
+      "name": "YFIII",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 67,
+    "minor": 68,
     "patch": 49
   }
 }
