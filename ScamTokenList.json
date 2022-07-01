@@ -100045,11 +100045,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30a529C0705a05B02B0D78471509C6C4bAa86F1b",
+      "symbol": "HANUMANINU",
+      "name": "HANUMANINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 79,
+    "minor": 80,
     "patch": 49
   }
 }
