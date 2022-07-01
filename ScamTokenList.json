@@ -100210,11 +100210,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89b2FD135F4a6f09112d7bC92B4ab1F1d062DaC1",
+      "symbol": "VOUCH",
+      "name": "VouchRegister",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 94,
+    "minor": 95,
     "patch": 49
   }
 }
