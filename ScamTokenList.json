@@ -99924,11 +99924,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15f2ED83abeF5cdc462975310B958C237eaE4710",
+      "symbol": "SKOLL",
+      "name": "SKOLL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 68,
+    "minor": 69,
     "patch": 49
   }
 }
