@@ -99990,11 +99990,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD9B548942D7A1da54520Bc170136Ca2ED4F7303",
+      "symbol": "JJK",
+      "name": "RyoikiTenkai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 51,
-    "minor": 74,
+    "minor": 75,
     "patch": 49
   }
 }
