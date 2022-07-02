@@ -100639,11 +100639,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E0484D4351BBC9f8062454f13348594660C5727",
+      "symbol": "PAIRS",
+      "name": "PAIRSDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 33,
+    "minor": 34,
     "patch": 50
   }
 }
