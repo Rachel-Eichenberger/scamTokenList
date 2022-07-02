@@ -100386,11 +100386,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E949dA9d8b1c80567F314a6213D698F05582472",
+      "symbol": "MBURN",
+      "name": "MarketBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 10,
+    "minor": 11,
     "patch": 50
   }
 }
