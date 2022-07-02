@@ -100320,11 +100320,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x111f86b56cB5B5EdD44D469eB9012EDB7E889eFd",
+      "symbol": "TRIANGLE",
+      "name": "Triangle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 4,
+    "minor": 5,
     "patch": 50
   }
 }
