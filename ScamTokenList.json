@@ -100419,11 +100419,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4959748695cA05a41994B7535c18916ed5D3a9F8",
+      "symbol": "SOXINU",
+      "name": "SOXINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 13,
+    "minor": 14,
     "patch": 50
   }
 }
