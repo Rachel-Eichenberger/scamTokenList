@@ -100716,11 +100716,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2b82352A8b0f35eB346Ed142754B37FA4546a68",
+      "symbol": "WEB11",
+      "name": "WebClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 40,
+    "minor": 41,
     "patch": 50
   }
 }
