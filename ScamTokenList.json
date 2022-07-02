@@ -100485,11 +100485,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7874FCca9432cd6e940E8962349657Df680144c6",
+      "symbol": "ARKV3",
+      "name": "ARKV3",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 19,
+    "minor": 20,
     "patch": 50
   }
 }
