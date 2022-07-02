@@ -100375,11 +100375,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x556b3eB5Fb7E9C3ef74fe503E97A93f58e96b424",
+      "symbol": "VENICELON",
+      "name": "Venicelon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 9,
+    "minor": 10,
     "patch": 50
   }
 }
