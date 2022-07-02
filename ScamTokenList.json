@@ -100518,11 +100518,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe32d9309d307b0BBA3381B17E04d16c31357683",
+      "symbol": "LFG",
+      "name": "LetsFuckingGo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 22,
+    "minor": 23,
     "patch": 50
   }
 }
