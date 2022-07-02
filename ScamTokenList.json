@@ -100650,11 +100650,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4Db4B181c051f69E36CDb0433Ea1D81DaD36085",
+      "symbol": "WAGON",
+      "name": "WagonToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 34,
+    "minor": 35,
     "patch": 50
   }
 }
