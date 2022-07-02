@@ -100749,11 +100749,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBA1824325b0DFC96C2B3575B693f71c32d099e50",
+      "symbol": "WTE",
+      "name": "WorkToEarn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 43,
+    "minor": 44,
     "patch": 50
   }
 }
