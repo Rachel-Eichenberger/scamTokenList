@@ -100331,11 +100331,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e57a4FDa8Ba7AC7337AB59406a5969a9b4D3554",
+      "symbol": "NOBS",
+      "name": "NOBSClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 5,
+    "minor": 6,
     "patch": 50
   }
 }
