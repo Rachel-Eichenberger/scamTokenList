@@ -100859,11 +100859,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3F375eD3EBa35Cd1beA277DBb86BB9E313E56f1",
+      "symbol": "LOST",
+      "name": "LOST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 53,
+    "minor": 54,
     "patch": 50
   }
 }
