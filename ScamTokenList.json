@@ -100408,11 +100408,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x887cd37002296e32EA4eCFBe56E618fBe3b6276b",
+      "symbol": "TLA",
+      "name": "TheLastApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 12,
+    "minor": 13,
     "patch": 50
   }
 }
