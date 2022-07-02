@@ -100562,11 +100562,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc68A00354eaB15d59d6aF3B7a16D2CCE099372b6",
+      "symbol": "CTH",
+      "name": "CapitulationHeist",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 26,
+    "minor": 27,
     "patch": 50
   }
 }
