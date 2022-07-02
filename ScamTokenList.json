@@ -100452,11 +100452,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B52cC9051991B42A77CA1Dc703f6d15E0981241",
+      "symbol": "RAH",
+      "name": "PathofOath",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 16,
+    "minor": 17,
     "patch": 50
   }
 }
