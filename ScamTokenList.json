@@ -100540,11 +100540,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89F60B6aE36C56365bB420795222c10afF64293a",
+      "symbol": "CEXC",
+      "name": "CentralizedExchange",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 24,
+    "minor": 25,
     "patch": 50
   }
 }
