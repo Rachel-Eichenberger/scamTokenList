@@ -100782,11 +100782,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74A3EaA45f805a677F7f7eD55EAE8109F42D54A7",
+      "symbol": "BLACKWEB",
+      "name": "SilkRoad",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 46,
+    "minor": 47,
     "patch": 50
   }
 }
