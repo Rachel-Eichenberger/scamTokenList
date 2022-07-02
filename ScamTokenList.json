@@ -100397,11 +100397,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54aBa70680EC6860a5b78DA3897839ffa2a4dD0F",
+      "symbol": "CLUBS",
+      "name": "Clubs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 11,
+    "minor": 12,
     "patch": 50
   }
 }
