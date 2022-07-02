@@ -100595,11 +100595,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52A56DdD9B83C1A63B6Bdbf4c2BF925A78B76Dc9",
+      "symbol": "OVERMIND",
+      "name": "TheOvermind",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 29,
+    "minor": 30,
     "patch": 50
   }
 }
