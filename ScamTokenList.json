@@ -100606,11 +100606,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0be0d2905A5413dBf1c7197a424C72C3b68C4A1E",
+      "symbol": "CODA",
+      "name": "CodaToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 30,
+    "minor": 31,
     "patch": 50
   }
 }
