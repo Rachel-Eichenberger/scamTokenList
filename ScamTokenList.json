@@ -100353,11 +100353,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38795AB34291C5BAF98844fbD42a79AA23b7bBc5",
+      "symbol": "MHAEL",
+      "name": "MazrimTaim",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 7,
+    "minor": 8,
     "patch": 50
   }
 }
