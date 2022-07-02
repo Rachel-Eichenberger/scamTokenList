@@ -100529,11 +100529,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E0009fE945E580F0bA5812C7b7e468d6f8219f6",
+      "symbol": "META3",
+      "name": "META3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 23,
+    "minor": 24,
     "patch": 50
   }
 }
