@@ -100727,11 +100727,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a120383bE90625f4243D5E65fb372044710e46c",
+      "symbol": "STONE",
+      "name": "Stone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 41,
+    "minor": 42,
     "patch": 50
   }
 }
