@@ -100826,11 +100826,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc95a6895242Df516300d9c8AD4128df3B5dC2B67",
+      "symbol": "ZOMBIES",
+      "name": "Zombies",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 50,
+    "minor": 51,
     "patch": 50
   }
 }
