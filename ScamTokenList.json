@@ -100661,11 +100661,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4661904C37BF96868eB437Bb085a023f65366d00",
+      "symbol": "TZKIC",
+      "name": "TsuzukiClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 35,
+    "minor": 36,
     "patch": 50
   }
 }
