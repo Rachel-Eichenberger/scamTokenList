@@ -100551,11 +100551,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b551DB9C65349E5CC3c1953C8D2cB57c60D4b09",
+      "symbol": "BURNCULT",
+      "name": "BURNCULT",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 25,
+    "minor": 26,
     "patch": 50
   }
 }
