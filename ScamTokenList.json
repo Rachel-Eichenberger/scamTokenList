@@ -100342,11 +100342,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x745AB9b85aeDf22960dA539e76db90BB88A20E58",
+      "symbol": "TELON",
+      "name": "DEJITARUTSUKAELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 6,
+    "minor": 7,
     "patch": 50
   }
 }
