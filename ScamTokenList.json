@@ -100793,11 +100793,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa48a8f32d7CA8E606Ebee58ED48B8922EA6EEAC6",
+      "symbol": "LG",
+      "name": "Letsgo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 47,
+    "minor": 48,
     "patch": 50
   }
 }
