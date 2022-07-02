@@ -100683,11 +100683,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA261b211E4ea3F80917c9256690565C3e6D2D43A",
+      "symbol": "EXCALIBUR",
+      "name": "Excalibur",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 37,
+    "minor": 38,
     "patch": 50
   }
 }
