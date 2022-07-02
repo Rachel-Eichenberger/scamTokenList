@@ -100628,11 +100628,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFD261074aB57daFC31e88806036dF18ACA5DdC00",
+      "symbol": "MATRIX",
+      "name": "MatrixToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 32,
+    "minor": 33,
     "patch": 50
   }
 }
