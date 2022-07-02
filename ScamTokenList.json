@@ -100309,11 +100309,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE22c71D2890653c719461C5f9658df073A6ec55e",
+      "symbol": "MKATANA",
+      "name": "MADKATANAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 3,
+    "minor": 4,
     "patch": 50
   }
 }
