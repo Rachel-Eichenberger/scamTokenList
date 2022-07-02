@@ -100617,11 +100617,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x618241B261530E0Ea1838C1e597F576486a4274C",
+      "symbol": "ADAKAU",
+      "name": "ADAKAU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 31,
+    "minor": 32,
     "patch": 50
   }
 }
