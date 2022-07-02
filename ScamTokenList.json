@@ -100507,11 +100507,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdA45a235c400DB82E43c3328F6C6B824011D811E",
+      "symbol": "NAPOLEON",
+      "name": "NAPOLEONINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 21,
+    "minor": 22,
     "patch": 50
   }
 }
