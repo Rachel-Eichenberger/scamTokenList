@@ -103829,11 +103829,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xab2c997502A7f589FE098e968F66a025e833C1B1",
+      "symbol": "BJINU",
+      "name": "BJInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 1,
+    "minor": 2,
     "patch": 52
   }
 }
