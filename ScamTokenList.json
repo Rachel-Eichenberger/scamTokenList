@@ -103730,11 +103730,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6da222181E9ad1fAC374035551e12fc75D60F6c3",
+      "symbol": "DAONOTE",
+      "name": "DAONOTE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 53,
-    "minor": 92,
+    "minor": 93,
     "patch": 51
   }
 }
