@@ -103565,11 +103565,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC9E54aCa2E964e1FAcD947502336b6318d887652",
+      "symbol": "AKIRA",
+      "name": "AKIRAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 75,
+    "minor": 76,
     "patch": 50
   }
 }
