@@ -103576,11 +103576,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a2aDd18cb212db1C478595237831850e4a44D4e",
+      "symbol": "POOLHOUSE",
+      "name": "PoolHouse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 76,
+    "minor": 77,
     "patch": 50
   }
 }
