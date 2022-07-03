@@ -103411,11 +103411,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50702f17e00F3A6b87e1610AC9b1513F8956326D",
+      "symbol": "KOBA",
+      "name": "Koba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 61,
+    "minor": 62,
     "patch": 50
   }
 }
