@@ -103422,11 +103422,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB7b5D31C5dA6BD3EdED1aDe5B07394Ac73666ED",
+      "symbol": "FLASH",
+      "name": "FLASH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 62,
+    "minor": 63,
     "patch": 50
   }
 }
