@@ -103807,11 +103807,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAEEC2c2934435313C332bD6548666462945ccd25",
+      "symbol": "DYNASTY",
+      "name": "TheBookOfRa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 53,
-    "minor": 99,
-    "patch": 51
+    "major": 54,
+    "minor": 0,
+    "patch": 52
   }
 }
