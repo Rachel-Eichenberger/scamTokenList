@@ -103653,11 +103653,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc71fe2B8236BaA295ADA4B53041B09ed19bf58fd",
+      "symbol": "FUJINU",
+      "name": "FujiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 83,
+    "minor": 84,
     "patch": 50
   }
 }
