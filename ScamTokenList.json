@@ -103708,11 +103708,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa029F94F378162d781B1b9A03c1a58F52bEA4D26",
+      "symbol": "MOONIE",
+      "name": "MOONIE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 53,
-    "minor": 90,
+    "minor": 91,
     "patch": 51
   }
 }
