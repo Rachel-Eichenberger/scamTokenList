@@ -103587,11 +103587,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3223636399Ea6c8435d9abdA5d9264D8B9057C1",
+      "symbol": "APEDAO",
+      "name": "APEDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 77,
+    "minor": 78,
     "patch": 50
   }
 }
