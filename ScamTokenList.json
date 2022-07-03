@@ -103499,11 +103499,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcC4ECb55353A6A562666C6b45C01063C0577Aa82",
+      "symbol": "AEGIS",
+      "name": "AEGIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 69,
+    "minor": 70,
     "patch": 50
   }
 }
