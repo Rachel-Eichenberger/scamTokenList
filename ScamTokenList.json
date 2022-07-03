@@ -103444,11 +103444,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31f3dFa57252c3bec0F1fd73635e8E88C31A59Aa",
+      "symbol": "WPI",
+      "name": "WebPi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 64,
+    "minor": 65,
     "patch": 50
   }
 }
