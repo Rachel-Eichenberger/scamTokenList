@@ -74022,17 +74022,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x0e239dB593619bcF6248FdeF4723f26cf40e1f37",
-      "symbol": "HONEYCOIN",
-      "name": "HONEYCOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66DAe1481A3dDf2079506f480AcFaB8e9fD78c58",
       "symbol": "FLUNA",
       "name": "ForkedLunaInu",
@@ -103711,8 +103700,8 @@
     }
   ],
   "version": {
-    "major": 52,
-    "minor": 88,
-    "patch": 50
+    "major": 51,
+    "minor": 89,
+    "patch": 51
   }
 }
