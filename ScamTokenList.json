@@ -103741,11 +103741,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cCD27Da06f4487DC4fe264ED54F43ADc283Bc1c",
+      "symbol": "RAVEN",
+      "name": "TheRaven",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 53,
-    "minor": 93,
+    "minor": 94,
     "patch": 51
   }
 }
