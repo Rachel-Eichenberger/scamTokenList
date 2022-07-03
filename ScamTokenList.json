@@ -103345,11 +103345,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x158580CE5A0Fb6c380725e52F30a920D9270691a",
+      "symbol": "TBASED",
+      "name": "TehBased",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 55,
+    "minor": 56,
     "patch": 50
   }
 }
