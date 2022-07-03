@@ -103532,11 +103532,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54eD4B56f852DE9A8C4974c8417C5bE6e0683E9c",
+      "symbol": "P4LAB",
+      "name": "P4Laboratory",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 72,
+    "minor": 73,
     "patch": 50
   }
 }
