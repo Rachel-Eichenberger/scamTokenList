@@ -103554,11 +103554,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe05A1FA26f147BC4Ad099E9DB948657Fcbd9d9D3",
+      "symbol": "WWW",
+      "name": "WorldWideWeb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 74,
+    "minor": 75,
     "patch": 50
   }
 }
