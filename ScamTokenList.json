@@ -103609,11 +103609,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB88De8424d870B8Bae16826eb87C61cAE35d9F36",
+      "symbol": "EINU",
+      "name": "EtherscanInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 79,
+    "minor": 80,
     "patch": 50
   }
 }
