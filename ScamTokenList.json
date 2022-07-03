@@ -103752,11 +103752,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF23aBF848D5034Faf95f0C434BfF43cF1000D4Fc",
+      "symbol": "SBF",
+      "name": "SamBankmanFriedInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 53,
-    "minor": 94,
+    "minor": 95,
     "patch": 51
   }
 }
