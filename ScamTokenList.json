@@ -103466,11 +103466,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE158Db6172196daeF5D07Ccf8cBEd8b99D19279F",
+      "symbol": "FIRA",
+      "name": "FIRA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 66,
+    "minor": 67,
     "patch": 50
   }
 }
