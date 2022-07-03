@@ -103620,11 +103620,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bA0BfeC40E908D96a622d82D7B0c3a1c4F3bc62",
+      "symbol": "WEB58",
+      "name": "WebOfAnonymity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 80,
+    "minor": 81,
     "patch": 50
   }
 }
