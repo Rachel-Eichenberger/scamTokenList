@@ -103455,11 +103455,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5270Eea43A0aD2a5ece501a6476C6a674Cd1B602",
+      "symbol": "ELONFLOKI",
+      "name": "ELONFLOKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 65,
+    "minor": 66,
     "patch": 50
   }
 }
