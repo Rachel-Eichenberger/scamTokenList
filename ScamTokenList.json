@@ -103477,11 +103477,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAb931c776c122055F7EcF9f4E05385CfEff1A4Bb",
+      "symbol": "JBI2",
+      "name": "JohnBriggsinu2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 67,
+    "minor": 68,
     "patch": 50
   }
 }
