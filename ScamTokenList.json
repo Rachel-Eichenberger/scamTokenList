@@ -103389,11 +103389,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D0bD76A24C9db19C374B057C6b9C1c1856C2806",
+      "symbol": "FTR",
+      "name": "ForTheRekt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 59,
+    "minor": 60,
     "patch": 50
   }
 }
