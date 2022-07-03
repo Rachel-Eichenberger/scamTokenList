@@ -103719,11 +103719,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa98fE5ff5AA668Af6399796e6651286C1FB63CAF",
+      "symbol": "WINU",
+      "name": "WebInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 53,
-    "minor": 91,
+    "minor": 92,
     "patch": 51
   }
 }
