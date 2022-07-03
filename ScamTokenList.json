@@ -103818,11 +103818,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE508C01099c4Edcd273Bc9b15724d48E9255A4dB",
+      "symbol": "DESTINY",
+      "name": "TheBookOfRa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 0,
+    "minor": 1,
     "patch": 52
   }
 }
