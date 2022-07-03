@@ -103697,11 +103697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0BE32a752FB96D5ee798100b878955bcD4878a8E",
+      "symbol": "DOC",
+      "name": "DogeOnClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 53,
-    "minor": 89,
+    "minor": 90,
     "patch": 51
   }
 }
