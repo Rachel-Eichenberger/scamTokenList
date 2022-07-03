@@ -103631,11 +103631,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAfB225c41f013752EAeB8cB1601857cDdE2554ea",
+      "symbol": "BINU",
+      "name": "BasedInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 81,
+    "minor": 82,
     "patch": 50
   }
 }
