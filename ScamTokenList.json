@@ -103543,11 +103543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa847Bb0db9290c92b8645A1372393150a85eE11",
+      "symbol": "GIGACHAD",
+      "name": "GigaChadToken4Life",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 73,
+    "minor": 74,
     "patch": 50
   }
 }
