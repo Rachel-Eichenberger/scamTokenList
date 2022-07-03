@@ -103697,11 +103697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63a2fd7FbF568ECb5B9e3f8a0e32d11958EB5DaE",
+      "symbol": "MAC",
+      "name": "MustardAPEClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 87,
+    "minor": 88,
     "patch": 50
   }
 }
