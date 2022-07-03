@@ -103664,11 +103664,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b7829F4B425A7DA0830c0BC73063ACD239c294E",
+      "symbol": "MINU",
+      "name": "MastiffInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 84,
+    "minor": 85,
     "patch": 50
   }
 }
