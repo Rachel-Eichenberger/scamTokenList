@@ -103675,11 +103675,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61aedee250422E9B4c6815f02CcF2846dD7ad557",
+      "symbol": "GHOST",
+      "name": "GHOST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 52,
-    "minor": 85,
+    "minor": 86,
     "patch": 50
   }
 }
