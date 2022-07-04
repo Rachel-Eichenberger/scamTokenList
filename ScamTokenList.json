@@ -104852,11 +104852,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10D1c20299632B6c9741f17582E571331fCB64E5",
+      "symbol": "BMX",
+      "name": "BurleMarex",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 94,
+    "minor": 95,
     "patch": 52
   }
 }
