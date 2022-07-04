@@ -104027,11 +104027,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1C75fFA74767cA838C3f1Bf4A103E337B0E9ce5",
+      "symbol": "SAITAMAM",
+      "name": "SaitamaMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 19,
+    "minor": 20,
     "patch": 52
   }
 }
