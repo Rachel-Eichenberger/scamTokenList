@@ -104016,11 +104016,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE412e7cE85af89Ce06F46df6815FA007eaf122E",
+      "symbol": "DOGEM",
+      "name": "DOGEMASTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 18,
+    "minor": 19,
     "patch": 52
   }
 }
