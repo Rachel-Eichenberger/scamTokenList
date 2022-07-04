@@ -104126,11 +104126,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5Aa5d22f81FEEed507C602aE3216493C381e7cb",
+      "symbol": "GMM",
+      "name": "GoodMorningMaster",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 28,
+    "minor": 29,
     "patch": 52
   }
 }
