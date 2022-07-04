@@ -104863,11 +104863,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d3Cf709DFD76a56799e515935b4601295B98b5c",
+      "symbol": "UAE",
+      "name": "UAEInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 95,
+    "minor": 96,
     "patch": 52
   }
 }
