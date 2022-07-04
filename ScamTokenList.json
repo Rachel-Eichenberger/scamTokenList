@@ -104038,11 +104038,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4dcb7793445756968adf7358FD928115C45bd7f",
+      "symbol": "SOS",
+      "name": "Help",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 20,
+    "minor": 21,
     "patch": 52
   }
 }
