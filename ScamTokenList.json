@@ -103851,11 +103851,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf506e74530D5B725ab7Ac0E7060ce1706d608BC8",
+      "symbol": "DBINU",
+      "name": "DogeBlessInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 3,
+    "minor": 4,
     "patch": 52
   }
 }
