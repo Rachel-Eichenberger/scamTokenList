@@ -104247,11 +104247,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDAB87817fC62B6284c1AFfF300Dcd0E8659C962D",
+      "symbol": "FLOKIM",
+      "name": "FLokiMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 39,
+    "minor": 40,
     "patch": 52
   }
 }
