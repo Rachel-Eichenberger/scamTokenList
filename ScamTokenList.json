@@ -104203,11 +104203,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F0b0Bb130d9B8C1C1C0c11974D30512826bC51c",
+      "symbol": "GODHATESNFTEES",
+      "name": "GodHatesNFTees",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 35,
+    "minor": 36,
     "patch": 52
   }
 }
