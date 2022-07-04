@@ -104412,11 +104412,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9FB7A3D6aE6Cc852caB4d932646144bf5D713fd",
+      "symbol": "4EAE",
+      "name": "Foreverandever",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 54,
+    "minor": 55,
     "patch": 52
   }
 }
