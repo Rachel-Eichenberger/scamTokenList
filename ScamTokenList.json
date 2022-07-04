@@ -104060,11 +104060,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Fb3Fd7bd2E146F8cb28aE3B0D4f878BeA946681",
+      "symbol": "WEB404",
+      "name": "WEB404",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 22,
+    "minor": 23,
     "patch": 52
   }
 }
