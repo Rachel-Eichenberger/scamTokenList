@@ -104577,11 +104577,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1294198Dc20AfF4AcA4e25c26a594B539fa750DB",
+      "symbol": "BBUX",
+      "name": "BidenBuxx",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 69,
+    "minor": 70,
     "patch": 52
   }
 }
