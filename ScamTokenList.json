@@ -104313,11 +104313,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf049DF058dF3B9Bc97Be9287ee48016006d4DF5a",
+      "symbol": "INUCHIHA",
+      "name": "SharinganInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 45,
+    "minor": 46,
     "patch": 52
   }
 }
