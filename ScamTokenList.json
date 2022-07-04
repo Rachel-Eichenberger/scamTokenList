@@ -104192,11 +104192,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFf48Fe55eF0C204d4e432C83f5F6264bEF3089b6",
+      "symbol": "PATCHINU",
+      "name": "Patchinu",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 34,
+    "minor": 35,
     "patch": 52
   }
 }
