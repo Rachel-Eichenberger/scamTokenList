@@ -104478,11 +104478,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91DB1464668eC64b124Eef1b4EbF4A9F25c70b82",
+      "symbol": "SHITM",
+      "name": "ShitMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 60,
+    "minor": 61,
     "patch": 52
   }
 }
