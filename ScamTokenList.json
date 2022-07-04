@@ -104423,11 +104423,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0dB8368F23F16B219D21E68fb6D354479060d580",
+      "symbol": "EYESBEAST",
+      "name": "EYESBEAST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 55,
+    "minor": 56,
     "patch": 52
   }
 }
