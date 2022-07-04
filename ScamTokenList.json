@@ -103939,11 +103939,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa21e426d5179C5c139B6D1DA07CF8C025ff57cE1",
+      "symbol": "WYSIWYG",
+      "name": "Whatyouseeiswhatyou",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 11,
+    "minor": 12,
     "patch": 52
   }
 }
