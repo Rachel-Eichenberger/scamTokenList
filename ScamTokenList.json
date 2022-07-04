@@ -104236,11 +104236,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2EeB45AbEEb479AFA2456A2F95896C4B3A37c427",
+      "symbol": "APEGOD",
+      "name": "ApeGod",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 38,
+    "minor": 39,
     "patch": 52
   }
 }
