@@ -103950,11 +103950,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b973A46f2c7eC9278ccf477B56E2D0754a48045",
+      "symbol": "BINU",
+      "name": "BurnInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 12,
+    "minor": 13,
     "patch": 52
   }
 }
