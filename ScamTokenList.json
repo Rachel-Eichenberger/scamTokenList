@@ -103972,11 +103972,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34a4ae1d17E9c9C11cA3Ea84d7e04F288d5b7D36",
+      "symbol": "PATRIOT",
+      "name": "PatriotInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 14,
+    "minor": 15,
     "patch": 52
   }
 }
