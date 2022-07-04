@@ -104181,11 +104181,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7306601c0184446C63302404409F3498aD0d4E5",
+      "symbol": "ARROGANT",
+      "name": "ARROGANT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 33,
+    "minor": 34,
     "patch": 52
   }
 }
