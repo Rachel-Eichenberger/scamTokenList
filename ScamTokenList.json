@@ -104819,11 +104819,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAdE114C0802A06816DbD2B547d919C7A4A32c3F6",
+      "symbol": "M2M",
+      "name": "Minion2Moon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 91,
+    "minor": 92,
     "patch": 52
   }
 }
