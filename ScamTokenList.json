@@ -104115,11 +104115,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe31218474d3a5ad2c1dC7EB3B928c10B69eC10F4",
+      "symbol": "ARINU",
+      "name": "ARINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 27,
+    "minor": 28,
     "patch": 52
   }
 }
