@@ -104808,11 +104808,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7111a694889be15f58190d1010bC31F35D0F6600",
+      "symbol": "REVENGEOFTHEMINIONS",
+      "name": "RevengeoftheMinions",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 90,
+    "minor": 91,
     "patch": 52
   }
 }
