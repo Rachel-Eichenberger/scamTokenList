@@ -104467,11 +104467,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53Af283aAC74cd8F7F03f6B1bE1E208746fDBe5D",
+      "symbol": "AC",
+      "name": "ALPHACAPITAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 59,
+    "minor": 60,
     "patch": 52
   }
 }
