@@ -104302,11 +104302,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E504d3849b13BFBA021D3645b828D5D8903Ead2",
+      "symbol": "CRYPTOM",
+      "name": "CryptoMaster",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 44,
+    "minor": 45,
     "patch": 52
   }
 }
