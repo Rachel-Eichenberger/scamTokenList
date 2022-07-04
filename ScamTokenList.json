@@ -104291,11 +104291,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f0847Af37919C08dCd7A72C129BF43c2844508A",
+      "symbol": "WEB99",
+      "name": "WebInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 43,
+    "minor": 44,
     "patch": 52
   }
 }
