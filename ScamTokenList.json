@@ -104841,11 +104841,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2F60F86A4414eE7D3df6cd9698a4f8F222eD7dd",
+      "symbol": "ASIA",
+      "name": "AsianInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 93,
+    "minor": 94,
     "patch": 52
   }
 }
