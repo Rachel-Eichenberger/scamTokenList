@@ -104533,11 +104533,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA99517CAeAE11EA427130a023110BC3894FB89Df",
+      "symbol": "DROCKI",
+      "name": "DonaldRockyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 65,
+    "minor": 66,
     "patch": 52
   }
 }
