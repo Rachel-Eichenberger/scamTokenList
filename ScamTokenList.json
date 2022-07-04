@@ -104709,11 +104709,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D23697b5A05ceDE1184CB65B9Ea5957Bd4CE7e8",
+      "symbol": "SAUDIC",
+      "name": "SaudiInuClassic",
+      "decimals": 1,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 81,
+    "minor": 82,
     "patch": 52
   }
 }
