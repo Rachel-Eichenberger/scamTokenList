@@ -104214,11 +104214,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77D2b58B7982e2E51004De450A40Bf2Dc8990e79",
+      "symbol": "VALHALLA",
+      "name": "VALHALLAMASTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 36,
+    "minor": 37,
     "patch": 52
   }
 }
