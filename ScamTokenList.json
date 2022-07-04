@@ -104368,11 +104368,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07e16bC9c2C851b3a977BE76AFfa7F58f085e109",
+      "symbol": "USDN",
+      "name": "USDeeznutz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 50,
+    "minor": 51,
     "patch": 52
   }
 }
