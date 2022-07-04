@@ -104599,11 +104599,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c280f0B6E0B3502B5Eae551dD9B2D5e07ffdF97",
+      "symbol": "LEO",
+      "name": "LeonardoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 71,
+    "minor": 72,
     "patch": 52
   }
 }
