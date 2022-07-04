@@ -104654,11 +104654,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x649287eDb1aA9f285F0E568C868c08440379Ea17",
+      "symbol": "EMBRACE",
+      "name": "IntoTheDarkness",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 76,
+    "minor": 77,
     "patch": 52
   }
 }
