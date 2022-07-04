@@ -104148,11 +104148,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1883E37F1FE02E6cddf00b4F0450c15eFE175DF3",
+      "symbol": "GORILLA",
+      "name": "TheGreatGorilla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 30,
+    "minor": 31,
     "patch": 52
   }
 }
