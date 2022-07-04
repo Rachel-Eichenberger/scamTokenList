@@ -104753,11 +104753,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf34d8589fB772d5820F512A7AaAFB01D8b7d8008",
+      "symbol": "HABIBI",
+      "name": "HabibiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 85,
+    "minor": 86,
     "patch": 52
   }
 }
