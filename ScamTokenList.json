@@ -104511,11 +104511,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03160358234DD7a37057803Bb64aD0a8b1Fdbe28",
+      "symbol": "THEDESTROYER",
+      "name": "SHIVA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 63,
+    "minor": 64,
     "patch": 52
   }
 }
