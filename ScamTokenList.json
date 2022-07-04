@@ -103906,11 +103906,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ffc21CcdE1B618fB300232523446CcEB33E1f70",
+      "symbol": "BOHIYA",
+      "name": "FireArrow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 8,
+    "minor": 9,
     "patch": 52
   }
 }
