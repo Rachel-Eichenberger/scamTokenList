@@ -104621,11 +104621,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB41B5bBabb4fC969e64056c7ED737D9Ff45AC757",
+      "symbol": "SAUDI",
+      "name": "SaudiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 73,
+    "minor": 74,
     "patch": 52
   }
 }
