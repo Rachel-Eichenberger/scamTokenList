@@ -104346,11 +104346,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E160E316C5b1c8F63c31a0116fFF6A2C83D2465",
+      "symbol": "MDAO",
+      "name": "MasterDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 48,
+    "minor": 49,
     "patch": 52
   }
 }
