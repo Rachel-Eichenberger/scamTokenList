@@ -104170,11 +104170,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdc89D82272348ccDe804BCAD97925061B74f37Ce",
+      "symbol": "RINU",
+      "name": "RonaldoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 32,
+    "minor": 33,
     "patch": 52
   }
 }
