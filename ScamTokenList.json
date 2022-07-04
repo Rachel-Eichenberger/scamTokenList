@@ -104632,11 +104632,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29f0F21F1789284BE4f5F80D628D7932eDd6bf3F",
+      "symbol": "SMILEETH",
+      "name": "SMILE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 74,
+    "minor": 75,
     "patch": 52
   }
 }
