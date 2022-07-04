@@ -104775,11 +104775,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5D77834BcA7Ff2Cc6816Bab2451A0A893be1885",
+      "symbol": "SAUDIMASTER",
+      "name": "SaudiMaster",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 87,
+    "minor": 88,
     "patch": 52
   }
 }
