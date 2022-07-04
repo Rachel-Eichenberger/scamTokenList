@@ -104720,11 +104720,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe29F57Ed3D36A23986807Bc5832bB37EeFFBeC72",
+      "symbol": "SHUJIN",
+      "name": "ShujinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 82,
+    "minor": 83,
     "patch": 52
   }
 }
