@@ -104258,11 +104258,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9920590BB09a0A0F61fF869A96EB8F720eFA04D",
+      "symbol": "MEMES",
+      "name": "ClassicMemes",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 40,
+    "minor": 41,
     "patch": 52
   }
 }
