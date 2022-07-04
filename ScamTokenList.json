@@ -104742,11 +104742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd068e665aBf7DB7c682312f8cb106f02F45B988f",
+      "symbol": "KIBAMERICA",
+      "name": "KibaAmerica",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 84,
+    "minor": 85,
     "patch": 52
   }
 }
