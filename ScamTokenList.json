@@ -103895,11 +103895,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE64855429Ea672bB960578063a4D97f459308102",
+      "symbol": "SHIBWEB",
+      "name": "ShibWeb",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 7,
+    "minor": 8,
     "patch": 52
   }
 }
