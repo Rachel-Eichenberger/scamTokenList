@@ -103884,11 +103884,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf2dB2906929363d407E92D449753aCD8B627F86b",
+      "symbol": "SHIBUZA",
+      "name": "ShibuzaToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 6,
+    "minor": 7,
     "patch": 52
   }
 }
