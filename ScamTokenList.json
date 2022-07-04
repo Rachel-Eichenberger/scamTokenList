@@ -104049,11 +104049,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69B5e5c1782E22b1A538cF7d3649151EC7848653",
+      "symbol": "M88",
+      "name": "MessierMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 21,
+    "minor": 22,
     "patch": 52
   }
 }
