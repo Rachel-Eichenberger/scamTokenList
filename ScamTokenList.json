@@ -104500,11 +104500,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x785946D5657a86E0208f05B5A7232FfDc1c6B871",
+      "symbol": "0XDEAD",
+      "name": "0xdEaD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 62,
+    "minor": 63,
     "patch": 52
   }
 }
