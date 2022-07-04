@@ -104676,11 +104676,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x755C415E221284173036C01B7a6e947fb41dF1Ee",
+      "symbol": "ARAB",
+      "name": "ArabInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 78,
+    "minor": 79,
     "patch": 52
   }
 }
