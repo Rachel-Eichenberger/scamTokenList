@@ -104357,11 +104357,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x415dCF67Ac63298e1Dd0372d05b16571f292dc64",
+      "symbol": "WASHINGTON",
+      "name": "WASHINGTONINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 49,
+    "minor": 50,
     "patch": 52
   }
 }
