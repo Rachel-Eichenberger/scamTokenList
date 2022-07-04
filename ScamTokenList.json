@@ -104522,11 +104522,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16Ecf8C29FF1F28b72B92E7375a3FEC57b6E0c40",
+      "symbol": "GOATC",
+      "name": "GreatestOfAllTokens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 64,
+    "minor": 65,
     "patch": 52
   }
 }
