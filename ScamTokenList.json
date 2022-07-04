@@ -104104,11 +104104,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a7A71Bb29Bb8fD0C908CaFc7C4DD8A40B281e07",
+      "symbol": "1ST",
+      "name": "FirstAmendment",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 26,
+    "minor": 27,
     "patch": 52
   }
 }
