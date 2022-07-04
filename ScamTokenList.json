@@ -104324,11 +104324,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA58b633D7A2c21f68d5236176BE824668E9DFDE6",
+      "symbol": "FINU",
+      "name": "FloksInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 46,
+    "minor": 47,
     "patch": 52
   }
 }
