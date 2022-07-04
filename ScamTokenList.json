@@ -103862,11 +103862,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe149c174B81A6C076BB053Fe2Cdf8E8a8c3015Fd",
+      "symbol": "USA",
+      "name": "LandoftheFree",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 4,
+    "minor": 5,
     "patch": 52
   }
 }
