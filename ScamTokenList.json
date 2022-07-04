@@ -104874,11 +104874,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DCf37fBD55c450B435D8BB496F9E7F4dd6f22Eb",
+      "symbol": "REVENGEOFTHEMINIONS",
+      "name": "RevengeoftheMinions",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 96,
+    "minor": 97,
     "patch": 52
   }
 }
