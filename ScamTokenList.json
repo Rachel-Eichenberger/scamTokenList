@@ -104489,11 +104489,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90Dd3978aD6DcdaE49715e2dD7762923728344b7",
+      "symbol": "HELLFIRECLUB",
+      "name": "HellFireClub",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 61,
+    "minor": 62,
     "patch": 52
   }
 }
