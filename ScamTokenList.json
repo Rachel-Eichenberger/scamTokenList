@@ -104665,11 +104665,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x997E8B9417FAaEef7c4088178656f09ec67f9181",
+      "symbol": "CATM",
+      "name": "CatMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 77,
+    "minor": 78,
     "patch": 52
   }
 }
