@@ -104544,11 +104544,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x591E022E6c2e3d1AE5eB9dCeF93967235eE88490",
+      "symbol": "WEBS",
+      "name": "WebSentry",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 66,
+    "minor": 67,
     "patch": 52
   }
 }
