@@ -104390,11 +104390,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B192c8Ba06635eC372a3bEb8a72dc5C1681326C",
+      "symbol": "74INU",
+      "name": "74Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 52,
+    "minor": 53,
     "patch": 52
   }
 }
