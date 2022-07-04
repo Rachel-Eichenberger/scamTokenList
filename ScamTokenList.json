@@ -104401,11 +104401,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x845abdb484a000f2776FD0492bdA361dBA151086",
+      "symbol": "MUSTARD",
+      "name": "frenchfrypizzamaste",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 53,
+    "minor": 54,
     "patch": 52
   }
 }
