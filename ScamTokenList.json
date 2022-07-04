@@ -104786,11 +104786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb32851E5e52ecac2BfC65ac12652075991AF35C2",
+      "symbol": "CULTMASTER",
+      "name": "CultMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 88,
+    "minor": 89,
     "patch": 52
   }
 }
