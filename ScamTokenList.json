@@ -104797,11 +104797,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb416e4c11Ba39ACBd259CdA9a8E5a3fD0255A27",
+      "symbol": "GIZAC",
+      "name": "GizaClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 89,
+    "minor": 90,
     "patch": 52
   }
 }
