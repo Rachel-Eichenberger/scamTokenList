@@ -103917,11 +103917,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FE5aaaeDC98eaE085c1D580329d4461A68F8c42",
+      "symbol": "GIAPHIL",
+      "name": "Giaphil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 9,
+    "minor": 10,
     "patch": 52
   }
 }
