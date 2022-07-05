@@ -105424,11 +105424,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a98A6aefC8f862c72212BfB16E5BB4825B9030B",
+      "symbol": "SSNOOP",
+      "name": "SaudiSnoop",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 46,
+    "minor": 47,
     "patch": 53
   }
 }
