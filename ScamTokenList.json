@@ -105116,11 +105116,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6d2F2BDB4678A58281Ceb7625A499b3E87FFF20",
+      "symbol": "BSHEIKHS",
+      "name": "BurnSaudiSheikhs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 18,
+    "minor": 19,
     "patch": 53
   }
 }
