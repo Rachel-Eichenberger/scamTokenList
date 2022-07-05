@@ -105908,11 +105908,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98A39DE157Be2388857258291AFC4AC557B9a8f1",
+      "symbol": "YAMATANOOROCHI",
+      "name": "YamatanoOrochi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 90,
+    "minor": 91,
     "patch": 53
   }
 }
