@@ -104995,11 +104995,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc50C7930118CF66694225f50c24F5d32051A9e91",
+      "symbol": "SAUDOKI",
+      "name": "SaudiFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 7,
+    "minor": 8,
     "patch": 53
   }
 }
