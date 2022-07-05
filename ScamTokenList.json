@@ -105512,11 +105512,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4710D1889f7de4e57d0fd7Db7ac545d80852bE6B",
+      "symbol": "SHEIKH",
+      "name": "SheikhInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 54,
+    "minor": 55,
     "patch": 53
   }
 }
