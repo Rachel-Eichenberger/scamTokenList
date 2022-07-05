@@ -104929,11 +104929,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3666b060f22EBeeB198e9B56c7FB639f7c98BA04",
+      "symbol": "PRINCE",
+      "name": "SaudiPrince",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 1,
+    "minor": 2,
     "patch": 53
   }
 }
