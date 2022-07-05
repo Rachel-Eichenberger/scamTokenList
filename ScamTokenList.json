@@ -105644,11 +105644,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8AcC7cdA0eb84543e90B06C189669866B025dBd0",
+      "symbol": "QATARI",
+      "name": "QatarInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 66,
+    "minor": 67,
     "patch": 53
   }
 }
