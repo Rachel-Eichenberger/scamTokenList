@@ -105468,11 +105468,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48Ad4967aA8801cC93b1b5eaF5a64E96EDd0e83c",
+      "symbol": "ROAST",
+      "name": "DuckerBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 50,
+    "minor": 51,
     "patch": 53
   }
 }
