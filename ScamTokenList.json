@@ -105798,11 +105798,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb0050E97B23b476F64F2686CeE2a41c96fa62c0",
+      "symbol": "BUSHIDO",
+      "name": "TheSoul",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 80,
+    "minor": 81,
     "patch": 53
   }
 }
