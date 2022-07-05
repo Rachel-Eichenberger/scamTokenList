@@ -105380,11 +105380,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06455A9c9c50D4d2397e2913FDd2B46582E2bE68",
+      "symbol": "MASTERINU",
+      "name": "MASTERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 42,
+    "minor": 43,
     "patch": 53
   }
 }
