@@ -105655,11 +105655,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x103878E5c21BBB793c14B8eD7a4e0534cE276C7a",
+      "symbol": "THEALCHEMIST",
+      "name": "ThePhilosophersSton",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 67,
+    "minor": 68,
     "patch": 53
   }
 }
