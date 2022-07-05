@@ -105061,11 +105061,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2fa22279BB98e495E415586C8B718609582d22C7",
+      "symbol": "TOKYOROSE",
+      "name": "TokyoRose",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 13,
+    "minor": 14,
     "patch": 53
   }
 }
