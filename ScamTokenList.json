@@ -105413,11 +105413,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x186200846ac66eC57CD5EBB77D98cF0e14e84E84",
+      "symbol": "SDOGE",
+      "name": "SaudiDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 45,
+    "minor": 46,
     "patch": 53
   }
 }
