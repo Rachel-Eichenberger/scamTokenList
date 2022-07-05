@@ -104918,11 +104918,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05C67F20Da182861Befbc98A806fA3dEbE62B4bA",
+      "symbol": "DOL",
+      "name": "DeOppressoLiber",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 0,
+    "minor": 1,
     "patch": 53
   }
 }
