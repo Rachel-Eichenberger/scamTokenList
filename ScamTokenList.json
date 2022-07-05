@@ -105028,11 +105028,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35137D8d0BBb57F9f0df3E3d72bEBCbF2334048e",
+      "symbol": "TTT",
+      "name": "TrillionTwinToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 10,
+    "minor": 11,
     "patch": 53
   }
 }
