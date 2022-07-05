@@ -105138,11 +105138,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71FD0A812A8bb5eaE41378ea3dB6325544D809E3",
+      "symbol": "NINJAZ",
+      "name": "Ninjaz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 20,
+    "minor": 21,
     "patch": 53
   }
 }
