@@ -105699,11 +105699,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0507323E2FF9d7e90a8E04fC6905Ac8BA4A1753",
+      "symbol": "CLEOPATRA",
+      "name": "CleopatraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 71,
+    "minor": 72,
     "patch": 53
   }
 }
