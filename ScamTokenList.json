@@ -105732,11 +105732,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7eA5ccb46F9FCAFEa5B22864CA54E4d73C73587",
+      "symbol": "CAMELS",
+      "name": "CamelsToken",
+      "decimals": 11,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 74,
+    "minor": 75,
     "patch": 53
   }
 }
