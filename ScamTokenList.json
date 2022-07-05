@@ -105226,11 +105226,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D3D61AAba8F7e5031e28AF0bcb24b877e94B0b7",
+      "symbol": "GRENINJA",
+      "name": "Greninja",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 28,
+    "minor": 29,
     "patch": 53
   }
 }
