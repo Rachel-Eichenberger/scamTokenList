@@ -105886,11 +105886,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2902a14125a786CB64226dDEE1394932a2149204",
+      "symbol": "SCHICKS",
+      "name": "SaudiChicks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 88,
+    "minor": 89,
     "patch": 53
   }
 }
