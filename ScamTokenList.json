@@ -105435,11 +105435,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff3a0557200724D2Ee01BAc26D4ACC83cF520e97",
+      "symbol": "WEBBISH",
+      "name": "WEBBISH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 47,
+    "minor": 48,
     "patch": 53
   }
 }
