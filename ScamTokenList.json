@@ -104885,11 +104885,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65dd23B166483065A00f5f55ee0C0B433d3f237B",
+      "symbol": "BIG",
+      "name": "BigMummaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 97,
+    "minor": 98,
     "patch": 52
   }
 }
