@@ -105457,11 +105457,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCeD03Aa265d834C3eb20d1C2E402604Ecfb01fA6",
+      "symbol": "MGNOD",
+      "name": "MagicNodes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 49,
+    "minor": 50,
     "patch": 53
   }
 }
