@@ -105017,11 +105017,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaD823249DD91ba9cA3183c3896b28cA9b15c6A1c",
+      "symbol": "FIND",
+      "name": "TehFreedom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 9,
+    "minor": 10,
     "patch": 53
   }
 }
