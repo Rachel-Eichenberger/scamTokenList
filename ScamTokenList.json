@@ -105534,11 +105534,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF674c6620BD75564509919481Ef88e5796a704A9",
+      "symbol": "PEKING",
+      "name": "BurntDuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 56,
+    "minor": 57,
     "patch": 53
   }
 }
