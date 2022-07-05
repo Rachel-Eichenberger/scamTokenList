@@ -105633,11 +105633,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6771ea3Da160e80AAb75B9E5b4e99338A45B5838",
+      "symbol": "CHICKER",
+      "name": "Chickereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 65,
+    "minor": 66,
     "patch": 53
   }
 }
