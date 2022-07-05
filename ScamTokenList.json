@@ -105369,11 +105369,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x110E237FD7F79b9A292456594d5384e97059f29d",
+      "symbol": "GO",
+      "name": "Water",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 41,
+    "minor": 42,
     "patch": 53
   }
 }
