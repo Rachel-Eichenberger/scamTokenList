@@ -105501,11 +105501,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ac3DE5B948197d07169C4Bfd658F7cfd5F66A27",
+      "symbol": "LGEM",
+      "name": "legem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 53,
+    "minor": 54,
     "patch": 53
   }
 }
