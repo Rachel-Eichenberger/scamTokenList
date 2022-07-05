@@ -105787,11 +105787,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08636278ed57b750BbaB9df8c7350B3b4bc2fD17",
+      "symbol": "TINU",
+      "name": "ThorInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 79,
+    "minor": 80,
     "patch": 53
   }
 }
