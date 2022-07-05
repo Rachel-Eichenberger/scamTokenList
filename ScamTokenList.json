@@ -105831,11 +105831,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAf7B72C8d7Ef94f8e93C1dB834e4FE6032D98D25",
+      "symbol": "PBS",
+      "name": "PrincebinShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 83,
+    "minor": 84,
     "patch": 53
   }
 }
