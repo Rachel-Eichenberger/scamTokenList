@@ -105039,11 +105039,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x995D9e2e4bB673f73B876dbA59B8aefD780AA327",
+      "symbol": "SAUDIMONEY",
+      "name": "SaudiMoney",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 11,
+    "minor": 12,
     "patch": 53
   }
 }
