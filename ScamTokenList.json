@@ -105842,11 +105842,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1185A57FD4a9F9746895CfEa3172117edc45A9F5",
+      "symbol": "SOCKEREUM",
+      "name": "Sockereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 84,
+    "minor": 85,
     "patch": 53
   }
 }
