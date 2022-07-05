@@ -104962,11 +104962,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5bf13DD2A86f2Fecd871d8BcDaE4D58C87d48555",
+      "symbol": "WADEGILES",
+      "name": "WadeGiles",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 4,
+    "minor": 5,
     "patch": 53
   }
 }
