@@ -105765,11 +105765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91eAd6018Fc4102F561cb9Aa79729E383B992D16",
+      "symbol": "ME87",
+      "name": "Messereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 77,
+    "minor": 78,
     "patch": 53
   }
 }
