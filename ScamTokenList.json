@@ -105083,11 +105083,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74E3105Ed3d129f24B526D2B56920D67BB98280C",
+      "symbol": "SAUDI",
+      "name": "SaudiShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 15,
+    "minor": 16,
     "patch": 53
   }
 }
