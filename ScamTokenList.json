@@ -104973,11 +104973,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd34ae713e4C870C37d74Bf351A261ecE6A5CdA2B",
+      "symbol": "BS",
+      "name": "BabySaudiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 5,
+    "minor": 6,
     "patch": 53
   }
 }
