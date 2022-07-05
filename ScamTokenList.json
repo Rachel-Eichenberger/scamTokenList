@@ -105864,11 +105864,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E900F76EBcC015Ba7D1Bd0e5df052E5e96dB495",
+      "symbol": "TAMA",
+      "name": "tama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 86,
+    "minor": 87,
     "patch": 53
   }
 }
