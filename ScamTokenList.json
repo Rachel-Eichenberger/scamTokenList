@@ -105479,11 +105479,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5802aB8FAd3c756606b2D1b7785b2E86b0a0F67C",
+      "symbol": "GUCKER",
+      "name": "Goosereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 51,
+    "minor": 52,
     "patch": 53
   }
 }
