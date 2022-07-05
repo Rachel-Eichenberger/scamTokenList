@@ -105589,11 +105589,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC4a84CB13FF0E97ECb4625183194929B3308cF94",
+      "symbol": "SENDIT",
+      "name": "Sendoor",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 61,
+    "minor": 62,
     "patch": 53
   }
 }
