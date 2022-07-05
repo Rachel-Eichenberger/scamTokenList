@@ -105688,11 +105688,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a7055B5B46976b129dCfAB9F73d7fae8ddD54E7",
+      "symbol": "CRAMER",
+      "name": "Cramereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 70,
+    "minor": 71,
     "patch": 53
   }
 }
