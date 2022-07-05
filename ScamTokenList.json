@@ -105710,11 +105710,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2781bB1EdfcB7217fDE12b59Fadfcf4D23b9244F",
+      "symbol": "OREUM",
+      "name": "Mooonerum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 72,
+    "minor": 73,
     "patch": 53
   }
 }
