@@ -105930,11 +105930,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71Eb0561432bF1746306d832a94828ce2940c06b",
+      "symbol": "IBAINU",
+      "name": "ibainu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 92,
+    "minor": 93,
     "patch": 53
   }
 }
