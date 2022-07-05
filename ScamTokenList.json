@@ -105523,11 +105523,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD89Cc34fe43aC221F63c39A38A111c8679a25c16",
+      "symbol": "MOONEREUM",
+      "name": "Moonereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 55,
+    "minor": 56,
     "patch": 53
   }
 }
