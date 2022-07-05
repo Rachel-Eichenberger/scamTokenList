@@ -105281,11 +105281,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8aB0ae7D33e1149CC204beAC04fc6aD78FDE1787",
+      "symbol": "GMFM",
+      "name": "GMFutureMillionaire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 33,
+    "minor": 34,
     "patch": 53
   }
 }
