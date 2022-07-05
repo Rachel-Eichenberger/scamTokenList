@@ -105325,11 +105325,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72076a21f2Fc1a817D968D3E878f0dD534F9a0f0",
+      "symbol": "SNOMICS",
+      "name": "SAUDINOMICS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 37,
+    "minor": 38,
     "patch": 53
   }
 }
