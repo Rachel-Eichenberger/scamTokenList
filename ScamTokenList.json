@@ -105171,11 +105171,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x055A94Ac3999d98570EC2e7fb14B0C69d1bd06C7",
+      "symbol": "SAOINU",
+      "name": "SaudiOilInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 23,
+    "minor": 24,
     "patch": 53
   }
 }
