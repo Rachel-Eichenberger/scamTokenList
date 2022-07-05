@@ -105336,11 +105336,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05c2fBaE2FF5E7081bD900b91097Aa63354347BB",
+      "symbol": "RND",
+      "name": "RonaldoFootball",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 38,
+    "minor": 39,
     "patch": 53
   }
 }
