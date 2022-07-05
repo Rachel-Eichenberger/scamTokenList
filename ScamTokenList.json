@@ -105314,11 +105314,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Dc63d53a298Bb62944A4690D4594b8a816070c7",
+      "symbol": "DUBAI",
+      "name": "DubaiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 36,
+    "minor": 37,
     "patch": 53
   }
 }
