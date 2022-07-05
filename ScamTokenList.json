@@ -105303,11 +105303,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd97F775Ae7C8811433A4f0f09c894b9042C8dF1f",
+      "symbol": "COIL",
+      "name": "CamelOil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 35,
+    "minor": 36,
     "patch": 53
   }
 }
