@@ -105919,11 +105919,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf80Ad29070777cfF032796409d046d95B1096474",
+      "symbol": "TINU",
+      "name": "TamaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 91,
+    "minor": 92,
     "patch": 53
   }
 }
