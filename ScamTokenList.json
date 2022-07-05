@@ -105215,11 +105215,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d4eF8C8CCD9960E43E3db7fEf945530B9623Cb0",
+      "symbol": "ALICE",
+      "name": "Alice",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 27,
+    "minor": 28,
     "patch": 53
   }
 }
