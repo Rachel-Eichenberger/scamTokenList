@@ -104940,11 +104940,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ded0F4f1c060722489A88bb9a566F194d62E828",
+      "symbol": "SPCT",
+      "name": "SPECTRE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 2,
+    "minor": 3,
     "patch": 53
   }
 }
