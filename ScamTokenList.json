@@ -105567,11 +105567,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B2e4D0b3AECD3a1148469a3F52E7f4139060C68",
+      "symbol": "CSI",
+      "name": "CreativeSocksInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 59,
+    "minor": 60,
     "patch": 53
   }
 }
