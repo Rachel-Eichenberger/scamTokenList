@@ -104984,11 +104984,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x039F6D9c75D064ed5708140570BDFD0eaA085abe",
+      "symbol": "SHIBL",
+      "name": "ShibLord",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 6,
+    "minor": 7,
     "patch": 53
   }
 }
