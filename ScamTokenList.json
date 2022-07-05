@@ -104896,11 +104896,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5144d9e89faAe4edeE1f76d6f9a5d3F6f82D40C9",
+      "symbol": "NORMY",
+      "name": "NormyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 54,
-    "minor": 98,
+    "minor": 99,
     "patch": 52
   }
 }
