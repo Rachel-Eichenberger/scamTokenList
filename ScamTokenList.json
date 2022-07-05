@@ -105490,11 +105490,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05990ef347C3B00927608C86A83f04bc8Cfa22b5",
+      "symbol": "BABYSAUDIINU",
+      "name": "BabySaudiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 52,
+    "minor": 53,
     "patch": 53
   }
 }
