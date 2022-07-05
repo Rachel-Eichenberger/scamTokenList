@@ -105578,11 +105578,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x897807f1e4554799e106c0d6F113A81679Bb203C",
+      "symbol": "CRINU",
+      "name": "CreativeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 60,
+    "minor": 61,
     "patch": 53
   }
 }
