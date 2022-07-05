@@ -105160,11 +105160,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7B4F2592390e6af757DEb073730EC47D2Adb757",
+      "symbol": "SLINE",
+      "name": "SecurityLine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 22,
+    "minor": 23,
     "patch": 53
   }
 }
