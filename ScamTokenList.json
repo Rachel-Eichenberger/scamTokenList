@@ -105270,11 +105270,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB57Af9CCAdAAdf96feD0F5BF193539Fcc6495262",
+      "symbol": "SAUDISHIB",
+      "name": "SAUDISHIB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 32,
+    "minor": 33,
     "patch": 53
   }
 }
