@@ -105611,11 +105611,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fA013d83075c6262e79bd30f1aE400F2b5D3D4B",
+      "symbol": "SUCKER",
+      "name": "SWANereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 63,
+    "minor": 64,
     "patch": 53
   }
 }
