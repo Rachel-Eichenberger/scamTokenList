@@ -105666,11 +105666,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2cC662cFe15f34c63812eb19B183C6c53924fE33",
+      "symbol": "SCROLLS",
+      "name": "SCROLLS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 68,
+    "minor": 69,
     "patch": 53
   }
 }
