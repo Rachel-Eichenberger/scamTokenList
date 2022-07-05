@@ -105875,11 +105875,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D04aaA6DB27D4D8e033443767f1E12Fb0aad806",
+      "symbol": "TOPG",
+      "name": "EmoryAndrewTateIII",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 87,
+    "minor": 88,
     "patch": 53
   }
 }
