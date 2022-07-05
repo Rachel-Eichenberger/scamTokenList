@@ -105127,11 +105127,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97860F8228140E5E5841F70116e728B31AAB51E1",
+      "symbol": "TSULTAN",
+      "name": "DejitaruTsultan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 19,
+    "minor": 20,
     "patch": 53
   }
 }
