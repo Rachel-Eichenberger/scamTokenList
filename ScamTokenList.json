@@ -105248,11 +105248,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa52bfFAD02B1FE3f86A543a4e81962d3B3bB01A7",
+      "symbol": "DUCKER",
+      "name": "Duckereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 30,
+    "minor": 31,
     "patch": 53
   }
 }
