@@ -105754,11 +105754,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1621fa888B37Def8962cC3180eDfd55D6cf4F96B",
+      "symbol": "ELONER",
+      "name": "Elonreum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 76,
+    "minor": 77,
     "patch": 53
   }
 }
