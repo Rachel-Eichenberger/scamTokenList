@@ -105193,11 +105193,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bd3b1694Bed8f0271476F22E90777bd07191E18",
+      "symbol": "PIGS",
+      "name": "WarPigsToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 25,
+    "minor": 26,
     "patch": 53
   }
 }
