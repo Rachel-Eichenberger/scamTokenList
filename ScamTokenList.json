@@ -105204,11 +105204,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0029582715eb229Ef0f08973EA4a2001fD263264",
+      "symbol": "FW3",
+      "name": "FindWeb3",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 26,
+    "minor": 27,
     "patch": 53
   }
 }
