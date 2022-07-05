@@ -105006,11 +105006,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96d12C693B7061152114bD06a35b7bcAaa1c8d6f",
+      "symbol": "Q2B",
+      "name": "Quantum20Bank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 8,
+    "minor": 9,
     "patch": 53
   }
 }
