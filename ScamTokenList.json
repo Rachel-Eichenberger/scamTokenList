@@ -105237,11 +105237,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18311F6a1420b8e7D15e08ccD63BdEED085214C0",
+      "symbol": "KEK",
+      "name": "KEK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 29,
+    "minor": 30,
     "patch": 53
   }
 }
