@@ -105545,11 +105545,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5320A0cfa861BfF53139feFb9e52a0F9C8Bf6282",
+      "symbol": "STEIN",
+      "name": "SteinINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 57,
+    "minor": 58,
     "patch": 53
   }
 }
