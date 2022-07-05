@@ -105391,11 +105391,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1348d1046f41e6d9F67f799D2397B705Fdd4a417",
+      "symbol": "NEKO",
+      "name": "Neko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 43,
+    "minor": 44,
     "patch": 53
   }
 }
