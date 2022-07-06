@@ -106293,11 +106293,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72B925B010Ce7E10DeCEfecFcEDBc7Fe9d341d42",
+      "symbol": "DINU",
+      "name": "DuckerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 25,
+    "minor": 26,
     "patch": 54
   }
 }
