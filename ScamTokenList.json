@@ -106425,11 +106425,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6F4cb56ff389aF88dA3461827112C0467C8c31f",
+      "symbol": "UGLYDUCKLING",
+      "name": "uglyduckling",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 37,
+    "minor": 38,
     "patch": 54
   }
 }
