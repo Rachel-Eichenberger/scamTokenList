@@ -106260,11 +106260,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB7De50249018EDA150229Ab28ceAE8B7019E4E9",
+      "symbol": "RYUJIN",
+      "name": "RyujinDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 22,
+    "minor": 23,
     "patch": 54
   }
 }
