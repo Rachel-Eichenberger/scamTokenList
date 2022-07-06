@@ -106183,11 +106183,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAB9Dc462C864a6D66f1768303054A9Bc87dC74a5",
+      "symbol": "BTAMA",
+      "name": "BreakfastTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 15,
+    "minor": 16,
     "patch": 54
   }
 }
