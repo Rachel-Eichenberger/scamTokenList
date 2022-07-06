@@ -106469,11 +106469,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F0044D6B9A947EBEa4976EcDdcc942F0966A795",
+      "symbol": "TOGE",
+      "name": "INUMAKITOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 41,
+    "minor": 42,
     "patch": 54
   }
 }
