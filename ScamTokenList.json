@@ -106535,11 +106535,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cd9fd7044EcfAf728eCAe6e128C00C3Fb5cC30a",
+      "symbol": "201K",
+      "name": "CLUB201K",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 47,
+    "minor": 48,
     "patch": 54
   }
 }
