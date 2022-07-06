@@ -106227,11 +106227,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF8Bd5C9f34cDaFE9656BCA581c54a7991511adE",
+      "symbol": "BACON",
+      "name": "Oink",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 19,
+    "minor": 20,
     "patch": 54
   }
 }
