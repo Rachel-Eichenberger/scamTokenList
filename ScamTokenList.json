@@ -106282,11 +106282,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40b769136B5e47B9463CE3991f06E0D0A2D430D6",
+      "symbol": "G1",
+      "name": "GOATEDONE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 24,
+    "minor": 25,
     "patch": 54
   }
 }
