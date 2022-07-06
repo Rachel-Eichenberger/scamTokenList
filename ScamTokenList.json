@@ -106458,11 +106458,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC5dF9e9ffF21547194591849905E1745CA8240f",
+      "symbol": "SDINU",
+      "name": "SaudiDuckInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 40,
+    "minor": 41,
     "patch": 54
   }
 }
