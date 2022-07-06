@@ -106414,11 +106414,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01B7445556a42C45e38dA3c74BC8F4E0c30e2224",
+      "symbol": "FADE",
+      "name": "FADE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 36,
+    "minor": 37,
     "patch": 54
   }
 }
