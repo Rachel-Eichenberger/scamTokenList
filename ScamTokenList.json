@@ -106326,11 +106326,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdCB24855320282238f9Bac9DDC6d34476aE0F528",
+      "symbol": "F1",
+      "name": "FroggedOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 28,
+    "minor": 29,
     "patch": 54
   }
 }
