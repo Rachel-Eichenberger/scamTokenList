@@ -106546,11 +106546,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9019d24EE5dBe8d251e5c1B7B5e2531CC67d3d63",
+      "symbol": "FORAFRICA",
+      "name": "ForAfrica",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 48,
+    "minor": 49,
     "patch": 54
   }
 }
