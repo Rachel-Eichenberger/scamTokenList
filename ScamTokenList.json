@@ -106238,11 +106238,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0121F401AED32aB128D3C3F9acF0013E5899388e",
+      "symbol": "MEME",
+      "name": "Memereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 20,
+    "minor": 21,
     "patch": 54
   }
 }
