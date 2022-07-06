@@ -106491,11 +106491,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x227CB9ABb8Ec6B23c4efd5a1C4Fa93883Dc5eF66",
+      "symbol": "AKIRA",
+      "name": "Akira",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 43,
+    "minor": 44,
     "patch": 54
   }
 }
