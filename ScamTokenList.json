@@ -106073,11 +106073,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A127aEb41889518eb6D65634eCA611281278Ee3",
+      "symbol": "FARMERS",
+      "name": "FarmersProtest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 5,
+    "minor": 6,
     "patch": 54
   }
 }
