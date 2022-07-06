@@ -105963,11 +105963,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x916612a654488856a5e29e7d103c407a70Bef3af",
+      "symbol": "VUZU",
+      "name": "VUZU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 95,
+    "minor": 96,
     "patch": 53
   }
 }
