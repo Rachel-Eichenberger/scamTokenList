@@ -106106,11 +106106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x688e929A20191C3fF3E0D73aDfaa00afBb9EC5fb",
+      "symbol": "DRUNKDUCK",
+      "name": "DrunkDuck",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 8,
+    "minor": 9,
     "patch": 54
   }
 }
