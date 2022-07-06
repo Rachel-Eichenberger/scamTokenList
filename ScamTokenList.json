@@ -106205,11 +106205,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda946dE8820A4B57C24B79694911B8798Ea479b1",
+      "symbol": "ANGRYAPE",
+      "name": "AngryApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 17,
+    "minor": 18,
     "patch": 54
   }
 }
