@@ -106040,11 +106040,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e50C16e6f58bb45522DC0B03bb2A88C44620B1d",
+      "symbol": "SHIBEREUM",
+      "name": "SHIBEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 2,
+    "minor": 3,
     "patch": 54
   }
 }
