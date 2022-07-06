@@ -106370,11 +106370,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbAd1Ff60B1604F63FA2F8989A4A64CA1bde74d45",
+      "symbol": "DUCKP",
+      "name": "DuckerPay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 32,
+    "minor": 33,
     "patch": 54
   }
 }
