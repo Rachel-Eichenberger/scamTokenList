@@ -106029,11 +106029,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x903E3f001758a70f20203C69557a03FD41B55B2A",
+      "symbol": "CONFU",
+      "name": "CONFUCIUSDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 1,
+    "minor": 2,
     "patch": 54
   }
 }
