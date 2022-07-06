@@ -106513,11 +106513,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbD9C9F4100Bb0FbE83435f0e1a3C2040de5D75FD",
+      "symbol": "ASSETER",
+      "name": "Assethereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 45,
+    "minor": 46,
     "patch": 54
   }
 }
