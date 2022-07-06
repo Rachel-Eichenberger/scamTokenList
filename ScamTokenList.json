@@ -105952,11 +105952,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c6d0c44dCbDB4A0B0Eb369F369B0A7458e6C224",
+      "symbol": "VALHALLA",
+      "name": "Valhalla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 94,
+    "minor": 95,
     "patch": 53
   }
 }
