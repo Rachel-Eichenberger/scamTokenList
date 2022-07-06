@@ -106337,11 +106337,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a984186b8F835EEC16C1B683F0cf4419c5659E6",
+      "symbol": "T0",
+      "name": "TaxedZero",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 29,
+    "minor": 30,
     "patch": 54
   }
 }
