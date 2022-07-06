@@ -106502,11 +106502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x343B392de8A8DfB8195071C8e1A4E0C51a95902A",
+      "symbol": "DOGEAZON",
+      "name": "Dogeazon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 44,
+    "minor": 45,
     "patch": 54
   }
 }
