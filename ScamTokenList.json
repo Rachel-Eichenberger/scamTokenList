@@ -106348,11 +106348,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa09c28630Fb056D05C4451ac6EFB5de54A5714AD",
+      "symbol": "BLOCKER",
+      "name": "BlockEducation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 30,
+    "minor": 31,
     "patch": 54
   }
 }
