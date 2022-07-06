@@ -106392,11 +106392,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeF2C8e10980774e3064FB644EB70664CBd664379",
+      "symbol": "ROOSTER",
+      "name": "Roostereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 34,
+    "minor": 35,
     "patch": 54
   }
 }
