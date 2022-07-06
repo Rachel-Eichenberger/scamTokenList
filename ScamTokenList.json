@@ -106524,11 +106524,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca00518eE1B5598a3541f71dB831FebdeC92BC98",
+      "symbol": "7S",
+      "name": "SevenSins",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 46,
+    "minor": 47,
     "patch": 54
   }
 }
