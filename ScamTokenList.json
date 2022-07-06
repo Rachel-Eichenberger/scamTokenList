@@ -106216,11 +106216,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1537360541B65717FeF9f56461ABfD1dD373b4f1",
+      "symbol": "DUCKMA",
+      "name": "Ducktama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 18,
+    "minor": 19,
     "patch": 54
   }
 }
