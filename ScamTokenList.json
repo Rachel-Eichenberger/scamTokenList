@@ -105985,11 +105985,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4FD51Cb87ffEFDF1711112b5Bd8aB682E54988eA",
+      "symbol": "WPT",
+      "name": "WPTInvestingCorp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 55,
-    "minor": 97,
+    "minor": 98,
     "patch": 53
   }
 }
