@@ -106117,11 +106117,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F03a5C068162ec0EF0C3152572d401e7705B47B",
+      "symbol": "APES",
+      "name": "APEDeFi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 9,
+    "minor": 10,
     "patch": 54
   }
 }
