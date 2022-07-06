@@ -106315,11 +106315,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F3a07Dbc2a44D6E1eb792697AaE27E13321c9E0",
+      "symbol": "GANGS",
+      "name": "GANGNAMSTYLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 27,
+    "minor": 28,
     "patch": 54
   }
 }
