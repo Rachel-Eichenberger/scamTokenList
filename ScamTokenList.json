@@ -106172,11 +106172,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B9940f448cE05cAE6131cfC2C5f563D155d5235",
+      "symbol": "GRASS",
+      "name": "LAWNMOWER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 14,
+    "minor": 15,
     "patch": 54
   }
 }
