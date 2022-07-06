@@ -106403,11 +106403,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29d81eEbA489C13Cc9B601A2BcfF5b8982D3eeb7",
+      "symbol": "INUM",
+      "name": "INUMASTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 35,
+    "minor": 36,
     "patch": 54
   }
 }
