@@ -106150,11 +106150,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30a4EC68ff1e0EE00DD5b282d51445b220d6dF23",
+      "symbol": "SHIBGATE",
+      "name": "SHIBGATE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 12,
+    "minor": 13,
     "patch": 54
   }
 }
