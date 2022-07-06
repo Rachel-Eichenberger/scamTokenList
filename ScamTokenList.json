@@ -106480,11 +106480,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC4C6AD94a6A63Ca06516D27C048B0F445a92993a",
+      "symbol": "PICASSO",
+      "name": "PabloPicasso",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 42,
+    "minor": 43,
     "patch": 54
   }
 }
