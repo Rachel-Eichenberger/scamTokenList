@@ -107756,11 +107756,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB70f0053137a685faae912629f6B9a03E43E5C6c",
+      "symbol": "MOBO",
+      "name": "MoboToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 58,
+    "minor": 59,
     "patch": 55
   }
 }
