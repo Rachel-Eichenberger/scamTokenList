@@ -107151,11 +107151,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24fc8DFb6656C9817ac0C3355d6BB522F611Fd9f",
+      "symbol": "SEIYA",
+      "name": "PegasusSeiya",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 3,
+    "minor": 4,
     "patch": 55
   }
 }
