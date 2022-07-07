@@ -106623,11 +106623,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF99D62fF9a4FDB6198B1eBD1692fDc481B5aCDC6",
+      "symbol": "REVOLUTIONER",
+      "name": "Revolutionereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 55,
+    "minor": 56,
     "patch": 54
   }
 }
