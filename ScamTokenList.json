@@ -107624,11 +107624,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17FAC766FAb885823ccF1b285B599d3b4fBC66Fe",
+      "symbol": "DRANEKO",
+      "name": "DranekoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 46,
+    "minor": 47,
     "patch": 55
   }
 }
