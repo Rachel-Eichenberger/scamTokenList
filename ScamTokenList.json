@@ -106821,11 +106821,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cbdf9889Ff6b4eD69a7216b4D79414F8685Ef55",
+      "symbol": "BABYTAMA",
+      "name": "BabyTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 73,
+    "minor": 74,
     "patch": 54
   }
 }
