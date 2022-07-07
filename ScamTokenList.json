@@ -107580,11 +107580,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9eA1EB68aAcef7bd9A59c47b60C5F7D545296C31",
+      "symbol": "1",
+      "name": "OneInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 42,
+    "minor": 43,
     "patch": 55
   }
 }
