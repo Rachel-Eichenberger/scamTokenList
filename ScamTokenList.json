@@ -107734,11 +107734,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67abd2417447Cb4b3C2A436FD753F1452C87f52c",
+      "symbol": "LOKI",
+      "name": "LokiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 56,
+    "minor": 57,
     "patch": 55
   }
 }
