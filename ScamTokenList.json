@@ -107426,11 +107426,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4478f2D6eddd0dBfA4dc8dB4A8dd10a7842c9E5",
+      "symbol": "GECKO",
+      "name": "GECKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 28,
+    "minor": 29,
     "patch": 55
   }
 }
