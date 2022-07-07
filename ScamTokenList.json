@@ -107118,11 +107118,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cCaE8A29632528C8c8812EB71796FE166835748",
+      "symbol": "VISHNU",
+      "name": "VISHNU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 0,
+    "minor": 1,
     "patch": 55
   }
 }
