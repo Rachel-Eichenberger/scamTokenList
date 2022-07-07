@@ -107481,11 +107481,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9366ac4c103F8921c79bE5C7Aa29948586f94B7c",
+      "symbol": "KAZUKI",
+      "name": "KazukiTakahashi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 33,
+    "minor": 34,
     "patch": 55
   }
 }
