@@ -107382,11 +107382,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0960a8B4D7369F81cd0bc5Df4BcD34eABd9d3a0b",
+      "symbol": "MOAR",
+      "name": "MoarDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 24,
+    "minor": 25,
     "patch": 55
   }
 }
