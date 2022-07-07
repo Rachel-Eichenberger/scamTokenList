@@ -107360,11 +107360,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDcF6951a0176f781698161308158fcF42f889A8F",
+      "symbol": "JOKER",
+      "name": "JOKEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 22,
+    "minor": 23,
     "patch": 55
   }
 }
