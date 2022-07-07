@@ -107635,11 +107635,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26818a3c75C136971f77208C4E99AC71D6D0D48A",
+      "symbol": "PEPER",
+      "name": "PEPEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 47,
+    "minor": 48,
     "patch": 55
   }
 }
