@@ -107019,11 +107019,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDFbEcDb520f698Bff0C3ED8D91a56b4F4607e811",
+      "symbol": "TAKAHASHI",
+      "name": "Takahashi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 91,
+    "minor": 92,
     "patch": 54
   }
 }
