@@ -107459,11 +107459,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x719030a3550ca17D77e120bfBad2e333274E7B29",
+      "symbol": "THEGREAT",
+      "name": "KINGALEXANDER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 31,
+    "minor": 32,
     "patch": 55
   }
 }
