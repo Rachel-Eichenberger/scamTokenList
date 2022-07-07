@@ -107404,11 +107404,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1252d3c711c50895CC73b1B7cF2Eb1841588d197",
+      "symbol": "ROCKER",
+      "name": "ROCKEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 26,
+    "minor": 27,
     "patch": 55
   }
 }
