@@ -107217,11 +107217,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39b9e2fE69F5D4b7559F12a8F622d5845265d763",
+      "symbol": "RVLT",
+      "name": "Revolt2Earn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 9,
+    "minor": 10,
     "patch": 55
   }
 }
