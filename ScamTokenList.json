@@ -107195,11 +107195,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc6A76ad83840503c20679631cc135C7C8D75917",
+      "symbol": "SHIBAINUMOUNT",
+      "name": "ShibaInuMount",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 7,
+    "minor": 8,
     "patch": 55
   }
 }
