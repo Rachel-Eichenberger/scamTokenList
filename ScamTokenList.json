@@ -107206,11 +107206,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73c76ED3172b87De8E21A0776Dc68950d790cA17",
+      "symbol": "REDHULK",
+      "name": "RedHulk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 8,
+    "minor": 9,
     "patch": 55
   }
 }
