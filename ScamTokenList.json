@@ -107030,11 +107030,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8058A82B6b4dDd7AeEd2a96e0F86C9F90a78Fd34",
+      "symbol": "APE",
+      "name": "APIENS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 92,
+    "minor": 93,
     "patch": 54
   }
 }
