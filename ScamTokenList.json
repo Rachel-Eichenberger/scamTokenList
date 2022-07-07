@@ -107525,11 +107525,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ce2c0CcC479b7b95d9a93087cA6021480d4A849",
+      "symbol": "MONONOKE",
+      "name": "Mononoke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 37,
+    "minor": 38,
     "patch": 55
   }
 }
