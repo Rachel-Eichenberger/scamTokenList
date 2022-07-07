@@ -106711,11 +106711,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x129eE9E7a893a61E8ef6F84a9845Db3c8D6A8050",
+      "symbol": "STEALTH",
+      "name": "stealth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 63,
+    "minor": 64,
     "patch": 54
   }
 }
