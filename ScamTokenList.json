@@ -107569,11 +107569,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x664Dc2924958D5CD2112c09dB0195C1DEC8E23c6",
+      "symbol": "SHIB",
+      "name": "Shib",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 41,
+    "minor": 42,
     "patch": 55
   }
 }
