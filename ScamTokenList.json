@@ -106986,11 +106986,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd90f246DD72132FD737029a2Bde249990782ed9",
+      "symbol": "SAFE",
+      "name": "SafePlay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 88,
+    "minor": 89,
     "patch": 54
   }
 }
