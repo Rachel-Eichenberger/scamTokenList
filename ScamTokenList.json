@@ -106865,11 +106865,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78CD4428c9Ac42A3CC5F4CE1b6fFdB5a8D5Aa337",
+      "symbol": "RMULTI",
+      "name": "RelicMultiFamily",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 77,
+    "minor": 78,
     "patch": 54
   }
 }
