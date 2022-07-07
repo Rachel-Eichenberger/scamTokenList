@@ -107085,11 +107085,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDF6ac5B932A798de7823375A1FB0507A5177d403",
+      "symbol": "DICK",
+      "name": "DICKEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 97,
+    "minor": 98,
     "patch": 54
   }
 }
