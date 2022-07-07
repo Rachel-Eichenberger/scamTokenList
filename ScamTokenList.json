@@ -107701,11 +107701,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39f5eE87Ad31a0F181D0024541364e394F74a00D",
+      "symbol": "GUSHER",
+      "name": "TEXASOIL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 53,
+    "minor": 54,
     "patch": 55
   }
 }
