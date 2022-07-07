@@ -106667,11 +106667,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8C880B880d41D53D7989b07eE40c3fc87e98054",
+      "symbol": "PANDAR",
+      "name": "Pandareum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 59,
+    "minor": 60,
     "patch": 54
   }
 }
