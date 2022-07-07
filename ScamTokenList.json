@@ -107536,11 +107536,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x931F4D8cCCc1200d593789a31880c561e87FdF84",
+      "symbol": "KASAITAMA",
+      "name": "Kasumigaeski",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 38,
+    "minor": 39,
     "patch": 55
   }
 }
