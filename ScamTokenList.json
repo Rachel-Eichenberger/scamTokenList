@@ -106887,11 +106887,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd304456c34e95B3114C4B6d2a683563B7E791f69",
+      "symbol": "F1",
+      "name": "FlokiOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 79,
+    "minor": 80,
     "patch": 54
   }
 }
