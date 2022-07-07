@@ -107393,11 +107393,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe45bec08Ada718fF4764DB9cc35eAAcEAd6d523",
+      "symbol": "IRONINU",
+      "name": "IronManInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 25,
+    "minor": 26,
     "patch": 55
   }
 }
