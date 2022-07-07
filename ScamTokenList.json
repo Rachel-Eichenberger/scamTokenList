@@ -106931,11 +106931,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e591f1Cc7E08DeC7794D9Aba5DA8bBC41570960",
+      "symbol": "SECT",
+      "name": "TheSecretandtheTrut",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 83,
+    "minor": 84,
     "patch": 54
   }
 }
