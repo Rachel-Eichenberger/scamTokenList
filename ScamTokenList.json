@@ -107349,11 +107349,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95Db72775E6F1091d52439124e36D7Fd47a08942",
+      "symbol": "RYOSHI",
+      "name": "Ryoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 21,
+    "minor": 22,
     "patch": 55
   }
 }
