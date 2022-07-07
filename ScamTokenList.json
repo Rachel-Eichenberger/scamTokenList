@@ -107690,11 +107690,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe42148Ca4Aa712df31aA36eD2785e2f2D297eB98",
+      "symbol": "DOGE",
+      "name": "doge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 52,
+    "minor": 53,
     "patch": 55
   }
 }
