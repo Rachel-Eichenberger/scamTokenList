@@ -106810,11 +106810,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D5bb184fC6EAE7AD7Bb9A2Bc8322E12fA68017B",
+      "symbol": "IDI",
+      "name": "InfluencersDoxxInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 72,
+    "minor": 73,
     "patch": 54
   }
 }
