@@ -106755,11 +106755,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC08E57efDF533e5120c1B842981561b42C211Ab",
+      "symbol": "TSUKA20",
+      "name": "TSUKANFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 67,
+    "minor": 68,
     "patch": 54
   }
 }
