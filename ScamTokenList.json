@@ -106766,11 +106766,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2119EDbDB3d09b6A6D4907df3d3EBD75852D2981",
+      "symbol": "C1",
+      "name": "CHOSENONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 68,
+    "minor": 69,
     "patch": 54
   }
 }
