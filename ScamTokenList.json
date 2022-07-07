@@ -107327,11 +107327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10cdDC59138128EDcC083993E3aE3a096d244Fe1",
+      "symbol": "ASRM",
+      "name": "Assereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 19,
+    "minor": 20,
     "patch": 55
   }
 }
