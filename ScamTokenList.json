@@ -106722,11 +106722,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5aaf1E10aF616b335699D00189A12324b617f2d8",
+      "symbol": "MISSY",
+      "name": "MissyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 64,
+    "minor": 65,
     "patch": 54
   }
 }
