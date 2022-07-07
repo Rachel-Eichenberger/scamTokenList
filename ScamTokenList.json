@@ -106909,11 +106909,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01abf7a798547CD99F43a02287ff036904e44A06",
+      "symbol": "BASTET",
+      "name": "Bastet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 81,
+    "minor": 82,
     "patch": 54
   }
 }
