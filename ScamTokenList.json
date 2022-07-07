@@ -106678,11 +106678,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb621589aA9fe1738440ec683C6171f561ef4AEd0",
+      "symbol": "CULTER",
+      "name": "CULTEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 60,
+    "minor": 61,
     "patch": 54
   }
 }
