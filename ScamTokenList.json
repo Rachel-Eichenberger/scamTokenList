@@ -107338,11 +107338,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b88a4a3EB947B8E7077919e8C135373A550EF1e",
+      "symbol": "BIRTH",
+      "name": "CollapsingBirthRate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 20,
+    "minor": 21,
     "patch": 55
   }
 }
