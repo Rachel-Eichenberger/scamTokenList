@@ -107492,11 +107492,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50E3Cc7A7BEc7D1850E2cE2039d0C15ba046fC05",
+      "symbol": "YIELDTIME",
+      "name": "YieldTime",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 34,
+    "minor": 35,
     "patch": 55
   }
 }
