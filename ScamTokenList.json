@@ -106799,11 +106799,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91a5de30e57831529a3c1aF636A78a7E4E83f3aa",
+      "symbol": "HULK",
+      "name": "HULKINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 71,
+    "minor": 72,
     "patch": 54
   }
 }
