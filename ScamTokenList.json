@@ -107767,11 +107767,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAD8A636F534fb12F59fb849859Dd50948C9C763D",
+      "symbol": "GREEN",
+      "name": "green",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 59,
+    "minor": 60,
     "patch": 55
   }
 }
