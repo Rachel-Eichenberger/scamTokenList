@@ -106788,11 +106788,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52aEcf456B8356ef89a471B4E2D38B91323a25bB",
+      "symbol": "PHARAOREUM",
+      "name": "Pharaoreum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 70,
+    "minor": 71,
     "patch": 54
   }
 }
