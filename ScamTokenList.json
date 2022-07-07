@@ -106997,11 +106997,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93e1D610aEF3bc366778a3A8465CAF530555D2aE",
+      "symbol": "SOCK",
+      "name": "SockDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 89,
+    "minor": 90,
     "patch": 54
   }
 }
