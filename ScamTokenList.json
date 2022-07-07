@@ -107514,11 +107514,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65defFf2Fb270f7e8f90484169596991fE1DDCf9",
+      "symbol": "TOMA",
+      "name": "Cryptoma",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 36,
+    "minor": 37,
     "patch": 55
   }
 }
