@@ -107668,11 +107668,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c3Ca152c786fE215fC04E7BA1413f19E2554fEe",
+      "symbol": "MUSCLEBULL",
+      "name": "MuscleBull",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 50,
+    "minor": 51,
     "patch": 55
   }
 }
