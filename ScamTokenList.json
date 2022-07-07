@@ -107558,11 +107558,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77cC7055af3C304Dc84D90085cCefAD61047Dd4A",
+      "symbol": "MOBY",
+      "name": "MOBY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 40,
+    "minor": 41,
     "patch": 55
   }
 }
