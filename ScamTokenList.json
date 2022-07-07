@@ -107679,11 +107679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x904428913b15060E2a46BDCDaDd4B1DdeA72f801",
+      "symbol": "ULTRA",
+      "name": "UltraSwapToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 51,
+    "minor": 52,
     "patch": 55
   }
 }
