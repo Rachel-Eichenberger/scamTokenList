@@ -107723,11 +107723,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A9e7fcD994056A37eeA2f47aE181B504c5d56c0",
+      "symbol": "JEETER",
+      "name": "Jeetereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 55,
+    "minor": 56,
     "patch": 55
   }
 }
