@@ -106975,11 +106975,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF44d2cFc5722047e5dec5C8EB4B18334A2EDCaf4",
+      "symbol": "AQUAREUM",
+      "name": "AQUA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 87,
+    "minor": 88,
     "patch": 54
   }
 }
