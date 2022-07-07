@@ -106843,11 +106843,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F0E1857E310A33F0BA5c18620326b97fb560aDF",
+      "symbol": "D1",
+      "name": "DOGEONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 75,
+    "minor": 76,
     "patch": 54
   }
 }
