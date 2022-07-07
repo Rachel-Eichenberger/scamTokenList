@@ -106612,11 +106612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2C4fFcb06AB315c37f14a2c51e53F99A0E9B4d5",
+      "symbol": "BETTER",
+      "name": "BETEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 54,
+    "minor": 55,
     "patch": 54
   }
 }
