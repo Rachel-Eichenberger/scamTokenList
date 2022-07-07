@@ -106832,11 +106832,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe80471aC40b9c985f6Bbd15c0ac5807eB49374C0",
+      "symbol": "X",
+      "name": "XTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 74,
+    "minor": 75,
     "patch": 54
   }
 }
