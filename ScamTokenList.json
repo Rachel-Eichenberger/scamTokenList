@@ -106777,11 +106777,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8D910f3934f20EA33e5873748F2EdcE51D83b56",
+      "symbol": "SPARTAN",
+      "name": "BloodAndBrave",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 69,
+    "minor": 70,
     "patch": 54
   }
 }
