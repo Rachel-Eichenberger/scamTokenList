@@ -107074,11 +107074,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf97681bfD05330b909A02a209Ac41bb114CEb3b7",
+      "symbol": "HAHA",
+      "name": "hahainu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 96,
+    "minor": 97,
     "patch": 54
   }
 }
