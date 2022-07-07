@@ -107712,11 +107712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08f95D0EBd1596A137f4bAde967B5fB4BA526F82",
+      "symbol": "SENZUKI",
+      "name": "Senzuki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 54,
+    "minor": 55,
     "patch": 55
   }
 }
