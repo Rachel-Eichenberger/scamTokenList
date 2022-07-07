@@ -107096,11 +107096,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9cb096a9327264BE5a6E19Baa35a725d2Db0FdF3",
+      "symbol": "BORISINU",
+      "name": "BorisInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 98,
+    "minor": 99,
     "patch": 54
   }
 }
