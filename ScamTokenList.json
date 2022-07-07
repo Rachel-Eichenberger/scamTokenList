@@ -107052,11 +107052,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8E8Ba8aE0618215bdF476c705152B3B93b8ddAd",
+      "symbol": "MIX",
+      "name": "remix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 94,
+    "minor": 95,
     "patch": 54
   }
 }
