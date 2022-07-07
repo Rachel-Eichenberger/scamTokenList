@@ -107294,11 +107294,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98d1722DD59Aad0A2A1ed3E636cc715d391F80E8",
+      "symbol": "A1",
+      "name": "APEONE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 16,
+    "minor": 17,
     "patch": 55
   }
 }
