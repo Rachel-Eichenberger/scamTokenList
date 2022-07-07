@@ -107162,11 +107162,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x761bd323aD314cDC4b1C4410cF01C796651c2eE7",
+      "symbol": "HYBRIDINU",
+      "name": "HYBRIDINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 4,
+    "minor": 5,
     "patch": 55
   }
 }
