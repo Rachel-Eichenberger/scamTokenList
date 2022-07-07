@@ -106744,11 +106744,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3d6CF694BEeb220A38eF086419655805751364C",
+      "symbol": "DCX",
+      "name": "DogeCrypt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 66,
+    "minor": 67,
     "patch": 54
   }
 }
