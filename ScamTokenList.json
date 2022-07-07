@@ -107448,11 +107448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D47805AaF83f265DD53B116487Ad922Fd4b5353",
+      "symbol": "MASTER",
+      "name": "KungFuMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 30,
+    "minor": 31,
     "patch": 55
   }
 }
