@@ -106579,11 +106579,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C397984626503582bF4b2174625d16267d4f155",
+      "symbol": "HSI",
+      "name": "HomerSimpsonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 51,
+    "minor": 52,
     "patch": 54
   }
 }
