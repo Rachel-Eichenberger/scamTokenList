@@ -106953,11 +106953,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x203365a32094EbB8d07C1e92E3Aef736D70E6A64",
+      "symbol": "DOIL",
+      "name": "DuckereumOil",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 56,
-    "minor": 85,
+    "minor": 86,
     "patch": 54
   }
 }
