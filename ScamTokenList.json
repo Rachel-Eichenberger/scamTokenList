@@ -107646,11 +107646,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8B7009966fd67366F0C5F8f088f8E811Cc83caf",
+      "symbol": "SHARKIE",
+      "name": "SharkieToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 48,
+    "minor": 49,
     "patch": 55
   }
 }
