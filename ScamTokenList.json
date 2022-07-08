@@ -108812,11 +108812,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc957FA8710935aCae65Fc284730720402e62e58",
+      "symbol": "BORAT",
+      "name": "BoratInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 54,
+    "minor": 55,
     "patch": 56
   }
 }
