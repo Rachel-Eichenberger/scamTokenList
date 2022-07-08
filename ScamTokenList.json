@@ -108020,11 +108020,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe343cefe6743EdA42f5d03f175ec8C37cacbaEd7",
+      "symbol": "EDRA",
+      "name": "EggDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 82,
+    "minor": 83,
     "patch": 55
   }
 }
