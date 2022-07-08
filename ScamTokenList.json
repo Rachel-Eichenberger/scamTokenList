@@ -108889,11 +108889,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb25A0e02fCe3c4E8A1c2a3aAB5Aa9b02f9fb3D20",
+      "symbol": "TON",
+      "name": "TON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 61,
+    "minor": 62,
     "patch": 56
   }
 }
