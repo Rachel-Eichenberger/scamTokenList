@@ -108218,11 +108218,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd3254Fcdd11b01B8E2E220f811cEA672015Ab4a",
+      "symbol": "NINJAPANDA",
+      "name": "NinjaPanda",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 0,
+    "minor": 1,
     "patch": 56
   }
 }
