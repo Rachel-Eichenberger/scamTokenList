@@ -107833,11 +107833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x180E529BE8b5C945d6b7A74CeEF48C8AE828ADb6",
+      "symbol": "SIGN",
+      "name": "SIGNAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 65,
+    "minor": 66,
     "patch": 55
   }
 }
