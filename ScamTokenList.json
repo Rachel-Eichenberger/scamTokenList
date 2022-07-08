@@ -108394,11 +108394,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1cCAe51fF79295AB7f85BC9279b57CA583A5955",
+      "symbol": "FLOKER",
+      "name": "Flokereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 16,
+    "minor": 17,
     "patch": 56
   }
 }
