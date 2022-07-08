@@ -108482,11 +108482,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA39992fC6d0F9cce5f84d0f1cf2820a1Fe459f04",
+      "symbol": "POOL",
+      "name": "Poolfarms",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 24,
+    "minor": 25,
     "patch": 56
   }
 }
