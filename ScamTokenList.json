@@ -107998,11 +107998,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56d77abD28a51860a503f4234ebC566458197488",
+      "symbol": "FTTS",
+      "name": "FTTSNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 80,
+    "minor": 81,
     "patch": 55
   }
 }
