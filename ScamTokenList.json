@@ -107778,11 +107778,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17Adc779D3a28709ec0c921592E68a83D57D3B77",
+      "symbol": "INVESTIGATOOOR",
+      "name": "INVESTIGAToooR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 60,
+    "minor": 61,
     "patch": 55
   }
 }
