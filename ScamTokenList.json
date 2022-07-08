@@ -108493,11 +108493,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Fc0507909277940af1B39eFA36c6769Fa238ae9",
+      "symbol": "LUNASREBIRTH",
+      "name": "LUNASREBIRTH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 25,
+    "minor": 26,
     "patch": 56
   }
 }
