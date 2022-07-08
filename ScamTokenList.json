@@ -108284,11 +108284,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d4510C6351B454631861cfe9f78eAa802Ac8aB",
+      "symbol": "MAD",
+      "name": "MADDOGINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 6,
+    "minor": 7,
     "patch": 56
   }
 }
