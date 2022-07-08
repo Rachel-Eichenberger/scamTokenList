@@ -108141,11 +108141,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x151226Df57740A157dF5DD1A7b30dbD61be660D0",
+      "symbol": "RAGNAROK",
+      "name": "Ragnarok",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 93,
+    "minor": 94,
     "patch": 55
   }
 }
