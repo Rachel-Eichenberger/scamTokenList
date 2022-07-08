@@ -108185,11 +108185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x217D80bB997E7Fa7Ba4FC160CcEb2B8d0236bF05",
+      "symbol": "MVM",
+      "name": "MetaverseMap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 97,
+    "minor": 98,
     "patch": 55
   }
 }
