@@ -108702,11 +108702,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x241D42d0a60E7E83E4300f67cdDD9f69C0F4574b",
+      "symbol": "ATHENA",
+      "name": "AthenaAsamiya",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 44,
+    "minor": 45,
     "patch": 56
   }
 }
