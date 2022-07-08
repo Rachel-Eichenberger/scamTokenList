@@ -108735,11 +108735,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x848BEdcFE0ae45151e60a02298277470F2665827",
+      "symbol": "ELONTERMINATOR",
+      "name": "ElonTerminator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 47,
+    "minor": 48,
     "patch": 56
   }
 }
