@@ -107800,11 +107800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9B9e069C44Fe00Ecd0D7cb103E6ABa90438B8Cd",
+      "symbol": "ARABIAN",
+      "name": "ArabianInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 62,
+    "minor": 63,
     "patch": 55
   }
 }
