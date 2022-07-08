@@ -108108,11 +108108,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28DceDC86bBAFCC8500a220Cbf9e71D2f45E4770",
+      "symbol": "POOP",
+      "name": "Pieceofshit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 90,
+    "minor": 91,
     "patch": 55
   }
 }
