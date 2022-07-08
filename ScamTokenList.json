@@ -108229,11 +108229,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x634461CEDdbFD5dbBb7E12B566Eb75756d2b8643",
+      "symbol": "BEATKONG",
+      "name": "BeatKong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 1,
+    "minor": 2,
     "patch": 56
   }
 }
