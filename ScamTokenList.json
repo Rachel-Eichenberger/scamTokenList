@@ -108438,11 +108438,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC95Bf714bC31DD3525F92Cf84A5e892E4eee6e5B",
+      "symbol": "HAMHAM",
+      "name": "Hemhem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 20,
+    "minor": 21,
     "patch": 56
   }
 }
