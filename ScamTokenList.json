@@ -108537,11 +108537,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2317139E78753526Be4946D84ADbD6EDBA17394",
+      "symbol": "SHOOTER",
+      "name": "ShooterInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 29,
+    "minor": 30,
     "patch": 56
   }
 }
