@@ -108361,11 +108361,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3D5D16bAe7016cDdF27bfd75b435eC4ffc5a899",
+      "symbol": "FROGGER",
+      "name": "Froggereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 13,
+    "minor": 14,
     "patch": 56
   }
 }
