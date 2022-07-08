@@ -108097,11 +108097,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0143a97e02eFdb18990CCFc3d53C70dec211f55",
+      "symbol": "FEREUM",
+      "name": "Farmereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 89,
+    "minor": 90,
     "patch": 55
   }
 }
