@@ -108383,11 +108383,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCadb3777cd0f9148ccd8fd512b69E2Cab778eE79",
+      "symbol": "KODIAK",
+      "name": "Grizzly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 15,
+    "minor": 16,
     "patch": 56
   }
 }
