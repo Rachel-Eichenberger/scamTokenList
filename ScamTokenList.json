@@ -108867,11 +108867,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4E3DF235fCa88d75D6Af42c8eC7E4a09148d323",
+      "symbol": "M87BURN",
+      "name": "M87burn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 59,
+    "minor": 60,
     "patch": 56
   }
 }
