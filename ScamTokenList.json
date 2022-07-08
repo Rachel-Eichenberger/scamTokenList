@@ -108724,11 +108724,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x853308353E1c7BB9F527Dc3c1C550ad3062152a6",
+      "symbol": "TSUKIYOMI",
+      "name": "TsukiyomiETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 46,
+    "minor": 47,
     "patch": 56
   }
 }
