@@ -108339,11 +108339,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4D70AE1dBA91f686A30311641DF7245A25F9841",
+      "symbol": "SHIBDAO",
+      "name": "ShibDAO",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 11,
+    "minor": 12,
     "patch": 56
   }
 }
