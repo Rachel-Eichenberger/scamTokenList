@@ -108449,11 +108449,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA144b669b64afD763EAd039fe75D01fBEe1D98b6",
+      "symbol": "HOOTHOOT",
+      "name": "HootHoot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 21,
+    "minor": 22,
     "patch": 56
   }
 }
