@@ -108878,11 +108878,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0D7f725A07E0e6F0197F5efbdeCE8D5cd53d8A7",
+      "symbol": "GHOSTMAN",
+      "name": "Ghostman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 60,
+    "minor": 61,
     "patch": 56
   }
 }
