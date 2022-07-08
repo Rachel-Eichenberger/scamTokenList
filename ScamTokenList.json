@@ -107877,11 +107877,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeFf25E36411Ec1fdb5C7A60169cf247DfF0e00E",
+      "symbol": "ABE",
+      "name": "ShinzoAbe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 69,
+    "minor": 70,
     "patch": 55
   }
 }
