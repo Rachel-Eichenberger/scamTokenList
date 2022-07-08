@@ -107899,11 +107899,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e71733E8C917EA527Cb08372ec3ef0B2951F735",
+      "symbol": "GENGHISKHAN",
+      "name": "GenghisInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 71,
+    "minor": 72,
     "patch": 55
   }
 }
