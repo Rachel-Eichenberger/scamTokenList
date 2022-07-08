@@ -107844,11 +107844,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB26f99143A6B2d01c02e6006F21C3670f665823",
+      "symbol": "HACHIDAIRYUO",
+      "name": "Hachidairyuo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 66,
+    "minor": 67,
     "patch": 55
   }
 }
