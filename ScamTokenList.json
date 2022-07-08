@@ -108240,11 +108240,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FBF3dE9C44614404DfbD1E21693b1EB29eAC6e9",
+      "symbol": "DEFINITELYNOTDICKS",
+      "name": "DefinitelyNotDicks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 2,
+    "minor": 3,
     "patch": 56
   }
 }
