@@ -108460,11 +108460,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7e5e44113A73e45762EE15339a7f43f73262D8d",
+      "symbol": "SNOOPINU",
+      "name": "SnoopInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 22,
+    "minor": 23,
     "patch": 56
   }
 }
