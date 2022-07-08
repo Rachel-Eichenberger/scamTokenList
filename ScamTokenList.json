@@ -108669,11 +108669,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86Da0A67687adC1DF0F0E3A3BB73632B0E8F6DF0",
+      "symbol": "FOLLOWTHERABBIT",
+      "name": "FOLLOWTHERABBIT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 41,
+    "minor": 42,
     "patch": 56
   }
 }
