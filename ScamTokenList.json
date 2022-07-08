@@ -108328,11 +108328,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3Ffdc7E3aB65267EC7DDEf763e60302C77a6E47",
+      "symbol": "SHOOTABE",
+      "name": "ShootABE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 10,
+    "minor": 11,
     "patch": 56
   }
 }
