@@ -108691,11 +108691,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00FF0797885Cb1A3E83Ff0a729c4b51870bAecB9",
+      "symbol": "OKIDOKISOCIAL",
+      "name": "OkidokiSocial",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 43,
+    "minor": 44,
     "patch": 56
   }
 }
