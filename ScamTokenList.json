@@ -108295,11 +108295,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xada19B110BCD995D15BFF28e53615FaAC7F45406",
+      "symbol": "DEFINITELYNOTPUSSY",
+      "name": "DNP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 7,
+    "minor": 8,
     "patch": 56
   }
 }
