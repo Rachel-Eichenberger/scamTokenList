@@ -108306,11 +108306,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1459285AD28C7fD273cBcc75855184e1dFe4faD",
+      "symbol": "LIGHTUP",
+      "name": "LightUp",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 8,
+    "minor": 9,
     "patch": 56
   }
 }
