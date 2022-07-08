@@ -108350,11 +108350,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC144F961CCCcE3F46e45e18cC3fE2B568197Fc23",
+      "symbol": "DRUGER",
+      "name": "Drugereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 12,
+    "minor": 13,
     "patch": 56
   }
 }
