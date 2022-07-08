@@ -108625,11 +108625,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe01EC288FDc43353386adA98C35ADced281C1EC",
+      "symbol": "DUCKCOIN",
+      "name": "DuckCoin",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 37,
+    "minor": 38,
     "patch": 56
   }
 }
