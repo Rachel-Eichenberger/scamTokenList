@@ -108636,11 +108636,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB85a7c951798Caa5C3d38a1644EbDb80af136bE9",
+      "symbol": "IKAGAMI",
+      "name": "TheUltimateLimit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 38,
+    "minor": 39,
     "patch": 56
   }
 }
