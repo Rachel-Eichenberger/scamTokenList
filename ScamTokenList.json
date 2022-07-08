@@ -108559,11 +108559,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf51Cd3a8DE27D3651c0a02C4E9f244622be2dAC0",
+      "symbol": "DACHSHUND",
+      "name": "Dachshund",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 31,
+    "minor": 32,
     "patch": 56
   }
 }
