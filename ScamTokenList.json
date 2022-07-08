@@ -108064,11 +108064,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bf6bd95D5229b9984181c9e53f769961b0b83aa",
+      "symbol": "KJEET",
+      "name": "KINGOFPAJEET",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 86,
+    "minor": 87,
     "patch": 55
   }
 }
