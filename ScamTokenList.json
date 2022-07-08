@@ -108647,11 +108647,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d14A824da9907dba441DDC9d32EdD14f4A20f21",
+      "symbol": "NP",
+      "name": "NinjaPanda",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 39,
+    "minor": 40,
     "patch": 56
   }
 }
