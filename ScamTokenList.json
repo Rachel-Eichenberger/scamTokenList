@@ -107943,11 +107943,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01b3c045f7491E25bf61733B4E6b2581DB2D5e7c",
+      "symbol": "ODINEUM",
+      "name": "Odineum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 75,
+    "minor": 76,
     "patch": 55
   }
 }
