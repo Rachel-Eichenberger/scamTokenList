@@ -108834,11 +108834,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22Cea31d26E9844aBa3fB661ef3fAB358D8FA956",
+      "symbol": "SIR",
+      "name": "sir",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 56,
+    "minor": 57,
     "patch": 56
   }
 }
