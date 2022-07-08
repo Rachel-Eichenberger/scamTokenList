@@ -108779,11 +108779,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD623fB34a84E3B1A653E2905c8df7914fd027d3D",
+      "symbol": "TON618",
+      "name": "BlackHole",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 51,
+    "minor": 52,
     "patch": 56
   }
 }
