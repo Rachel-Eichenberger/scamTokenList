@@ -108317,11 +108317,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1AE80Dd185eA4600206113E4C18CE86e6da7419",
+      "symbol": "SELFDESTROYED",
+      "name": "Destructed scams",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 9,
+    "minor": 10,
     "patch": 56
   }
 }
