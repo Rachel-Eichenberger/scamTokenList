@@ -107987,11 +107987,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a09a1010cb795DCD077c04023D54614ff4475B6",
+      "symbol": "LUNAREBIRTH",
+      "name": "LUNAREBIRTH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 79,
+    "minor": 80,
     "patch": 55
   }
 }
