@@ -108163,11 +108163,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f6e786AeB3bA0ABa24D702A1AA9Dfb9059e89DC",
+      "symbol": "ZARATHUSTRA",
+      "name": "Zarathustra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 95,
+    "minor": 96,
     "patch": 55
   }
 }
