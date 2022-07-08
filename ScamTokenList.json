@@ -108119,11 +108119,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87deE9ceDf8C32969dB3F69f3a07863BDA1Ac364",
+      "symbol": "PND",
+      "name": "PumpDump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 91,
+    "minor": 92,
     "patch": 55
   }
 }
