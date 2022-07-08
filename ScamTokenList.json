@@ -108086,11 +108086,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAE0Ae7CF73787B2b195d8F03F31bFFD430A265d",
+      "symbol": "DUCKERPREDATOR",
+      "name": "QUACK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 88,
+    "minor": 89,
     "patch": 55
   }
 }
