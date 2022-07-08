@@ -108273,11 +108273,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcA788f873CEA0A12bD073640267B94B8a75b0538",
+      "symbol": "KWON",
+      "name": "KnownOrigin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 5,
+    "minor": 6,
     "patch": 56
   }
 }
