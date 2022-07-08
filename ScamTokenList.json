@@ -108042,11 +108042,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0749a52459ef66291CA33b50Ad1EeC8Eb9Fe0e4F",
+      "symbol": "BORISTAMA",
+      "name": "BORISTAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 84,
+    "minor": 85,
     "patch": 55
   }
 }
