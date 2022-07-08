@@ -108427,11 +108427,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb463DC057A155950E8f9Bf721DdE3CF964fd215E",
+      "symbol": "REDKING",
+      "name": "AkaNoO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 19,
+    "minor": 20,
     "patch": 56
   }
 }
