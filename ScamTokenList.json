@@ -108207,11 +108207,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3176C92169097993cEe1932b422c0D0812EF20e",
+      "symbol": "WAZZUP",
+      "name": "WAZZUP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 57,
-    "minor": 99,
-    "patch": 55
+    "major": 58,
+    "minor": 0,
+    "patch": 56
   }
 }
