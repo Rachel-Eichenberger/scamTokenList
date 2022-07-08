@@ -107822,11 +107822,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa455EF7d57E639c049946B85D3F276fe8486CFa4",
+      "symbol": "RUG",
+      "name": "Honeypot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 64,
+    "minor": 65,
     "patch": 55
   }
 }
