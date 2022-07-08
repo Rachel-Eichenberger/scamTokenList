@@ -108845,11 +108845,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a63AD6b6C2276230728918A695726C1453eCEd5",
+      "symbol": "PANDACULT",
+      "name": "CultofPanda",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 57,
+    "minor": 58,
     "patch": 56
   }
 }
