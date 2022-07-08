@@ -108251,11 +108251,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89D4b2Dc7D2E1F1ff794F47Fc4bdC05797c23055",
+      "symbol": "PUPPER",
+      "name": "PUPPEREUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 3,
+    "minor": 4,
     "patch": 56
   }
 }
