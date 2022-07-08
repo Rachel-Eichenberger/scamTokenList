@@ -108130,11 +108130,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91a616f9b7c5d0d0DefeF60277fEc8DfF76e7E86",
+      "symbol": "SANGO",
+      "name": "SangoDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 92,
+    "minor": 93,
     "patch": 55
   }
 }
