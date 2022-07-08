@@ -108823,11 +108823,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C54C7e07D92248FA59f0185a9CC373b79A53818",
+      "symbol": "ZERRO",
+      "name": "ZerroToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 55,
+    "minor": 56,
     "patch": 56
   }
 }
