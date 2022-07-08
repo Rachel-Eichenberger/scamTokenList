@@ -108526,11 +108526,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x072aF257A35b9584aE6b2cbA2021Bc8B0f75011e",
+      "symbol": "RISK",
+      "name": "RiskDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 28,
+    "minor": 29,
     "patch": 56
   }
 }
