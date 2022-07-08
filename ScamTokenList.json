@@ -108515,11 +108515,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x424f2E8feDbBC9a59D66aeAB2be5CaA75E13C414",
+      "symbol": "DRAGONKING",
+      "name": "DragonKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 27,
+    "minor": 28,
     "patch": 56
   }
 }
