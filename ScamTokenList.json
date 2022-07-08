@@ -107921,11 +107921,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03A529E180a983d73B95070e926a9516DF0cE58d",
+      "symbol": "ABENOMICS",
+      "name": "Abenomics",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 73,
+    "minor": 74,
     "patch": 55
   }
 }
