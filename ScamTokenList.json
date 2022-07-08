@@ -108548,11 +108548,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93aBad98B8292FFE3E44F43799C4c30827ECD46c",
+      "symbol": "JFI",
+      "name": "JaneFosterInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 30,
+    "minor": 31,
     "patch": 56
   }
 }
