@@ -107954,11 +107954,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95445B3609292444d927884CdedDB9B9DbC36d55",
+      "symbol": "DG",
+      "name": "DogeGoose",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 57,
-    "minor": 76,
+    "minor": 77,
     "patch": 55
   }
 }
