@@ -109461,11 +109461,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3789bDC663b2F9AF04169050fb825DE1CdC7BD22",
+      "symbol": "ECX",
+      "name": "ElonCrypt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 13,
+    "minor": 14,
     "patch": 57
   }
 }
