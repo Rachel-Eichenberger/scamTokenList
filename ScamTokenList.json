@@ -109329,11 +109329,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x819736B57E7B65eb9bDe9d8d8c86e7158E7EC23F",
+      "symbol": "ITO",
+      "name": "iToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 1,
+    "minor": 2,
     "patch": 57
   }
 }
