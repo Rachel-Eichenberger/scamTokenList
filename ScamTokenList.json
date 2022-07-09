@@ -109230,11 +109230,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x047FE0dde3c9e2F6F9b7248dF0f6818D15D0cfdd",
+      "symbol": "THUNDER",
+      "name": "THEBOOKOFTHOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 92,
+    "minor": 93,
     "patch": 56
   }
 }
