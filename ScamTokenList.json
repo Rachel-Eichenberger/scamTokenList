@@ -109252,11 +109252,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x129eA3148Cf3da380C02c0bA155F43a173bB3A42",
+      "symbol": "CM",
+      "name": "CharcuterieMetavers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 94,
+    "minor": 95,
     "patch": 56
   }
 }
