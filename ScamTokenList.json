@@ -108966,11 +108966,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41b8Ae43C6eBAc29034Ca20727522322f1D4F103",
+      "symbol": "MANCHU",
+      "name": "HOUSEOFMANCHU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 68,
+    "minor": 69,
     "patch": 56
   }
 }
