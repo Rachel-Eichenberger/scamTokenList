@@ -109054,11 +109054,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E7060ec46F56E17341E92C8FA8226086217bB84",
+      "symbol": "KIJKA",
+      "name": "KichijotenKami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 76,
+    "minor": 77,
     "patch": 56
   }
 }
