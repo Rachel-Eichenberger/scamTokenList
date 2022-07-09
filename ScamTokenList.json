@@ -109340,11 +109340,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd41105a645b2E7052aB478079BF59Dbb07bcc48",
+      "symbol": "5IVEDYNASTIES",
+      "name": "5iveDynasties",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 2,
+    "minor": 3,
     "patch": 57
   }
 }
