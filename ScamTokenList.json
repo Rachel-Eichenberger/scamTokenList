@@ -109120,11 +109120,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8CE3447761635FB50efB24317F979F2d8bb4A483",
+      "symbol": "LUBA",
+      "name": "Baluba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 82,
+    "minor": 83,
     "patch": 56
   }
 }
