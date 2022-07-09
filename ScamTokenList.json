@@ -109032,11 +109032,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05b498f5aA48C959822786ef4204F09e3e06603e",
+      "symbol": "MOOPY",
+      "name": "MoopyToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 74,
+    "minor": 75,
     "patch": 56
   }
 }
