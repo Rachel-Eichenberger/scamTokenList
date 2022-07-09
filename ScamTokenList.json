@@ -109153,11 +109153,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7F35C91Ef9b104A68B1F9d4Ac48921E306C389d",
+      "symbol": "WING",
+      "name": "TheWingman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 85,
+    "minor": 86,
     "patch": 56
   }
 }
