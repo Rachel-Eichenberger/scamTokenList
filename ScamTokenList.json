@@ -109131,11 +109131,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C83512F5FBAb4484118Aad058ec8166f9d9e065",
+      "symbol": "DOLPHIN",
+      "name": "FlipperInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 83,
+    "minor": 84,
     "patch": 56
   }
 }
