@@ -109098,11 +109098,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C8c491BF46a81d644CE49c15626A71bf0eD5404",
+      "symbol": "FLOW",
+      "name": "TheCandlesIgnite",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 80,
+    "minor": 81,
     "patch": 56
   }
 }
