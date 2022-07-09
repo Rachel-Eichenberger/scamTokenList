@@ -109285,11 +109285,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ED24c63E10009Bc0Dbe39710fB51d36BD22EAb1",
+      "symbol": "DEMONAPE",
+      "name": "DemonApe",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 97,
+    "minor": 98,
     "patch": 56
   }
 }
