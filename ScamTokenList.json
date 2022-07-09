@@ -109197,11 +109197,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5EEe30b87666a20b87b4e1D0cC61851B4E983Cf1",
+      "symbol": "BOKI",
+      "name": "BokiCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 89,
+    "minor": 90,
     "patch": 56
   }
 }
