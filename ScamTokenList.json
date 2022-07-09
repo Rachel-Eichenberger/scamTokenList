@@ -109010,11 +109010,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x386c6023f2d735C04BFB4b35f491559173F1F83B",
+      "symbol": "ZENDOGE",
+      "name": "CITIZENDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 72,
+    "minor": 73,
     "patch": 56
   }
 }
