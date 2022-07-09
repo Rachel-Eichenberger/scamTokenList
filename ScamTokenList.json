@@ -108999,11 +108999,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26ee938f8C14D3C71B7d11e3Ebf25e3EAA817549",
+      "symbol": "GAMI",
+      "name": "Ikagami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 71,
+    "minor": 72,
     "patch": 56
   }
 }
