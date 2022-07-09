@@ -109021,11 +109021,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1Bb83db0dDe60B0269fD44b7745f4803CDaBea6",
+      "symbol": "MEV",
+      "name": "Monstercave",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 73,
+    "minor": 74,
     "patch": 56
   }
 }
