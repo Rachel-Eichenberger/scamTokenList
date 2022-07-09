@@ -108955,11 +108955,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69C275C3Cbd7Edf5e6942149266CE8505C65baF8",
+      "symbol": "TRT",
+      "name": "TheRevolutionToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 67,
+    "minor": 68,
     "patch": 56
   }
 }
