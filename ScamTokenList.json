@@ -109307,11 +109307,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x092D58Ee619d98f237E51f49f3194258334CCA1F",
+      "symbol": "DNT",
+      "name": "Donatium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 58,
-    "minor": 99,
-    "patch": 56
+    "major": 59,
+    "minor": 0,
+    "patch": 57
   }
 }
