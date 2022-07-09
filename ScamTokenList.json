@@ -108900,11 +108900,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2f8c5c635ad4757E12033315c108a1F6c014549",
+      "symbol": "HIMUTSI",
+      "name": "HimutsiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 62,
+    "minor": 63,
     "patch": 56
   }
 }
