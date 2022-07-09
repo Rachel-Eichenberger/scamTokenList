@@ -109219,11 +109219,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDEb0B0643A594BEFeab89DD93EBBb6bC87e3681b",
+      "symbol": "CDR",
+      "name": "ChampsDefiRadio",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 91,
+    "minor": 92,
     "patch": 56
   }
 }
