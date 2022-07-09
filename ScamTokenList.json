@@ -109373,11 +109373,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF23C31a8c9469Fc6BF5329AC8aB81b335E50358",
+      "symbol": "SBER",
+      "name": "SberBANK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 5,
+    "minor": 6,
     "patch": 57
   }
 }
