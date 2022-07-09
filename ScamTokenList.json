@@ -109472,11 +109472,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD051eF9aA89Db4605693A56d1e30F3E8662B06DC",
+      "symbol": "BANKER",
+      "name": "SberbankInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 14,
+    "minor": 15,
     "patch": 57
   }
 }
