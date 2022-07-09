@@ -109087,11 +109087,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4337092A2509e8E52814afa0718Db50246fBA1A0",
+      "symbol": "ELIXIREUM",
+      "name": "ElixirofCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 79,
+    "minor": 80,
     "patch": 56
   }
 }
