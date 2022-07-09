@@ -109043,11 +109043,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3aBcb6D1Da205f5E723453c7Fd0AB6bd264F2363",
+      "symbol": "ICTC",
+      "name": "ICLighthouse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 75,
+    "minor": 76,
     "patch": 56
   }
 }
