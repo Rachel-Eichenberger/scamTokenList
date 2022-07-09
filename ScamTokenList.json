@@ -109076,11 +109076,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB14c9fE46D0e8271F9d0DF463bd3885787966003",
+      "symbol": "AKRM",
+      "name": "Akiramenai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 78,
+    "minor": 79,
     "patch": 56
   }
 }
