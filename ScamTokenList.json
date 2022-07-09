@@ -109439,11 +109439,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf07e97385467A999dF7E5635b7f6b256B01Ae94",
+      "symbol": "DONALD",
+      "name": "DonaldDuckInu",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 11,
+    "minor": 12,
     "patch": 57
   }
 }
