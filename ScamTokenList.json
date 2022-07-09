@@ -109362,11 +109362,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10a78306D3f83E4e8bF5E69dd83FeB48e876A5fE",
+      "symbol": "ROSEDAO",
+      "name": "RoseDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 4,
+    "minor": 5,
     "patch": 57
   }
 }
