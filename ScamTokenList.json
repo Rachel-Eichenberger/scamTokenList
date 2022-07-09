@@ -109065,11 +109065,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa83800768588963463a215cEC4d453Ea2e330245",
+      "symbol": "MCWOJAK",
+      "name": "MCWOJAK",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 77,
+    "minor": 78,
     "patch": 56
   }
 }
