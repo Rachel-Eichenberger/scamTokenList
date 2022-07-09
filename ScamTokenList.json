@@ -108944,11 +108944,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a48b566a082F46d23913075Ed38A8abF1dE54A5",
+      "symbol": "M60",
+      "name": "FIGHTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 66,
+    "minor": 67,
     "patch": 56
   }
 }
