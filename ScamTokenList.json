@@ -109186,11 +109186,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0B35E8bd02B77338be4969a957294054D526c28",
+      "symbol": "HOLD",
+      "name": "TheHold",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 58,
-    "minor": 88,
+    "minor": 89,
     "patch": 56
   }
 }
