@@ -109483,11 +109483,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfFc42AE9681e962B27f525E771E6087790B5F281",
+      "symbol": "WRT",
+      "name": "WingRiders",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 15,
+    "minor": 16,
     "patch": 57
   }
 }
