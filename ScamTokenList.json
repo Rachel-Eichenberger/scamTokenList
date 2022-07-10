@@ -109725,11 +109725,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28008C0C8A2765238194e4420e6C354C75Da7e0b",
+      "symbol": "CTZC",
+      "name": "CitizenCash",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 37,
+    "minor": 38,
     "patch": 57
   }
 }
