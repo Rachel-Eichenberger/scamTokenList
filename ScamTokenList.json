@@ -109934,11 +109934,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfD8DFf249C966d7eaC0540EDf99f57F4988d30ce",
+      "symbol": "DJOKOVICINU",
+      "name": "DJOKOVICINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 56,
+    "minor": 57,
     "patch": 57
   }
 }
