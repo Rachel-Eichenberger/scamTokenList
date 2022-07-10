@@ -109538,11 +109538,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc68914B0F11208A035350E58A4f0a57Cf79F443",
+      "symbol": "HUSTLE",
+      "name": "Work2Earn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 20,
+    "minor": 21,
     "patch": 57
   }
 }
