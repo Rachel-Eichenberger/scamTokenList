@@ -109604,11 +109604,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56744477e693D566CA87f422FE02767a20D34eF9",
+      "symbol": "PINU",
+      "name": "PizzaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 26,
+    "minor": 27,
     "patch": 57
   }
 }
