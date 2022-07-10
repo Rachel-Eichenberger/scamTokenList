@@ -110000,11 +110000,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa0a2A8dCe6d97F68937402C61E70B2eAF42a280",
+      "symbol": "TAKI",
+      "name": "TAKIBIINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 62,
+    "minor": 63,
     "patch": 57
   }
 }
