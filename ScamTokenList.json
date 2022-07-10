@@ -109758,11 +109758,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x304051f2559cc444D1f7e0ABAfd1dbDD91b4deCe",
+      "symbol": "GSPL",
+      "name": "GOSPEL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 40,
+    "minor": 41,
     "patch": 57
   }
 }
