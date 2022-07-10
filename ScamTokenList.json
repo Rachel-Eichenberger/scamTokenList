@@ -110055,11 +110055,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3d49fefec297D3a7BBDA4A38d52fa9eE5bdfA4D",
+      "symbol": "TSUKATAMA",
+      "name": "TSUKATAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 67,
+    "minor": 68,
     "patch": 57
   }
 }
