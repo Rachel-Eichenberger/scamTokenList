@@ -109912,11 +109912,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcACc6bC7C52317CDb803284c4aF6eBD92f1193ec",
+      "symbol": "19",
+      "name": "ZEROHAND",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 54,
+    "minor": 55,
     "patch": 57
   }
 }
