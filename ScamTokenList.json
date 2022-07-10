@@ -109945,11 +109945,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10fF4DbDb1AB67Dcb566098E44DCC8375eB30EBA",
+      "symbol": "THEOATH",
+      "name": "TheOath",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 57,
+    "minor": 58,
     "patch": 57
   }
 }
