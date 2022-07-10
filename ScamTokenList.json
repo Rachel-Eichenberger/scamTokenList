@@ -109747,11 +109747,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7fE82096fCFd972A04e3D3bb853881Fa6244a5D",
+      "symbol": "NOTHING",
+      "name": "ProbablyNothing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 39,
+    "minor": 40,
     "patch": 57
   }
 }
