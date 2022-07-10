@@ -109846,11 +109846,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd306b984c864AC5deD7182e47b66C0D92c67d3d8",
+      "symbol": "GIANTKING",
+      "name": "Giantking",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 48,
+    "minor": 49,
     "patch": 57
   }
 }
