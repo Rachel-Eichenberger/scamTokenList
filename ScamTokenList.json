@@ -109835,11 +109835,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xADA8350E41737630b8187e13Bc6Cc5D18D252D32",
+      "symbol": "HINU",
+      "name": "HiphopInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 47,
+    "minor": 48,
     "patch": 57
   }
 }
