@@ -109615,11 +109615,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x425698923d85fE16c01225B0a02e29A331a0950C",
+      "symbol": "MEWGEINU",
+      "name": "MEWGEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 27,
+    "minor": 28,
     "patch": 57
   }
 }
