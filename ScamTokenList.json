@@ -109560,11 +109560,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x390bb67E3506Bb06Ec058b462Ac9e142A662bd02",
+      "symbol": "SHEX",
+      "name": "ShibHex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 22,
+    "minor": 23,
     "patch": 57
   }
 }
