@@ -110099,11 +110099,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f069b9eaB2967723217d320688a00eB2a9fB8fa",
+      "symbol": "APDOGE",
+      "name": "ApolloDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 71,
+    "minor": 72,
     "patch": 57
   }
 }
