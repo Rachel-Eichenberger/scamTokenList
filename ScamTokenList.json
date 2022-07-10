@@ -109989,11 +109989,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e6c45dB0e0d29302E391512F79A2b89Af9D1Aee",
+      "symbol": "NUTRADOGE",
+      "name": "NutraceuticalDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 61,
+    "minor": 62,
     "patch": 57
   }
 }
