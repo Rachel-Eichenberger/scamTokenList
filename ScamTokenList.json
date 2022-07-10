@@ -109516,11 +109516,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4763c04F8b735C2Cfa04F652bd88A4c50Bd7438",
+      "symbol": "CHROMY",
+      "name": "ChromyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 18,
+    "minor": 19,
     "patch": 57
   }
 }
