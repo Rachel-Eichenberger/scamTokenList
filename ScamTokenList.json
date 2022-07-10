@@ -109637,11 +109637,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x845072fAc8ab38E14777C337980951ef20A7b0dE",
+      "symbol": "KAKASHIINU",
+      "name": "KaKaShiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 29,
+    "minor": 30,
     "patch": 57
   }
 }
