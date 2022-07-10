@@ -109780,11 +109780,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x706165371a90489352Cc8d58C4B24ada1CdA9531",
+      "symbol": "SHOTGUN",
+      "name": "SHOTGUN",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 42,
+    "minor": 43,
     "patch": 57
   }
 }
