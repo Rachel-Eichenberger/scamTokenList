@@ -109527,11 +109527,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFfaC4B0E4fDA2E2C4B1FC8cbEFc3DF858871AecB",
+      "symbol": "LAZY",
+      "name": "Work2Earn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 19,
+    "minor": 20,
     "patch": 57
   }
 }
