@@ -109978,11 +109978,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD16BF5eDd359809AdA787a7E2B2D7194e876d04e",
+      "symbol": "MOON",
+      "name": "MOONBAG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 60,
+    "minor": 61,
     "patch": 57
   }
 }
