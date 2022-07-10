@@ -110088,11 +110088,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4369c28ce95D46bB076D422D5c27e5184aBDf362",
+      "symbol": "IMMORTALITY",
+      "name": "FoundationOfYouth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 70,
+    "minor": 71,
     "patch": 57
   }
 }
