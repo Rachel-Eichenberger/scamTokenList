@@ -109736,11 +109736,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x369e919E0799c65A57950eba56EA36376b796fc4",
+      "symbol": "MONEYS",
+      "name": "MONEYMASTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 38,
+    "minor": 39,
     "patch": 57
   }
 }
