@@ -109549,11 +109549,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Eac366C551F1FA24fc907C9E2f8Fea1D4245F48",
+      "symbol": "FINU",
+      "name": "FERROGEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 21,
+    "minor": 22,
     "patch": 57
   }
 }
