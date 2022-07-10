@@ -109769,11 +109769,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae95a107B6b953B364C9898848aD236E371b2471",
+      "symbol": "JCB",
+      "name": "JeetsChadsBuybacks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 41,
+    "minor": 42,
     "patch": 57
   }
 }
