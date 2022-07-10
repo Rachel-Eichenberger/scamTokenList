@@ -109923,11 +109923,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B8935e4361095E15bBDDf355d44533ce066883c",
+      "symbol": "KONEKO",
+      "name": "Koneko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 55,
+    "minor": 56,
     "patch": 57
   }
 }
