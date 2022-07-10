@@ -109681,11 +109681,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8336AF34B336b2e14FdC545DF4880aC270AFAAb",
+      "symbol": "BOATS",
+      "name": "boatsDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 33,
+    "minor": 34,
     "patch": 57
   }
 }
