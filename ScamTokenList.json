@@ -109857,11 +109857,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e51c26474808746a800E2Fd941C2B91f44b0Dc2",
+      "symbol": "RBRN",
+      "name": "Reborn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 49,
+    "minor": 50,
     "patch": 57
   }
 }
