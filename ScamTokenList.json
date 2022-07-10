@@ -110044,11 +110044,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba839BC49dD509D15DF940Bc5Fdb0F4caB6aE5Fe",
+      "symbol": "ORIHARA",
+      "name": "Orihara",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 66,
+    "minor": 67,
     "patch": 57
   }
 }
