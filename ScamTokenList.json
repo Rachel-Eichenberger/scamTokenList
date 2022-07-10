@@ -109824,11 +109824,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C7c3dF24b9995e745e519feDbE991d6F0aaAF0a",
+      "symbol": "GM1",
+      "name": "GMONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 46,
+    "minor": 47,
     "patch": 57
   }
 }
