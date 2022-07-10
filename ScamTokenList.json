@@ -110066,11 +110066,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ac8FfE98DDD629b4890c00c4E881385493c6C8f",
+      "symbol": "SHRIMP",
+      "name": "SHRIMPEREUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 68,
+    "minor": 69,
     "patch": 57
   }
 }
