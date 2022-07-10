@@ -109879,11 +109879,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5Dd18Cd81d429ed4116C1ee6a62a68D5a060B11",
+      "symbol": "RAINBOW",
+      "name": "RedOrangeYellowGree",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 51,
+    "minor": 52,
     "patch": 57
   }
 }
