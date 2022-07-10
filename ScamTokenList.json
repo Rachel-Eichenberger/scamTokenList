@@ -109505,11 +109505,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7b1A3da3f2031983d1C8184c5868F7A860d5974",
+      "symbol": "RYOSHIBA",
+      "name": "Ryoshiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 17,
+    "minor": 18,
     "patch": 57
   }
 }
