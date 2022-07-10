@@ -109648,11 +109648,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88b616e70d18945415ca34CEf39778D47f8fe0eC",
+      "symbol": "OIL",
+      "name": "710",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 30,
+    "minor": 31,
     "patch": 57
   }
 }
