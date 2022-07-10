@@ -109901,11 +109901,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c3A04E28f32eC966DFc6CAbDA1b1A5d8eDD50e9",
+      "symbol": "GREY",
+      "name": "Reticulians",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 53,
+    "minor": 54,
     "patch": 57
   }
 }
