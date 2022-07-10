@@ -109714,11 +109714,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x630f88BE30090c07Ff25Cd9aeCCd128CC6e2aCB7",
+      "symbol": "BUSHIDO",
+      "name": "BUSHIDO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 36,
+    "minor": 37,
     "patch": 57
   }
 }
