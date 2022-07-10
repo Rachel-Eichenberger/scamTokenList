@@ -110022,11 +110022,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9dC64a4877d65fCfC04E7dD5751C515Af2c08e5",
+      "symbol": "SAUDIS",
+      "name": "SAUDISCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 64,
+    "minor": 65,
     "patch": 57
   }
 }
