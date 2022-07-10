@@ -109582,11 +109582,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb1128997709275882e15E62B23ef7bA61b64a5a",
+      "symbol": "MOC1",
+      "name": "Mochi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 24,
+    "minor": 25,
     "patch": 57
   }
 }
