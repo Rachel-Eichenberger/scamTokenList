@@ -112420,11 +112420,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCF5731eB2B0778B0Cb79ceAF443b915D1880b450",
+      "symbol": "SCREWFEES",
+      "name": "ScrewFees",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 95,
+    "minor": 96,
     "patch": 57
   }
 }
