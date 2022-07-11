@@ -112761,11 +112761,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E52a9130dc00Ca1dB648bfB0DF6986C2Fd58A04",
+      "symbol": "RAVEN",
+      "name": "RavenInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 26,
+    "minor": 27,
     "patch": 58
   }
 }
