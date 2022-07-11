@@ -112596,11 +112596,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbAFB999B6d500a4726d5683c8fA47a52Cc9Fee7A",
+      "symbol": "APPLEREUM",
+      "name": "APPLEREUMETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 11,
+    "minor": 12,
     "patch": 58
   }
 }
