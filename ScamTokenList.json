@@ -112475,11 +112475,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55F071b6562213D8f589Ac4f41fF57Ef38B77f98",
+      "symbol": "GMODE",
+      "name": "GoBLiNmoDE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 0,
+    "minor": 1,
     "patch": 58
   }
 }
