@@ -112695,11 +112695,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC29de5ED15aA866B056434D04Eb6b5b78cbB7Bf4",
+      "symbol": "CAT",
+      "name": "CAT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 20,
+    "minor": 21,
     "patch": 58
   }
 }
