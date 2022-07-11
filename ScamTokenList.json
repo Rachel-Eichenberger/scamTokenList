@@ -112255,11 +112255,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce60E858083b01FbDc577Aa72E0DF5D2fA954B76",
+      "symbol": "SENT",
+      "name": "SENTIENT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 80,
+    "minor": 81,
     "patch": 57
   }
 }
