@@ -112365,11 +112365,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07214b4Be28BaD520A9B2761E2e7B6acF4bb3be1",
+      "symbol": "EROS",
+      "name": "TehGodOfLove",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 90,
+    "minor": 91,
     "patch": 57
   }
 }
