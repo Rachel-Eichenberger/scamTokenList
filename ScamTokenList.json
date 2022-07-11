@@ -112860,11 +112860,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50bfdcB3E3c14C3F2A430D85eA2F6603Cf35f260",
+      "symbol": "SAFUTAMA",
+      "name": "Safutama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 35,
+    "minor": 36,
     "patch": 58
   }
 }
