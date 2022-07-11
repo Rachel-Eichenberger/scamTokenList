@@ -112772,11 +112772,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1A39F746434644f4eC431aDa5e67764146C4944",
+      "symbol": "YORI",
+      "name": "YorInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 27,
+    "minor": 28,
     "patch": 58
   }
 }
