@@ -112618,11 +112618,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF71dF9eAE4bdAf4452993070eF9Bf6df072438ad",
+      "symbol": "HANSUIRYU",
+      "name": "HansuiRyu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 13,
+    "minor": 14,
     "patch": 58
   }
 }
