@@ -112563,11 +112563,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f1a466de1489DbA10246Aeafb71A1f0B3405e34",
+      "symbol": "BAKU",
+      "name": "TheDreamEater",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 8,
+    "minor": 9,
     "patch": 58
   }
 }
