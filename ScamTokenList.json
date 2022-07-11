@@ -112585,11 +112585,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0D178f6c0BdddbdE73eF22fd4fc69785711A1fE",
+      "symbol": "CBOI",
+      "name": "CoolBOI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 10,
+    "minor": 11,
     "patch": 58
   }
 }
