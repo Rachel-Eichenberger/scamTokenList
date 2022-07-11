@@ -112299,11 +112299,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAF367194c7113822a5Fd62063850aacB1B43709c",
+      "symbol": "FADE",
+      "name": "FadeSystems",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 84,
+    "minor": 85,
     "patch": 57
   }
 }
