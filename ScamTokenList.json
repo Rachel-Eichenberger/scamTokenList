@@ -112541,11 +112541,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15Fb0d51420D3259607c45D1f6F4Ae2fF730B6c7",
+      "symbol": "BOI",
+      "name": "YellowBoi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 6,
+    "minor": 7,
     "patch": 58
   }
 }
