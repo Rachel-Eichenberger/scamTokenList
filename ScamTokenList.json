@@ -112354,11 +112354,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ed19dfeC11e6c4Bf4B0Fe9a03b2D90Eb4054920",
+      "symbol": "MOW",
+      "name": "ManOwaR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 89,
+    "minor": 90,
     "patch": 57
   }
 }
