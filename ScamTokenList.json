@@ -112838,11 +112838,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAf96f287FdBc5Bcd4EEB7b1636394ACF29BCc8a1",
+      "symbol": "FLIPETH",
+      "name": "FlipETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 33,
+    "minor": 34,
     "patch": 58
   }
 }
