@@ -112376,11 +112376,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2cedb4e78993B0d8ee9C18ad5a7cd8424C142b46",
+      "symbol": "NOWAY",
+      "name": "NoWayDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 91,
+    "minor": 92,
     "patch": 57
   }
 }
