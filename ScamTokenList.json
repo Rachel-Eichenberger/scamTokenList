@@ -112464,11 +112464,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5c2e73b1E2E5937D4260B01304B81a5ee70F93B",
+      "symbol": "MONSTEREUM",
+      "name": "DuckPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 59,
-    "minor": 99,
-    "patch": 57
+    "major": 60,
+    "minor": 0,
+    "patch": 58
   }
 }
