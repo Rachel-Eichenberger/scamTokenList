@@ -112629,11 +112629,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05D76F4D37ce733391d3377B2d01D676e47aE0dF",
+      "symbol": "ESS",
+      "name": "EliteShibaSports",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 14,
+    "minor": 15,
     "patch": 58
   }
 }
