@@ -112574,11 +112574,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEBbc54BADE28E00079f0Ea2487781d3858811D74",
+      "symbol": "LAMA",
+      "name": "Llamascape",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 9,
+    "minor": 10,
     "patch": 58
   }
 }
