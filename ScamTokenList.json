@@ -112321,11 +112321,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F06794ea6f7F9E3D9049EDDE6715FcdD11BB0cc",
+      "symbol": "IMMORTALITY",
+      "name": "FountainOfYouth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 86,
+    "minor": 87,
     "patch": 57
   }
 }
