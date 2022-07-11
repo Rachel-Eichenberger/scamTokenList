@@ -112497,11 +112497,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9FE8E78EFB16D13da00E1A85D6EcDA90A5934131",
+      "symbol": "VEEF",
+      "name": "VeeFriends",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 2,
+    "minor": 3,
     "patch": 58
   }
 }
