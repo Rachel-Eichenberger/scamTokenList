@@ -112805,11 +112805,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19D66bE1F45f1f2343428de3F60D7D71d0D9CDc7",
+      "symbol": "FINU",
+      "name": "FinoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 30,
+    "minor": 31,
     "patch": 58
   }
 }
