@@ -112277,11 +112277,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD17E3dA4F3b1A43A8Ce7daD6A7d14A1EBf4cE12C",
+      "symbol": "MAR",
+      "name": "MARSINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 82,
+    "minor": 83,
     "patch": 57
   }
 }
