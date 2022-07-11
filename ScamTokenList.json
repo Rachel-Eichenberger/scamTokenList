@@ -112750,11 +112750,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ACAD6b7CEE6DD5469bA4fb5dAFAa198f7154B16",
+      "symbol": "REPLACE",
+      "name": "ChangeTheTrend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 25,
+    "minor": 26,
     "patch": 58
   }
 }
