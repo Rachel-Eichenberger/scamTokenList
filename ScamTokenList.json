@@ -112442,11 +112442,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2D0d45740C556D3f5e1FEBBAD7d40251382A229",
+      "symbol": "QUACK",
+      "name": "QUACK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 97,
+    "minor": 98,
     "patch": 57
   }
 }
