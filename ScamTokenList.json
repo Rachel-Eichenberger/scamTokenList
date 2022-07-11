@@ -112453,11 +112453,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Db36Ba64552a1132A1209049F1994b64e5Fe26D",
+      "symbol": "DOMINATE",
+      "name": "LarpDestroyer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 98,
+    "minor": 99,
     "patch": 57
   }
 }
