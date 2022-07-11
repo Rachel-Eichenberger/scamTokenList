@@ -112816,11 +112816,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fe728CD84254Dea3eE79dA05Ea360B32Aa6fFEb",
+      "symbol": "RYUK",
+      "name": "RyukInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 31,
+    "minor": 32,
     "patch": 58
   }
 }
