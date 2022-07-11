@@ -112607,11 +112607,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x373355A162bb63A05264096b52bC18D148CeD849",
+      "symbol": "BEACHBOI",
+      "name": "YellowBeachBoi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 12,
+    "minor": 13,
     "patch": 58
   }
 }
