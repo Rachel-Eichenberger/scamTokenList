@@ -112706,11 +112706,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32f4dcc75F0eAb7D4fb7D585F0E6fBDD68A375A4",
+      "symbol": "CATBOY",
+      "name": "CatBoy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 21,
+    "minor": 22,
     "patch": 58
   }
 }
