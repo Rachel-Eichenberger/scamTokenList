@@ -112640,11 +112640,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xED7CB3c6a3b73Ba62a105e8dfF376120a4dc7169",
+      "symbol": "MURI",
+      "name": "MURINFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 15,
+    "minor": 16,
     "patch": 58
   }
 }
