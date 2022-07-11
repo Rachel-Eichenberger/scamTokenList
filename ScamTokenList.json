@@ -112409,11 +112409,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x888142Cb35C184A9f258B1B1eaaCC2C492e83939",
+      "symbol": "OXO",
+      "name": "OXODAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 94,
+    "minor": 95,
     "patch": 57
   }
 }
