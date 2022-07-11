@@ -112343,11 +112343,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89A9a5E2212442d8173bcBD4D7fa6aD3c8dabF58",
+      "symbol": "CHUCKMATE",
+      "name": "ChuckmateInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 88,
+    "minor": 89,
     "patch": 57
   }
 }
