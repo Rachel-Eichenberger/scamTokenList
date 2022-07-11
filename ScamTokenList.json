@@ -112266,11 +112266,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5C8cF775ECcA05f0E7510676A0Ac0f67E17D8e7",
+      "symbol": "FLY",
+      "name": "FLYING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 81,
+    "minor": 82,
     "patch": 57
   }
 }
