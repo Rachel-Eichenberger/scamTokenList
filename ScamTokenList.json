@@ -112233,11 +112233,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0923773Bd60CfE88AE2E1169A8DeBE4058399ac9",
+      "symbol": "4CHAN",
+      "name": "PedoPeter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 59,
-    "minor": 78,
+    "minor": 79,
     "patch": 57
   }
 }
