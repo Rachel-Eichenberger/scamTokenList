@@ -112486,11 +112486,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8D5235c9a19FBECa2f5F564294927aF6cc06264",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 1,
+    "minor": 2,
     "patch": 58
   }
 }
