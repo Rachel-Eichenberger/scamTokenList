@@ -113971,11 +113971,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbE81bCCDb0d0dB37056c470CfC1039D21948D56",
+      "symbol": "CCX",
+      "name": "CultCrypt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 36,
+    "minor": 37,
     "patch": 59
   }
 }
