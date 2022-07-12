@@ -114125,11 +114125,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9337eB9eEA0c895c36623074aDD5EE4712941E6",
+      "symbol": "MAJIN",
+      "name": "GODOFWRATH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 50,
+    "minor": 51,
     "patch": 59
   }
 }
