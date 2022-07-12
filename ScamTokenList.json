@@ -114015,11 +114015,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8FB5D1fA941185D42115289795b8D6e8F2871daC",
+      "symbol": "KOOL",
+      "name": "koolcoinman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 40,
+    "minor": 41,
     "patch": 59
   }
 }
