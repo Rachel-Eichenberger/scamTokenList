@@ -113201,11 +113201,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0BA9cBe2E132B15A700b46Ccf80Ba9EE444aC911",
+      "symbol": "LARP",
+      "name": "LarpCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 66,
+    "minor": 67,
     "patch": 58
   }
 }
