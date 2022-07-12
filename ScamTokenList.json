@@ -113784,11 +113784,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20DCF69E2dDeEb5d2aB1F8654d3F6CD3757e8E84",
+      "symbol": "SHIT20",
+      "name": "ShitCoin20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 19,
+    "minor": 20,
     "patch": 59
   }
 }
