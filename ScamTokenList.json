@@ -113542,11 +113542,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x128d9C00f5eea7E446b5929e5744930cFE4Bd7Be",
+      "symbol": "HAKKENDEN",
+      "name": "Hakkenden",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 97,
+    "minor": 98,
     "patch": 58
   }
 }
