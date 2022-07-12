@@ -112871,11 +112871,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97f556b6B8Ca13BdE50F318735c2a712c87Cdf73",
+      "symbol": "BREAD",
+      "name": "Dogebread",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 36,
+    "minor": 37,
     "patch": 58
   }
 }
