@@ -113135,11 +113135,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC349724d2F1d6Ce3a037B5c8d2F2910899f09a31",
+      "symbol": "CITADEL",
+      "name": "CityofGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 60,
+    "minor": 61,
     "patch": 58
   }
 }
