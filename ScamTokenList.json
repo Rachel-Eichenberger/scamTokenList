@@ -113388,11 +113388,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6031805656edb8159D8AB666e191983998ebbde1",
+      "symbol": "TAROT",
+      "name": "BreakShackles",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 83,
+    "minor": 84,
     "patch": 58
   }
 }
