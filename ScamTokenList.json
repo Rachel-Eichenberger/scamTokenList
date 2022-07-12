@@ -113014,11 +113014,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb11B9519D414beFE21bAeeaD4528fc08641D75FE",
+      "symbol": "AGOLDENBOAT",
+      "name": "AGoldenBoat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 49,
+    "minor": 50,
     "patch": 58
   }
 }
