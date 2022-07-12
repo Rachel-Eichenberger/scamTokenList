@@ -113861,11 +113861,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcF25d622c339C5caA454E26747F97074855e6b73",
+      "symbol": "THEWARLORD",
+      "name": "TheWarlord",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 26,
+    "minor": 27,
     "patch": 59
   }
 }
