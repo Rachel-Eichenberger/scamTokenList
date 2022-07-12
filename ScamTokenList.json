@@ -114048,11 +114048,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x216AB2A639e12F7778e2c60C6C4F18ed6d2Cf951",
+      "symbol": "SOUL",
+      "name": "DEVILTOWN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 43,
+    "minor": 44,
     "patch": 59
   }
 }
