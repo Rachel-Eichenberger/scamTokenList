@@ -113212,11 +113212,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF7f9689565056Ea63c35FEA940f0d28b01eA3f7",
+      "symbol": "RAGNAROK",
+      "name": "GodofWar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 67,
+    "minor": 68,
     "patch": 58
   }
 }
