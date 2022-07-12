@@ -113432,11 +113432,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x302d579409c9f2277026b0d4f87520fFb0baf16e",
+      "symbol": "DINU",
+      "name": "DiabloInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 87,
+    "minor": 88,
     "patch": 58
   }
 }
