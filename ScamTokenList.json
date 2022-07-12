@@ -113058,11 +113058,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd597954d313Df9F7714bD85aFC8d928CFdf2acC5",
+      "symbol": "SKINU",
+      "name": "SkyrimInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 53,
+    "minor": 54,
     "patch": 58
   }
 }
