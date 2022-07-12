@@ -113663,11 +113663,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8aacAE79DD75bF46227B7Af4f0C4fF8522d77399",
+      "symbol": "HACHIMAN",
+      "name": "GodofWar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 8,
+    "minor": 9,
     "patch": 59
   }
 }
