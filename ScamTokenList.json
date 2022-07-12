@@ -113674,11 +113674,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x364760950369957eFa9687cFC7Bc83c23aa6D10C",
+      "symbol": "EFDOT",
+      "name": "EfdotOriginals",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 9,
+    "minor": 10,
     "patch": 59
   }
 }
