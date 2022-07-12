@@ -113707,11 +113707,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcB01F257ec41A65Ea4A851d090285dCCFF2250bd",
+      "symbol": "MARATHON",
+      "name": "Pheidippides",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 12,
+    "minor": 13,
     "patch": 59
   }
 }
