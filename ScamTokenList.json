@@ -113806,11 +113806,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce69B27eDc7442F374EBf65DdFa393352f5699fe",
+      "symbol": "DINU",
+      "name": "DorohedoroInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 21,
+    "minor": 22,
     "patch": 59
   }
 }
