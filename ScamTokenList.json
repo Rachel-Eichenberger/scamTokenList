@@ -113652,11 +113652,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04cF2180F27f7bADc56fC5567e4B82fb8FCab645",
+      "symbol": "MYST",
+      "name": "Mystereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 7,
+    "minor": 8,
     "patch": 59
   }
 }
