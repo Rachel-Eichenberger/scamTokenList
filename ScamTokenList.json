@@ -113421,11 +113421,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C1185b799125A56b41b4d2aA870e825D380DDf7",
+      "symbol": "RYUJIN",
+      "name": "DoragonRyujin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 86,
+    "minor": 87,
     "patch": 58
   }
 }
