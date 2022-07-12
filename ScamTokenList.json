@@ -112992,11 +112992,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c41857C532df30F37400bBf972fF49EFcBc3149",
+      "symbol": "SKULLJIN",
+      "name": "SkulljinNoZugaikots",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 47,
+    "minor": 48,
     "patch": 58
   }
 }
