@@ -113828,11 +113828,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB5FE002E4816F81D881dD5Eb09839070Fa32Cde",
+      "symbol": "TSUKU",
+      "name": "TsukuyomiNoMikoto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 23,
+    "minor": 24,
     "patch": 59
   }
 }
