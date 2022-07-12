@@ -113047,11 +113047,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3d0d52E4aD4C9bc7C3B63E76D70e38e0adBF780",
+      "symbol": "GM",
+      "name": "GOLFMOON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 52,
+    "minor": 53,
     "patch": 58
   }
 }
