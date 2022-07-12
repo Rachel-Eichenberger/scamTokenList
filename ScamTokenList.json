@@ -113454,11 +113454,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b7193edc090B6E088C3DBA615d77B9E20735aFA",
+      "symbol": "TWICE",
+      "name": "TWICEInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 89,
+    "minor": 90,
     "patch": 58
   }
 }
