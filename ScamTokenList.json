@@ -113223,11 +113223,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5603D2372AC6BdC8eD040E30cB6Df8EdfA8BD5c1",
+      "symbol": "USDINU",
+      "name": "USDInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 68,
+    "minor": 69,
     "patch": 58
   }
 }
