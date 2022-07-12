@@ -112882,11 +112882,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC660020684a3a88754dBd6AcC888ab20C3b78BC",
+      "symbol": "CATM",
+      "name": "CATMEOW",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 37,
+    "minor": 38,
     "patch": 58
   }
 }
