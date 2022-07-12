@@ -113091,11 +113091,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46e5A5169F3Ce712EE747192e53D6F51d382B847",
+      "symbol": "BONER",
+      "name": "Bonereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 56,
+    "minor": 57,
     "patch": 58
   }
 }
