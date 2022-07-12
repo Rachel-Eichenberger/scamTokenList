@@ -113113,11 +113113,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1d24Fad266eF4Ad0C27B46Ff91aB669AF570332",
+      "symbol": "KIRIN",
+      "name": "YokaiKirin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 58,
+    "minor": 59,
     "patch": 58
   }
 }
