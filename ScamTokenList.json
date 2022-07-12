@@ -113322,11 +113322,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c760a4E4dB3A1dceDd82D72389600d92DbCaAb8",
+      "symbol": "YINJA",
+      "name": "Yonkosinja",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 77,
+    "minor": 78,
     "patch": 58
   }
 }
