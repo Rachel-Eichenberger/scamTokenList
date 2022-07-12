@@ -113894,11 +113894,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7F6AFe3d45e097769668d7355269Cd35c4867A0",
+      "symbol": "ONLYPUMP",
+      "name": "OnlyPump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 29,
+    "minor": 30,
     "patch": 59
   }
 }
