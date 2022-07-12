@@ -113366,11 +113366,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd9802822dEAfA85c502B1D466C998EF5ee4d369",
+      "symbol": "DRAGONGEK",
+      "name": "DRAGONGEK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 81,
+    "minor": 82,
     "patch": 58
   }
 }
