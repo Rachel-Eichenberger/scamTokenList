@@ -114103,11 +114103,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1e8234c6EF2841AE148Faa911e0FaFb03dA61e4",
+      "symbol": "LEGENDKIT",
+      "name": "LegendKit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 48,
+    "minor": 49,
     "patch": 59
   }
 }
