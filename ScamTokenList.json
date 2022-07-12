@@ -113883,11 +113883,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x146D0B8741E72Af16055FdD882d76Ca1386B200e",
+      "symbol": "PANCHO",
+      "name": "PanchothePug",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 28,
+    "minor": 29,
     "patch": 59
   }
 }
