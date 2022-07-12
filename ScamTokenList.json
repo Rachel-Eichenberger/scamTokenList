@@ -114246,11 +114246,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5aEdF543b66102d2Ee6FeB1De3812a18582D9fAd",
+      "symbol": "TETHERINU",
+      "name": "TetherInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 61,
+    "minor": 62,
     "patch": 59
   }
 }
