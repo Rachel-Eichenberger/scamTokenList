@@ -113146,11 +113146,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e37644a3C2e5EfF5720E75CD721b28751251Cb9",
+      "symbol": "BEAST",
+      "name": "MrBeast",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 61,
+    "minor": 62,
     "patch": 58
   }
 }
