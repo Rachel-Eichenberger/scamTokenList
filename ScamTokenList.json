@@ -113333,11 +113333,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa275c39bcA8F9589a9aE53E48Eca73fb9ab0DD71",
+      "symbol": "CATFISH",
+      "name": "CatFish",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 78,
+    "minor": 79,
     "patch": 58
   }
 }
