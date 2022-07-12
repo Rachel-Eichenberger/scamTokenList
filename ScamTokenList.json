@@ -113377,11 +113377,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B60f81DFA9F03Fe4F7705f167988CBD1E955767",
+      "symbol": "LONGCALL",
+      "name": "LongCall",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 82,
+    "minor": 83,
     "patch": 58
   }
 }
