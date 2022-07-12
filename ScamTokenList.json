@@ -113740,11 +113740,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11541C7F82628283BB99e815C3FC27BF60928919",
+      "symbol": "CHANEL",
+      "name": "ChanelInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 15,
+    "minor": 16,
     "patch": 59
   }
 }
