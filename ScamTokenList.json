@@ -113036,11 +113036,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB5aa4A25430376F3b41A97a1F6F2b22977c985c",
+      "symbol": "BBT",
+      "name": "BuildingBlocksTestn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 51,
+    "minor": 52,
     "patch": 58
   }
 }
