@@ -114136,11 +114136,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A6D1d64B5c47D0440A2B72Cc573AE8Ff52c826D",
+      "symbol": "REVO",
+      "name": "Revolution",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 51,
+    "minor": 52,
     "patch": 59
   }
 }
