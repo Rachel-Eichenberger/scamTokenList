@@ -114092,11 +114092,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3aF7537097C0F9230F1F9F938058ab222464A0A",
+      "symbol": "ZEROTAXHAVEN",
+      "name": "ZeroTaxHaven",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 47,
+    "minor": 48,
     "patch": 59
   }
 }
