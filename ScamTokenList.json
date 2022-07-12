@@ -112904,11 +112904,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5156F5883302871ee2CeEA4c5C158107C2Bc4902",
+      "symbol": "MONKEYGOD",
+      "name": "MonkeyGod",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 39,
+    "minor": 40,
     "patch": 58
   }
 }
