@@ -113190,11 +113190,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8273e5F95bBeb07c684f9dA02319146c30Fa44ff",
+      "symbol": "GRS",
+      "name": "Goldrexis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 65,
+    "minor": 66,
     "patch": 58
   }
 }
