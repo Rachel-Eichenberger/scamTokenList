@@ -113399,11 +113399,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C82a76C20A4f9e7E342434584305DBc48897833",
+      "symbol": "1",
+      "name": "uno",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 84,
+    "minor": 85,
     "patch": 58
   }
 }
