@@ -113619,11 +113619,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16842D3099c58EdF3be4fB53F8fbFf16621C9FEE",
+      "symbol": "SEEK",
+      "name": "TheSeekers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x151bF99273a9Ce2268d4A379776f8ec5b2c65d17",
+      "symbol": "VINU",
+      "name": "VikingInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 4,
+    "minor": 6,
     "patch": 59
   }
 }
