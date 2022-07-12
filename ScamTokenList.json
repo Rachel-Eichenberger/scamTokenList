@@ -112937,11 +112937,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA3CCadFa0181732305186e7869fcD6EF8cfbE0A",
+      "symbol": "BBOI",
+      "name": "BITBOI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 42,
+    "minor": 43,
     "patch": 58
   }
 }
