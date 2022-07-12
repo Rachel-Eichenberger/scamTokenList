@@ -113245,11 +113245,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4EBF194e9d105F00EC2E74ea4c58199837Bb3ba2",
+      "symbol": "OLYMPUS",
+      "name": "MountOlympusToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 70,
+    "minor": 71,
     "patch": 58
   }
 }
