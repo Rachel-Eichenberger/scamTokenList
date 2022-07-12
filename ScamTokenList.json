@@ -112970,11 +112970,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8E513Cb469BEC30e8c163f22f28dF0cdcBdB24a",
+      "symbol": "AGENCY",
+      "name": "TheAgency",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 45,
+    "minor": 46,
     "patch": 58
   }
 }
