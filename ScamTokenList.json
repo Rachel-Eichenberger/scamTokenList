@@ -113685,11 +113685,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81fbFBD0163b4f8f8Ce067F3C2265A1649CFDFd2",
+      "symbol": "RED",
+      "name": "Reddot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 10,
+    "minor": 11,
     "patch": 59
   }
 }
