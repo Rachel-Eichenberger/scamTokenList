@@ -113157,11 +113157,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x406d33ea83430e873d246252b7Db49a4005DB92C",
+      "symbol": "CHASE",
+      "name": "TheChase",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 62,
+    "minor": 63,
     "patch": 58
   }
 }
