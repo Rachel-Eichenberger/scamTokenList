@@ -113696,11 +113696,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92453c4dBA60a3b13b4779e1eaf6b5fD3731695A",
+      "symbol": "OSCAR",
+      "name": "Oscar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 11,
+    "minor": 12,
     "patch": 59
   }
 }
