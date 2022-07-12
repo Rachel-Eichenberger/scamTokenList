@@ -113553,11 +113553,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B51ca096C2dc6937BEA90Acc4505C747C594D89",
+      "symbol": "RIPDUCK",
+      "name": "DuckHuntereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 98,
+    "minor": 99,
     "patch": 58
   }
 }
