@@ -113080,11 +113080,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa470D4E3bfc7172753265b6EB36C1E0511ea5EdE",
+      "symbol": "BULLSHARK",
+      "name": "BullShark",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 55,
+    "minor": 56,
     "patch": 58
   }
 }
