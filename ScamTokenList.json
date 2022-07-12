@@ -113938,11 +113938,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50b2962Be02b8349D6e9659879CDd2D48C9ec566",
+      "symbol": "UF",
+      "name": "Unifactor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 33,
+    "minor": 34,
     "patch": 59
   }
 }
