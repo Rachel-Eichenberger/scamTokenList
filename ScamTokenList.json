@@ -113993,11 +113993,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb643874BB5c94cfDE1bF8426B40b98B8e2faBfC2",
+      "symbol": "AEONS",
+      "name": "Ajeetersparadise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 38,
+    "minor": 39,
     "patch": 59
   }
 }
