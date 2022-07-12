@@ -114191,11 +114191,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f84507C257a0420647c9d40dFF8fcEe58422F40",
+      "symbol": "BIN",
+      "name": "BrentInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 56,
+    "minor": 57,
     "patch": 59
   }
 }
