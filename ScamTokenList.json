@@ -113850,11 +113850,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B85a9Fecd4A122720159C858286625D7511f528",
+      "symbol": "TRADER",
+      "name": "TraderWallet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 25,
+    "minor": 26,
     "patch": 59
   }
 }
