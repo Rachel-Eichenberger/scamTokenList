@@ -113267,11 +113267,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb98B31A1469a1e10092b070F4148f8728cbB5f1D",
+      "symbol": "ATLANTIS",
+      "name": "TheLostEmpire",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 72,
+    "minor": 73,
     "patch": 58
   }
 }
