@@ -113003,11 +113003,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd33c2d181Ec7b7Fa57dEfD10B9b00bDB3A392836",
+      "symbol": "PDOG",
+      "name": "PurpleDog",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 48,
+    "minor": 49,
     "patch": 58
   }
 }
