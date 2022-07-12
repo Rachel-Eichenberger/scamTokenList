@@ -113575,11 +113575,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20f82B1710e758f3e37e66b37aB4238597AF382b",
+      "symbol": "JOJO",
+      "name": "JOJOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 0,
+    "minor": 1,
     "patch": 59
   }
 }
