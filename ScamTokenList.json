@@ -113344,11 +113344,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41D8AAf4A4CC26888Ca46C900ABeeFC32A623aaE",
+      "symbol": "SHITGOD",
+      "name": "ShitGod",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 79,
+    "minor": 80,
     "patch": 58
   }
 }
