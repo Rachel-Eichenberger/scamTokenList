@@ -113839,11 +113839,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D93Cbd97FfF86A8be391f9F891d9e1d2236AcbF",
+      "symbol": "BABYHULK",
+      "name": "BabyHulkInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 24,
+    "minor": 25,
     "patch": 59
   }
 }
