@@ -114037,11 +114037,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC91fEe60C46F68f8C79c5FfC617f6832e98dFD2d",
+      "symbol": "CRACK",
+      "name": "AHuntersDream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 42,
+    "minor": 43,
     "patch": 59
   }
 }
