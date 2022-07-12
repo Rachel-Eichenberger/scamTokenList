@@ -113982,11 +113982,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2338870f5742a502A1089DB48DE1B9B56b3e7C35",
+      "symbol": "SHYT",
+      "name": "ShytCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 37,
+    "minor": 38,
     "patch": 59
   }
 }
