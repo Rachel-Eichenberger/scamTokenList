@@ -113608,11 +113608,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1B6b150A04C22E4514D505804a759f03314Ed3d",
+      "symbol": "LOW",
+      "name": "Lowbee",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 3,
+    "minor": 4,
     "patch": 59
   }
 }
