@@ -113729,11 +113729,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB937bBA449c239ACFFC0Bb527983234Ac081c2c8",
+      "symbol": "MOONS",
+      "name": "MoonRunners",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 14,
+    "minor": 15,
     "patch": 59
   }
 }
