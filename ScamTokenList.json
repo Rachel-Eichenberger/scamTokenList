@@ -113465,11 +113465,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A5F365f096bC80118f746935a01459A3e3aa7f8",
+      "symbol": "OG",
+      "name": "OlympusGods",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 90,
+    "minor": 91,
     "patch": 58
   }
 }
