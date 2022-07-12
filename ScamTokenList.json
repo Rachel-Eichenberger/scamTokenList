@@ -113256,11 +113256,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62E33F540ddA2Bd07eE107f0081a0FaAf55fBE20",
+      "symbol": "TROVE",
+      "name": "TheTrove",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 71,
+    "minor": 72,
     "patch": 58
   }
 }
