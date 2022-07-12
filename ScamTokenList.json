@@ -113179,11 +113179,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x885d19d34Ef6ca67bc94e5f3585a62C9458B1069",
+      "symbol": "AAX",
+      "name": "Academia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 64,
+    "minor": 65,
     "patch": 58
   }
 }
