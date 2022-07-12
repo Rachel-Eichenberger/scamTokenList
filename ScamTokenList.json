@@ -113773,11 +113773,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92dCAb8AC821BCA85FD9D20ff1EfEcD981C4fb44",
+      "symbol": "MAYAN",
+      "name": "TheMayanProphecy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 18,
+    "minor": 19,
     "patch": 59
   }
 }
