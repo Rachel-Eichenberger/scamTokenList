@@ -113751,11 +113751,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78A5c86E3FF8b71Eebf195754cC927914317785d",
+      "symbol": "PIG",
+      "name": "PIG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 16,
+    "minor": 17,
     "patch": 59
   }
 }
