@@ -113289,11 +113289,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD084925F5dBc6905b9c21A23d217cdc03441237a",
+      "symbol": "DOOGLE",
+      "name": "DoogleDapp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 74,
+    "minor": 75,
     "patch": 58
   }
 }
