@@ -113641,11 +113641,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4498646a8f0d0973E1621c95C65020c029799284",
+      "symbol": "VINU",
+      "name": "VikingInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 6,
+    "minor": 7,
     "patch": 59
   }
 }
