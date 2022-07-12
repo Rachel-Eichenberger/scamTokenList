@@ -114202,11 +114202,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaE69E7bF5f135bb29e85C491787cEa8b705BDA47",
+      "symbol": "STATE",
+      "name": "ShibaTate20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 57,
+    "minor": 58,
     "patch": 59
   }
 }
