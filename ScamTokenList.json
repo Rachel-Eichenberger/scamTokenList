@@ -113498,11 +113498,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x269941f4C5aB86756E1f4adc8f6ea0955715b164",
+      "symbol": "BONEZ",
+      "name": "Bonez",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 93,
+    "minor": 94,
     "patch": 58
   }
 }
