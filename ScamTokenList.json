@@ -114235,11 +114235,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA27Ae48C8E7931BdACa990d26F7Baba58639FFE",
+      "symbol": "SKULLMOON",
+      "name": "SkullMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 60,
+    "minor": 61,
     "patch": 59
   }
 }
