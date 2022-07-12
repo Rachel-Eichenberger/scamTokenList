@@ -113927,11 +113927,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaD59bed22e58c23a7bFde4270150619fA672c3D8",
+      "symbol": "HULKARAI",
+      "name": "HulkaRai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 32,
+    "minor": 33,
     "patch": 59
   }
 }
