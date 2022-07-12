@@ -113520,11 +113520,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e92A37817C98176858761A3af11777bBf377Be1",
+      "symbol": "BACK",
+      "name": "BackToWork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 95,
+    "minor": 96,
     "patch": 58
   }
 }
