@@ -112959,11 +112959,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E653953f6C827f6DFDD7F670Ee84f7224ca188A",
+      "symbol": "TITS",
+      "name": "TITSCrypto",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 44,
+    "minor": 45,
     "patch": 58
   }
 }
