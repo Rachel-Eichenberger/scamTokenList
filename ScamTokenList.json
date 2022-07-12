@@ -113586,11 +113586,33 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaEE73D3d9308a30117109e79DffF8F622C17AF92",
+      "symbol": "SOS",
+      "name": "Trapped",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb8F1665E068520a7B30F4CD18730a791b0559c3",
+      "symbol": "TEST1",
+      "name": "TEST1",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 1,
+    "minor": 3,
     "patch": 59
   }
 }
