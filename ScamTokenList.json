@@ -112948,11 +112948,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8bDb21686425Dd40CbcA9eC6E04384b1f5E4C09",
+      "symbol": "YOGAINU",
+      "name": "YOGAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 43,
+    "minor": 44,
     "patch": 58
   }
 }
