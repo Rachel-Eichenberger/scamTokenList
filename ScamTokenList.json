@@ -112893,11 +112893,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x079db0494C6439560C90FdAee19721fb5cEdD8ef",
+      "symbol": "OPCAPITAL",
+      "name": "OPcapital",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 60,
-    "minor": 38,
+    "minor": 39,
     "patch": 58
   }
 }
