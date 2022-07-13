@@ -114378,11 +114378,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fd86B8300744aAe47B0a84f8Ec38eb8963D31A8",
+      "symbol": "TSC",
+      "name": "TheSigmaCode",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 73,
+    "minor": 74,
     "patch": 59
   }
 }
