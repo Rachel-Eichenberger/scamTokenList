@@ -115401,11 +115401,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x303A84064dFf4c685846fE3D37e63DFBFe1a989b",
+      "symbol": "SHIBUGOLD",
+      "name": "Shibugold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 66,
+    "minor": 67,
     "patch": 60
   }
 }
