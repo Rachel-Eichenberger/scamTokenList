@@ -114697,11 +114697,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4A4bcC75C70D59c7DC7A23cE2DAA79147a218fC",
+      "symbol": "ALISA",
+      "name": "Aliens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 2,
+    "minor": 3,
     "patch": 60
   }
 }
