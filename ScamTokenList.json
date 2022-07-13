@@ -114906,11 +114906,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4d62dba1EAd04717ec469931F89c9930833C5A3",
+      "symbol": "SHIBFLATION",
+      "name": "Shibflation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 21,
+    "minor": 22,
     "patch": 60
   }
 }
