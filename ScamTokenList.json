@@ -114279,11 +114279,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a4376EF87adabed7a1069dF74F3C1cb3754Bdd1",
+      "symbol": "BULL",
+      "name": "tehgoldenera",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 64,
+    "minor": 65,
     "patch": 59
   }
 }
