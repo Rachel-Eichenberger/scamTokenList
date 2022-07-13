@@ -114917,11 +114917,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A16AeCEd85573AA725f670Eb4425fda4AbD8ba8",
+      "symbol": "ELVES",
+      "name": "ElvenDream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 22,
+    "minor": 23,
     "patch": 60
   }
 }
