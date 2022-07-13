@@ -114356,11 +114356,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2852642202BB95f1Cb94EA70c1AFb24a30d769d4",
+      "symbol": "CORWS",
+      "name": "TehPpl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 71,
+    "minor": 72,
     "patch": 59
   }
 }
