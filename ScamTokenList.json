@@ -114312,11 +114312,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe98F0b15Da39f339422040018C7bA79BC494598",
+      "symbol": "MDUCKER",
+      "name": "MotherDucker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 67,
+    "minor": 68,
     "patch": 59
   }
 }
