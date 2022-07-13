@@ -114389,11 +114389,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2271ddA75B058A1e30F295BfDac3662cFb298678",
+      "symbol": "DPUNK",
+      "name": "DogePunkz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 74,
+    "minor": 75,
     "patch": 59
   }
 }
