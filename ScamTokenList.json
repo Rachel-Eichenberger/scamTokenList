@@ -114642,11 +114642,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb19B8638059cCe70d9e2984dB23581A9E504C0f4",
+      "symbol": "CAISHEN",
+      "name": "Caishen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 97,
+    "minor": 98,
     "patch": 59
   }
 }
