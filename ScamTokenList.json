@@ -115368,11 +115368,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf16b224889555f5D3E9b517EB1b9102DBFdbE7Ad",
+      "symbol": "FEAST",
+      "name": "Scrumptious",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 63,
+    "minor": 64,
     "patch": 60
   }
 }
