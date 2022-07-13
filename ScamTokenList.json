@@ -115291,11 +115291,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7086478B81Dc369193760B96defb15F4C66da9c6",
+      "symbol": "GROGU",
+      "name": "BabyGrogu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 56,
+    "minor": 57,
     "patch": 60
   }
 }
