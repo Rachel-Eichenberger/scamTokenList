@@ -114521,11 +114521,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eF09d5B3Df52C7FC7ba19463c50d8F2E3b10dBF",
+      "symbol": "SENDOR",
+      "name": "SENDOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 86,
+    "minor": 87,
     "patch": 59
   }
 }
