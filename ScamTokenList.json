@@ -114576,11 +114576,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FA72C4AaDF5920c252445e4a89588B0441980E7",
+      "symbol": "IVAN",
+      "name": "Terrible",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 91,
+    "minor": 92,
     "patch": 59
   }
 }
