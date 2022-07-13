@@ -115280,11 +115280,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x770E7A299de3f32d9a482a93a540cc8E615A3313",
+      "symbol": "SATOSHI",
+      "name": "ASearchForAnswers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 55,
+    "minor": 56,
     "patch": 60
   }
 }
