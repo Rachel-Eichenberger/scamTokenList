@@ -114587,11 +114587,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93308bFa23283D679Eb9Bb1C417911fe6204C3A6",
+      "symbol": "KANEKI",
+      "name": "kaneki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 92,
+    "minor": 93,
     "patch": 59
   }
 }
