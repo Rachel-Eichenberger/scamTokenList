@@ -114884,11 +114884,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ee4417D8041DeA4A0dac4597Df3A33b0B83C092",
+      "symbol": "QUACK",
+      "name": "ADuckersDream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 19,
+    "minor": 20,
     "patch": 60
   }
 }
