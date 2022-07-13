@@ -115137,11 +115137,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D940576924D112c9d396C956ca871FDCFc38290",
+      "symbol": "CATER",
+      "name": "CATEREUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 42,
+    "minor": 43,
     "patch": 60
   }
 }
