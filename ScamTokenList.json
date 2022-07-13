@@ -114455,11 +114455,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3BeD0991EaFe3361aE2c2420Eac8DbA0578D5279",
+      "symbol": "WREVX",
+      "name": "WrappedRevelationTo",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 80,
+    "minor": 81,
     "patch": 59
   }
 }
