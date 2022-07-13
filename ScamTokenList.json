@@ -115181,11 +115181,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CD2F0cdd926FdeDf032BC490e033FFD08A0bf35",
+      "symbol": "BBC",
+      "name": "BigBoyCurrency",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 46,
+    "minor": 47,
     "patch": 60
   }
 }
