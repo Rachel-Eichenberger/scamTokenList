@@ -114818,11 +114818,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fEbfC3FB766C66Ac4b9c5bF5Bd470fFAFe8f07F",
+      "symbol": "INFD",
+      "name": "Infidia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 13,
+    "minor": 14,
     "patch": 60
   }
 }
