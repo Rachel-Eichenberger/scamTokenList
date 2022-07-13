@@ -114796,11 +114796,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9A2eb0f89663C4B5B89E06FA51E87B8Afa910AF",
+      "symbol": "SCC",
+      "name": "SaudiCamelClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 11,
+    "minor": 12,
     "patch": 60
   }
 }
