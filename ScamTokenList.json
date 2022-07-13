@@ -114961,11 +114961,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x437AbEAbE366B6c0F450Ca7e4F3fED8549A105B2",
+      "symbol": "FOLLOWING",
+      "name": "PleaseStop",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 26,
+    "minor": 27,
     "patch": 60
   }
 }
