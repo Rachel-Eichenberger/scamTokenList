@@ -114851,11 +114851,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43846Ae42877d3460A7E56B502162b1f750b491e",
+      "symbol": "OIL",
+      "name": "DesertTreasure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 16,
+    "minor": 17,
     "patch": 60
   }
 }
