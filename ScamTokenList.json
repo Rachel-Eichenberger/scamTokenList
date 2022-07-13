@@ -114730,11 +114730,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE41413ecF088806A84c514EF898EE831965125D",
+      "symbol": "SUM",
+      "name": "THESUMMIT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 5,
+    "minor": 6,
     "patch": 60
   }
 }
