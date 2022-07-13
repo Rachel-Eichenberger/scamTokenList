@@ -114686,11 +114686,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD526f8023B9795bef9850706e2Fd2DbB13ECc447",
+      "symbol": "DOGEOH",
+      "name": "DogeOh",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 1,
+    "minor": 2,
     "patch": 60
   }
 }
