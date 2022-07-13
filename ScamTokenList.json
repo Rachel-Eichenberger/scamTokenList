@@ -114862,11 +114862,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCdC21a39609c34a17807fc3FD6E1E8b56b5108D2",
+      "symbol": "APE",
+      "name": "ApeMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 17,
+    "minor": 18,
     "patch": 60
   }
 }
