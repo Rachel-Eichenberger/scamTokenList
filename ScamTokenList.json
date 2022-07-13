@@ -114565,11 +114565,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38FC6bd385a91fCa46f6322e5CBc691d944D0684",
+      "symbol": "STAKE",
+      "name": "StakeEther",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 90,
+    "minor": 91,
     "patch": 59
   }
 }
