@@ -114323,11 +114323,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D95620071Df2ECD90E2dCC95fbb4e5DBe0bC591",
+      "symbol": "UNIABIHS",
+      "name": "UNIABIHS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 68,
+    "minor": 69,
     "patch": 59
   }
 }
