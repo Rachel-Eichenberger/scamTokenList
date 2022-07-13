@@ -114543,11 +114543,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66d44ce262D52254b1EFfc0D64A1eaf1366649d5",
+      "symbol": "DEGEN",
+      "name": "MOONORDUST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 88,
+    "minor": 89,
     "patch": 59
   }
 }
