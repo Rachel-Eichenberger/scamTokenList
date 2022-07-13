@@ -114554,11 +114554,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e9dcD33bBC17406b397d77b9646ce9AC16Ee772",
+      "symbol": "WOMEN",
+      "name": "WomenUnite",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 89,
+    "minor": 90,
     "patch": 59
   }
 }
