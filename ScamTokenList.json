@@ -114620,11 +114620,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d6141ef55e39D8D0C9C03F6EeA2812623eF2d55",
+      "symbol": "C0",
+      "name": "Cpi0",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 95,
+    "minor": 96,
     "patch": 59
   }
 }
