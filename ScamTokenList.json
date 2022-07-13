@@ -114708,11 +114708,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9696A2aF933AFBFcBAAAcA4C02Cc4B85dF1eEC5",
+      "symbol": "POOLZ",
+      "name": "PoolzFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 3,
+    "minor": 4,
     "patch": 60
   }
 }
