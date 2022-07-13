@@ -115324,11 +115324,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1657E529A58f2321A40f838F25BD13C90D452eB4",
+      "symbol": "SHINJIRUCAT",
+      "name": "SHINJIRUCAT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 59,
+    "minor": 60,
     "patch": 60
   }
 }
