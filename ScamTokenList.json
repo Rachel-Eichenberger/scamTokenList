@@ -114367,11 +114367,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a584706DE7449Ca0a60D7606FC2ddd4a084BE91",
+      "symbol": "BIDAO",
+      "name": "BIDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 72,
+    "minor": 73,
     "patch": 59
   }
 }
