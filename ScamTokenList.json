@@ -115203,11 +115203,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54CE7E95A0844921fe44dA56766F7Cc10A22Bc6a",
+      "symbol": "MCCINU",
+      "name": "MCCINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 48,
+    "minor": 49,
     "patch": 60
   }
 }
