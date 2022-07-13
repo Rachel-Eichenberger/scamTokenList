@@ -114829,11 +114829,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4CB5877469Fe0e7b5f0AAAa69e84110BcDaFC3d5",
+      "symbol": "EI",
+      "name": "ElevenInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 14,
+    "minor": 15,
     "patch": 60
   }
 }
