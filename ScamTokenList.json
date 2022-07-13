@@ -115126,11 +115126,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ADb17A091DBeA66b602c1704f0DF5A55150494a",
+      "symbol": "NATURIAN",
+      "name": "Naturian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 41,
+    "minor": 42,
     "patch": 60
   }
 }
