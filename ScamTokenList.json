@@ -115214,11 +115214,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe847FC7cE2f64E47EF1c321B23CDF2F3B6aa9221",
+      "symbol": "MCCINU",
+      "name": "MultiChainCapitalIn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 49,
+    "minor": 50,
     "patch": 60
   }
 }
