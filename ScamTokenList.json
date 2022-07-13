@@ -114598,11 +114598,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbFE494fa1Dc1348D0d0c79d5ab20c246fE0abA44",
+      "symbol": "TEST1",
+      "name": "TEST1",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 93,
+    "minor": 94,
     "patch": 59
   }
 }
