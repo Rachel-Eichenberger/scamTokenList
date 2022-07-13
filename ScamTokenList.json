@@ -114994,11 +114994,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x827282D030c31C020B67b818559F65298c9F0d15",
+      "symbol": "26MILES",
+      "name": "TheMarathon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 29,
+    "minor": 30,
     "patch": 60
   }
 }
