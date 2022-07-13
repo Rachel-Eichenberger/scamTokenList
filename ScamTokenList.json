@@ -114631,11 +114631,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8087a568ad28Fe6F96d2B848140d34175e9602d",
+      "symbol": "EAPES",
+      "name": "ETERNALAPES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 96,
+    "minor": 97,
     "patch": 59
   }
 }
