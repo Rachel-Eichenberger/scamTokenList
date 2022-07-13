@@ -115225,11 +115225,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5908d2dc45dfC87D0E62bcf1AAeC9fB88E47b09",
+      "symbol": "MIND",
+      "name": "MindBlockchain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 50,
+    "minor": 51,
     "patch": 60
   }
 }
