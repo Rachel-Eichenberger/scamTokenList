@@ -115115,11 +115115,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4f82bB1317201Ac041a7C6DB233079C1Ed54A2c",
+      "symbol": "THEFIFTHELEMENT",
+      "name": "Aether",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 40,
+    "minor": 41,
     "patch": 60
   }
 }
