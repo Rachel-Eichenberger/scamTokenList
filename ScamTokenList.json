@@ -114675,11 +114675,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8496bdd03EDe31d18373594aE448bB4cC3aeC8E3",
+      "symbol": "SSS",
+      "name": "SHIBSHIBSHIB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 0,
+    "minor": 1,
     "patch": 60
   }
 }
