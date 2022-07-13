@@ -114950,11 +114950,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB12E741199D280394b995F9fF251c98e6DceB544",
+      "symbol": "DFLATION",
+      "name": "Dogeflation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 25,
+    "minor": 26,
     "patch": 60
   }
 }
