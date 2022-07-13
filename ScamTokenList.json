@@ -115170,11 +115170,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB342c7969f6f1dA3F348C98ddE32Daa0a394d0b",
+      "symbol": "MUNI",
+      "name": "MuniMuni",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 45,
+    "minor": 46,
     "patch": 60
   }
 }
