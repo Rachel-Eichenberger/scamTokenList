@@ -114972,11 +114972,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6FB5BA1C7b07Dca77a47dCC1cE1898F0560b63D6",
+      "symbol": "A",
+      "name": "CINEMATOGRAPHY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 27,
+    "minor": 28,
     "patch": 60
   }
 }
