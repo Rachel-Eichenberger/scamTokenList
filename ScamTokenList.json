@@ -115038,11 +115038,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAAE149B45ac2FD5744aB2E5599198e49d6C4feC6",
+      "symbol": "FORSAKEN",
+      "name": "Forsaken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 33,
+    "minor": 34,
     "patch": 60
   }
 }
