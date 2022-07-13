@@ -115049,11 +115049,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe65bC08e7A92f6F4CC4d314C2Ab316FC56551754",
+      "symbol": "GUNAPE",
+      "name": "GUNAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 34,
+    "minor": 35,
     "patch": 60
   }
 }
