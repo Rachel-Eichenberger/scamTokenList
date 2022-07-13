@@ -115346,11 +115346,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA77F8Ed6d7dB1bb2b2A64BF19bD71F3Bf18465B3",
+      "symbol": "PBANK",
+      "name": "USDCPiggyBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 61,
+    "minor": 62,
     "patch": 60
   }
 }
