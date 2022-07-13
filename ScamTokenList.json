@@ -114741,11 +114741,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x855e4De53EbB55D2B2524d7D0157C81F231a7986",
+      "symbol": "SHINCX",
+      "name": "ShinjaCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 6,
+    "minor": 7,
     "patch": 60
   }
 }
