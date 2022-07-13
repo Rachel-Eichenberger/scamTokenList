@@ -114345,11 +114345,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75735862E592679498AA87F18dc1DBd49cbe459f",
+      "symbol": "SWIFT",
+      "name": "Swift",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 70,
+    "minor": 71,
     "patch": 59
   }
 }
