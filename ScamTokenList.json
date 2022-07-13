@@ -114477,11 +114477,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE786Adb4a170Eb0b03aCBf002A1d092Db599792",
+      "symbol": "CHAD",
+      "name": "GIGACHAD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 82,
+    "minor": 83,
     "patch": 59
   }
 }
