@@ -114466,11 +114466,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd7A6bfa5d2B501AF824A6E396FddD9FAd1389B0",
+      "symbol": "RIOT",
+      "name": "HOOLIGAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 81,
+    "minor": 82,
     "patch": 59
   }
 }
