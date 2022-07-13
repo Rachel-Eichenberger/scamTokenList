@@ -115335,11 +115335,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f47bbBe8F1B5D0bC82123dEBF1F90359D2c3b55",
+      "symbol": "TASTY",
+      "name": "Yummy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 60,
+    "minor": 61,
     "patch": 60
   }
 }
