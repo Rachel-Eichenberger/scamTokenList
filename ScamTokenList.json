@@ -115148,11 +115148,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F7D6d4a3d8a207bbBDA220D739E63CAa394e913",
+      "symbol": "TENGU",
+      "name": "Tengu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 43,
+    "minor": 44,
     "patch": 60
   }
 }
