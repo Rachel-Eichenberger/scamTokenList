@@ -114400,11 +114400,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B132B65F2424ec7EE72573Df5b2Bb81fF6F2d5b",
+      "symbol": "QUACKER",
+      "name": "Quackereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 75,
+    "minor": 76,
     "patch": 59
   }
 }
