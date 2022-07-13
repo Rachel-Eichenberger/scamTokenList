@@ -114334,11 +114334,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A2e14dAE5579204E0184019CA10d531e713A925",
+      "symbol": "GIZA",
+      "name": "TheGate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 69,
+    "minor": 70,
     "patch": 59
   }
 }
