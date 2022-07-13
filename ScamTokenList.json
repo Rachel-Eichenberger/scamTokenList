@@ -115159,11 +115159,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD565cbF5aB918642532faaFb45149a2008867FEF",
+      "symbol": "URANIUM",
+      "name": "Uranium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 44,
+    "minor": 45,
     "patch": 60
   }
 }
