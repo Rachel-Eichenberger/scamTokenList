@@ -114257,11 +114257,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeAD71311981D487685f06957602694CeA4BD2D4d",
+      "symbol": "T1",
+      "name": "THEONE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 62,
+    "minor": 63,
     "patch": 59
   }
 }
