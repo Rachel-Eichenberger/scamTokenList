@@ -115005,11 +115005,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9552dCd17FD5FDFF3AAD664f9d6cB66A46FF6005",
+      "symbol": "AYW",
+      "name": "AreYaWinning",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 30,
+    "minor": 31,
     "patch": 60
   }
 }
