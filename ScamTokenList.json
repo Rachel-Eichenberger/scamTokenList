@@ -115236,11 +115236,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62B73cEe45e0637bAEf78E38FACb8d13BF9e07c8",
+      "symbol": "LINU",
+      "name": "LOUISINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 51,
+    "minor": 52,
     "patch": 60
   }
 }
