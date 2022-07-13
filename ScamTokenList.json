@@ -114719,11 +114719,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe97B77e6039D26E48C491D740712a069a5D2daA2",
+      "symbol": "VAPE",
+      "name": "TheVapeApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 4,
+    "minor": 5,
     "patch": 60
   }
 }
