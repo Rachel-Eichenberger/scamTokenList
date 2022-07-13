@@ -114609,11 +114609,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0C7aa9A57D5cC0c534BAC0A6c3a65f0bd4b472c",
+      "symbol": "TLAPE",
+      "name": "TheLastApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 94,
+    "minor": 95,
     "patch": 59
   }
 }
