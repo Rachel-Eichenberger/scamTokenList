@@ -114301,11 +114301,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa42b7c35B53372c88dE689b29077822378d006a8",
+      "symbol": "YAGAMI",
+      "name": "YAGAMI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 66,
+    "minor": 67,
     "patch": 59
   }
 }
