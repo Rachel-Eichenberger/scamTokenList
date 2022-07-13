@@ -115016,11 +115016,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2749ABAD22dBf4A2a1A2bAF2D41D6d9193dEb245",
+      "symbol": "TNH",
+      "name": "THENINJAHIDEOUT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 31,
+    "minor": 32,
     "patch": 60
   }
 }
