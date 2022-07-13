@@ -114411,11 +114411,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c85a4F81710C4532514C7be426145047f120f37",
+      "symbol": "GG",
+      "name": "GGEZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 76,
+    "minor": 77,
     "patch": 59
   }
 }
