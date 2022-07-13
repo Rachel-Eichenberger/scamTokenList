@@ -115082,11 +115082,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2E43877B19D69BbbA4fc783dCC2559Af8238Ffa",
+      "symbol": "INUF",
+      "name": "INUFLATION91",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 37,
+    "minor": 38,
     "patch": 60
   }
 }
