@@ -114983,11 +114983,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04BDFE6373bDfCf361EC009FFaFb8AB0812c0428",
+      "symbol": "CREEDDAO",
+      "name": "CreedDao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 28,
+    "minor": 29,
     "patch": 60
   }
 }
