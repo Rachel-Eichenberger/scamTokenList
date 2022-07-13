@@ -114290,11 +114290,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x105dE93FCB89f1D75c2214Dc527D68F3Cd28eCCB",
+      "symbol": "HBIC",
+      "name": "HunterBideniCloud",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 65,
+    "minor": 66,
     "patch": 59
   }
 }
