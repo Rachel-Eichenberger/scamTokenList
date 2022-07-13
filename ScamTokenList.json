@@ -114488,11 +114488,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdB38FB53F12BEfA2Fc68CFeb16B7412403c9D27e",
+      "symbol": "GAPE",
+      "name": "GOLDENAPEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 83,
+    "minor": 84,
     "patch": 59
   }
 }
