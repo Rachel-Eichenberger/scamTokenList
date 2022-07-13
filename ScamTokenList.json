@@ -114774,11 +114774,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD63bA24B6f004Bf67C8E90411B39953D85C53204",
+      "symbol": "MIN",
+      "name": "MinBidding",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 9,
+    "minor": 10,
     "patch": 60
   }
 }
