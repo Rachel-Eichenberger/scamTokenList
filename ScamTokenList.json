@@ -114510,11 +114510,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB948d75A0de36422eD24b0aeae63CBfdaE4C3268",
+      "symbol": "NICHIREN",
+      "name": "Nichiren",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 61,
-    "minor": 85,
+    "minor": 86,
     "patch": 59
   }
 }
