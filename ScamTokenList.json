@@ -115258,11 +115258,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B88Fe1658503897005a4e2a90F8B257Fd304e0E",
+      "symbol": "DRACO",
+      "name": "Dracarys",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 53,
+    "minor": 54,
     "patch": 60
   }
 }
