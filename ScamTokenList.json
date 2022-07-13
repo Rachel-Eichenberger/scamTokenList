@@ -114873,11 +114873,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bFDfCC43DA38F1a7907CA7336eBC20cdAC4f53d",
+      "symbol": "APEM",
+      "name": "ApeMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 18,
+    "minor": 19,
     "patch": 60
   }
 }
