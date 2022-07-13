@@ -115412,11 +115412,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0dDB876B18f1028C84A0c3af6b5CaDE513614F76",
+      "symbol": "TY",
+      "name": "CopyTradooors",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 67,
+    "minor": 68,
     "patch": 60
   }
 }
