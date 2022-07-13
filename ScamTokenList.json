@@ -114763,11 +114763,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2EdD5862DB0010C317489DF3A357d8d8FCdf27A9",
+      "symbol": "TINU",
+      "name": "TSUKAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 8,
+    "minor": 9,
     "patch": 60
   }
 }
