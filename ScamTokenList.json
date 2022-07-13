@@ -115302,11 +115302,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0BA97CC852cdFc2a3Ec5BFa71F826418f199f1f5",
+      "symbol": "LINU",
+      "name": "LudicrousINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 57,
+    "minor": 58,
     "patch": 60
   }
 }
