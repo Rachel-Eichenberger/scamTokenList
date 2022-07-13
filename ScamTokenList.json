@@ -115379,11 +115379,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEA18D1eb101FC731efDBecAd8354680D25059113",
+      "symbol": "THANKINGYOU",
+      "name": "ThankingYou",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 64,
+    "minor": 65,
     "patch": 60
   }
 }
