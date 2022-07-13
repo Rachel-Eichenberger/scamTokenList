@@ -115093,11 +115093,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x249dDdbce2c38557FcFE9D1fD1fdE2e256383B65",
+      "symbol": "FLOKINFLATION",
+      "name": "Flokinflation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 38,
+    "minor": 39,
     "patch": 60
   }
 }
