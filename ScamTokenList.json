@@ -115742,11 +115742,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31f200f1c49AA586eFA09dF287bBF4D97aEB5B36",
+      "symbol": "TAKAI",
+      "name": "DeathInJapan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 97,
+    "minor": 98,
     "patch": 60
   }
 }
