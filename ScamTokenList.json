@@ -115665,11 +115665,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7Ae840ee74FDa2345793ACc3E676F081CE89362",
+      "symbol": "BLEU",
+      "name": "20Years",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 90,
+    "minor": 91,
     "patch": 60
   }
 }
