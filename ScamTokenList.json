@@ -116369,11 +116369,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41f4AeA49D4ac10CEb718aAB9c29e44600c7c044",
+      "symbol": "RTSUKA",
+      "name": "RyoshiTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 54,
+    "minor": 55,
     "patch": 61
   }
 }
