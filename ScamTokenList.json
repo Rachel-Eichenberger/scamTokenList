@@ -116127,11 +116127,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x639855abCc3387220E80cEb44fD3D21861ba0775",
+      "symbol": "MARVELINU",
+      "name": "MarvelInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 32,
+    "minor": 33,
     "patch": 61
   }
 }
