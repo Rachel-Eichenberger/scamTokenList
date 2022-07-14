@@ -115698,11 +115698,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5B91a0167EdE36F2D21000234c5111bB9e0B840",
+      "symbol": "HEX",
+      "name": "HEXIS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 93,
+    "minor": 94,
     "patch": 60
   }
 }
