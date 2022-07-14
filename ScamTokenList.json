@@ -115973,11 +115973,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2638a23a9118D5786B6a6529bF3c09c922d3cDAD",
+      "symbol": "FIRE",
+      "name": "Infernu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 18,
+    "minor": 19,
     "patch": 61
   }
 }
