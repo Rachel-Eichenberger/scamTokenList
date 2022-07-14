@@ -116457,11 +116457,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEA92A24E8545fE5435606a58b3862a167E8561B9",
+      "symbol": "APES",
+      "name": "Apetown",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 62,
+    "minor": 63,
     "patch": 61
   }
 }
