@@ -116347,11 +116347,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8fA84580f67FE440CC757629D25518D63115C729",
+      "symbol": "CLOSEDSEA",
+      "name": "ClosedSea",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 52,
+    "minor": 53,
     "patch": 61
   }
 }
