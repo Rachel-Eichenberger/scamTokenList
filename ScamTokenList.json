@@ -116028,11 +116028,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3467eD230FC2676c32af4c760E52bf243b05a04",
+      "symbol": "MORA",
+      "name": "Mora",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 23,
+    "minor": 24,
     "patch": 61
   }
 }
