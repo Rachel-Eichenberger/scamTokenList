@@ -116468,11 +116468,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AB09c3d5477F02F43438033aa20E8B93fBb0E31",
+      "symbol": "JUSTICE",
+      "name": "AssangeDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 63,
+    "minor": 64,
     "patch": 61
   }
 }
