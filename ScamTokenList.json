@@ -115478,11 +115478,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8Fd7A7961f4f85A19028eAfD2eE31f9B685a53A",
+      "symbol": "LIQUID",
+      "name": "Liquid",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 73,
+    "minor": 74,
     "patch": 60
   }
 }
