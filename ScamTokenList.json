@@ -115709,11 +115709,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E6605e28221f96b2EAf0738816F236325bD5b35",
+      "symbol": "MGC",
+      "name": "McGoblinCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 94,
+    "minor": 95,
     "patch": 60
   }
 }
