@@ -115500,11 +115500,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01Bcc88d1b62E97F9BD6A058D1f442226a234eA3",
+      "symbol": "KAKAO",
+      "name": "Kakao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 75,
+    "minor": 76,
     "patch": 60
   }
 }
