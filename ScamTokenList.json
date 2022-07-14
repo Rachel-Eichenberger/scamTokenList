@@ -115522,11 +115522,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e27E29A08299382134fA07037b4Aab8b521A09e",
+      "symbol": "PREY",
+      "name": "PREDATOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 77,
+    "minor": 78,
     "patch": 60
   }
 }
