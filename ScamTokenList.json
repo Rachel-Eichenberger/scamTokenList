@@ -115753,11 +115753,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF8Dd8a30C34012f25d16e80152038B1240C098d6",
+      "symbol": "BASARA",
+      "name": "BASARA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 98,
+    "minor": 99,
     "patch": 60
   }
 }
