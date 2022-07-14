@@ -115566,11 +115566,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2B5AF6f1c926279314085CdeE6BA5f867224a4D",
+      "symbol": "BABYDRACO",
+      "name": "BabyDracarys",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 81,
+    "minor": 82,
     "patch": 60
   }
 }
