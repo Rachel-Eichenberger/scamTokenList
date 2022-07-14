@@ -116292,11 +116292,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7cF8FDDaCd22419669217e7bC4D5751042fc1C6d",
+      "symbol": "EURVUSD",
+      "name": "EUROvsUSD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 47,
+    "minor": 48,
     "patch": 61
   }
 }
