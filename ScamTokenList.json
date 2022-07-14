@@ -116336,11 +116336,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD63aA39416173c1A3e877Bb8654b8B7eaD02083C",
+      "symbol": "EMI",
+      "name": "ErrolMuskInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 51,
+    "minor": 52,
     "patch": 61
   }
 }
