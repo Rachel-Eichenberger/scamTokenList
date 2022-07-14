@@ -116237,11 +116237,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4DBb2bFCDaA35AeB55AD08BB4CB5727D9F64381",
+      "symbol": "THEVIEW",
+      "name": "EagleEyes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 42,
+    "minor": 43,
     "patch": 61
   }
 }
