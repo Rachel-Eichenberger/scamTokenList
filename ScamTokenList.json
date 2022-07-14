@@ -116171,11 +116171,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7d0Ff6cC7E1c476510AfD5b36B15ca72672a384",
+      "symbol": "CPI",
+      "name": "CPIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 36,
+    "minor": 37,
     "patch": 61
   }
 }
