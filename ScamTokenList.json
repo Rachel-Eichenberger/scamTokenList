@@ -115456,11 +115456,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6B3fEe850a783f93BDaf88872C571EB4ECfd9F8",
+      "symbol": "MOONZY",
+      "name": "MoonzyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 71,
+    "minor": 72,
     "patch": 60
   }
 }
