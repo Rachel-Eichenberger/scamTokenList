@@ -115687,11 +115687,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6589555728e665E5602898e3A75b7d5b0D9BDd31",
+      "symbol": "PHRASE",
+      "name": "NeedForSeed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 92,
+    "minor": 93,
     "patch": 60
   }
 }
