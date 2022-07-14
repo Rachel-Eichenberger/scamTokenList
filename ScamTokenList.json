@@ -116270,11 +116270,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC67FA6414051a0A2c02EE82A26f4AE3D9447604F",
+      "symbol": "FADE",
+      "name": "ForApesandDegensEve",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 45,
+    "minor": 46,
     "patch": 61
   }
 }
