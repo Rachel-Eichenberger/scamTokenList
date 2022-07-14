@@ -116138,11 +116138,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Fa86a33cE9Ab986E48485Ef81Be34AA8e044bE3",
+      "symbol": "DRACULA",
+      "name": "CountDracula",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 33,
+    "minor": 34,
     "patch": 61
   }
 }
