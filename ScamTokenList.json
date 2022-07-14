@@ -116303,11 +116303,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0DA49ADdC718D21823f13fD29C0B0dF23919E4Ce",
+      "symbol": "MINU",
+      "name": "MemeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 48,
+    "minor": 49,
     "patch": 61
   }
 }
