@@ -115511,11 +115511,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8498739e39299cAB735b6774568822DB4C11E897",
+      "symbol": "LAEEB",
+      "name": "LaEeb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 76,
+    "minor": 77,
     "patch": 60
   }
 }
