@@ -115841,11 +115841,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10BF0547EE1ACcac26f4C00082f88472A6619cfE",
+      "symbol": "BYEBYE",
+      "name": "bye",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 6,
+    "minor": 7,
     "patch": 61
   }
 }
