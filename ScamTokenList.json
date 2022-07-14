@@ -115874,11 +115874,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x342B0f67711Fa51816160E6BEb23eF381b045547",
+      "symbol": "VINU",
+      "name": "VoyagerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 9,
+    "minor": 10,
     "patch": 61
   }
 }
