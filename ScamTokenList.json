@@ -115940,11 +115940,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D7a4A6Cb61806Fdb45d42A399AfFcFaaD0669F2",
+      "symbol": "TWINU",
+      "name": "TwitterDownInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 15,
+    "minor": 16,
     "patch": 61
   }
 }
