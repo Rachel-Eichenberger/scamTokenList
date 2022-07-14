@@ -115445,11 +115445,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf31A0e8767E28f3e11f844a2454A4ee7272D463D",
+      "symbol": "AVATAR",
+      "name": "Avatar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 70,
+    "minor": 71,
     "patch": 60
   }
 }
