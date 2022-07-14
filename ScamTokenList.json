@@ -115984,11 +115984,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1fe5C7FE0001935F3cb32d841163910134e3f54",
+      "symbol": "GRU",
+      "name": "READCONTRACT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 19,
+    "minor": 20,
     "patch": 61
   }
 }
