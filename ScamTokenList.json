@@ -116094,11 +116094,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD995d2C4363b8e9e746BBa276114D67c4F14f910",
+      "symbol": "AHYMA",
+      "name": "BlackRain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 29,
+    "minor": 30,
     "patch": 61
   }
 }
