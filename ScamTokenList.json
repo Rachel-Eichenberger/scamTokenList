@@ -116259,11 +116259,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2C955729ec4aB369A6977b0a33ac35944886e06",
+      "symbol": "VIZION",
+      "name": "CorpusDecodeur",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 44,
+    "minor": 45,
     "patch": 61
   }
 }
