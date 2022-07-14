@@ -116281,11 +116281,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD96E053C53CA20FeA8c30739A385A917F3A3F2F4",
+      "symbol": "NIL",
+      "name": "Nil",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 46,
+    "minor": 47,
     "patch": 61
   }
 }
