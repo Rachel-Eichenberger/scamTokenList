@@ -116435,11 +116435,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x613e71EB6F7eA9ee0567ded6d703989511566055",
+      "symbol": "GREENRAID",
+      "name": "GreenRaid",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 60,
+    "minor": 61,
     "patch": 61
   }
 }
