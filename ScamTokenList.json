@@ -116358,11 +116358,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x322BCBAd23AB345cABbE2628f840514dc2FfC6af",
+      "symbol": "UD",
+      "name": "UntilDawn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 53,
+    "minor": 54,
     "patch": 61
   }
 }
