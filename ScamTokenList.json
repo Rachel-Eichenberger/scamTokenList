@@ -116072,11 +116072,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3f297b4E55E916191D4a0Af8D1E8FD278d0b45C",
+      "symbol": "NS",
+      "name": "NETFLIXSHILL",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 27,
+    "minor": 28,
     "patch": 61
   }
 }
