@@ -115907,11 +115907,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7435ff44105a99f64F2B4F9562Ae3AE104721e90",
+      "symbol": "TERC20",
+      "name": "TrueERC20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 12,
+    "minor": 13,
     "patch": 61
   }
 }
