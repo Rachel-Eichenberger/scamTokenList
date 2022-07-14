@@ -115896,11 +115896,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2af30f3bb68090dC5fd2730D36337A524B13415",
+      "symbol": "RATS",
+      "name": "RATS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 11,
+    "minor": 12,
     "patch": 61
   }
 }
