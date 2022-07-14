@@ -116490,11 +116490,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2B4Fbdd9cBf2903F6517a97e125ea7F71bEc786",
+      "symbol": "BGS",
+      "name": "BurstyGreedySpider",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 65,
+    "minor": 66,
     "patch": 61
   }
 }
