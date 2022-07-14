@@ -115731,11 +115731,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5411E0DFfF6267fae01522d0Ff4Af22453fCA26A",
+      "symbol": "STARSHIP",
+      "name": "StarshipDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 96,
+    "minor": 97,
     "patch": 60
   }
 }
