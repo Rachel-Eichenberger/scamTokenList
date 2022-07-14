@@ -115775,11 +115775,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90e972C71d40D85714E8b63A20B5836dbaFdD15C",
+      "symbol": "14JUILLET",
+      "name": "14Juillet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 0,
+    "minor": 1,
     "patch": 61
   }
 }
