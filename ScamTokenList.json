@@ -115830,11 +115830,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96132C7c1FdE251E75B5Ecb9036c352460EFC296",
+      "symbol": "ADUS",
+      "name": "Amadeus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 5,
+    "minor": 6,
     "patch": 61
   }
 }
