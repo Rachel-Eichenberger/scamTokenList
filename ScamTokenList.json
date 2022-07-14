@@ -115918,11 +115918,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2E0407DD1595987f0A717D6cAD8fD917e9FE4a7",
+      "symbol": "NICE",
+      "name": "NiceLabs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 13,
+    "minor": 14,
     "patch": 61
   }
 }
