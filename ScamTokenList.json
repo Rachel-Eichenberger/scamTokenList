@@ -116402,11 +116402,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bDAA4085bD17a9cb025b0eAA5Bf0dD25674f640",
+      "symbol": "ODIN",
+      "name": "Odineum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 57,
+    "minor": 58,
     "patch": 61
   }
 }
