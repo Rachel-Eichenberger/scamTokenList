@@ -115786,11 +115786,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x546C5b4Be37B06d51c1A767E07F9652f557636d2",
+      "symbol": "KAPE",
+      "name": "KingoApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 1,
+    "minor": 2,
     "patch": 61
   }
 }
