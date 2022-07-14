@@ -115632,11 +115632,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92a47418EE9fF110e34Dcc55375418De39b11120",
+      "symbol": "PHOENIX",
+      "name": "Phoenix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 87,
+    "minor": 88,
     "patch": 60
   }
 }
