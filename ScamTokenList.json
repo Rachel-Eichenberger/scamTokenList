@@ -115654,11 +115654,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6b48656Bed9f3DF9eF41e6B79F25EefBE4A8057",
+      "symbol": "DEL",
+      "name": "DeltaNeutral",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 89,
+    "minor": 90,
     "patch": 60
   }
 }
