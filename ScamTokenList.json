@@ -115863,11 +115863,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD683104116DAd5F770bfe599DAd17eF2F91FE37",
+      "symbol": "ARM",
+      "name": "Armitage",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 8,
+    "minor": 9,
     "patch": 61
   }
 }
