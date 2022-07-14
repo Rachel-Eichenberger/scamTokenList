@@ -115467,11 +115467,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Cb5Dfb47351382b3007080c2B7E4F20F50EbCcb",
+      "symbol": "CHAOS",
+      "name": "TheLadder",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 72,
+    "minor": 73,
     "patch": 60
   }
 }
