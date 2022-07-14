@@ -116248,11 +116248,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x350D3f0f41b5B21F0e252fe2645AE9D55562150a",
+      "symbol": "BCT",
+      "name": "BananaClubToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 43,
+    "minor": 44,
     "patch": 61
   }
 }
