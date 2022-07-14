@@ -116105,11 +116105,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC933b4Cef51e09e2E1cfB05a4B35050969B7F4C9",
+      "symbol": "ANGRYBEAR",
+      "name": "AngryBear",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 30,
+    "minor": 31,
     "patch": 61
   }
 }
