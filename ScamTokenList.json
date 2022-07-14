@@ -116083,11 +116083,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2440965Fc31CF6b977efECD86B97E894fDf940B0",
+      "symbol": "YINU",
+      "name": "YASUKEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 28,
+    "minor": 29,
     "patch": 61
   }
 }
