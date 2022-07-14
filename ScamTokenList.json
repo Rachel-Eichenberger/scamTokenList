@@ -115852,11 +115852,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31D1aCf1f6B4018Df4CBA11F27d593d08361A2F9",
+      "symbol": "SAMURAIKONG",
+      "name": "SamuraiKong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 7,
+    "minor": 8,
     "patch": 61
   }
 }
