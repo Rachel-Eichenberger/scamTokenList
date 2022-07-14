@@ -116446,11 +116446,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CfDa06477015Dc44BC09910EcF68E261907ab81",
+      "symbol": "DUNK",
+      "name": "DoggyPunk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 61,
+    "minor": 62,
     "patch": 61
   }
 }
