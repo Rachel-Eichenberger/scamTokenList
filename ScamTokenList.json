@@ -115808,11 +115808,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c5AFFE4bBC2a5094Bb63C167390945Ff2aa031E",
+      "symbol": "PUMP",
+      "name": "Pumptama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 3,
+    "minor": 4,
     "patch": 61
   }
 }
