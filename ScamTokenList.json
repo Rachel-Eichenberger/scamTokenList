@@ -115489,11 +115489,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79Da04E70220b79Ab17F1F5E218FDBFD9EE7de12",
+      "symbol": "SPACEGODZILLA",
+      "name": "SpaceGodzilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 62,
-    "minor": 74,
+    "minor": 75,
     "patch": 60
   }
 }
