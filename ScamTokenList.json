@@ -115951,11 +115951,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x752EbF15541293b82140647fcd3eEC39A1148e29",
+      "symbol": "GOLD",
+      "name": "PiratesHoard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 16,
+    "minor": 17,
     "patch": 61
   }
 }
