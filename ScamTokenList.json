@@ -116424,11 +116424,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20004daFE20C242D5f473ec6E54DB61959D92922",
+      "symbol": "DHIMP",
+      "name": "dogemp3",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 59,
+    "minor": 60,
     "patch": 61
   }
 }
