@@ -116842,11 +116842,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Fc1f61a08c3924e6f55961326AF1EA89e04D9A8",
+      "symbol": "ELXR",
+      "name": "Elixir",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 97,
+    "minor": 98,
     "patch": 61
   }
 }
