@@ -116545,11 +116545,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72D11C2C55A892bc5116017772631d0006A762BD",
+      "symbol": "SPARTA",
+      "name": "Spartacus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 70,
+    "minor": 71,
     "patch": 61
   }
 }
