@@ -116765,11 +116765,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1713174628A4Eed930A98866Bc44f0620C0786e3",
+      "symbol": "GMW",
+      "name": "GAMEWORLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 90,
+    "minor": 91,
     "patch": 61
   }
 }
