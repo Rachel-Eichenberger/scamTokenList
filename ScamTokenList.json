@@ -116633,11 +116633,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62f2fd88cbEDE8d06544D5E9fF6a6c3f7931d60d",
+      "symbol": "BB",
+      "name": "BADBUNNY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 78,
+    "minor": 79,
     "patch": 61
   }
 }
