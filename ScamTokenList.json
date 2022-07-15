@@ -117205,11 +117205,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x322dec28087d50a5d92c576dcae2CfF8E8146b2b",
+      "symbol": "BOOLISH",
+      "name": "Boolish",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 29,
+    "minor": 30,
     "patch": 63
   }
 }
