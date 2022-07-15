@@ -117271,11 +117271,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80C6EB8603e4457df7d320c1ab2129b4d8A26B51",
+      "symbol": "CHERISH",
+      "name": "Moment",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 35,
+    "minor": 36,
     "patch": 63
   }
 }
