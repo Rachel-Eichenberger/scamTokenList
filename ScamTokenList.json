@@ -116644,11 +116644,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8677782730E0dE615A1FF84eD93aAC66fEc48407",
+      "symbol": "LEAF",
+      "name": "Leafy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 79,
+    "minor": 80,
     "patch": 61
   }
 }
