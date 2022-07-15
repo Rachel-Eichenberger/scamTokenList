@@ -116655,11 +116655,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x826e69fC5A82A919aF74b293e6C7A1150AADE44B",
+      "symbol": "TAROT",
+      "name": "TheCards",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 80,
+    "minor": 81,
     "patch": 61
   }
 }
