@@ -116809,11 +116809,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70A3bF57F7cEaf727dD8c948A0466206F25916F5",
+      "symbol": "INUCAPITAL",
+      "name": "INUCAPITAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 94,
+    "minor": 95,
     "patch": 61
   }
 }
