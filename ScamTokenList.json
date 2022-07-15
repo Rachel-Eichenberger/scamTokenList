@@ -117139,11 +117139,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17692B46962a90197c23038145f22201FF0639bB",
+      "symbol": "MOLLY",
+      "name": "Ethstasy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 23,
+    "minor": 24,
     "patch": 63
   }
 }
