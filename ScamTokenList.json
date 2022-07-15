@@ -116897,11 +116897,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bd8637b0dC00b7225ae0746999dEA365324189d",
+      "symbol": "INVESTER",
+      "name": "Investereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 2,
+    "minor": 3,
     "patch": 62
   }
 }
