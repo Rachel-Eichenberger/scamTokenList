@@ -116831,11 +116831,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE55737A23D0eEcA9c7a89cb10a61db2DbAE57Ad",
+      "symbol": "MJOLNIR",
+      "name": "BullMachine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 96,
+    "minor": 97,
     "patch": 61
   }
 }
