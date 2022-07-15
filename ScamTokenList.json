@@ -116864,11 +116864,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f0f683Aa277866f4848CCe8299cda7A69650AEE",
+      "symbol": "PICCOLOPENIS",
+      "name": "PICCOLOPENIS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 63,
-    "minor": 99,
-    "patch": 61
+    "major": 64,
+    "minor": 0,
+    "patch": 62
   }
 }
