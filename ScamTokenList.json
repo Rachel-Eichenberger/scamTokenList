@@ -117260,11 +117260,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5818b3cf8E532CE0b61828BFcE63B43fa0cD19e8",
+      "symbol": "MARHABA",
+      "name": "MosqueDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 34,
+    "minor": 35,
     "patch": 63
   }
 }
