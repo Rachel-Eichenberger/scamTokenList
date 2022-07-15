@@ -116611,11 +116611,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x753d3c3043016c02A595D8976b4bD5C7D792fa38",
+      "symbol": "SYSTEM",
+      "name": "TheSystem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 76,
+    "minor": 77,
     "patch": 61
   }
 }
