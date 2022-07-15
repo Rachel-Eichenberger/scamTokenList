@@ -116743,11 +116743,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2fFEeEBa0B968d7631713247dCc476c73Ded918",
+      "symbol": "TWITTER",
+      "name": "Twitterdeal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 88,
+    "minor": 89,
     "patch": 61
   }
 }
