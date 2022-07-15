@@ -116941,11 +116941,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc03a1BCCb0F88407f46AC91f5E6979A5A1942ce7",
+      "symbol": "SALAAM",
+      "name": "Salaam",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 6,
+    "minor": 7,
     "patch": 62
   }
 }
