@@ -116732,11 +116732,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FbEC1ecF0B6eF1D891b86b8bC8AAf926FB214f9",
+      "symbol": "SAFX",
+      "name": "Safx",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 87,
+    "minor": 88,
     "patch": 61
   }
 }
