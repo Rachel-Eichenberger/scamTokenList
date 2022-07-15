@@ -116523,11 +116523,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80C77A45C2A56E6FA04C9b9D2419899240a32f7C",
+      "symbol": "PRIVATE",
+      "name": "Incognito",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 68,
+    "minor": 69,
     "patch": 61
   }
 }
