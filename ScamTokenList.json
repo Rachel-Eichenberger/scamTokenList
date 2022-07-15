@@ -116853,11 +116853,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x919900FD73D512A3C314fa5e1c8222f9e6122d0F",
+      "symbol": "XWEB3",
+      "name": "XWeb3",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 98,
+    "minor": 99,
     "patch": 61
   }
 }
