@@ -117029,11 +117029,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE461ca5fA1aA0870119276a6DCF15372e26D77d4",
+      "symbol": "AGONY",
+      "name": "Umbra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 13,
+    "minor": 14,
     "patch": 63
   }
 }
