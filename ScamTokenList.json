@@ -116534,11 +116534,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Bf3Ab2427E0579e45B2fAE150499eE5ae44a48B",
+      "symbol": "OTAY",
+      "name": "Otay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 69,
+    "minor": 70,
     "patch": 61
   }
 }
