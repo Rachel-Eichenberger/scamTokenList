@@ -116996,11 +116996,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B5139eeFe6c6b7E5E82BAD149d40075B0964ced",
+      "symbol": "TRAP",
+      "name": "TheRemainingApesPre",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 10,
+    "minor": 11,
     "patch": 63
   }
 }
