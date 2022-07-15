@@ -116677,11 +116677,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0da943b3c1a901199E003A079CfeF5a1676FA5eE",
+      "symbol": "EMB",
+      "name": "EthereumMonkeyBusin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 82,
+    "minor": 83,
     "patch": 61
   }
 }
