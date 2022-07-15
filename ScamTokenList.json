@@ -117106,11 +117106,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE31e3d6B6911173Db7d257C6b563486Db2d3a408",
+      "symbol": "KAIDO",
+      "name": "KaidoDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 20,
+    "minor": 21,
     "patch": 63
   }
 }
