@@ -116952,11 +116952,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe23DF13133036f7E5C4694c63FbfAB37Fb33C68b",
+      "symbol": "SARU",
+      "name": "SaruInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 7,
+    "minor": 8,
     "patch": 62
   }
 }
