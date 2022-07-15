@@ -117337,11 +117337,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8b273873033a6a9B6239Ad8C2D6712E2BfBdd16",
+      "symbol": "CHOMP",
+      "name": "MUNCH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 41,
+    "minor": 42,
     "patch": 63
   }
 }
