@@ -117293,11 +117293,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76c97fC43e4036EbD5777a7372dDEFD5B4fA03d2",
+      "symbol": "ICASH",
+      "name": "InstaCash",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 37,
+    "minor": 38,
     "patch": 63
   }
 }
