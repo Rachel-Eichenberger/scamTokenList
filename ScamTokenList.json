@@ -117370,11 +117370,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65Af168cF9586cd0E207E6493d43b308bD207326",
+      "symbol": "JAGAIMO",
+      "name": "JAGAIMO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 44,
+    "minor": 45,
     "patch": 63
   }
 }
