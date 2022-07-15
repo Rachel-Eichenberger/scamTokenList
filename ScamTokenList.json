@@ -117227,11 +117227,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57d91E71645232ED7aA2733aB0eC45b2d9f1A1FE",
+      "symbol": "ABED",
+      "name": "AbedInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 31,
+    "minor": 32,
     "patch": 63
   }
 }
