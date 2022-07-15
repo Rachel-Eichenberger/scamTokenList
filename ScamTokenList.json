@@ -116930,11 +116930,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13C645bD9d6f7B133e143726B7f26C704EB56005",
+      "symbol": "XSAFX",
+      "name": "StakedSAFX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 5,
+    "minor": 6,
     "patch": 62
   }
 }
