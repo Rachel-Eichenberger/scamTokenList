@@ -117392,11 +117392,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24C920b794C303127abaF382901868BF636C776d",
+      "symbol": "BSPUNK",
+      "name": "BabySpunk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 46,
+    "minor": 47,
     "patch": 63
   }
 }
