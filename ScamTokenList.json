@@ -117359,11 +117359,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD99BdaBB14bC3d422ee8b80299dDf66DB6D48343",
+      "symbol": "UNI",
+      "name": "InversedInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 43,
+    "minor": 44,
     "patch": 63
   }
 }
