@@ -116578,11 +116578,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e49F8d567410533D5FD194b391288E405cBC3Be",
+      "symbol": "BONUZ",
+      "name": "BonuzMarket",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 73,
+    "minor": 74,
     "patch": 61
   }
 }
