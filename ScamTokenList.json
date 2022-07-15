@@ -116567,11 +116567,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e3FA16Ff44E76ed0a7E8cb70CB8672d62B23dAd",
+      "symbol": "DRAGONINU",
+      "name": "DragonInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 72,
+    "minor": 73,
     "patch": 61
   }
 }
