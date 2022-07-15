@@ -117007,11 +117007,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1d3fBbE2794aabFff15d065F57F480bD03f739e",
+      "symbol": "GINJA",
+      "name": "Goosenobi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 11,
+    "minor": 12,
     "patch": 63
   }
 }
