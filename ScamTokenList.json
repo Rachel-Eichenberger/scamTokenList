@@ -116919,11 +116919,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf48A5b28b44b7d5AD0D53ea6816fcEb14Bc80967",
+      "symbol": "MOM",
+      "name": "BigMOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 4,
+    "minor": 5,
     "patch": 62
   }
 }
