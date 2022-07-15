@@ -116600,11 +116600,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54248cE1a9739511A4802553d855b593E5622462",
+      "symbol": "BCM",
+      "name": "BEACONMINT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 75,
+    "minor": 76,
     "patch": 61
   }
 }
