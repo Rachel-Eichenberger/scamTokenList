@@ -117117,11 +117117,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB92027b6aDee9f63290a5a1Bd9d15D6A163F4012",
+      "symbol": "JEETFINDER",
+      "name": "JeetFinder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 21,
+    "minor": 22,
     "patch": 63
   }
 }
