@@ -116787,11 +116787,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDCc5248a63C3CE0d9aD0F4C3d1099b0610337670",
+      "symbol": "BITS",
+      "name": "BitShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 92,
+    "minor": 93,
     "patch": 61
   }
 }
