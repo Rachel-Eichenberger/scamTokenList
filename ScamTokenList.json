@@ -116754,11 +116754,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5A735A30e1CF01c2a7d85cB3547F468dF605a52",
+      "symbol": "A",
+      "name": "ADAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 89,
+    "minor": 90,
     "patch": 61
   }
 }
