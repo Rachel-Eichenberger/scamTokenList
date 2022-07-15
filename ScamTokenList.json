@@ -116966,6 +116966,28 @@
     },
     {
       "chainId": 1,
+      "address": "0x7C743517f34daEfc6477D44b0a2a12dE6fA38Ea2",
+      "symbol": "UNILP",
+      "name": "UNILP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCf39B7793512F03f2893C16459fd72E65D2Ed00c",
+      "symbol": "UNILP",
+      "name": "UNILP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
+    },
+    {
+      "chainId": 1,
       "address": "0x191C9Fc23a9A4527AEF8fD0f5fcBA331Ef411685",
       "symbol": "ODINEUM",
       "name": "Odineum",
@@ -116977,8 +116999,8 @@
     }
   ],
   "version": {
-    "major": 64,
-    "minor": 9,
-    "patch": 62
+    "major": 65,
+    "minor": 10,
+    "patch": 63
   }
 }
