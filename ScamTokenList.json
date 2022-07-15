@@ -117051,11 +117051,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d3FAe06d170Ce51C8908Af2F105828102801C1D",
+      "symbol": "0FINU",
+      "name": "0FeeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 15,
+    "minor": 16,
     "patch": 63
   }
 }
