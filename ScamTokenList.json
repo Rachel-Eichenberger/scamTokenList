@@ -116908,11 +116908,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C8C1cE78793EC9b373ef1f2F87459d0dF69F91D",
+      "symbol": "AC",
+      "name": "Anarchyclassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 3,
+    "minor": 4,
     "patch": 62
   }
 }
