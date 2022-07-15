@@ -116875,11 +116875,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34E203759E3F33CEB0736EBd668262b750c08a65",
+      "symbol": "SQUIDX",
+      "name": "SquidX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 64,
-    "minor": 0,
+    "minor": 1,
     "patch": 62
   }
 }
