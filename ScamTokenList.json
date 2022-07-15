@@ -116710,11 +116710,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ead5F73BAa7a214FFb50b02636a8Cf40DcBe727",
+      "symbol": "TIGERCAT",
+      "name": "TigerCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 85,
+    "minor": 86,
     "patch": 61
   }
 }
