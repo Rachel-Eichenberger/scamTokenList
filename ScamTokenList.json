@@ -116666,11 +116666,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A52784d496D49749460b4800fe63D0fc5Da944A",
+      "symbol": "MINIONS",
+      "name": "Minions",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 81,
+    "minor": 82,
     "patch": 61
   }
 }
