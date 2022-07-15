@@ -117304,11 +117304,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A8365064F4cDCb3517D33c89050bb99096904dc",
+      "symbol": "EAT",
+      "name": "GobbleFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 38,
+    "minor": 39,
     "patch": 63
   }
 }
