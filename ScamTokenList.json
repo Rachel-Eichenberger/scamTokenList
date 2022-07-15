@@ -116556,11 +116556,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x393bcef7f2bbB485daFFf47c0442eA0d0D7fea7a",
+      "symbol": "DRAGONER",
+      "name": "Dragonereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 63,
-    "minor": 71,
+    "minor": 72,
     "patch": 61
   }
 }
