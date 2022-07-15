@@ -117381,11 +117381,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa609F1C6aa673DddADbe6D13251Bebae7E8EF074",
+      "symbol": "OCTDAO",
+      "name": "OctopusDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 45,
+    "minor": 46,
     "patch": 63
   }
 }
