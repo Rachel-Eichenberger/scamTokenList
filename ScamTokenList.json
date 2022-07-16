@@ -118041,11 +118041,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x511007d7B9AB4725b1D227e0c28EC48A1e494800",
+      "symbol": "FLOKIFLOKI",
+      "name": "FlokiFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 5,
+    "minor": 6,
     "patch": 64
   }
 }
