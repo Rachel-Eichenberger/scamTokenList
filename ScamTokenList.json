@@ -117931,11 +117931,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa39b76B92239DA7afcB42A051b9996B29C0c8491",
+      "symbol": "THIEF",
+      "name": "THIEF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 95,
+    "minor": 96,
     "patch": 63
   }
 }
