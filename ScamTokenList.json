@@ -117865,11 +117865,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcEdaef448d83D253A506329753a6e63230709F16",
+      "symbol": "EDEGEN",
+      "name": "Elondegens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 89,
+    "minor": 90,
     "patch": 63
   }
 }
