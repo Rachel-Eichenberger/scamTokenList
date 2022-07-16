@@ -117766,11 +117766,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f310A0Fff68643804315479E18516796ea5A948",
+      "symbol": "BOTFI",
+      "name": "BotFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 80,
+    "minor": 81,
     "patch": 63
   }
 }
