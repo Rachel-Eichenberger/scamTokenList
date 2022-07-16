@@ -117810,11 +117810,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x401d7972f45960bC08A9fe61Ca3F90564d1ea74d",
+      "symbol": "UNII",
+      "name": "UniInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 84,
+    "minor": 85,
     "patch": 63
   }
 }
