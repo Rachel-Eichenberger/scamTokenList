@@ -117722,11 +117722,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b4f5CfFf3730ae2CE85F783087151628956463b",
+      "symbol": "DDDD",
+      "name": "DogeDogeDogeDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 76,
+    "minor": 77,
     "patch": 63
   }
 }
