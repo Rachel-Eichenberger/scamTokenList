@@ -118404,11 +118404,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16E0c1BF5C7eCBd9BfeC68E073d6bf90d17528Ef",
+      "symbol": "SOC",
+      "name": "SOCRATES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 38,
+    "minor": 39,
     "patch": 64
   }
 }
