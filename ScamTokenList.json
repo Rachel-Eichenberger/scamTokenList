@@ -118052,11 +118052,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBcf0dd5dF881E520b3386d1e59B68eE807acaf4b",
+      "symbol": "TOXIC",
+      "name": "Toxic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 6,
+    "minor": 7,
     "patch": 64
   }
 }
