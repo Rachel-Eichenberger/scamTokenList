@@ -118305,11 +118305,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ff86BB17fc7Fa264266434282Cc08ce1c5eb027",
+      "symbol": "KEY",
+      "name": "THEKEY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 29,
+    "minor": 30,
     "patch": 64
   }
 }
