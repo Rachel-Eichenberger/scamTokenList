@@ -117843,11 +117843,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2DdEf2915007A1D9A4aa19c3Be47a3379CC4Be9",
+      "symbol": "SUPERPIG",
+      "name": "SuperPig",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 87,
+    "minor": 88,
     "patch": 63
   }
 }
