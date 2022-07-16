@@ -117502,11 +117502,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa596f9180CB092946a6FE42eBDC75d833decD8c9",
+      "symbol": "MORPHIN",
+      "name": "CryptoRangers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 56,
+    "minor": 57,
     "patch": 63
   }
 }
