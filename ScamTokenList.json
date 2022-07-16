@@ -117623,11 +117623,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE60E6BdEcf783B87883A6b46c5189B41B1240973",
+      "symbol": "REXT",
+      "name": "REXUETOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 67,
+    "minor": 68,
     "patch": 63
   }
 }
