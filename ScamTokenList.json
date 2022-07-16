@@ -117920,11 +117920,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4c4f27Bf37Ee247e5A1AEEbaD372D285B82E752",
+      "symbol": "ARAB",
+      "name": "ArabianShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 94,
+    "minor": 95,
     "patch": 63
   }
 }
