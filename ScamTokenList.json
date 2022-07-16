@@ -118228,11 +118228,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7d998F51D6bFB3D318D04d302f335ab09a17d94",
+      "symbol": "STABLE",
+      "name": "STABLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 22,
+    "minor": 23,
     "patch": 64
   }
 }
