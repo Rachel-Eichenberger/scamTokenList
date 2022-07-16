@@ -117447,11 +117447,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x548052B971f9412f9e24Eb5F3F79326488280F55",
+      "symbol": "TKING",
+      "name": "ThreeKingdoms",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 51,
+    "minor": 52,
     "patch": 63
   }
 }
