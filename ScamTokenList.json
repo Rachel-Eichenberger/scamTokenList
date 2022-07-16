@@ -117436,11 +117436,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d640fdBA53Cc39995682E5e1D38302759519394",
+      "symbol": "MOONZERO",
+      "name": "MoonZero",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 50,
+    "minor": 51,
     "patch": 63
   }
 }
