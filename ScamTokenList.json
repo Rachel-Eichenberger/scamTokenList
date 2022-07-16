@@ -118250,11 +118250,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf6D96994549c0A0b57aD52cff442e5149e07B1EF",
+      "symbol": "LOUD",
+      "name": "LOUDPACK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 24,
+    "minor": 25,
     "patch": 64
   }
 }
