@@ -117458,11 +117458,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd01Ee0d81FfCCdFD289cA836Dc76F6054fda3fe8",
+      "symbol": "CHADS",
+      "name": "Chadfinder",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 52,
+    "minor": 53,
     "patch": 63
   }
 }
