@@ -118349,11 +118349,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40388cF8fa21B5F3BaF8B08d6160207e77296CCb",
+      "symbol": "AMUNRA",
+      "name": "TheSun",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 33,
+    "minor": 34,
     "patch": 64
   }
 }
