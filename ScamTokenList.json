@@ -117777,11 +117777,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6928Ee54b821d3C8695b2d9A804c4D262e8Ac6A",
+      "symbol": "OK",
+      "name": "OathKeepers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 81,
+    "minor": 82,
     "patch": 63
   }
 }
