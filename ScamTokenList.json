@@ -117986,11 +117986,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x721c041a23cdc118d0B3FfB5912a59821d852bd6",
+      "symbol": "HIDE",
+      "name": "TheHidden",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 0,
+    "minor": 1,
     "patch": 64
   }
 }
