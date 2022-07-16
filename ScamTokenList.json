@@ -117700,11 +117700,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c80C5abFD56BBF052Dc4d61d1670C4E44f48403",
+      "symbol": "EGGPLANTINU",
+      "name": "EggplantInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 74,
+    "minor": 75,
     "patch": 63
   }
 }
