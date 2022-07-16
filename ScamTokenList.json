@@ -117656,11 +117656,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9cECA07A6b3EB49F4F101f50F368618568491e3d",
+      "symbol": "FLOKITESLA",
+      "name": "FlokiTesla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 70,
+    "minor": 71,
     "patch": 63
   }
 }
