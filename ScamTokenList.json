@@ -117557,11 +117557,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8f45c8E9902D2468447e46b8692A47c6627834c",
+      "symbol": "KIYO",
+      "name": "KiyohimeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 61,
+    "minor": 62,
     "patch": 63
   }
 }
