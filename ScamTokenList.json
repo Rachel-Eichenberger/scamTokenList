@@ -118393,11 +118393,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF883E68eF04683F68573Cdb2aeC5f4bEe5AeA2D",
+      "symbol": "QPQ",
+      "name": "QuidProQuo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 37,
+    "minor": 38,
     "patch": 64
   }
 }
