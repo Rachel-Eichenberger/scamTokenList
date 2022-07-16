@@ -117733,11 +117733,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x495Cd07BA0835e8E0633dADd0E34695e291A36f2",
+      "symbol": "CTHULHU",
+      "name": "FictionalCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 77,
+    "minor": 78,
     "patch": 63
   }
 }
