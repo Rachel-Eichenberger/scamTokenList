@@ -117414,11 +117414,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a6608F995c7A55F86f22a5E188Dd08BB0a1276E",
+      "symbol": "ARZ",
+      "name": "Arozzi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 48,
+    "minor": 49,
     "patch": 63
   }
 }
