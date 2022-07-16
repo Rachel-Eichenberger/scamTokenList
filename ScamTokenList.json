@@ -118129,11 +118129,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf421482e569b14f27C28b1265697A5eD0a91e4f7",
+      "symbol": "FUCKIT",
+      "name": "JustFuckIt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 13,
+    "minor": 14,
     "patch": 64
   }
 }
