@@ -117678,11 +117678,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a6E51C9035068C4740C5b96B9f80F40c02A37fE",
+      "symbol": "LIM",
+      "name": "LessisMore",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 72,
+    "minor": 73,
     "patch": 63
   }
 }
