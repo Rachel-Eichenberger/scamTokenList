@@ -118239,11 +118239,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x278Fd9257303D99Ef0aBD9E5a5296329F2029229",
+      "symbol": "SHRINE",
+      "name": "SHRINEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 23,
+    "minor": 24,
     "patch": 64
   }
 }
