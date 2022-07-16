@@ -118426,11 +118426,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC9d0DABDbCCd19fbE2E2216047dB26E5CBE1E258",
+      "symbol": "CSHIBA",
+      "name": "CSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 40,
+    "minor": 41,
     "patch": 64
   }
 }
