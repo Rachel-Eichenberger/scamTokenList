@@ -117612,11 +117612,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA9c0f42d4a67D3Cf1B484558C7f4A41368023E4",
+      "symbol": "KITE",
+      "name": "TheKite",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 66,
+    "minor": 67,
     "patch": 63
   }
 }
