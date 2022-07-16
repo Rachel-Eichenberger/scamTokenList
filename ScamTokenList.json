@@ -118272,11 +118272,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc594F0A2f3A602fa0314644dDaAf039500bb139B",
+      "symbol": "TENXINU",
+      "name": "InuInuInuInuInuInuI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 26,
+    "minor": 27,
     "patch": 64
   }
 }
