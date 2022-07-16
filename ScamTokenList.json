@@ -118096,11 +118096,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7F8b3bC50e8F6CC62d614A84a0FAd4Cce0F463D",
+      "symbol": "SHINOMEGA",
+      "name": "ShinOmegaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 10,
+    "minor": 11,
     "patch": 64
   }
 }
