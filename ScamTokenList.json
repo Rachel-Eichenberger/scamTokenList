@@ -118206,11 +118206,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9AbbabD401cf46BB0000abEd444a0BdA2721254",
+      "symbol": "KOA",
+      "name": "KoAInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 20,
+    "minor": 21,
     "patch": 64
   }
 }
