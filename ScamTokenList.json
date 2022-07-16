@@ -117876,11 +117876,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4203D596c4A7Da3eE57f09B00a52a66b0b342364",
+      "symbol": "UNIUNIUNI",
+      "name": "UniUniUni",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 90,
+    "minor": 91,
     "patch": 63
   }
 }
