@@ -117898,11 +117898,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x120b6a75fc9a00D9E9092078e27958b00f6C49d9",
+      "symbol": "ZINU",
+      "name": "ZenInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 92,
+    "minor": 93,
     "patch": 63
   }
 }
