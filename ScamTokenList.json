@@ -117854,11 +117854,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C2c293ecB00674937041E7E7a0AF16bB42fFA82",
+      "symbol": "BROKENSEA",
+      "name": "BROKENSEA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 88,
+    "minor": 89,
     "patch": 63
   }
 }
