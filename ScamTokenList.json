@@ -117590,11 +117590,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F3c51A5e669D179e836F0a13f76edCB7610F6f7",
+      "symbol": "IIIINU",
+      "name": "InuInuInuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 64,
+    "minor": 65,
     "patch": 63
   }
 }
