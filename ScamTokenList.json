@@ -117964,11 +117964,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2e698fAf8462E1a8A64cf7d083322748a713321",
+      "symbol": "CRONY",
+      "name": "CRONY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 98,
+    "minor": 99,
     "patch": 63
   }
 }
