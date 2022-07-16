@@ -118415,11 +118415,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CB09Ed2442782f9028e1aDc1798C54655f5AF70",
+      "symbol": "DRAKEY",
+      "name": "DrakeyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 39,
+    "minor": 40,
     "patch": 64
   }
 }
