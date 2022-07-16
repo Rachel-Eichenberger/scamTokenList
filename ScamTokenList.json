@@ -117821,11 +117821,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc423B87c8A78D0b002652080D305CaCB6e05c2D4",
+      "symbol": "ULINU",
+      "name": "THEULTIMATEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 85,
+    "minor": 86,
     "patch": 63
   }
 }
