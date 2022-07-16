@@ -118316,11 +118316,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x907dD9c15dc70D6deCa58753A33D8e84AF9EFCf9",
+      "symbol": "PYTH",
+      "name": "Pythagoras",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 30,
+    "minor": 31,
     "patch": 64
   }
 }
