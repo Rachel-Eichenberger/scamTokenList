@@ -117689,11 +117689,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48F4479c435d080DE8B8d144e129b58f5386f099",
+      "symbol": "FLOKIFLOKI",
+      "name": "FlokiFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 73,
+    "minor": 74,
     "patch": 63
   }
 }
