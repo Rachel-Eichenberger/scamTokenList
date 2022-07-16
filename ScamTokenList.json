@@ -118118,11 +118118,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DEF23e2936774ff40e9E5A97523731c1eca1cfF",
+      "symbol": "MANDALA",
+      "name": "AConcentricArrangem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 12,
+    "minor": 13,
     "patch": 64
   }
 }
