@@ -118437,11 +118437,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2863F9C44473C4dE34BB8DF7739C6cbaF9748Fb",
+      "symbol": "CLOGX",
+      "name": "ClogX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 41,
+    "minor": 42,
     "patch": 64
   }
 }
