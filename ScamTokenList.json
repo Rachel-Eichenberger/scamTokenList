@@ -118360,11 +118360,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFf752788D7523eC80484cC81F03E22E2a5045ca1",
+      "symbol": "FTC",
+      "name": "ForTheChads",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 34,
+    "minor": 35,
     "patch": 64
   }
 }
