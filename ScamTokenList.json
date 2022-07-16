@@ -117568,11 +117568,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0670EA2CE8C753Faf6F3C6E18dB5d5a33500453",
+      "symbol": "SCF",
+      "name": "SaintChuFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 62,
+    "minor": 63,
     "patch": 63
   }
 }
