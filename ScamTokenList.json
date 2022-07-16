@@ -117645,11 +117645,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEfbd74B8ad21D0Bee2a0dCBA7532F2B0Ef3a3fD2",
+      "symbol": "SANGO",
+      "name": "SangoDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 69,
+    "minor": 70,
     "patch": 63
   }
 }
