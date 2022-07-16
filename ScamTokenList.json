@@ -117403,11 +117403,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31216A1E6BAEC9fbe944A3542BB4Bd2c4FF7e023",
+      "symbol": "SHISHIINU",
+      "name": "ShiShiinu",
+      "decimals": 3,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 47,
+    "minor": 48,
     "patch": 63
   }
 }
