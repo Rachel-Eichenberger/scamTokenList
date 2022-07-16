@@ -117755,11 +117755,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeF26FaD6A6ffba26A1BFeAf262845FE8D5B46689",
+      "symbol": "KKKIBA",
+      "name": "KibaKibaKiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 79,
+    "minor": 80,
     "patch": 63
   }
 }
