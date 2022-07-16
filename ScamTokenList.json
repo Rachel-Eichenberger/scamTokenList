@@ -117887,11 +117887,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59163255349723df4EBf5A15863465D98B367b90",
+      "symbol": "DINU",
+      "name": "DollarInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 65,
-    "minor": 91,
+    "minor": 92,
     "patch": 63
   }
 }
