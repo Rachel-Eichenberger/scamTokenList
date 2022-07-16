@@ -118327,11 +118327,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE0C96aA6570D56B975258664E4baC39fE186a3c7",
+      "symbol": "SS",
+      "name": "SecretSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 31,
+    "minor": 32,
     "patch": 64
   }
 }
