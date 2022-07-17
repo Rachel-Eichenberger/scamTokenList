@@ -119053,11 +119053,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB115C71082824b7Dee7aF5eF5865A1b1F0c900Ab",
+      "symbol": "CLODE",
+      "name": "CryptoLodeon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 97,
+    "minor": 98,
     "patch": 64
   }
 }
