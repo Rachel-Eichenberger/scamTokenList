@@ -119075,11 +119075,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Ad4EfB2545415Aa9a4E31Eb5183c57886f4ac0e",
+      "symbol": "GIVEMYMONEY",
+      "name": "GiveMyUSDC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 66,
-    "minor": 99,
-    "patch": 64
+    "major": 67,
+    "minor": 0,
+    "patch": 65
   }
 }
