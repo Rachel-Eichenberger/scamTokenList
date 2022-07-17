@@ -119031,11 +119031,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64754F0847c835F039e1bCAF2E2f555c7032E881",
+      "symbol": "HEATWAVE",
+      "name": "TheHeatWave",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 95,
+    "minor": 96,
     "patch": 64
   }
 }
