@@ -118701,11 +118701,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x950325dA7815120A6d1c209468caf74Fc1394BA4",
+      "symbol": "MAK",
+      "name": "MaKInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 65,
+    "minor": 66,
     "patch": 64
   }
 }
