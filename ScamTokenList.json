@@ -119141,11 +119141,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ee7bbB199Bf52BDe59b955D5E693E1b985510D0",
+      "symbol": "MATAR",
+      "name": "MaTar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 5,
+    "minor": 6,
     "patch": 65
   }
 }
