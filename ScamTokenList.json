@@ -119207,11 +119207,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC4EF0f73A729A12fbD5e2DEf3d8634fDB7D0B2B8",
+      "symbol": "SHIBLING",
+      "name": "ShiblingInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 11,
+    "minor": 12,
     "patch": 65
   }
 }
