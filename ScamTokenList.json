@@ -119042,11 +119042,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF9E34948DFdA63F505c33bCe5022d025929FFdB",
+      "symbol": "SINU",
+      "name": "SimpInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 96,
+    "minor": 97,
     "patch": 64
   }
 }
