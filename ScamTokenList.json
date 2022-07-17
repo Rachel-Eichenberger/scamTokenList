@@ -118778,11 +118778,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCC29ffe0d68bF959948Db48F26672fa6a5717cAB",
+      "symbol": "WCULT",
+      "name": "WomenCultDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 72,
+    "minor": 73,
     "patch": 64
   }
 }
