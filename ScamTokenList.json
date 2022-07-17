@@ -119284,11 +119284,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11F519ED23F62c43a57786fecDB0ffa0da89cb0E",
+      "symbol": "FALL",
+      "name": "FreeFall",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 18,
+    "minor": 19,
     "patch": 65
   }
 }
