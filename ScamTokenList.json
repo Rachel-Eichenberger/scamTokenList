@@ -119119,11 +119119,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbD85b7db053de42C2E44b200b389931cEc3C9Ae1",
+      "symbol": "ARCH",
+      "name": "Archimedes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 3,
+    "minor": 4,
     "patch": 65
   }
 }
