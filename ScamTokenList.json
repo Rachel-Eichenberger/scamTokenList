@@ -118668,11 +118668,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x113CFE225d4c570e69905c2EED1950324ffe5ad2",
+      "symbol": "SAFUDEV",
+      "name": "SAFUDev",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 62,
+    "minor": 63,
     "patch": 64
   }
 }
