@@ -119229,11 +119229,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x573D0200B00f7b97F9a7D2197E742040D0c7AB1b",
+      "symbol": "CINU",
+      "name": "CURRENCYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 13,
+    "minor": 14,
     "patch": 65
   }
 }
