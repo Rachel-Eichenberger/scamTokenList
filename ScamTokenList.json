@@ -118987,11 +118987,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDfeD718Ac45963fE83643E79339A5cC5F6356cB9",
+      "symbol": "PRIEST",
+      "name": "PriestInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 91,
+    "minor": 92,
     "patch": 64
   }
 }
