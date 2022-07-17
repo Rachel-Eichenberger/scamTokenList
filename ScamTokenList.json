@@ -118965,11 +118965,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x755da7F931D11C42F723C7Dc9EDE35A2808817A3",
+      "symbol": "SELL",
+      "name": "SELLTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 89,
+    "minor": 90,
     "patch": 64
   }
 }
