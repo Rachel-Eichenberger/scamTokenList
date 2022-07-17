@@ -119262,11 +119262,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27b2d0D93aF4E972D2c659F959283AD25fFaa3B4",
+      "symbol": "AMAROK",
+      "name": "AMAROK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 16,
+    "minor": 17,
     "patch": 65
   }
 }
