@@ -118547,11 +118547,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7dAB73C21F5Fb9866Ac88a85d36858Afb7FF5C9",
+      "symbol": "SHREK",
+      "name": "ShrekInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 51,
+    "minor": 52,
     "patch": 64
   }
 }
