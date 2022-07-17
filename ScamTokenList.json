@@ -118789,11 +118789,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0Dd22a0968C51f95BDA844E25CEd2D22210182A",
+      "symbol": "BLOODALLY",
+      "name": "BloodAlly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 73,
+    "minor": 74,
     "patch": 64
   }
 }
