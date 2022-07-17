@@ -118580,11 +118580,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD971cA72FF1a224Ca661d117FFaDc0eb823aF54",
+      "symbol": "TTOOT",
+      "name": "TheTerrorOutofTime",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 54,
+    "minor": 55,
     "patch": 64
   }
 }
