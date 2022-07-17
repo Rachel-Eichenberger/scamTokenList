@@ -119185,11 +119185,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF086682b3Ab53bB03cDd2e8f4152d37497e07685",
+      "symbol": "TEHAPES",
+      "name": "TehApes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 9,
+    "minor": 10,
     "patch": 65
   }
 }
