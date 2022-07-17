@@ -118657,11 +118657,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4D3Ca63b8dDaF3B5d5aa6ffd23F2863061d4E19",
+      "symbol": "DRAGON",
+      "name": "DragonWEB3DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 61,
+    "minor": 62,
     "patch": 64
   }
 }
