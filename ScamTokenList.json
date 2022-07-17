@@ -118723,11 +118723,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa724Fb4a1c9803217434CA8B1bB07f5C0197F4De",
+      "symbol": "VALUE",
+      "name": "TATE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 67,
+    "minor": 68,
     "patch": 64
   }
 }
