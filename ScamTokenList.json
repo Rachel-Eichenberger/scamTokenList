@@ -119108,11 +119108,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6BB75527888703421427431ff897827539D84f7",
+      "symbol": "BANGER",
+      "name": "bangers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 2,
+    "minor": 3,
     "patch": 65
   }
 }
