@@ -118514,11 +118514,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c513f69dA34aa9cB0207b50CEaAf068fa020779",
+      "symbol": "ACHLYS",
+      "name": "EternalNightoftheRi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 48,
+    "minor": 49,
     "patch": 64
   }
 }
