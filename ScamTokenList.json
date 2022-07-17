@@ -119295,11 +119295,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF69242428013f471a56365e58554f23aCC64eFB9",
+      "symbol": "KOALO",
+      "name": "KoaloToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 19,
+    "minor": 20,
     "patch": 65
   }
 }
