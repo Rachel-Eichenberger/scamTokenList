@@ -118822,11 +118822,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7296fA352aA52F8f570C32A7468DFf251EE3c8f5",
+      "symbol": "DEAD",
+      "name": "die",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 76,
+    "minor": 77,
     "patch": 64
   }
 }
