@@ -118448,11 +118448,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeFfeDA2760B71d94199641Dbb317A4e136C4Aa63",
+      "symbol": "MOONTIGER",
+      "name": "MoonTiger",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 42,
+    "minor": 43,
     "patch": 64
   }
 }
