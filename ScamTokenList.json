@@ -119086,11 +119086,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1962E5fFBA6EC276B17ec020dbA67193cE5f8043",
+      "symbol": "MINI",
+      "name": "MINIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 0,
+    "minor": 1,
     "patch": 65
   }
 }
