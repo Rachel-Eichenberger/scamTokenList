@@ -118690,11 +118690,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x745Ac2B2Dd1b44aCAe6bbA12936Aaa96483ecd2F",
+      "symbol": "APEGOD",
+      "name": "ApeGod",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 64,
+    "minor": 65,
     "patch": 64
   }
 }
