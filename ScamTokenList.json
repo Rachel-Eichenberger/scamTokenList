@@ -118800,11 +118800,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B3094b4d649abd7Fc8bAe91Dfe41468c59747a2",
+      "symbol": "BAG",
+      "name": "baginu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 74,
+    "minor": 75,
     "patch": 64
   }
 }
