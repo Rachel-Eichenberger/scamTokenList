@@ -118558,11 +118558,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24F64c909be8eF740b308b33d243B7E014aDacd9",
+      "symbol": "TAMATAMA",
+      "name": "TamaTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 52,
+    "minor": 53,
     "patch": 64
   }
 }
