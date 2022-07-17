@@ -118745,11 +118745,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x488854b7B1b9dE09FDcf1fB034B2EB647339B2C0",
+      "symbol": "FUT",
+      "name": "FuckUtilityToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 69,
+    "minor": 70,
     "patch": 64
   }
 }
