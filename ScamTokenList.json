@@ -118844,11 +118844,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d206b0cb3EDEE9BF5E1bb4515D5CBa958878C3d",
+      "symbol": "BTP",
+      "name": "ByThePeople",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 78,
+    "minor": 79,
     "patch": 64
   }
 }
