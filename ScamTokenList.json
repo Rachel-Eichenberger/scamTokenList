@@ -118481,11 +118481,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFC7D302575752E2b7e0fFd34c2AC0D4103CcA1C5",
+      "symbol": "911",
+      "name": "Call911",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 45,
+    "minor": 46,
     "patch": 64
   }
 }
