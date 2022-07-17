@@ -118679,11 +118679,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92C078afC701dB5b8d6561Fc54faC82cdb472d94",
+      "symbol": "FTD",
+      "name": "ForTheDogs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 63,
+    "minor": 64,
     "patch": 64
   }
 }
