@@ -118932,11 +118932,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9292A21C2D3aA1eA07AEA37DfEb32eF6a7d4111b",
+      "symbol": "OMEGATRIUM",
+      "name": "Omegatrium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 86,
+    "minor": 87,
     "patch": 64
   }
 }
