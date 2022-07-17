@@ -119251,11 +119251,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63a42A71887FE09AEfef651a0878b11d894a4C4E",
+      "symbol": "ANON",
+      "name": "ANON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 15,
+    "minor": 16,
     "patch": 65
   }
 }
