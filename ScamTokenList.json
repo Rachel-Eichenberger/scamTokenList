@@ -118569,11 +118569,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F7Ad33219532fC2ef6937ADF6355b878644Baf1",
+      "symbol": "ANOHANA",
+      "name": "AnohanaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 53,
+    "minor": 54,
     "patch": 64
   }
 }
