@@ -118833,11 +118833,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4Aea194EC92F266c2ef66ece25A810b935e26e8",
+      "symbol": "NOK",
+      "name": "NoKInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 77,
+    "minor": 78,
     "patch": 64
   }
 }
