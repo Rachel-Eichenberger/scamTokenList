@@ -118492,11 +118492,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Dc81F4fE5Bc21170df3bd035C1174f9d73754bc",
+      "symbol": "CULTCULT",
+      "name": "CultCult",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 46,
+    "minor": 47,
     "patch": 64
   }
 }
