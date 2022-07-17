@@ -118943,11 +118943,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaEC9eCE5E95A9A095acfaF318DC58dE4a6336470",
+      "symbol": "FTI",
+      "name": "ForTheInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 87,
+    "minor": 88,
     "patch": 64
   }
 }
