@@ -118954,11 +118954,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb86168DDb4dC4FecA163D9673458e2a0A14344a9",
+      "symbol": "POKER",
+      "name": "POKEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 88,
+    "minor": 89,
     "patch": 64
   }
 }
