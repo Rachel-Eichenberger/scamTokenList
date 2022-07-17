@@ -119097,11 +119097,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25D8BEFce5D12d27C9a556aBFCbD69edCc8263d7",
+      "symbol": "CLEANSING",
+      "name": "TheCleansing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 1,
+    "minor": 2,
     "patch": 65
   }
 }
