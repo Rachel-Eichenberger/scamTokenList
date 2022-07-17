@@ -118855,11 +118855,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x128eF9fC7cdD370F180538a6d4b62B74c90ef35B",
+      "symbol": "HISS",
+      "name": "Blackout",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 79,
+    "minor": 80,
     "patch": 64
   }
 }
