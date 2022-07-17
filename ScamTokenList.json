@@ -118613,11 +118613,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7156045ed97A0246cCb5BE5d7E60f3C0c862338",
+      "symbol": "FTP",
+      "name": "ForThePeople",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 57,
+    "minor": 58,
     "patch": 64
   }
 }
