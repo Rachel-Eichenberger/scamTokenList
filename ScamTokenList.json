@@ -118888,11 +118888,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A7b46600ceb0247bc4d2435084eA5E6d450e6D7",
+      "symbol": "MASTERB",
+      "name": "MasterBaiter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 82,
+    "minor": 83,
     "patch": 64
   }
 }
