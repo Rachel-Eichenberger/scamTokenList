@@ -119064,11 +119064,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e5e1fF4A6f882242Da6A3cfFFD7381d4e291e53",
+      "symbol": "KAZUYA",
+      "name": "TatsuyaKazuya",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 98,
+    "minor": 99,
     "patch": 64
   }
 }
