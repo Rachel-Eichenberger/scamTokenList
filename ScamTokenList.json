@@ -119218,11 +119218,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0483A7D85f904A552B70B950d9be1f4820e7278B",
+      "symbol": "BISHOP",
+      "name": "BishopDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 12,
+    "minor": 13,
     "patch": 65
   }
 }
