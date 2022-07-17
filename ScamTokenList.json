@@ -118734,11 +118734,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27Fa7776A1a0a728a690D0F620942daA1A8b9877",
+      "symbol": "DDUCK",
+      "name": "DiamondDuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 68,
+    "minor": 69,
     "patch": 64
   }
 }
