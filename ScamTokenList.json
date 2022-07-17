@@ -118459,11 +118459,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F954bDfcA2389233455F52bCcb03d8B6fE1586c",
+      "symbol": "GAMBLE",
+      "name": "GambleCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 43,
+    "minor": 44,
     "patch": 64
   }
 }
