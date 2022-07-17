@@ -119163,11 +119163,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe149c018C8a98974fA77802f011a3F109A8775C3",
+      "symbol": "PI",
+      "name": "Pieceofthe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 7,
+    "minor": 8,
     "patch": 65
   }
 }
