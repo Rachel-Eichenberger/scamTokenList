@@ -118591,11 +118591,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6171136E82a2f1bAA2494c69528f599467EfeA20",
+      "symbol": "BALANCERLPCOM",
+      "name": "BALANCERLPCOM",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 55,
+    "minor": 56,
     "patch": 64
   }
 }
