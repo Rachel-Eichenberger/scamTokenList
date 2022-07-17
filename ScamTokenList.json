@@ -119174,11 +119174,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b14B3E0D30943179220169100614B21077DB424",
+      "symbol": "SHAPES",
+      "name": "ShibApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 8,
+    "minor": 9,
     "patch": 65
   }
 }
