@@ -118712,11 +118712,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15Dd710A3B4455bf317818195CeBDE01C57F28E4",
+      "symbol": "HODLER",
+      "name": "Bag",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 66,
+    "minor": 67,
     "patch": 64
   }
 }
