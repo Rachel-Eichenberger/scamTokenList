@@ -119240,11 +119240,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa55cBD64c0F08406eD207b330C6293E265918dab",
+      "symbol": "KAGI",
+      "name": "KAGUTSUCHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 67,
-    "minor": 14,
+    "minor": 15,
     "patch": 65
   }
 }
