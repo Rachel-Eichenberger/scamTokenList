@@ -118866,11 +118866,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9B6Ec96a20C58d3477840290634704CA3f9E529",
+      "symbol": "FREEFLY",
+      "name": "FREEFLY",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 80,
+    "minor": 81,
     "patch": 64
   }
 }
