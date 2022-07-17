@@ -118635,11 +118635,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x725a0f04BF86D89f45D906610881dBd284b94171",
+      "symbol": "AURUM",
+      "name": "Aurum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 66,
-    "minor": 59,
+    "minor": 60,
     "patch": 64
   }
 }
