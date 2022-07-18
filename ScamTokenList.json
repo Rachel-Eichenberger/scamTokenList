@@ -100606,11 +100606,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c2e0466De8db4aB852E62D7FFBC8deF31fcD0ff",
+      "symbol": "NWO",
+      "name": "TheEliteNewEra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 97,
+    "minor": 98,
     "patch": 66
   }
 }
