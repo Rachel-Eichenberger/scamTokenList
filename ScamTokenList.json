@@ -100683,11 +100683,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b7cC634F5F4469d77A8E3c89762C27BC97646b3",
+      "symbol": "DOC",
+      "name": "DeathOfTheCrow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 4,
+    "minor": 5,
     "patch": 67
   }
 }
