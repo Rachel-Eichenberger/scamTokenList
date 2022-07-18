@@ -100573,11 +100573,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E178fD53CB15FFD39bcEbd3CF01bbb10b61cE5C",
+      "symbol": "CLASSIC",
+      "name": "TheManFromThe50s",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 94,
+    "minor": 95,
     "patch": 66
   }
 }
