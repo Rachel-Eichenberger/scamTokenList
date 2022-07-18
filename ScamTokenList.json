@@ -100254,11 +100254,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCEAa54DE683B83A1113100BEDca27B7e446532C1",
+      "symbol": "FORGERY",
+      "name": "Forgery",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 65,
+    "minor": 66,
     "patch": 66
   }
 }
