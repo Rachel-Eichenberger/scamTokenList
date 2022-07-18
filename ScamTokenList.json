@@ -100485,11 +100485,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4155e91E157b44b984BfAD06C4D5109f47d052A8",
+      "symbol": "CRYTOMINA",
+      "name": "CRYTOMINA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 86,
+    "minor": 87,
     "patch": 66
   }
 }
