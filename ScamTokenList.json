@@ -100441,11 +100441,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc06A926475cb1795a332A854B502A6202df3b66B",
+      "symbol": "TORCH",
+      "name": "TheAlmighty",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 82,
+    "minor": 83,
     "patch": 66
   }
 }
