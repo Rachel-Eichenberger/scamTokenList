@@ -100001,11 +100001,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43EDd7d2aEC0D502D9190b339D07e4152a787491",
+      "symbol": "ATHENA",
+      "name": "VIRTUESOFJUSTICE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 42,
+    "minor": 43,
     "patch": 66
   }
 }
