@@ -100595,11 +100595,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e20924a98E8dcC412EF9AC92162288E44a1A5B1",
+      "symbol": "MESSIERMISSION",
+      "name": "MessierMission",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 96,
+    "minor": 97,
     "patch": 66
   }
 }
