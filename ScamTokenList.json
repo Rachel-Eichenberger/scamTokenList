@@ -100617,11 +100617,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a45768b71d33643Cf0CD554d27157eC3EeCF015",
+      "symbol": "SMURF",
+      "name": "SmurfsNFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 98,
+    "minor": 99,
     "patch": 66
   }
 }
