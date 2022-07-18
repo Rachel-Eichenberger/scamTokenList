@@ -100881,11 +100881,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x656D5ff25442103aE2aCe90Ac89461cDe1c9Ff1E",
+      "symbol": "KYOSHI",
+      "name": "Kyoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 22,
+    "minor": 23,
     "patch": 67
   }
 }
