@@ -100111,11 +100111,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE76EE7e42063E33b4dCe09F6e3C8740E2C6E4d8c",
+      "symbol": "FAPES",
+      "name": "FlokiApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 52,
+    "minor": 53,
     "patch": 66
   }
 }
