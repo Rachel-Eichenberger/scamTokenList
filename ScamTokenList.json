@@ -100342,11 +100342,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7AacbDB61467A8DEfC84b2034feaBf3dF281975",
+      "symbol": "CCP",
+      "name": "AttentionCITIZENSoc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 73,
+    "minor": 74,
     "patch": 66
   }
 }
