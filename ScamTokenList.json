@@ -100155,11 +100155,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1C4cEe8b9D01735d8E71B4ab94C35fB19a48A1d",
+      "symbol": "MOLECULE",
+      "name": "MoleculeDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 56,
+    "minor": 57,
     "patch": 66
   }
 }
