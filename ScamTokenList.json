@@ -100089,11 +100089,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f9843110aD6514189c8b546fE8102d3382a6796",
+      "symbol": "TEMPLE",
+      "name": "MachuPicchu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 50,
+    "minor": 51,
     "patch": 66
   }
 }
