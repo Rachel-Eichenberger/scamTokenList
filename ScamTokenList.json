@@ -99935,11 +99935,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x555C950fBeDC6400070dB15A2fDBAe29B2D14F05",
+      "symbol": "INUBURN",
+      "name": "InuBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 36,
+    "minor": 37,
     "patch": 66
   }
 }
