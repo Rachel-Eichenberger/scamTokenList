@@ -100221,11 +100221,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4309D07f597DDA7e0817fAB958A61742947c4262",
+      "symbol": "MM",
+      "name": "MondayMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 62,
+    "minor": 63,
     "patch": 66
   }
 }
