@@ -100859,11 +100859,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79B8BA872e8D02aCe1891E31C3d11381B95CD518",
+      "symbol": "GRANDI",
+      "name": "GrandiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 20,
+    "minor": 21,
     "patch": 67
   }
 }
