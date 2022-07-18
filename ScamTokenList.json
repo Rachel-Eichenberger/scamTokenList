@@ -100122,11 +100122,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93B1cD1aFeDB9e30a90A498Bb73d4Fe679c3EA48",
+      "symbol": "PEWKI",
+      "name": "iamfish",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 53,
+    "minor": 54,
     "patch": 66
   }
 }
