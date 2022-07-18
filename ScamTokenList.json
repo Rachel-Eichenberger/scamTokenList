@@ -99781,11 +99781,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc64B975212583CE0F72b02a929D2a868A5b1f08f",
+      "symbol": "EPAY",
+      "name": "EPAY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 22,
+    "minor": 23,
     "patch": 66
   }
 }
