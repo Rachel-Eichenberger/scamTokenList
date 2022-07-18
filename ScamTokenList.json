@@ -99990,11 +99990,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc693aECa653BC62e5C5113de5c698c5615052F22",
+      "symbol": "MADOFF",
+      "name": "MADOFF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 41,
+    "minor": 42,
     "patch": 66
   }
 }
