@@ -100727,11 +100727,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2D626FF3ba9776065cCA7a26527e985Fb1123D9",
+      "symbol": "COCAINEINU",
+      "name": "CocaineInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HIGH Tax"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 8,
+    "minor": 9,
     "patch": 67
   }
 }
