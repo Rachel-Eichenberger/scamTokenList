@@ -100144,11 +100144,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e4980Ea1EcE224919162726faC9c85020F1cA4b",
+      "symbol": "UMISHI",
+      "name": "Umishi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 55,
+    "minor": 56,
     "patch": 66
   }
 }
