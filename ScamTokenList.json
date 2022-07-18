@@ -100639,11 +100639,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA7297d75FDe74302a07B46417CC7711A214e3829",
+      "symbol": "FTA",
+      "name": "ForTheApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 0,
+    "minor": 1,
     "patch": 67
   }
 }
