@@ -100397,11 +100397,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9cb059e980CF1e0447ef9234E802566d3768653",
+      "symbol": "MERGE",
+      "name": "ETHMERGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 78,
+    "minor": 79,
     "patch": 66
   }
 }
