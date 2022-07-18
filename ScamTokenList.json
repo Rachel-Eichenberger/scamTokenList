@@ -99902,11 +99902,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7eE5fef234d9Cfff73fF2bE690108b43D375d91a",
+      "symbol": "DEGENS",
+      "name": "DegensOfETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 33,
+    "minor": 34,
     "patch": 66
   }
 }
