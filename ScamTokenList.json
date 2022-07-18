@@ -100210,11 +100210,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD50038673c80d448fee734162DF70ba855Fdd27b",
+      "symbol": "FALKOR",
+      "name": "TheDragonofLuck",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 61,
+    "minor": 62,
     "patch": 66
   }
 }
