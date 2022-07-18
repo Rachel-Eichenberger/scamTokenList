@@ -100078,11 +100078,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82C0c9B3D808a158Ad5a418Cfc98fC341b87fdEe",
+      "symbol": "BABYCREATE",
+      "name": "BabyCreate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 49,
+    "minor": 50,
     "patch": 66
   }
 }
