@@ -99847,11 +99847,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12245C6A2Ad1dA59aD50830E4e79f4101886ad94",
+      "symbol": "GENTALTAG",
+      "name": "GentalTag",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 28,
+    "minor": 29,
     "patch": 66
   }
 }
