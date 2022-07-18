@@ -100749,11 +100749,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbc6056559a81158E4239293ff4042D1358D83cf",
+      "symbol": "TTTSUKA",
+      "name": "TsukaTsukaTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 10,
+    "minor": 11,
     "patch": 67
   }
 }
