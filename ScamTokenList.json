@@ -99814,11 +99814,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4cA392Ef3A48dff75a04869347DE5A60BAf278d",
+      "symbol": "CATRO",
+      "name": "CATROBOT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 25,
+    "minor": 26,
     "patch": 66
   }
 }
