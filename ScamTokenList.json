@@ -100364,11 +100364,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xecD3a21022d66f56bC26833AF78B64f2763E1f43",
+      "symbol": "BULL",
+      "name": "TheBullRun",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 75,
+    "minor": 76,
     "patch": 66
   }
 }
