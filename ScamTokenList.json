@@ -99869,11 +99869,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x131592De3f288cF014Ab629B11079b3C210a3a8A",
+      "symbol": "SHINU",
+      "name": "SUSHIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 30,
+    "minor": 31,
     "patch": 66
   }
 }
