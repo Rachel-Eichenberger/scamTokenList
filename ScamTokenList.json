@@ -100430,11 +100430,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x393924C2c073912E77efD10DcC24D5Db695822dF",
+      "symbol": "ALT",
+      "name": "ALTAR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 81,
+    "minor": 82,
     "patch": 66
   }
 }
