@@ -100584,11 +100584,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7A43989fbe2e9f0203BDC79f4A1A02F82F4d061",
+      "symbol": "PRISM",
+      "name": "Prism",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 95,
+    "minor": 96,
     "patch": 66
   }
 }
