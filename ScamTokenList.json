@@ -100243,11 +100243,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17d87b7895261c68e9dB4681126B20a0aa64A777",
+      "symbol": "RECESSIONDAO",
+      "name": "RecessionDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 64,
+    "minor": 65,
     "patch": 66
   }
 }
