@@ -100738,11 +100738,22 @@
       "tags": [
         "HIGH Tax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1C9a538b3cEe5f12f921984680ac4A33FD8a6f8",
+      "symbol": "TSUKATANA",
+      "name": "TSUKATANA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 9,
+    "minor": 10,
     "patch": 67
   }
 }
