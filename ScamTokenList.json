@@ -99836,11 +99836,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x773d5dB7627d35496f5a19c91bBf71f7d9C3Ee55",
+      "symbol": "APEGOD",
+      "name": "ApeGod",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 27,
+    "minor": 28,
     "patch": 66
   }
 }
