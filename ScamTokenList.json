@@ -99880,11 +99880,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d3BC7D270aA453215c15a1c60565eDc62AeB3D5",
+      "symbol": "ROYALETH",
+      "name": "RoyalETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 31,
+    "minor": 32,
     "patch": 66
   }
 }
