@@ -100705,11 +100705,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe802b9C361eB3Af1F5E5319F7c874D4a3b26A1e3",
+      "symbol": "FINU",
+      "name": "FirstInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 6,
+    "minor": 7,
     "patch": 67
   }
 }
