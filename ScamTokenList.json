@@ -99825,11 +99825,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6111494B00a625CbFf89Ad890543C70a5D3FC3fe",
+      "symbol": "MURPHY",
+      "name": "MurphyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 26,
+    "minor": 27,
     "patch": 66
   }
 }
