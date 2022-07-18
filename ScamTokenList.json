@@ -100056,11 +100056,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2602f297646c218A42C16Eb90D6F9cdC65fC3A8e",
+      "symbol": "ARES",
+      "name": "GODOFWAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 47,
+    "minor": 48,
     "patch": 66
   }
 }
