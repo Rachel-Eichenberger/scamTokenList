@@ -100408,11 +100408,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e6966c794D1348B785cbABe1241695a81023C0a",
+      "symbol": "MARKETING",
+      "name": "SOON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 79,
+    "minor": 80,
     "patch": 66
   }
 }
