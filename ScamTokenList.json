@@ -100199,11 +100199,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x289AF84Fa4ff9a6EECC34cc71b67f551155024Ca",
+      "symbol": "PAY",
+      "name": "PAYLOAD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 60,
+    "minor": 61,
     "patch": 66
   }
 }
