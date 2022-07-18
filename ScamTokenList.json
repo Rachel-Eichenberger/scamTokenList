@@ -100463,11 +100463,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb4Cbb409C11623D42f3EFC76DCeFB227e032737",
+      "symbol": "HOPE",
+      "name": "hopium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 84,
+    "minor": 85,
     "patch": 66
   }
 }
