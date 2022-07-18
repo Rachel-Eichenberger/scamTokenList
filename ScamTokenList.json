@@ -100848,11 +100848,22 @@
       "tags": [
         "HIGH Tax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x583D6b1914951ca28789c56262C7c5441b191fbe",
+      "symbol": "RUGBY",
+      "name": "Rugby",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 19,
+    "minor": 20,
     "patch": 67
   }
 }
