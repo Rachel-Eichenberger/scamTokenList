@@ -99891,11 +99891,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE9840353da1dea7D5064e613AAeA06d1607a420",
+      "symbol": "RUMOR",
+      "name": "TheRumor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 32,
+    "minor": 33,
     "patch": 66
   }
 }
