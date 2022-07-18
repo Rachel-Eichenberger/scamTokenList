@@ -99792,11 +99792,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba528e54f8914825099Eb25cdFECD2e86D89E2C8",
+      "symbol": "INN",
+      "name": "TheInn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 23,
+    "minor": 24,
     "patch": 66
   }
 }
