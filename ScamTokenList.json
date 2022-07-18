@@ -100309,11 +100309,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6641f4E281fA213E9eA6C99F614C7BfBa38ac07C",
+      "symbol": "CUMI",
+      "name": "Canumakeit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 70,
+    "minor": 71,
     "patch": 66
   }
 }
