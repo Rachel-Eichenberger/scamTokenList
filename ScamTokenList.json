@@ -100353,11 +100353,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Ca568676528787D96658c1cd89f914BB43487b1",
+      "symbol": "SAMURAI",
+      "name": "SHXNOBI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 74,
+    "minor": 75,
     "patch": 66
   }
 }
