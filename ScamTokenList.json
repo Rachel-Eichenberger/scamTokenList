@@ -100188,11 +100188,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x408A4709De09a838303E487e58191C2B19e19566",
+      "symbol": "DNS",
+      "name": "DecentralizedNameSe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 59,
+    "minor": 60,
     "patch": 66
   }
 }
