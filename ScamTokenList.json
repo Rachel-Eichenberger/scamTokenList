@@ -100474,11 +100474,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20623B0135e594BcA4836874B9737B4F406768AB",
+      "symbol": "30",
+      "name": "USDCReflections",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 85,
+    "minor": 86,
     "patch": 66
   }
 }
