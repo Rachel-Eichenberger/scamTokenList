@@ -100023,11 +100023,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb71670F1Ad62FbDaff2af6Ebad1dfea4311e2543",
+      "symbol": "PNE",
+      "name": "PePeAndElon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 44,
+    "minor": 45,
     "patch": 66
   }
 }
