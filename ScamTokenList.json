@@ -100375,11 +100375,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99b8c6a6dffC16136822Ac645a172397ac245848",
+      "symbol": "SPACEMEOW",
+      "name": "SpaceMEOW",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 76,
+    "minor": 77,
     "patch": 66
   }
 }
