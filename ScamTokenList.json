@@ -100331,11 +100331,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14CbB52619002A24ba723d6C5914515Eb94e2c49",
+      "symbol": "JERKOFF",
+      "name": "JerkOffInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 72,
+    "minor": 73,
     "patch": 66
   }
 }
