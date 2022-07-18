@@ -99913,11 +99913,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d7A2b0FE1B199B046D31fAdaDe0419633319742",
+      "symbol": "RINU",
+      "name": "ROYALINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 34,
+    "minor": 35,
     "patch": 66
   }
 }
