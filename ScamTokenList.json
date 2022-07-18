@@ -100628,11 +100628,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6273E2E30d4166249D4AD7510b9ffe404cA8a52D",
+      "symbol": "GHIDORAH",
+      "name": "GhidorahInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
-    "major": 68,
-    "minor": 99,
-    "patch": 66
+    "major": 69,
+    "minor": 0,
+    "patch": 67
   }
 }
