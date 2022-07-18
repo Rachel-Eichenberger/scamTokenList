@@ -99957,11 +99957,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23c5DB8a853af9fdA032F85B20eeAa18f03d4B27",
+      "symbol": "TATE",
+      "name": "TATEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 38,
+    "minor": 39,
     "patch": 66
   }
 }
