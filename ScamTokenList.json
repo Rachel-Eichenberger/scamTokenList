@@ -100650,11 +100650,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d05d66822403ac04B90b27d674B94d44869a99F",
+      "symbol": "RBULL",
+      "name": "RisingBull",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 1,
+    "minor": 2,
     "patch": 67
   }
 }
