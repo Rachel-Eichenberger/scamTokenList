@@ -100298,11 +100298,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C2911bABae365A786eAb838608e2DdEe70e546f",
+      "symbol": "BULLISH",
+      "name": "BULLISHETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 69,
+    "minor": 70,
     "patch": 66
   }
 }
