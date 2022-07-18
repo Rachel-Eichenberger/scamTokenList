@@ -100320,11 +100320,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4AC758247833895b01912f85c31F3d853eE1e3c1",
+      "symbol": "PRINU",
+      "name": "PRINTINGINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 71,
+    "minor": 72,
     "patch": 66
   }
 }
