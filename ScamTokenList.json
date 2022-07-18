@@ -99803,11 +99803,22 @@
       "tags": [
         "scam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a93C1Bc14466D60eD3De43828FC610a197d1A98",
+      "symbol": "YGGDRASIL",
+      "name": "YGGDRASIL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "scam"
+      ]
     }
   ],
   "version": {
     "major": 68,
-    "minor": 24,
+    "minor": 25,
     "patch": 66
   }
 }
