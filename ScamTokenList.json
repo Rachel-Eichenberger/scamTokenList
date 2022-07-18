@@ -100793,11 +100793,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA9f009162a3b64214E1f308f94fbA9402BCd295",
+      "symbol": "DABREAPER",
+      "name": "Dabreaper",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 14,
+    "minor": 15,
     "patch": 67
   }
 }
