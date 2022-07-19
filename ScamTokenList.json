@@ -100925,11 +100925,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81895833eEbF10Fb4CEe7dc2BA5A921ec7802a2B",
+      "symbol": "PAN",
+      "name": "ThePantheon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 26,
+    "minor": 27,
     "patch": 67
   }
 }
