@@ -101530,11 +101530,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22eF1297F0fED02087C0c855D3a3683Aa57B0C56",
+      "symbol": "BTS",
+      "name": "BurnTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 68,
+    "minor": 69,
     "patch": 69
   }
 }
