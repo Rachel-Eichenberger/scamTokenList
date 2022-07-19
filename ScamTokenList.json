@@ -101849,11 +101849,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x610C4180066e2A5565e1ba72EBcD06a69F58Ace2",
+      "symbol": "DDAO",
+      "name": "DEJITARUDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 97,
+    "minor": 98,
     "patch": 69
   }
 }
