@@ -101255,11 +101255,22 @@
       "tags": [
         "HIGH Tax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5A5ac43133054040f985fEfb300A0472aF0b4a6",
+      "symbol": "YOGI",
+      "name": "LifeOfMilarepa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 41,
+    "minor": 42,
     "patch": 67
   }
 }
