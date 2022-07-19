@@ -101453,11 +101453,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56152D5000dE20974210B80D3F427c3792744d85",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 61,
+    "minor": 62,
     "patch": 69
   }
 }
