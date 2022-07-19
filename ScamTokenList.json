@@ -102135,11 +102135,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBe5a275EB99b8A5e1FBD7601C587Cf3B9ea9c127",
+      "symbol": "TSUKA",
+      "name": "tsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 23,
+    "minor": 24,
     "patch": 70
   }
 }
