@@ -101739,11 +101739,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a6fFb3c137BbCCB4F1dA7E736cdcE5f8bFC2D75",
+      "symbol": "FROG",
+      "name": "FROG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 87,
+    "minor": 88,
     "patch": 69
   }
 }
