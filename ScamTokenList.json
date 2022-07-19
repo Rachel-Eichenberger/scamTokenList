@@ -101002,11 +101002,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1202103D3520De416C8DA5dDdf945a98e2EF0F17",
+      "symbol": "SAFU",
+      "name": "JeetsSleep",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 33,
+    "minor": 34,
     "patch": 67
   }
 }
