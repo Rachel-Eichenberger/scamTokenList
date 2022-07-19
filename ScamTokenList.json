@@ -101244,11 +101244,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDebC8Db6b8038578eC19A7521c9fAfea4467CFeF",
+      "symbol": "ELDORADO",
+      "name": "TheLostCityofGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HIGH Tax"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 40,
+    "minor": 41,
     "patch": 67
   }
 }
