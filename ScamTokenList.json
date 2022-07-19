@@ -101464,11 +101464,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa98BB1B16a691bf8e399c97Ef843ED1Ceea75fd7",
+      "symbol": "BMO",
+      "name": "BearMarketOver",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 62,
+    "minor": 63,
     "patch": 69
   }
 }
