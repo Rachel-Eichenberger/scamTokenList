@@ -100892,11 +100892,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB986B4650C292ACD991C13FE569D8b3bc9255F75",
+      "symbol": "MAQ",
+      "name": "MaqInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 23,
+    "minor": 24,
     "patch": 67
   }
 }
