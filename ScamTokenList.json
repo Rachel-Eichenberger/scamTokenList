@@ -101882,11 +101882,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41CC552c8De16F10b45f205bDE7b51f5Db8e60C8",
+      "symbol": "GENESISV2",
+      "name": "GENESISProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 0,
+    "minor": 1,
     "patch": 70
   }
 }
