@@ -101343,11 +101343,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3De3AB5A62526BEbdc369aBE44B463C5c9437a44",
+      "symbol": "OG",
+      "name": "OlympusGods",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 51,
+    "minor": 52,
     "patch": 69
   }
 }
