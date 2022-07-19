@@ -102113,11 +102113,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AB710c187caC27fc939143d06A26BA2067A83a6",
+      "symbol": "HEAVEN",
+      "name": "Heaven",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 21,
+    "minor": 22,
     "patch": 70
   }
 }
