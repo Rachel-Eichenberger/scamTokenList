@@ -101772,11 +101772,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x548D404A08D8BED5D1a97FB940124E4D0c2d323e",
+      "symbol": "BULL",
+      "name": "BearPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 90,
+    "minor": 91,
     "patch": 69
   }
 }
