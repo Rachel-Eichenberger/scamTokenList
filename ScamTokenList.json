@@ -101673,11 +101673,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3D8c1d1170615b1b7Ef1CE66A2Ab8cB65BbC6b8",
+      "symbol": "TWIY",
+      "name": "THEWORLDISYOURS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 81,
+    "minor": 82,
     "patch": 69
   }
 }
