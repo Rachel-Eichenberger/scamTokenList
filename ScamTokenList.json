@@ -101277,11 +101277,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF80fBf5C7570e362D0E77cA9d26746AbF837c6dd",
+      "symbol": "RUSH",
+      "name": "TheRush",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 45,
+    "minor": 46,
     "patch": 69
   }
 }
