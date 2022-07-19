@@ -101508,11 +101508,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9366e926E51849F381257188fe32c397b8D1c340",
+      "symbol": "PUMPETH",
+      "name": "PUMPETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 66,
+    "minor": 67,
     "patch": 69
   }
 }
