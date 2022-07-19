@@ -100958,11 +100958,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A16D9dd877d47c25F9874f426777fcA0F9907b0",
+      "symbol": "SHIRON",
+      "name": "ShironToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 29,
+    "minor": 30,
     "patch": 67
   }
 }
