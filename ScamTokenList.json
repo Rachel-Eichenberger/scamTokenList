@@ -101629,11 +101629,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84B6E73EbB3E5cfF1F0eA7f8c817185F01c10205",
+      "symbol": "TWIY",
+      "name": "THEWORLDISYOURS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 77,
+    "minor": 78,
     "patch": 69
   }
 }
