@@ -101607,11 +101607,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5F36a91dF25fFBB42960652e92c11d2c55D7aAD",
+      "symbol": "SHIBASAUDI",
+      "name": "ShibaSaudi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 75,
+    "minor": 76,
     "patch": 69
   }
 }
