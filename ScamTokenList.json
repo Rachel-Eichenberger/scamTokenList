@@ -102014,11 +102014,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13Ef85B1573e990D24A3a2A507A1f7A3EBD50d6f",
+      "symbol": "PRIMO",
+      "name": "PrimordialNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 12,
+    "minor": 13,
     "patch": 70
   }
 }
