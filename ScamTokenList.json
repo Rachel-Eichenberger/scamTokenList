@@ -101992,11 +101992,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD562644491e51d7779BbC3a24Ca0a1AeA688b20D",
+      "symbol": "TSUKAMA",
+      "name": "Tsukama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 10,
+    "minor": 11,
     "patch": 70
   }
 }
