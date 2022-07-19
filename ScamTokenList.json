@@ -101981,11 +101981,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9198986Cf2e3Cf38EBb1E9c0ca2ed288F9d7e07c",
+      "symbol": "HADES",
+      "name": "Hades",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 9,
+    "minor": 10,
     "patch": 70
   }
 }
