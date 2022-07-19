@@ -100947,11 +100947,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF216018F265e34820c6698dB4A966eDf5311DF3",
+      "symbol": "MUD",
+      "name": "JEET",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 28,
+    "minor": 29,
     "patch": 67
   }
 }
