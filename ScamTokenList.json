@@ -101827,11 +101827,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5058B3d3908B8C732a604251df86aA68354E150C",
+      "symbol": "HAKUDRAGON",
+      "name": "HakuDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 95,
+    "minor": 96,
     "patch": 69
   }
 }
