@@ -101948,11 +101948,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE72f245F0Aa246a300E973916dE42E7cc9cBf1b8",
+      "symbol": "TSUKE",
+      "name": "Tsukereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 6,
+    "minor": 7,
     "patch": 70
   }
 }
