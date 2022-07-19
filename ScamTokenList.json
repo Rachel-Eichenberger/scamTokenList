@@ -101233,11 +101233,22 @@
       "tags": [
         "HIGH Tax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68aEb2F6B6010318fBa7240BF4b47f83FB49aa99",
+      "symbol": "YOUTUBE",
+      "name": "YouTube",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 39,
+    "minor": 40,
     "patch": 67
   }
 }
