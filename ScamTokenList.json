@@ -101640,11 +101640,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x859221160c6927E1D2520bA8979dfae16a719574",
+      "symbol": "OG",
+      "name": "OlympusGods",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 78,
+    "minor": 79,
     "patch": 69
   }
 }
