@@ -101387,11 +101387,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97d515967B8c1A89e45F2ee5b85dea5c46F4E9C5",
+      "symbol": "FOMO",
+      "name": "FearOfMissingOut",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 55,
+    "minor": 56,
     "patch": 69
   }
 }
