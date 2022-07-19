@@ -101018,7 +101018,7 @@
       "chainId": 1,
       "address": "0xD36ddD1DD9643C4250CD8916699BFcde7451d6b7",
       "symbol": "SYM",
-      "name": "Name",
+      "name": "SELFDESTROYED",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101028,8 +101028,8 @@
     {
       "chainId": 1,
       "address": "0xb8651e1C04cB423ba083185ecc42CD1859fe9051",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "EEG",
+      "name": "EggPlus",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101039,8 +101039,8 @@
     {
       "chainId": 1,
       "address": "0x83191e76f04E94636cDdCb0fc6A8bd15dAca8548",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "EGG",
+      "name": "EggPlus",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101050,8 +101050,8 @@
     {
       "chainId": 1,
       "address": "0x467B068B2c50A7F66CaDa21804Be869aaA2fEF12",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "OPT",
+      "name": "Optimus",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101061,8 +101061,8 @@
     {
       "chainId": 1,
       "address": "0x8d7368621f7f5A281f1Fc2161e3197be6F163BF2",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "TRE",
+      "name": "OneTreeOneLife",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101072,8 +101072,8 @@
     {
       "chainId": 1,
       "address": "0xc44D11BB03C21Fb67FC8c77Ad1Ad19F36b058E1d",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "LIT",
+      "name": "LiteUSD",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101083,8 +101083,8 @@
     {
       "chainId": 1,
       "address": "0x79fa6d14eCf72995a40Bc12C7e82226Db3361158",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "EGOD",
+      "name": "Egod",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101094,8 +101094,8 @@
     {
       "chainId": 1,
       "address": "0xdF33a9416ba1B3B1585883C78e2A4D6a3e90E7d8",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "MXM",
+      "name": "MXM",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101105,8 +101105,8 @@
     {
       "chainId": 1,
       "address": "0x784517cfB927645b15040FEa1071194B99adfA72",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "FBB",
+      "name": "FreshBaitForFrontrunners",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101116,8 +101116,8 @@
     {
       "chainId": 1,
       "address": "0xc0Ad06a6af5a5c197eFC86e857423c4B881746C8",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "DES",
+      "name": "SELFDESTROYED",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101127,8 +101127,8 @@
     {
       "chainId": 1,
       "address": "0xc84959D0441a4353101a7A91074b8165A0E85F21",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "ASPRO",
+      "name": "AstralProjekt",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101138,8 +101138,8 @@
     {
       "chainId": 1,
       "address": "0x655Bd1C0a3f9f88eEF8747bf4466b5C862508599",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "CATWD",
+      "name": "Cat WOW DAO",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101149,8 +101149,8 @@
     {
       "chainId": 1,
       "address": "0xA5372406a56830a1E3c7b7f2e0F98Dced96e71B2",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "HAWK",
+      "name": "The Last 48",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101160,8 +101160,8 @@
     {
       "chainId": 1,
       "address": "0xd11bFc1095a5df96bbaA157937E2d32a4F36097D",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "SODRY",
+      "name": "SoDry",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101171,8 +101171,8 @@
     {
       "chainId": 1,
       "address": "0x868E9bEB20C6D75dD7965747a0118E74823e996d",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "TAKAHASHI",
+      "name": "TAKAHASHI",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101182,8 +101182,8 @@
     {
       "chainId": 1,
       "address": "0xf18A601357C0BD969e072c20757559E4FbF878Dd",
-      "symbol": "SYM",
-      "name": "Name",
+      "symbol": "SPEECH",
+      "name": "Speech",
       "decimals": 0,
       "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
       "tags": [
@@ -101280,8 +101280,14 @@
     }
   ],
   "version": {
+<<<<<<< Updated upstream
     "major": 69,
     "minor": 43,
     "patch": 67
+=======
+    "major": 70,
+    "minor": 44,
+    "patch": 68
+>>>>>>> Stashed changes
   }
 }
