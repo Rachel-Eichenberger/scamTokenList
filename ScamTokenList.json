@@ -101442,11 +101442,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBa48B1bBcE0cD6d29AE4ac7fFe907f0B163Ef3Af",
+      "symbol": "COOLKOMA",
+      "name": "COOLKOMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 60,
+    "minor": 61,
     "patch": 69
   }
 }
