@@ -102080,11 +102080,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD525BAe608A23A64F4eEb31F19142B4d42Ec6c7e",
+      "symbol": "WK",
+      "name": "WhoKnows",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 18,
+    "minor": 19,
     "patch": 70
   }
 }
