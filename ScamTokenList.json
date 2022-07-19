@@ -101266,11 +101266,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E653117181C0f00aD10BBCdB1CB52D0856B7641",
+      "symbol": "ARTEMIS",
+      "name": "GODOFMOON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 42,
+    "minor": 43,
     "patch": 67
   }
 }
