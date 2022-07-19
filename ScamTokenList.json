@@ -101838,11 +101838,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4CD8CFC0c8d29D6814787eaF874D6d0FF654922",
+      "symbol": "PHLYTE",
+      "name": "Phlyte",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 96,
+    "minor": 97,
     "patch": 69
   }
 }
