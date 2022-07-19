@@ -101805,11 +101805,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93C13673c283c39ea25fFd11B904b46c798c4fFC",
+      "symbol": "HIMITSU",
+      "name": "Himitsu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 93,
+    "minor": 94,
     "patch": 69
   }
 }
