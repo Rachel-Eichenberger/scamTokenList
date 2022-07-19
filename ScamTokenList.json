@@ -101585,11 +101585,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72e9ec3CdEBf93d971519d673B103D567472a712",
+      "symbol": "KILLER",
+      "name": "KILLEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 73,
+    "minor": 74,
     "patch": 69
   }
 }
