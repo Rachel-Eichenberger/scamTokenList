@@ -101706,11 +101706,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAFa86976226c6b22C4828048b88B0fBFac861cc2",
+      "symbol": "ASG",
+      "name": "Asgard",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 84,
+    "minor": 85,
     "patch": 69
   }
 }
