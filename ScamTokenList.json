@@ -101321,11 +101321,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93F7af38d848dFeb2F6d4EaD737e8AA0418d026E",
+      "symbol": "HODL",
+      "name": "hodl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 49,
+    "minor": 50,
     "patch": 69
   }
 }
