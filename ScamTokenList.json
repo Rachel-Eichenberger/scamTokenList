@@ -101794,11 +101794,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7cfFAe6627F95e24A9dD3984239Ae2B9B960cCf2",
+      "symbol": "RYUJIN",
+      "name": "GodOfSea",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 92,
+    "minor": 93,
     "patch": 69
   }
 }
