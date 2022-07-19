@@ -102190,11 +102190,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82c2A17dA0C2699daB813F01dBEe236e618D5f5a",
+      "symbol": "ZION",
+      "name": "ZION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 28,
+    "minor": 29,
     "patch": 70
   }
 }
