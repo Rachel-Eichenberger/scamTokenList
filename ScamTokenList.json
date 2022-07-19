@@ -101893,11 +101893,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07F42E4AA370557b05603467a4e135D48f302047",
+      "symbol": "TSUKABANK",
+      "name": "BankofTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 1,
+    "minor": 2,
     "patch": 70
   }
 }
