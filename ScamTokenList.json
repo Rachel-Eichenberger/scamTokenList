@@ -101651,11 +101651,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdDe69df73a8826f095fA2294C4E3A71da5441D96",
+      "symbol": "ELINU",
+      "name": "ElSalvadorInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 79,
+    "minor": 80,
     "patch": 69
   }
 }
