@@ -101728,11 +101728,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CA14163Fe3a6b85d975Dd605162BAFDB353D698",
+      "symbol": "7LVLS",
+      "name": "SevenLevels",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 86,
+    "minor": 87,
     "patch": 69
   }
 }
