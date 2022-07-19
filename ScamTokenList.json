@@ -101552,11 +101552,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0555e17ac04E506775782346dcD651165f633e14",
+      "symbol": "TSUKADAO",
+      "name": "TsukaDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 70,
+    "minor": 71,
     "patch": 69
   }
 }
