@@ -101354,11 +101354,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9493c1f5B2bBd521FF4d628cfc3B23Fa255E0ED4",
+      "symbol": "MBULL",
+      "name": "MoonBullToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 52,
+    "minor": 53,
     "patch": 69
   }
 }
