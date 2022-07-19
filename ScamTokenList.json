@@ -101904,11 +101904,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5acbF9Fc0c6b268DF31Af3449761761048f009e9",
+      "symbol": "G8",
+      "name": "OrderOfElites",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 2,
+    "minor": 3,
     "patch": 70
   }
 }
