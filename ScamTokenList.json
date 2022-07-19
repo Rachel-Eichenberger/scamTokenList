@@ -101816,11 +101816,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2ecF08545A352694A0f8aaDA0Eb8Ad699e4F750",
+      "symbol": "BSU",
+      "name": "BlackSheepUnited",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 94,
+    "minor": 95,
     "patch": 69
   }
 }
