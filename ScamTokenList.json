@@ -101871,11 +101871,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7714b39F1171f33F8814Ddea8a19e15AcD76d013",
+      "symbol": "CYCLE",
+      "name": "TheCycle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 71,
-    "minor": 99,
-    "patch": 69
+    "major": 72,
+    "minor": 0,
+    "patch": 70
   }
 }
