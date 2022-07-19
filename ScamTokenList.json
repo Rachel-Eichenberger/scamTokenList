@@ -101376,11 +101376,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee814b2850632CAB16646F8Bdaf972Fdef8733C5",
+      "symbol": "UP",
+      "name": "OnlyUP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 54,
+    "minor": 55,
     "patch": 69
   }
 }
