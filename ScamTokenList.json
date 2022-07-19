@@ -101618,11 +101618,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8AE340d333fFB274969f505A6520b91024BC856C",
+      "symbol": "KOI",
+      "name": "TheDragonGate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 76,
+    "minor": 77,
     "patch": 69
   }
 }
