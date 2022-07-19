@@ -101926,11 +101926,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbBD36fF3560e2Fe8f69Ec559CDd124b45F603986",
+      "symbol": "WATCHER",
+      "name": "WeSeeYou",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 4,
+    "minor": 5,
     "patch": 70
   }
 }
