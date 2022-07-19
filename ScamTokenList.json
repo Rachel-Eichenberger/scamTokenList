@@ -100914,11 +100914,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6eE2948A438EfABeA3ea42b73aDE9A711B29eE4",
+      "symbol": "GENESIS",
+      "name": "GENESIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 25,
+    "minor": 26,
     "patch": 67
   }
 }
