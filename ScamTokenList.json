@@ -101970,11 +101970,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9937f7bfacf7747d65b0dfb4a3e78fecca9c22a",
+      "symbol": "LPSCAM",
+      "name": "AnotherLPScam",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 8,
+    "minor": 9,
     "patch": 70
   }
 }
