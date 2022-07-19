@@ -102157,11 +102157,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7955B9e775CaD296467fD7fc9e766A551424B7b0",
+      "symbol": "DRAGONSTONE",
+      "name": "Targaryen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 25,
+    "minor": 26,
     "patch": 70
   }
 }
