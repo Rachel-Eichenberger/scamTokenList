@@ -101574,11 +101574,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE50D2aFeb0919fC2808f7e2D236773041caa0253",
+      "symbol": "SWEATYSHIB",
+      "name": "SweatyShib",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 72,
+    "minor": 73,
     "patch": 69
   }
 }
