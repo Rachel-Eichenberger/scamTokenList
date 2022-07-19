@@ -101695,11 +101695,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80c847Bdc8cFd0e34CfEb3ed6215D353ad25B12C",
+      "symbol": "TOUJIN",
+      "name": "HaikiToujin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 83,
+    "minor": 84,
     "patch": 69
   }
 }
