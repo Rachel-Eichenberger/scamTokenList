@@ -100991,11 +100991,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x083d04F6099e19311f5229D26405957ED9dc6853",
+      "symbol": "BABYTSUKA",
+      "name": "DejitaruBabyTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 32,
+    "minor": 33,
     "patch": 67
   }
 }
