@@ -101332,11 +101332,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A169A13e92A3461CeD631d4Bb53DeE0d33AEc56",
+      "symbol": "MOONETH",
+      "name": "MOONETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 50,
+    "minor": 51,
     "patch": 69
   }
 }
