@@ -102047,11 +102047,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2100b6cE1D114bD9dAFB2D601ddB65AF0B7e6598",
+      "symbol": "JOE420",
+      "name": "joegrower420",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 15,
+    "minor": 16,
     "patch": 70
   }
 }
