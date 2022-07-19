@@ -101497,11 +101497,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x377DC69c59C8Fc3bB644Fe6607f3A36A344B2C7f",
+      "symbol": "LASTTSUKA",
+      "name": "LastTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 65,
+    "minor": 66,
     "patch": 69
   }
 }
