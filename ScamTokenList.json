@@ -101662,11 +101662,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DBbcF48AD7AF066Dfd6806BDFBAfB56a0b59c73",
+      "symbol": "CABRA",
+      "name": "CABRA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 80,
+    "minor": 81,
     "patch": 69
   }
 }
