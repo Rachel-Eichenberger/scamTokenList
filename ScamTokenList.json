@@ -101915,11 +101915,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C5fD9b190CA5e8170aAC12e616704E2235163f8",
+      "symbol": "BTSUKA",
+      "name": "BabyDejitaru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 3,
+    "minor": 4,
     "patch": 70
   }
 }
