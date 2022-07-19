@@ -100903,11 +100903,22 @@
       "tags": [
         "Not sellable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x305c9fcEf20b050396827629D3CA8627Af0055a2",
+      "symbol": "SPACEWW3",
+      "name": "SpaceWW3",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Not sellable"
+      ]
     }
   ],
   "version": {
     "major": 69,
-    "minor": 24,
+    "minor": 25,
     "patch": 67
   }
 }
