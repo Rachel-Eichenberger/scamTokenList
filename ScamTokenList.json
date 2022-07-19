@@ -101519,11 +101519,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36319C3473d16483087431fdf7F41bc8c6e2a781",
+      "symbol": "MTSUKA",
+      "name": "TsukaMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 71,
-    "minor": 67,
+    "minor": 68,
     "patch": 69
   }
 }
