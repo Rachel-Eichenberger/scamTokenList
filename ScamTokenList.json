@@ -102553,11 +102553,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb65E075a404ac933c9ca571fD2Dd201AF5EAA32",
+      "symbol": "STRAYBEAR",
+      "name": "STRAYBEAR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 61,
+    "minor": 62,
     "patch": 70
   }
 }
