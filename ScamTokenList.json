@@ -102729,11 +102729,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19eDf56cCa5D052c992070E7237A160bF130FBCf",
+      "symbol": "INUNYMOUS",
+      "name": "INUnymous",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 77,
+    "minor": 78,
     "patch": 70
   }
 }
