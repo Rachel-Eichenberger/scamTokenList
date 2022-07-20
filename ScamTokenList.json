@@ -103092,11 +103092,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdFAf48004Fe33E204D89667e033c5c9b10f213c9",
+      "symbol": "BAA",
+      "name": "sheepDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 10,
+    "minor": 11,
     "patch": 71
   }
 }
