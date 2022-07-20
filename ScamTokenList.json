@@ -102817,11 +102817,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51aF3AF50B4ad7f1A16e4B642A522E56c502aB9A",
+      "symbol": "NERO",
+      "name": "NEROPROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 85,
+    "minor": 86,
     "patch": 70
   }
 }
