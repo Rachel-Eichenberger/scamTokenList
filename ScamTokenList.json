@@ -103125,11 +103125,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3f2Da8b6856988e527221a2388DF899b7e401DE",
+      "symbol": "EJ",
+      "name": "ElonJeet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 13,
+    "minor": 14,
     "patch": 71
   }
 }
