@@ -102641,11 +102641,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd435BB2C8E297Dcfb8D2464F8322540A17dA2e6A",
+      "symbol": "DUCKERD",
+      "name": "DUCKERD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 69,
+    "minor": 70,
     "patch": 70
   }
 }
