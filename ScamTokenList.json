@@ -102905,11 +102905,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7cab6A5c3E3243ddF2Fd904971dFbb4a9887917",
+      "symbol": "HELIX",
+      "name": "HELIX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 93,
+    "minor": 94,
     "patch": 70
   }
 }
