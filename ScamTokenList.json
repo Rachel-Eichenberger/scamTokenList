@@ -102674,11 +102674,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DB6Aa4517A2b2E0592Dff02026f68077fda7142",
+      "symbol": "NEZUKO",
+      "name": "Nezuko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 72,
+    "minor": 73,
     "patch": 70
   }
 }
