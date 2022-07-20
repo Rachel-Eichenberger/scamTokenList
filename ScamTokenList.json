@@ -103312,11 +103312,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9018dF9B14b803E61226Ef63e937d5a69255fFc3",
+      "symbol": "ABRACADABRA",
+      "name": "THEFINALE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 30,
+    "minor": 31,
     "patch": 71
   }
 }
