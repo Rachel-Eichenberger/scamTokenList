@@ -102751,11 +102751,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8eA0182Bee10E3ff95e41e92215373c2f77b22C1",
+      "symbol": "EPUNK",
+      "name": "ETHERPUNKS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 79,
+    "minor": 80,
     "patch": 70
   }
 }
