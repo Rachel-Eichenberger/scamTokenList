@@ -102212,11 +102212,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB84924984dC376c427482bad3b8Df8cd9110f9b",
+      "symbol": "GHID",
+      "name": "KINGGHIDORAH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 30,
+    "minor": 31,
     "patch": 70
   }
 }
