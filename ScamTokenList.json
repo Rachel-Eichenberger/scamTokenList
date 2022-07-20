@@ -103004,11 +103004,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F22a5A45B8d17120ADaCC31FacaE278e9aE6611",
+      "symbol": "GG",
+      "name": "GeekGod",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 2,
+    "minor": 3,
     "patch": 71
   }
 }
