@@ -103037,11 +103037,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0F6C886acaCE91Fc46A42FadF76e67E0a5aE2cF",
+      "symbol": "RETH",
+      "name": "Returnereum",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 5,
+    "minor": 6,
     "patch": 71
   }
 }
