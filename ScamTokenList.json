@@ -102872,11 +102872,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82B2795ec65cAdaedC9e26498d64Cf96c258b3E0",
+      "symbol": "WUSHEN",
+      "name": "FiveGods",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 90,
+    "minor": 91,
     "patch": 70
   }
 }
