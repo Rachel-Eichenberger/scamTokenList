@@ -102377,11 +102377,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB07a9518457eF3e32A7125f12d892DDAb64C2612",
+      "symbol": "ALERT",
+      "name": "StayFrosty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 45,
+    "minor": 46,
     "patch": 70
   }
 }
