@@ -102333,11 +102333,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAD05F74aE358F161bB354a5Ea5c11C4aa9361D2d",
+      "symbol": "BULLISH",
+      "name": "BULLISHRUNNER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 41,
+    "minor": 42,
     "patch": 70
   }
 }
