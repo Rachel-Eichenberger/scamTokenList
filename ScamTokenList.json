@@ -102278,11 +102278,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0170a11b62D63900B83235c3B4942054E168f43D",
+      "symbol": "DOGESTRONAUT",
+      "name": "Dogestronaut",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 36,
+    "minor": 37,
     "patch": 70
   }
 }
