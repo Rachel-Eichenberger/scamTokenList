@@ -102960,11 +102960,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC28Db7633662c532348dB40a448C6C680016968D",
+      "symbol": "SR",
+      "name": "SECRETROOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 98,
+    "minor": 99,
     "patch": 70
   }
 }
