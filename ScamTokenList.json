@@ -103070,11 +103070,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11F8e606a2aC858fB5eb63BaC31E491A47e88969",
+      "symbol": "TINY",
+      "name": "Tiny",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 8,
+    "minor": 9,
     "patch": 71
   }
 }
