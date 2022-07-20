@@ -102696,11 +102696,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1370221a26ED151163E07cf0910aCe59fA1E60a5",
+      "symbol": "FALCON",
+      "name": "FalconHeavy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 74,
+    "minor": 75,
     "patch": 70
   }
 }
