@@ -102498,11 +102498,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91447266d26f0719DbE3749e1c887eaDA3023924",
+      "symbol": "PMS",
+      "name": "Piramis",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 56,
+    "minor": 57,
     "patch": 70
   }
 }
