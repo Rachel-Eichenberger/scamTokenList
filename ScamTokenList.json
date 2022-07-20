@@ -102366,11 +102366,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x328449C99Fc193e02E4b2aB970a7BfD658907bFE",
+      "symbol": "DOGNO",
+      "name": "Collector",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 44,
+    "minor": 45,
     "patch": 70
   }
 }
