@@ -102883,11 +102883,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA490cf71Ca3D581774A2F37bc3c14A85cb50fd0",
+      "symbol": "CENT",
+      "name": "Centaur",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 91,
+    "minor": 92,
     "patch": 70
   }
 }
