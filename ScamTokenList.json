@@ -102839,11 +102839,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6E11eF3ED33577a1cE9948A9e594b882b6E2778",
+      "symbol": "DOUGHBOY",
+      "name": "ElonTheDoughboy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 87,
+    "minor": 88,
     "patch": 70
   }
 }
