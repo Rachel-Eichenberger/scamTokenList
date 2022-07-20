@@ -103246,11 +103246,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeEF19c8d6F8b637d8dF2957477c75842F291657A",
+      "symbol": "GAR",
+      "name": "COUGARX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 24,
+    "minor": 25,
     "patch": 71
   }
 }
