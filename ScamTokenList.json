@@ -102982,11 +102982,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB077bAb5b65Ca02FA3d195471C1287a805B469Fb",
+      "symbol": "APELLON",
+      "name": "Apellon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 0,
+    "minor": 1,
     "patch": 71
   }
 }
