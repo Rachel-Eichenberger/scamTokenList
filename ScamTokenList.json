@@ -102597,11 +102597,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0795619e02716a81ac9ef6e55363d538da104e57",
+      "symbol": "CC",
+      "name": "ClaimCompound",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 65,
+    "minor": 66,
     "patch": 70
   }
 }
