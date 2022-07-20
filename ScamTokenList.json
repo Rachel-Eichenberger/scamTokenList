@@ -102476,11 +102476,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8404fda05c43612fEE14a90361A930B657D10483",
+      "symbol": "TSUKABANK",
+      "name": "BankofTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 54,
+    "minor": 55,
     "patch": 70
   }
 }
