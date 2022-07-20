@@ -103279,11 +103279,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4269CA44D14E81223540e454BafCb24d88F94a2",
+      "symbol": "SENJU",
+      "name": "HashiramaSenju",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 27,
+    "minor": 28,
     "patch": 71
   }
 }
