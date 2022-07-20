@@ -102949,11 +102949,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeeD0E4fF307342058e7e445113586828eE52dD48",
+      "symbol": "OPINU",
+      "name": "OptimismInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 97,
+    "minor": 98,
     "patch": 70
   }
 }
