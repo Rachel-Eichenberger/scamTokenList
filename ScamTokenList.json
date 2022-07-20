@@ -103268,11 +103268,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3177Dbe3543Da9123066B902A5D7D611E7E58FD4",
+      "symbol": "SHIBTRILLION",
+      "name": "ShibTrillion",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 26,
+    "minor": 27,
     "patch": 71
   }
 }
