@@ -102663,11 +102663,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98f1Dc005740845B70FB228a712fe39277cD70BE",
+      "symbol": "SHORSE",
+      "name": "SharkHorse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 71,
+    "minor": 72,
     "patch": 70
   }
 }
