@@ -102509,11 +102509,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Cc2521572992B86B959F3Eb1d9A1a76B726c272",
+      "symbol": "TLS",
+      "name": "TLS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 57,
+    "minor": 58,
     "patch": 70
   }
 }
