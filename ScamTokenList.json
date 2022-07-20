@@ -102586,11 +102586,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3eBA5db0c0D40ABAcA8951aC7c9f5F7f2E98d6b",
+      "symbol": "VEGAN",
+      "name": "VeganInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 64,
+    "minor": 65,
     "patch": 70
   }
 }
