@@ -102399,11 +102399,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAEE4a03fA3Cb2Cf02C14b24745029eD0F47b6029",
+      "symbol": "KIRA",
+      "name": "KiraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 47,
+    "minor": 48,
     "patch": 70
   }
 }
