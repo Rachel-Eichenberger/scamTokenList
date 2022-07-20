@@ -102762,11 +102762,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B7c089C087dA1304E951235818fb11984cf9273",
+      "symbol": "GOOD",
+      "name": "TheGoodToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 80,
+    "minor": 81,
     "patch": 70
   }
 }
