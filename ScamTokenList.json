@@ -102784,11 +102784,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9130Aa3EB6C75a1477046237dB73F9Ae77f17d39",
+      "symbol": "QUACK",
+      "name": "DuckerQuacker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 82,
+    "minor": 83,
     "patch": 70
   }
 }
