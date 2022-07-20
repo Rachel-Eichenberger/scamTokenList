@@ -103147,11 +103147,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3353cA8ee06f6E3f9245214e1A5A118b29f03D19",
+      "symbol": "NIBIRU",
+      "name": "TheReturnofAnunnaki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 15,
+    "minor": 16,
     "patch": 71
   }
 }
