@@ -102707,11 +102707,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d78B4c106dba3980785891ac5E42B2415A49A57",
+      "symbol": "GRUUL",
+      "name": "TsukaKiller",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 75,
+    "minor": 76,
     "patch": 70
   }
 }
