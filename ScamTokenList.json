@@ -102806,11 +102806,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B03FD1A592947B3219328c6B8a630d296E41a6A",
+      "symbol": "LIFI",
+      "name": "LiquidFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 84,
+    "minor": 85,
     "patch": 70
   }
 }
