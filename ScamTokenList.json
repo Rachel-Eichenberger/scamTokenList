@@ -102388,11 +102388,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06cC98b8Ca16e0C0ce93799422930CF2b8Bf39b3",
+      "symbol": "GLITCH",
+      "name": "glitch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 46,
+    "minor": 47,
     "patch": 70
   }
 }
