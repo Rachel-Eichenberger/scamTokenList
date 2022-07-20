@@ -103213,11 +103213,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98e5F24e2c1E9c4408902E9895b58adB37F88FaF",
+      "symbol": "JEETESLA",
+      "name": "JeeTesla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 21,
+    "minor": 22,
     "patch": 71
   }
 }
