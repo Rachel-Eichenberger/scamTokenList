@@ -102487,11 +102487,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8554d8d27F03E5030C4107f86D1E324b24b45191",
+      "symbol": "STI",
+      "name": "ShaniaTwainInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 55,
+    "minor": 56,
     "patch": 70
   }
 }
