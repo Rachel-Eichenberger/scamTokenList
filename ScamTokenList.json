@@ -103224,11 +103224,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4b48b3Dd5121f6864E12b744a614F90Daa917E5",
+      "symbol": "INSHALLAH",
+      "name": "Inshallah",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 22,
+    "minor": 23,
     "patch": 71
   }
 }
