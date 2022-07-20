@@ -102520,11 +102520,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19F554F08a2C568031458145caFF0678d03f3A86",
+      "symbol": "STRAY",
+      "name": "StrayCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 58,
+    "minor": 59,
     "patch": 70
   }
 }
