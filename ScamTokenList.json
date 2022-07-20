@@ -103026,11 +103026,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1B2260727B85120A14981F3253Fb394d7934BfE",
+      "symbol": "RASENGAN",
+      "name": "Rasengan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 4,
+    "minor": 5,
     "patch": 71
   }
 }
