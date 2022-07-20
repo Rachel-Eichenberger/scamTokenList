@@ -102652,11 +102652,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC10aBa636264c903fbBcBCe403313b3375966372",
+      "symbol": "MAYHEM",
+      "name": "Mayhem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 70,
+    "minor": 71,
     "patch": 70
   }
 }
