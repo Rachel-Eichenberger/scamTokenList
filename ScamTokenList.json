@@ -102355,11 +102355,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF2e9BfC629a04e8BC747A92DcF928CA00BC7c896",
+      "symbol": "SPUME",
+      "name": "Spume",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 43,
+    "minor": 44,
     "patch": 70
   }
 }
