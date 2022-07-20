@@ -103103,11 +103103,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42Ef19CaDad833EbC3fFD4dE9a368AF33Bc3B64d",
+      "symbol": "DEPTH",
+      "name": "FishermansDream",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 11,
+    "minor": 12,
     "patch": 71
   }
 }
