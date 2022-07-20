@@ -103015,11 +103015,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3400DcfaDEbc2c81806064f2402969008dd61E41",
+      "symbol": "LORD",
+      "name": "EldenLord",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 3,
+    "minor": 4,
     "patch": 71
   }
 }
