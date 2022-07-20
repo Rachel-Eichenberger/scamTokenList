@@ -102795,11 +102795,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0826042ad721dD41E1AAFbfA71cdA5a7B129079f",
+      "symbol": "AMATERASU",
+      "name": "GODOFSUN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 83,
+    "minor": 84,
     "patch": 70
   }
 }
