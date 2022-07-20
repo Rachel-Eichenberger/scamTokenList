@@ -102575,11 +102575,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x149C1E685B0C41b01C599E4c2cE456Ccd3058E32",
+      "symbol": "FCKD",
+      "name": "FUCKDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 63,
+    "minor": 64,
     "patch": 70
   }
 }
