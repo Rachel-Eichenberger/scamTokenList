@@ -102850,11 +102850,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37D7a7f19cf6879f9c637d66d5624b4D0C65712C",
+      "symbol": "CPU",
+      "name": "TheCPU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 88,
+    "minor": 89,
     "patch": 70
   }
 }
