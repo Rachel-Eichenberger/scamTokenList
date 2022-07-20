@@ -102234,11 +102234,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x894D79e27EfC5303CA18082dCb5547c5a3763886",
+      "symbol": "BURNSKI",
+      "name": "BurnSKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 32,
+    "minor": 33,
     "patch": 70
   }
 }
