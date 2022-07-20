@@ -102971,11 +102971,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5AC63FE4391D9eBe7D78151AEF00f10986550EfE",
+      "symbol": "APOSTLE",
+      "name": "ApostleDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 72,
-    "minor": 99,
-    "patch": 70
+    "major": 73,
+    "minor": 0,
+    "patch": 71
   }
 }
