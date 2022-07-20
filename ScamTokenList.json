@@ -102993,11 +102993,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01765d31b806dcB431E1Dd44B31E11F3a13a7cDE",
+      "symbol": "FTM",
+      "name": "ForTheMoney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 1,
+    "minor": 2,
     "patch": 71
   }
 }
