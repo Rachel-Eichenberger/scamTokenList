@@ -102300,11 +102300,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE94cb7413129E32Cd3fbe6133574E42D7bf4A3D7",
+      "symbol": "TSUKA20",
+      "name": "Tsuka20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 38,
+    "minor": 39,
     "patch": 70
   }
 }
