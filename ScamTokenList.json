@@ -102894,11 +102894,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x375E63a51C4406727cbF9b3EB4e770D2ED5e43E4",
+      "symbol": "SCIENTOLOGY",
+      "name": "SCIENTOLOGY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 92,
+    "minor": 93,
     "patch": 70
   }
 }
