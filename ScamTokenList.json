@@ -102927,11 +102927,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6Ac1bfA0823E64E7A83cb643dB1b74777cD9721",
+      "symbol": "EPUNK",
+      "name": "EtherPunks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 95,
+    "minor": 96,
     "patch": 70
   }
 }
