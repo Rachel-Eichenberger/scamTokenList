@@ -103323,11 +103323,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7581084DcA579F840C579c1633d2E2E3717e0FD7",
+      "symbol": "RAG",
+      "name": "EtherJeet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 31,
+    "minor": 32,
     "patch": 71
   }
 }
