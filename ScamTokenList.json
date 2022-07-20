@@ -102432,11 +102432,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe3c06e5c775f92F290D68d2813914B0B5B7Fa30",
+      "symbol": "DEFI20",
+      "name": "DeFi20Dao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 50,
+    "minor": 51,
     "patch": 70
   }
 }
