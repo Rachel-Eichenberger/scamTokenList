@@ -102564,11 +102564,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4aEbdC8A0b48061D62b723e3f0615B1238B8e372",
+      "symbol": "STRAYDUCK",
+      "name": "strayduck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 62,
+    "minor": 63,
     "patch": 70
   }
 }
