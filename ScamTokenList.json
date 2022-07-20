@@ -102311,11 +102311,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35F833FBd5aD48Bf697890817fa0C4E45bE729b6",
+      "symbol": "TSUKAPE",
+      "name": "TsukaApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 39,
+    "minor": 40,
     "patch": 70
   }
 }
