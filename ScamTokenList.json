@@ -102938,11 +102938,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30e3d618f231a6b0bb7089467FC64dA089353666",
+      "symbol": "SHIKAI",
+      "name": "Hyorinmaru",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 96,
+    "minor": 97,
     "patch": 70
   }
 }
