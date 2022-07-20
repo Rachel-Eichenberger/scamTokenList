@@ -102861,11 +102861,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FA0324B514f5EdBc5BCc008dCFE074CbDd5E2B6",
+      "symbol": "JFC",
+      "name": "JesusFuckingChrist",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 89,
+    "minor": 90,
     "patch": 70
   }
 }
