@@ -102773,11 +102773,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71E623dAE7298806c2413ae529de7AAE2685cAf2",
+      "symbol": "INSIDE",
+      "name": "Insidoooor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 72,
-    "minor": 81,
+    "minor": 82,
     "patch": 70
   }
 }
