@@ -103510,11 +103510,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1a9d11CB97dadAef2A26cEd57562300389b06f9",
+      "symbol": "DESPOINA",
+      "name": "GoddessofMystery",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 48,
+    "minor": 49,
     "patch": 71
   }
 }
