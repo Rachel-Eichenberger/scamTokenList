@@ -103895,11 +103895,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5E8134fa5b8E5b75d39aD84bb5fD2Bb1F48d805",
+      "symbol": "RAIJIN",
+      "name": "Raijin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 83,
+    "minor": 84,
     "patch": 71
   }
 }
