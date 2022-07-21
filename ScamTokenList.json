@@ -103477,11 +103477,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E6250FEceb3d8a30270fF6A71f0Eb5aa40b59c1",
+      "symbol": "SANGO",
+      "name": "SangoWEB3Dao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 45,
+    "minor": 46,
     "patch": 71
   }
 }
