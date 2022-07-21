@@ -103609,11 +103609,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x695e83A4c37FC57BDfF31B7C43a110B82CF1D629",
+      "symbol": "BETH",
+      "name": "Buthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 57,
+    "minor": 58,
     "patch": 71
   }
 }
