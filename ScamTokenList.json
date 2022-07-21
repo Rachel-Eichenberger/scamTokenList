@@ -105512,11 +105512,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5699b625eca33139ec91e3e3E7e722856c064DdE",
+      "symbol": "SPIRAL",
+      "name": "Spiral",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 11,
+    "minor": 12,
     "patch": 72
   }
 }
