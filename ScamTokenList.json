@@ -104016,11 +104016,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ddD3F0A111266B0e36e9D0F09aB706a3DBF3FFa",
+      "symbol": "KUMIHO",
+      "name": "KumihoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 94,
+    "minor": 95,
     "patch": 71
   }
 }
