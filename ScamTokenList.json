@@ -103433,11 +103433,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0146A4Daa4b4bE5Cbc7c6E7b00b0b0F693827b1",
+      "symbol": "RINU",
+      "name": "RugratsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 41,
+    "minor": 42,
     "patch": 71
   }
 }
