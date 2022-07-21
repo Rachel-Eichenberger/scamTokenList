@@ -103378,11 +103378,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73886b74F0651be5981f405341268461441f63Ca",
+      "symbol": "SPUNK20",
+      "name": "ShibaPunkz20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 36,
+    "minor": 37,
     "patch": 71
   }
 }
