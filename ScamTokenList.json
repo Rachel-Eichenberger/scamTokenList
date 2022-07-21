@@ -105710,11 +105710,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C51dD6868DfbEC8722De555cfb88b0C48322d10",
+      "symbol": "TWIN",
+      "name": "TWIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 29,
+    "minor": 30,
     "patch": 72
   }
 }
