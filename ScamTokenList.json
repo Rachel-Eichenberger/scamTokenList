@@ -103829,11 +103829,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3779AC3B6aafA17aa98738c06FD83a6F911F088E",
+      "symbol": "TSUKA",
+      "name": "DejitaruTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "ProxyScam"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 77,
+    "minor": 78,
     "patch": 71
   }
 }
