@@ -103994,11 +103994,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f883494124AB60CcBFAafdf83060D93D1cfB440",
+      "symbol": "CORE",
+      "name": "Core",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 92,
+    "minor": 93,
     "patch": 71
   }
 }
