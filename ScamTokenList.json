@@ -103664,11 +103664,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6409fd36aE2c94b5282e367D4ebf8c2Db6D51853",
+      "symbol": "0LIMITS",
+      "name": "LimitlessUtility",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 62,
+    "minor": 63,
     "patch": 71
   }
 }
