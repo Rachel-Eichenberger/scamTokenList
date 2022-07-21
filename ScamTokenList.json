@@ -103686,11 +103686,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88Cd6F71E48dc70C3025F260D5714f95fD9d9706",
+      "symbol": "MGRAIN",
+      "name": "multigrain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 64,
+    "minor": 65,
     "patch": 71
   }
 }
