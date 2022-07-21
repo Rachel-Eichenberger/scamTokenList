@@ -104115,11 +104115,1331 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2de31470415793ABcba1a42AEf27799172D4eA61",
+      "symbol": "DOGERARRI",
+      "name": "Dogerarri",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4ba1975e595E765E2E678bf61eaea449311639c",
+      "symbol": "VK",
+      "name": "VampireKnight",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x956439A05F9E8457D20De042a0432B0e8f6A113c",
+      "symbol": "MVMT",
+      "name": "Movement",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13d60b5FD4DaADb81833defD6bf7616b6da636De",
+      "symbol": "TAQ",
+      "name": "TerminusAdQuem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01b92cb4F058cf4e35e3627C255F95AFA29DD6E9",
+      "symbol": "DUCKERNOMICS",
+      "name": "Duckernomics",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeFF09Ae12b0B84145a368a027e1bA2573cDF6Ae1",
+      "symbol": "DUMP",
+      "name": "PUMPAND",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcECB0B3CDFC8FF5D866A4900B8b1db54D5eb13E9",
+      "symbol": "META",
+      "name": "MetaCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe787145EeCa41FfaeDeB478ED8B75c7FfD27a6b",
+      "symbol": "HASBULLA",
+      "name": "Hasbullamagomedov",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3D556B9839ea8f9EF7F0a88623dBc6BEb7e2F4bA",
+      "symbol": "GOLDGOOSE",
+      "name": "GOLDENGOOSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8994486722a283Accd9cee144bF8179185a35637",
+      "symbol": "SHIKI",
+      "name": "ShikigamiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80f420226baaa72401D4c2a3f369C76d8258ec03",
+      "symbol": "MOBOCRACY",
+      "name": "Mobocracy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92f49742C3BD06e8D6730181A3037391f8Bc224F",
+      "symbol": "M87",
+      "name": "MESSIERMISSION",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b2906229118BfD2d548C2af2593910A597a1D7D",
+      "symbol": "PRIEST",
+      "name": "PriestDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1fb14c389DCb6e4455ed1998A96F88e22A3Aa0B",
+      "symbol": "MYXY",
+      "name": "BeautyinDestruction",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99B517F2d56bE37A593cfbFD4305F5C5d327c0a1",
+      "symbol": "RESTART",
+      "name": "GreatRestart",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6BaaB64781d24E12F02a24e8583071f4A6Ee951",
+      "symbol": "KUNTZ",
+      "name": "KittyPunkz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd775d2056dEf417eEB65a1c5281cDa0d9074a899",
+      "symbol": "SHIBSHIB",
+      "name": "ShibShib",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF85b20e19b35241a96B19B8889fE5636a38c2541",
+      "symbol": "SINU",
+      "name": "SAFEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF49DFB599BE1448BC36c37D2F4D54De06643F992",
+      "symbol": "ELIXIREUM",
+      "name": "ElixirofCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Fb3AFf07e51108Bae58A9c877a23f0EF61eFf4b",
+      "symbol": "DADDYCAT",
+      "name": "DADDYCAT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF2E639aDbFe39507B15B79cb65Fa21149699cb69",
+      "symbol": "UNIII",
+      "name": "UniInuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36b4A59b0F62E33582Dbdbe4cbCA3E0A52dc98D1",
+      "symbol": "PREACHER",
+      "name": "PreacherDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB5Ad0009D3f7b2Ed4373b455E7F0a375aB642DA",
+      "symbol": "CIRCLE",
+      "name": "CircleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B3d6c44502f5228f552455b3Fe3Ee848168047A",
+      "symbol": "TITAN",
+      "name": "TITAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a0a05c13279e064FD1B4EA7401722E2f969FB31",
+      "symbol": "HTMCOIN",
+      "name": "HighwaytoMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F3F774e90f9e94d4E535e3c3047ddc188236244",
+      "symbol": "URANUS",
+      "name": "UranusCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x395945FbD0D9E5EA3e7cd60B2b7DcE78148b0D90",
+      "symbol": "RBC",
+      "name": "ROBOTS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d55791980251210a060DD75D77e0cE9F147BE97",
+      "symbol": "IPUNK",
+      "name": "InuPunkz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D2D411AF9D22c9E04Bb13a9D29ff2961e918130",
+      "symbol": "ABYSS",
+      "name": "TheGreatAbyss",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09AB73584FFe955064439e1EA284e1F8129EB56B",
+      "symbol": "ATOM",
+      "name": "ATOM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x013A862b3e1F7FF2D632021c7A1C8C0Bb9935D99",
+      "symbol": "ULINU",
+      "name": "ULTIMATEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe50B86c205FAD96e009A407EEa84d28e2D3e92e0",
+      "symbol": "RMINU",
+      "name": "RedMarsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8AdbEF738661Eba0806b9A25Afb028DE985428d6",
+      "symbol": "SOCRATES",
+      "name": "Socrates",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x846d603b24D97a807d187C9769b90c44Eb037EEF",
+      "symbol": "INUWORLD",
+      "name": "InuWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38ee7C247034E5F1Aa212110c03097B630923AC1",
+      "symbol": "SSNIFFER",
+      "name": "SeatSniffer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e336Ac1070bDf77d1c3c7992ba25D68d0c3f239",
+      "symbol": "APESQUAD",
+      "name": "ApeSquadInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6193F1BD8D476769Ea06fE8568e2ad7BA48151d",
+      "symbol": "PEPE",
+      "name": "PEPEGOD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30412a2bCa67A7a93c445FC6Fa4c21D52FD81C08",
+      "symbol": "BULLRUN",
+      "name": "BullRun",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8828588b7939d416e4131537A88b210E563D5a06",
+      "symbol": "BETA",
+      "name": "Beta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "Killable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x920A37b56e95B997dF16aD352fe81738EcA032a8",
+      "symbol": "GAM",
+      "name": "GAMBIT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed32401452b17b13088Db33c5E5e67d335da350d",
+      "symbol": "MERUEM",
+      "name": "MERUEM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9cAAEC9613fD29ceAC732A3e64b7b7e173f16066",
+      "symbol": "STINU",
+      "name": "STORMINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58Fa41f856bEaa874DEeDBc848A33FAA89bd5Ec3",
+      "symbol": "SEXY",
+      "name": "SexyDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fe5709808E4793BB81feE85C8B8B5b97984170f",
+      "symbol": "TSUKATSUKA",
+      "name": "TsukaTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c45D06b1D2F049f16A70717822eB425093dBBa1",
+      "symbol": "FLOW",
+      "name": "TheFlow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f0d1a753f0e7Ad678D8178C706E77D6AA30FCAb",
+      "symbol": "PINU",
+      "name": "PIZZAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE977991E341fBE0652af5D3fb683fEdFB758237F",
+      "symbol": "DOGIBA",
+      "name": "DOGENSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAa45FE9C7ff2cf2a0E9acD9486Ebd9a64512e212",
+      "symbol": "MILF",
+      "name": "MothersIdLiketoFund",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67457fcfc78b246Ea2457ABD1A4fB9aF5004bAeD",
+      "symbol": "JTM",
+      "name": "Jeetminator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcAbe48Efd09257651bD186Cdee3aBA9C02ed806d",
+      "symbol": "PIMP",
+      "name": "PimpItHoe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB684A1da43f48d7C94837644a7A553Ee0EA96CFe",
+      "symbol": "IM",
+      "name": "InuMan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ED27C08adC2736cF84AC2C8a2711e158b5b62E0",
+      "symbol": "SILK",
+      "name": "SpiderSilk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19Da2e61DAb0aE450d418874F9BdfEBDeAC3dCAC",
+      "symbol": "TATE",
+      "name": "AndrewTate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25b8EfFf81488F1C2F3fC672d316e006902176f8",
+      "symbol": "ONIZUKA",
+      "name": "Onizukama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19657D4B1e58b79E4B67DDF159c886e673B81311",
+      "symbol": "USAGI",
+      "name": "Usagi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d58Fe4A3FF9A66b88e869A25d04ADBcd15E90b0",
+      "symbol": "ATG",
+      "name": "ALEXANDERTHEGREAT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x502e00C920FfC25FfCE048AB527a5b8BD13950d3",
+      "symbol": "REV",
+      "name": "REVIVAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x728d8DBB48cBF06A1B8aEC6FDA721D4B5Cd45095",
+      "symbol": "ILLUMINATI",
+      "name": "Triangle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa66795bcDFAb4216D7B5850658C1686c30aC91F9",
+      "symbol": "RIRIMARU",
+      "name": "Ririmaru",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd107fb7ec0E27dA23A2b183B16fCedC56BDFE4F9",
+      "symbol": "RAGE",
+      "name": "Berserk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbaE5446E658257834f09054a7De0351f7b2a45ec",
+      "symbol": "ENCHANT",
+      "name": "Enchanter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1e682E8cEefBacb276328276c6f9315Fc971666",
+      "symbol": "SPHINX",
+      "name": "TheGreatSphinx",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89225c618006A26e72c0A14EED03d9E11F8DA0c1",
+      "symbol": "SHIKI",
+      "name": "Shikimori",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC54DC10BaC1de45C158d38aB563cB362c539F41d",
+      "symbol": "TSUKAINU",
+      "name": "TsukaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8e36EF4E967D0dBA6c3f57402AEafA849cDAAca",
+      "symbol": "RAID",
+      "name": "Raid",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4758baAb638B1bf5AB146010627f82953d5074C7",
+      "symbol": "SHILL",
+      "name": "ShillitToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7E3e4812ec473Dd918cec7e58bcd3C038c5F393",
+      "symbol": "RTSUKA",
+      "name": "RTSUKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bD9bC720c4040fBD58163f6aFaDDFd375EbB206",
+      "symbol": "PPINU",
+      "name": "PORKYPIGINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12666fB74150A70A4f92d9459a39736914DcE72C",
+      "symbol": "BRRR",
+      "name": "BRRRINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x277174DE11EEf9509159F8617C19d7912032B749",
+      "symbol": "STSUKA",
+      "name": "STSUKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAc4b00A61C8d57b8d3C8085eCB408A8518f46Fd9",
+      "symbol": "SKY",
+      "name": "SKY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x249Ffb81b8c91AA0A7cAAE95a6cC9FA6C702F9A8",
+      "symbol": "ASAKI",
+      "name": "ASAKI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86dAB4A1D466d877e856b13C8E5b5448aaD07A6E",
+      "symbol": "PZARD",
+      "name": "PepeZard",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA95405f14328f286a32Cb0634568F965FA1a0f7F",
+      "symbol": "USELESS",
+      "name": "UselessDegen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc583164C2091154ca00Dd6CF22287b1AC25a1bc4",
+      "symbol": "PROFIT",
+      "name": "TheProfit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE97F11810C1b8184a2D64c7D25EB0b420d121c84",
+      "symbol": "ZANI",
+      "name": "ZaninInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62528A9F240D66902616aa6A6baEa854BF8faf5b",
+      "symbol": "HIMITSU",
+      "name": "Himitsu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe72870F03cd9Ef5FC5c825B03D2Df9b51Eb32684",
+      "symbol": "SANO",
+      "name": "SusanoonoMikoto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79e5606E08Ba24f5159e563656ee060487EAF8D7",
+      "symbol": "HOGOSHA",
+      "name": "TsukaGuardian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b38bAB9289f00411Bb34a28CeBB53a2010483Ec",
+      "symbol": "FISHERMAN",
+      "name": "RedHerring",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cf191E6Bd51b6776B5b4bf26a2A37dd09D2e0C2",
+      "symbol": "SEIRYU",
+      "name": "SEIRYU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6CA6c35BBaEE4aea15BD9D3d74C0bd5b256d792",
+      "symbol": "TSURUGI",
+      "name": "KusanagiTsurugi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1F547E38D57fe05419EB04d7A4C8955A8131723",
+      "symbol": "ROTTEN",
+      "name": "RottenShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bAF0bBF199031aF4603A2336591e70085e61B12",
+      "symbol": "TSUKACULT",
+      "name": "TSUKACULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x618470dED88d2A2F48c995bbB04be8F25a55253e",
+      "symbol": "CHAD",
+      "name": "CHAD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8d153a65b5Fa0Fbcfeb58a5bD0d3b40926f891F",
+      "symbol": "EYE",
+      "name": "EPLURIBUSUNUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3Fd6498EE75741c4F447E99A804a103c5927316",
+      "symbol": "VIPER",
+      "name": "VIPER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf45D9f5FB340bE61da23bCe7D47EEA7419Cbb427",
+      "symbol": "MGRL",
+      "name": "MoonGirl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x400904ed80050eFe06a72e70655A9c448DebF431",
+      "symbol": "WINU",
+      "name": "WINNIEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d70fD0CeCE354ac4d148ba16628D8695d531A1D",
+      "symbol": "TAPE",
+      "name": "TheTape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x962fAf9D664b26Eb895f00e4F45129a722541c41",
+      "symbol": "KIRA",
+      "name": "KiraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13D3527956a1aa0bb0da4cc7B33dEfDC57A7a7C7",
+      "symbol": "BUZZ",
+      "name": "Buzz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97DbE5BB0CE4b4b675Fbf301288e05154c758432",
+      "symbol": "GRAPE",
+      "name": "GrapeFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b1807cB9AfE460FED8A9c59F84565e4824A5e11",
+      "symbol": "SEIRYU",
+      "name": "SEIRYU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9D8a0ded025A852E359423429471B92fF3Ea11c",
+      "symbol": "SHIKI",
+      "name": "Shikimori",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF77c69FEB7EDC088F6c6F10f580Ffd008d3bf1C0",
+      "symbol": "HORNY",
+      "name": "HORNYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a323daDcd23Bfd9E00112DcAE7798F5C0A45F9d",
+      "symbol": "BIOZ",
+      "name": "BioHazard",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDeAfa838fa6c1AdF6A036950820b3023B169dc70",
+      "symbol": "NIBIRU",
+      "name": "TheReturnofAnunnaki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18b3c9d244e25c7C8924841ca1Bd8759cACb621C",
+      "symbol": "SR",
+      "name": "SECRETROOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93b4B65612D9CcD34f0C9fcD9292D9f4554895B1",
+      "symbol": "THECHOICE",
+      "name": "TheChoice",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1505F78b9C86B1bA6d4774C84B1e11373848cFe4",
+      "symbol": "VECNA",
+      "name": "VECNAVERSE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbA543bdC6C684d4f63924806888EF0fE24ac1317",
+      "symbol": "BRI",
+      "name": "BurnRebaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41ef1A0Ce9bdCC645358e44f4B922E81A099BB7b",
+      "symbol": "MUSIC",
+      "name": "MUSIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x719a7348a427cdea32370B6EE920e0954b75FB47",
+      "symbol": "SAINT",
+      "name": "GeorgeAndTheDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE608b49152A298841C55dA988fe8d0A9345072D4",
+      "symbol": "PAJEET",
+      "name": "PAJEETETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFBF02305F11651C95b2E79CbebBE702aE9b7c1dA",
+      "symbol": "AFLOKI",
+      "name": "AngelFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f668c1576bFc8eBA05AD877b9D873058B527D49",
+      "symbol": "ROZ",
+      "name": "Rozzorro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd558d14664E86e9d6dc81918006F822643dA3159",
+      "symbol": "SHIVA",
+      "name": "shiva",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84DD695350cF09bEA8a4927dcb369704206c0bF7",
+      "symbol": "ZIL",
+      "name": "Zinla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00a407e4EfBAA1Af93335D5c044BC1b735C039aE",
+      "symbol": "GORYO",
+      "name": "GORYO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA61d31C8b5922E1a7894fA1D613a039Ff650e0EF",
+      "symbol": "BSPIRAL",
+      "name": "BabySpiral",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xced32B3426e3c6862f42954a03AD913E9263CFad",
+      "symbol": "PAPI",
+      "name": "AlphaChu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc62588083EAE032A6BdebdC1D3D44B2C47bA6787",
+      "symbol": "MUTINY",
+      "name": "Mutiny",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bA4bA55D83bd8Af7864183c6f583F6cd8E0CF79",
+      "symbol": "OHANMA",
+      "name": "OkinaHanma",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c9B37Fa7ac859Aa88e25D49B948f13640Dc72Ea",
+      "symbol": "TDP",
+      "name": "TheDivineProportion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd398b4bcb138dFE0b9981955863EFC61bcfe0b47",
+      "symbol": "HT",
+      "name": "HACKTIVISM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCC8FF864550cB3c687C5152448e09cD337f5152D",
+      "symbol": "PI",
+      "name": "PiNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0a33AbBa55a242ea1ab16055CC293C6aA13Bf51",
+      "symbol": "HEAVEN",
+      "name": "GatesOfWisdom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x063a575d07F7c5D7BC1db4573b2Ec56AA20809Cb",
+      "symbol": "ISHAN",
+      "name": "IshanWahiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8379D0369730d41fb942fB86C141Ad4b32C6799",
+      "symbol": "MINMI",
+      "name": "MinmiToken",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 3,
+    "minor": 4,
     "patch": 72
   }
 }
