@@ -103400,11 +103400,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE1FA26Ff8f4A15e3f4a10A17594f9E5a0F18285",
+      "symbol": "GIZAV2",
+      "name": "GIZAV2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 38,
+    "minor": 39,
     "patch": 71
   }
 }
