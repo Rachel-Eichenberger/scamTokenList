@@ -103554,11 +103554,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1eaEdE761f42D736764a97C54a8D9E057456f24f",
+      "symbol": "VAR",
+      "name": "Variable",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 52,
+    "minor": 53,
     "patch": 71
   }
 }
