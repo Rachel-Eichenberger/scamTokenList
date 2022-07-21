@@ -105545,11 +105545,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28a1049A4129Ed4D1f1Ad167726DF9e5B43ac586",
+      "symbol": "DRAGINU",
+      "name": "DragoniteInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 14,
+    "minor": 15,
     "patch": 72
   }
 }
