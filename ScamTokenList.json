@@ -104060,11 +104060,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCB94FB9e4bAac2cd0b05bDd4bDd04818455240E0",
+      "symbol": "BOO",
+      "name": "BankofOkinami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 98,
+    "minor": 99,
     "patch": 71
   }
 }
