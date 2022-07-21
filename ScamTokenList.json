@@ -105666,11 +105666,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa35112E559Cc06D89F80dFe3f9B008DCa0BB0f3e",
+      "symbol": "MURDER",
+      "name": "MURDER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 25,
+    "minor": 26,
     "patch": 72
   }
 }
