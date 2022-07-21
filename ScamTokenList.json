@@ -103466,11 +103466,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8cc6403b815b8E63f8A2F2668D988847d1f8f8D",
+      "symbol": "ARCINU",
+      "name": "ArcheologyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 44,
+    "minor": 45,
     "patch": 71
   }
 }
