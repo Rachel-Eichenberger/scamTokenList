@@ -105556,11 +105556,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49F3Ad232AA958a133D9E660f037042069F50B86",
+      "symbol": "SAITSUKA",
+      "name": "Saitsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 15,
+    "minor": 16,
     "patch": 72
   }
 }
