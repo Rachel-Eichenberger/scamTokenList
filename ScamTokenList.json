@@ -103334,11 +103334,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5505af05D8De295753b9eAdFE377e8b8a84dB647",
+      "symbol": "CYBR",
+      "name": "CYBERINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 32,
+    "minor": 33,
     "patch": 71
   }
 }
