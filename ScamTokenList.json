@@ -103939,11 +103939,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6f775597B4ff62559cD71a9744601aA48e7f9A0",
+      "symbol": "FLOAT",
+      "name": "TheFloat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 87,
+    "minor": 88,
     "patch": 71
   }
 }
