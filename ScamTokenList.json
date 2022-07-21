@@ -104093,11 +104093,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbcD14f2c0bcF0b8312FcCC4F3484e07830e9F622",
+      "symbol": "FUCKETHER",
+      "name": "FuckEtherscan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 1,
+    "minor": 2,
     "patch": 72
   }
 }
