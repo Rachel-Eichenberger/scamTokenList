@@ -103851,11 +103851,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd561Cf9652935bc4c3DD1a7cEd04704d638Dd118",
+      "symbol": "WENMARKETING",
+      "name": "WENMARKETING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 79,
+    "minor": 80,
     "patch": 71
   }
 }
