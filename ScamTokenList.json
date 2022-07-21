@@ -103697,11 +103697,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x685944EA167C034B1B912539B2b7Dd950396bFbc",
+      "symbol": "NUKE",
+      "name": "NUCLEARDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 65,
+    "minor": 66,
     "patch": 71
   }
 }
