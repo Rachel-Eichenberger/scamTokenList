@@ -105589,11 +105589,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2221146A0243e6238e0c995B22b7A4cA0664ab7c",
+      "symbol": "SHINJEW",
+      "name": "Shinjew",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 18,
+    "minor": 19,
     "patch": 72
   }
 }
