@@ -103389,11 +103389,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0eEC233f60018380D0e195aCd12756E9F5A9DEC1",
+      "symbol": "CRY",
+      "name": "CRYPTIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 37,
+    "minor": 38,
     "patch": 71
   }
 }
