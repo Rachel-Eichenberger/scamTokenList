@@ -103862,11 +103862,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7662c015D845EF487fDe32cb884653bE9c9E0110",
+      "symbol": "BOXA",
+      "name": "BOXA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 80,
+    "minor": 81,
     "patch": 71
   }
 }
