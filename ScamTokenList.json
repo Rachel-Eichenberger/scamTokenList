@@ -103763,11 +103763,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Af349Ad49F13EcFec8939113D51AC582E535D6e",
+      "symbol": "HOPIUM",
+      "name": "HOPIUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 71,
+    "minor": 72,
     "patch": 71
   }
 }
