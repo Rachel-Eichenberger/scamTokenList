@@ -103587,11 +103587,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x349Dbd0a12e97c6A819e341e981C3600ba6f2Bac",
+      "symbol": "ESHIBA",
+      "name": "EVILSHIBAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 55,
+    "minor": 56,
     "patch": 71
   }
 }
