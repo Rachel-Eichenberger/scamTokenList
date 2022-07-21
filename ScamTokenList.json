@@ -103774,11 +103774,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e7EeEE748164b3bdF4190618E3ba6a76e2a3Dbb",
+      "symbol": "SPIRALDAO",
+      "name": "SpiralDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 72,
+    "minor": 73,
     "patch": 71
   }
 }
