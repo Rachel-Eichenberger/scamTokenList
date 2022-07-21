@@ -103653,11 +103653,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f74680316489DA1F1286Eb6bb5AF6753844C5da",
+      "symbol": "TPUNK",
+      "name": "TsukaPunkz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 61,
+    "minor": 62,
     "patch": 71
   }
 }
