@@ -105534,11 +105534,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x548AA61205D7e2d3A271Fe4541fDC4765114b6Ff",
+      "symbol": "DM",
+      "name": "DoubleMeme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 13,
+    "minor": 14,
     "patch": 72
   }
 }
