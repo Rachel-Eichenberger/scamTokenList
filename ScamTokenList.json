@@ -103455,11 +103455,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf578Dd91B0309Ad5296Fb8B13D293e2453988A0",
+      "symbol": "ELOKI",
+      "name": "EVILFLOKIINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 43,
+    "minor": 44,
     "patch": 71
   }
 }
