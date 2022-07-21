@@ -103576,11 +103576,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DbAE447Bffc92857fe2f8e198B7f1F6A1633756",
+      "symbol": "KDAS",
+      "name": "KDAS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 54,
+    "minor": 55,
     "patch": 71
   }
 }
