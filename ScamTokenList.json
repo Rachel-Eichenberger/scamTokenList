@@ -105622,11 +105622,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa641EA4a4BA7448207098c5C7d1Eb09D617C6f9f",
+      "symbol": "ROME",
+      "name": "Romans",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 21,
+    "minor": 22,
     "patch": 72
   }
 }
