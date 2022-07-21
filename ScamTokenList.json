@@ -103532,11 +103532,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3af035C5028609B56a1f7Cb853B369B26b299685",
+      "symbol": "SHITGAME",
+      "name": "TheShitGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 50,
+    "minor": 51,
     "patch": 71
   }
 }
