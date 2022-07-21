@@ -104104,11 +104104,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb45157E36de32f287dfC5Ae33292Ea3BEee8193C",
+      "symbol": "CULTCULT",
+      "name": "CultCultDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 2,
+    "minor": 3,
     "patch": 72
   }
 }
