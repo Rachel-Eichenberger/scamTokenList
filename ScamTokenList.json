@@ -103444,11 +103444,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbAD123dC5F3c3D3c0436aeA5DD369aF242742E26",
+      "symbol": "EVA",
+      "name": "EvaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 42,
+    "minor": 43,
     "patch": 71
   }
 }
