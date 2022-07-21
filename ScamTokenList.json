@@ -103543,11 +103543,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8129B03C15eC6e7373B57De20e60d023b8f377F3",
+      "symbol": "WHALEV2",
+      "name": "MobyDick20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 51,
+    "minor": 52,
     "patch": 71
   }
 }
