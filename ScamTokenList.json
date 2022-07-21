@@ -105721,11 +105721,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59fe98603f2e7da71AF9a2bc2ed09134AcC7AB57",
+      "symbol": "TSUNE",
+      "name": "DejitaruKitsune",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 30,
+    "minor": 31,
     "patch": 72
   }
 }
