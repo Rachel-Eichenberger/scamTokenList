@@ -104082,11 +104082,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Ab55539BdeF47391C619afF1c3A78c659D66fDC",
+      "symbol": "MOKINAMI",
+      "name": "MiniKanagawaNami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 0,
+    "minor": 1,
     "patch": 72
   }
 }
