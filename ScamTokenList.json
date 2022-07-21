@@ -103741,11 +103741,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd24DeC97E8d190e6FB858ED0339B6aE94d2Ad25",
+      "symbol": "STATES",
+      "name": "StatesDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 69,
+    "minor": 70,
     "patch": 71
   }
 }
