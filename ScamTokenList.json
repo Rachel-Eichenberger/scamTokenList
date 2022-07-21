@@ -105600,11 +105600,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA1C815e1ADa48C5760C1ba268f3789701c8c7C3",
+      "symbol": "SANA",
+      "name": "ChisanaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 19,
+    "minor": 20,
     "patch": 72
   }
 }
