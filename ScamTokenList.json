@@ -103840,11 +103840,22 @@
       "tags": [
         "ProxyScam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f106618D58Fdd807337C9c8Aad879C2dE722d2e",
+      "symbol": "SAYA",
+      "name": "Saya",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 78,
+    "minor": 79,
     "patch": 71
   }
 }
