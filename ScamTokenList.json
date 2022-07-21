@@ -103411,11 +103411,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9fE95859D5a848826baC69219962877492d2572",
+      "symbol": "NICK",
+      "name": "Nickelodeon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 39,
+    "minor": 40,
     "patch": 71
   }
 }
