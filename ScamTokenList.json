@@ -103631,11 +103631,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0175611cEa521B48318209f041fBBC83588BA52F",
+      "symbol": "MOKAIINU",
+      "name": "MonomokaiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 59,
+    "minor": 60,
     "patch": 71
   }
 }
