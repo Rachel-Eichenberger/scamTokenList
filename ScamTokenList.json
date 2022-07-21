@@ -105677,11 +105677,33 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEF13d0633f2a16Fb9f41Ea062373d0F07A33eAB0",
+      "symbol": "SHINJEW",
+      "name": "ShinJew",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4Dc819D42226BB5A96235416Ef48756037Fe996",
+      "symbol": "SHINJEW",
+      "name": "Shinjew",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 26,
+    "minor": 28,
     "patch": 72
   }
 }
