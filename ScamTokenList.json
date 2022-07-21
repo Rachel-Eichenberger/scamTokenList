@@ -103884,11 +103884,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9DaBE1A5923b879a91FDc484cC783C61675fCEB6",
+      "symbol": "URARA",
+      "name": "ShiraishiUrara",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 82,
+    "minor": 83,
     "patch": 71
   }
 }
