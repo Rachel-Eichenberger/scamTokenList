@@ -103367,11 +103367,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d4502FE058274BdCd24D52609fec58984fE22A0",
+      "symbol": "FUKU",
+      "name": "Fukurokuju",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 35,
+    "minor": 36,
     "patch": 71
   }
 }
