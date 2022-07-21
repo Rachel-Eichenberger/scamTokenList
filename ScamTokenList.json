@@ -103730,11 +103730,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0bbB7A5C1C63d40580c73E7446ba30f3b83C1D9",
+      "symbol": "SDRAGON",
+      "name": "SaudiDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 68,
+    "minor": 69,
     "patch": 71
   }
 }
