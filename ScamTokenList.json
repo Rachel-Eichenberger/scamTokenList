@@ -105732,11 +105732,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0355b64d2B25eE8d3cA5705E88269927B45b428d",
+      "symbol": "AURIC",
+      "name": "AURICToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 31,
+    "minor": 32,
     "patch": 72
   }
 }
