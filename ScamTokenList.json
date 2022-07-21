@@ -103356,11 +103356,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e10894CdCa06B4BfA9F8a63ef8BF0A389752bB4",
+      "symbol": "SILENCE",
+      "name": "TheSilence",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 34,
+    "minor": 35,
     "patch": 71
   }
 }
