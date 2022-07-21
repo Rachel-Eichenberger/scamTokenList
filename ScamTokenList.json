@@ -105446,11 +105446,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x059487455536a35760751F32F2049d6616758A3a",
+      "symbol": "MONSTERX",
+      "name": "MONSTERX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 5,
+    "minor": 6,
     "patch": 72
   }
 }
