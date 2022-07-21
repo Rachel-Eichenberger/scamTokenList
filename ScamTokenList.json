@@ -103972,11 +103972,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x676aBd2872b62Ce6940210787192e06f1c028142",
+      "symbol": "KINU",
+      "name": "KINTAROINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 90,
+    "minor": 91,
     "patch": 71
   }
 }
