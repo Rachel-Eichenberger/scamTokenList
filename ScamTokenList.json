@@ -103642,11 +103642,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0744C1fDaD75fF06b2Aae7508fb83338896A89E0",
+      "symbol": "GO",
+      "name": "PolyGo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 60,
+    "minor": 61,
     "patch": 71
   }
 }
