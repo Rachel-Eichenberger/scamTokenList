@@ -103950,11 +103950,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0F82Cb27943A986d436e14c43820DAAc7c7FA20",
+      "symbol": "URASHIMATARO",
+      "name": "FisherLad",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 88,
+    "minor": 89,
     "patch": 71
   }
 }
