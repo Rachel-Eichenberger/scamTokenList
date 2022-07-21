@@ -105644,11 +105644,33 @@
       "tags": [
         "Killable"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B9e6C8bc6Db256A9Bc2C13786E37Dc2046E026A",
+      "symbol": "SNJW",
+      "name": "Shinjew",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb765Eee303714Fa09192c581308Febac3DCAf1d",
+      "symbol": "GHIDORAHINU",
+      "name": "GhidorahInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 23,
+    "minor": 25,
     "patch": 72
   }
 }
