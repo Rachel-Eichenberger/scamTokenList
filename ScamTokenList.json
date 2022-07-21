@@ -103488,11 +103488,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34a32A41Cf8bD1F78E225A074EAe5F59E6242436",
+      "symbol": "DEGYPT",
+      "name": "Degyptian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 73,
-    "minor": 46,
+    "minor": 47,
     "patch": 71
   }
 }
