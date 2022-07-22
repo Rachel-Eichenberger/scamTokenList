@@ -106040,11 +106040,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAaDE29984d500BD74ff2A2Cde434e46f92b44E4e",
+      "symbol": "YAMA",
+      "name": "Yamauba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 59,
+    "minor": 60,
     "patch": 72
   }
 }
