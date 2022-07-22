@@ -106777,11 +106777,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8F6317cEe99521Ae99B05f596C1e736F9030865",
+      "symbol": "FLK",
+      "name": "FLUNK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 26,
+    "minor": 27,
     "patch": 73
   }
 }
