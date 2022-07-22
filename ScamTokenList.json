@@ -105831,11 +105831,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ee9eca8D9764230884cA2F3c1e7e7E224896870",
+      "symbol": "SNOWFALL",
+      "name": "snowfall",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 40,
+    "minor": 41,
     "patch": 72
   }
 }
