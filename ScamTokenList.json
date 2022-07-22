@@ -106238,11 +106238,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c645457861DBd049f6025874C6375D1Eb82D00c",
+      "symbol": "NEO",
+      "name": "NEOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 77,
+    "minor": 78,
     "patch": 72
   }
 }
