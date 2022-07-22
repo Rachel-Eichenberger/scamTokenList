@@ -106557,11 +106557,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5405FfA572dC7e3BcDd6f33A20Dc44d274f622f5",
+      "symbol": "ACAT",
+      "name": "ArabianCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 6,
+    "minor": 7,
     "patch": 73
   }
 }
