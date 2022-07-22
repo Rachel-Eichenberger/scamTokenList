@@ -106293,11 +106293,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef95a2fd08B1F2ec8a5C46f404e54c804Ba8e237",
+      "symbol": "SPYXFAMILY",
+      "name": "SPYXFAMILY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 82,
+    "minor": 83,
     "patch": 72
   }
 }
