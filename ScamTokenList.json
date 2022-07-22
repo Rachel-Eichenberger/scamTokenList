@@ -106425,11 +106425,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9E076E8F72fe0636e39907DB29fEEe00d9D4683",
+      "symbol": "BLACK",
+      "name": "BlackEthereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 94,
+    "minor": 95,
     "patch": 72
   }
 }
