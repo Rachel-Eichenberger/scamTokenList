@@ -106216,11 +106216,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfeb58ACB92f7aca71e9CE19a10360a47EA0f2B10",
+      "symbol": "CAN",
+      "name": "CanDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 75,
+    "minor": 76,
     "patch": 72
   }
 }
