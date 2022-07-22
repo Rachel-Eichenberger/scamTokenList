@@ -106502,11 +106502,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60F92BDCBa6911b2b1bfcBc13E03060BED4B0F29",
+      "symbol": "SHINURI",
+      "name": "Shinuri",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 1,
+    "minor": 2,
     "patch": 73
   }
 }
