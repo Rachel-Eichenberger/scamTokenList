@@ -106810,11 +106810,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88338f1aD6fe90A133C299454fE819f5CE511f6D",
+      "symbol": "SHIBMETA",
+      "name": "ShibMeta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 29,
+    "minor": 30,
     "patch": 73
   }
 }
