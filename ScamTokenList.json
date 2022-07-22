@@ -106788,11 +106788,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x716dAae989C7ca10d32ED8C3E7a84fa999122694",
+      "symbol": "UNDEFINED",
+      "name": "UNDEFINED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 27,
+    "minor": 28,
     "patch": 73
   }
 }
