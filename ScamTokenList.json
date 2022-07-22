@@ -106205,11 +106205,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb759a47a8b7011439D2911e92740DDf6130d12bD",
+      "symbol": "FL",
+      "name": "FinancialLiteracy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 74,
+    "minor": 75,
     "patch": 72
   }
 }
