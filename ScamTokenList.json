@@ -106249,11 +106249,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4d190A2eC7a9456617207e10FEf2D79076b715F",
+      "symbol": "SHINTAMA",
+      "name": "Shintama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 78,
+    "minor": 79,
     "patch": 72
   }
 }
