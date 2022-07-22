@@ -106799,11 +106799,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x755EebCb7b2d035b53d0D9C7143f526F5856f4fC",
+      "symbol": "FTC",
+      "name": "ForTheCommunity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 28,
+    "minor": 29,
     "patch": 73
   }
 }
