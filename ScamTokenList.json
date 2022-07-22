@@ -106689,11 +106689,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed8f48262d870A0dCD36FD70C9d7ad8F30b22395",
+      "symbol": "DISORDER",
+      "name": "TehGreatAnarchy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 18,
+    "minor": 19,
     "patch": 73
   }
 }
