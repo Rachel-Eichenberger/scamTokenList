@@ -106007,11 +106007,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4a3C35C57EDB99B6776170Ee6305A631f7Cb6E4",
+      "symbol": "LINU",
+      "name": "LuigiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 56,
+    "minor": 57,
     "patch": 72
   }
 }
