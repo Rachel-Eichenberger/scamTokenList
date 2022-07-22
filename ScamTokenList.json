@@ -106447,11 +106447,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dC1732888bc18C1bC206e251f3EA18eC7AcFfCf",
+      "symbol": "IBX",
+      "name": "IBEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 96,
+    "minor": 97,
     "patch": 72
   }
 }
