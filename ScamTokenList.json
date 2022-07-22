@@ -106513,11 +106513,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37e33912F7282cE827C7a59Fe0F87257A5215EeD",
+      "symbol": "CON",
+      "name": "Consecro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 2,
+    "minor": 3,
     "patch": 73
   }
 }
