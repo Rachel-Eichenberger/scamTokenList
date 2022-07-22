@@ -106348,11 +106348,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C47101E5814a17f4165eF321E7D836000457Cc6",
+      "symbol": "HDNSM",
+      "name": "Hedonism",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 87,
+    "minor": 88,
     "patch": 72
   }
 }
