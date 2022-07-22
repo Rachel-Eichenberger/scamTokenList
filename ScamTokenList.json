@@ -106656,11 +106656,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x404597a44a4B2c87022E9D5B086D96aE21c7CBd5",
+      "symbol": "SOMETHING",
+      "name": "SOMETHING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 15,
+    "minor": 16,
     "patch": 73
   }
 }
