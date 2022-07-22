@@ -106172,11 +106172,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43f56564b2026696388F32E4b2E3764113ad6683",
+      "symbol": "TARO",
+      "name": "UrashimaTaro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 71,
+    "minor": 72,
     "patch": 72
   }
 }
