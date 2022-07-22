@@ -106304,11 +106304,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf6A21c9A2A86d60315b450f8B3F242F92105CB86",
+      "symbol": "JEWATAMA",
+      "name": "Jewatama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 83,
+    "minor": 84,
     "patch": 72
   }
 }
