@@ -106722,11 +106722,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4a5f031A74ebF9e9e37fe3d0859fE4474c217dd",
+      "symbol": "VAULT",
+      "name": "Vault",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 21,
+    "minor": 22,
     "patch": 73
   }
 }
