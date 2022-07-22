@@ -105787,11 +105787,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b3BD2E991c78E6705d1b78D43a85F3940993D62",
+      "symbol": "MRM",
+      "name": "Mermaid",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 36,
+    "minor": 37,
     "patch": 72
   }
 }
