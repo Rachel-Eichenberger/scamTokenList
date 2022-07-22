@@ -106535,11 +106535,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99c8DA50BD9a2500A289F60385B2511200520d2B",
+      "symbol": "30PND",
+      "name": "30MintutesPnD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 4,
+    "minor": 5,
     "patch": 73
   }
 }
