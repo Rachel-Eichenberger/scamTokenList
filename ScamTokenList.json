@@ -106854,11 +106854,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd97Af77d0c0053c19B1549486dD5892831050705",
+      "symbol": "CHADFINDER",
+      "name": "ChadFinder",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 33,
+    "minor": 34,
     "patch": 73
   }
 }
