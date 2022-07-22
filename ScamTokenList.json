@@ -105952,11 +105952,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB67b464320458d1976fF54912a4969c80F8f4Fa4",
+      "symbol": "WHALEETH",
+      "name": "WHALEETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 51,
+    "minor": 52,
     "patch": 72
   }
 }
