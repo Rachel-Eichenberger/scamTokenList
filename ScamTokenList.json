@@ -105743,11 +105743,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D1ece9f26c1A1ed1911f7e8ce338f0C047D07EF",
+      "symbol": "POPPINGEYE",
+      "name": "POPPINGEYE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 32,
+    "minor": 33,
     "patch": 72
   }
 }
