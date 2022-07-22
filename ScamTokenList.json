@@ -106337,11 +106337,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1E2a6f32fE50174515862ed218F30c36EcD3f17",
+      "symbol": "EXTREMUM",
+      "name": "EXTREMUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 86,
+    "minor": 87,
     "patch": 72
   }
 }
