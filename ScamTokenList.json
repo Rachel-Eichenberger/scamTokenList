@@ -105754,11 +105754,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16437b66f381f7B176dFc56B1A7915367229c1Ef",
+      "symbol": "AGOLDENBOAT",
+      "name": "AGoldenBoat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 33,
+    "minor": 34,
     "patch": 72
   }
 }
