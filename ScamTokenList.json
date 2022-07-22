@@ -105842,11 +105842,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26dc943492A833335d27b964Fb2D4EE1EB4391f2",
+      "symbol": "SPANKY",
+      "name": "SPANKYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 41,
+    "minor": 42,
     "patch": 72
   }
 }
