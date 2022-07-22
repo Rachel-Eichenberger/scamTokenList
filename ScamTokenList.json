@@ -105853,11 +105853,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3CB03E105e0E7c39dc50078d6bD4647451e86cc",
+      "symbol": "SCOR",
+      "name": "Scorpion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 42,
+    "minor": 43,
     "patch": 72
   }
 }
