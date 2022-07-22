@@ -106381,11 +106381,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1AF7f2D775bAbaa6BF1C498B83B8dF0dC157F506",
+      "symbol": "KASONENSHO",
+      "name": "KasoNensho",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 90,
+    "minor": 91,
     "patch": 72
   }
 }
