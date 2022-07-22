@@ -106271,11 +106271,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x028d2F48fE422327581990d5750ea9Fc462CA13e",
+      "symbol": "MRBAN",
+      "name": "MRBAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 80,
+    "minor": 81,
     "patch": 72
   }
 }
