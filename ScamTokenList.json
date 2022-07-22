@@ -106733,11 +106733,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E54ADcf81fa4DC2ec2f1dEfdC12019cFF598952",
+      "symbol": "YAYO",
+      "name": "substanceabuse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 22,
+    "minor": 23,
     "patch": 73
   }
 }
