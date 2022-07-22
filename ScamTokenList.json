@@ -106876,11 +106876,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa71c16A9ebb4BF3a2c93f10702BA997aF44D963E",
+      "symbol": "SHID",
+      "name": "ShibDiamond",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 35,
+    "minor": 36,
     "patch": 73
   }
 }
