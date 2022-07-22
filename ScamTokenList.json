@@ -105820,11 +105820,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x586c364437Da60c1f3E25B0D29a6c39eBE4aF56F",
+      "symbol": "GOT",
+      "name": "GOTETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 39,
+    "minor": 40,
     "patch": 72
   }
 }
