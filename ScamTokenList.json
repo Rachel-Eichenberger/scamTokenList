@@ -106128,11 +106128,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46817Cf373EE9a69c6328e9060C4E0fba7FC0a96",
+      "symbol": "SHIRY",
+      "name": "ShiRyoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 67,
+    "minor": 68,
     "patch": 72
   }
 }
