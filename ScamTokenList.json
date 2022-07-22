@@ -106194,11 +106194,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F7C535c15a339cC95A7b0dCf4B762fDb8C5f4CF",
+      "symbol": "SMUPPY",
+      "name": "SMUPPYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 73,
+    "minor": 74,
     "patch": 72
   }
 }
