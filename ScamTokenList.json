@@ -106711,11 +106711,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60975A01E0DB41B11fEf4262B231bafc6F7E874f",
+      "symbol": "TANCHO",
+      "name": "RedCrane",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 20,
+    "minor": 21,
     "patch": 73
   }
 }
