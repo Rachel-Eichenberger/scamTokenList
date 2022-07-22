@@ -106623,11 +106623,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30e77484F4462645217A6Be324080fc1ed285536",
+      "symbol": "CUTENEKI",
+      "name": "CUTENeki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 12,
+    "minor": 13,
     "patch": 73
   }
 }
