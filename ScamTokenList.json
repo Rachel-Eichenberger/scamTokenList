@@ -106359,11 +106359,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b3bA995A6647f4a3A62234D586B22A0b1bE77A2",
+      "symbol": "WUSDC",
+      "name": "WhiteUSDC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 88,
+    "minor": 89,
     "patch": 72
   }
 }
