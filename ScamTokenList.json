@@ -106073,11 +106073,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74Fc9B53F5990CE514EBd6D37FE3CB04A25b3cA5",
+      "symbol": "KONG",
+      "name": "Warriorape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 62,
+    "minor": 63,
     "patch": 72
   }
 }
