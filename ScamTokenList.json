@@ -106139,11 +106139,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x279c23968222Bc70e556D727AE4483214C9ad6Dc",
+      "symbol": "GAPE",
+      "name": "GrandApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 68,
+    "minor": 69,
     "patch": 72
   }
 }
