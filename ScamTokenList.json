@@ -105941,11 +105941,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3578d61385721245B17Fe74cE34c46014020f2ed",
+      "symbol": "MC",
+      "name": "MOONCAT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 50,
+    "minor": 51,
     "patch": 72
   }
 }
