@@ -106062,11 +106062,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9B4153dd495659253a23c149c0759492F071464",
+      "symbol": "HERMES",
+      "name": "Paradise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 61,
+    "minor": 62,
     "patch": 72
   }
 }
