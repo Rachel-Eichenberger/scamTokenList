@@ -106282,11 +106282,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B5b7371281c91b4249E2fB8bb727c88ACA7df78",
+      "symbol": "TOKYO",
+      "name": "Tokyodrift",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 81,
+    "minor": 82,
     "patch": 72
   }
 }
