@@ -106645,11 +106645,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2A359312D7FcB36A4144b5D8c921Ff3C8c0FFe5",
+      "symbol": "DONKEY",
+      "name": "DonkeyDao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 14,
+    "minor": 15,
     "patch": 73
   }
 }
