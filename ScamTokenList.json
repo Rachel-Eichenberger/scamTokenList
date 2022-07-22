@@ -106634,11 +106634,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x291eEca20cE214AcFd692816D45074bf0f3e4712",
+      "symbol": "OLDCHAD",
+      "name": "OLDCHAD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 13,
+    "minor": 14,
     "patch": 73
   }
 }
