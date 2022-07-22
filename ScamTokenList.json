@@ -106117,11 +106117,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcFE6C9dE06d4F1dBd7f897c0440117609aca1A3C",
+      "symbol": "KOJIGAME",
+      "name": "KojimaGame",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 66,
+    "minor": 67,
     "patch": 72
   }
 }
