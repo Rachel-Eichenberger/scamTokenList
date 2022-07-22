@@ -106601,11 +106601,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b2B45163810F2c86E868Da669b3fc243354Aa0c",
+      "symbol": "SHINTO",
+      "name": "ShintoKami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 10,
+    "minor": 11,
     "patch": 73
   }
 }
