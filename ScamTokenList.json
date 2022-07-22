@@ -106469,11 +106469,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf96393421B83A81b47E9215aA21A474ca51459c",
+      "symbol": "GINTOKIINU",
+      "name": "GintokiSakataINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 98,
+    "minor": 99,
     "patch": 72
   }
 }
