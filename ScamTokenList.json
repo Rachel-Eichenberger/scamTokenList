@@ -105776,11 +105776,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC94b74e6da1B990F5363FF2092cdd647DD25e7e9",
+      "symbol": "REAPERBIKE",
+      "name": "REAPERBIKE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 35,
+    "minor": 36,
     "patch": 72
   }
 }
