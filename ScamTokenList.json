@@ -106579,11 +106579,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48129c7c3c33b6477dD35c15572b9444f5B8ea57",
+      "symbol": "RONIN",
+      "name": "Ronin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 8,
+    "minor": 9,
     "patch": 73
   }
 }
