@@ -106183,11 +106183,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72725abC87F315dfB0B490AA046381877E15F001",
+      "symbol": "GRIMOIRE",
+      "name": "ENCHANTED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 72,
+    "minor": 73,
     "patch": 72
   }
 }
