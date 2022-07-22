@@ -106018,11 +106018,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeCBEE109c34d73b2B43D97a925fcbd5C55E9dA28",
+      "symbol": "FINU",
+      "name": "FuckInuInuCunts",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 57,
+    "minor": 58,
     "patch": 72
   }
 }
