@@ -106315,11 +106315,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Cb4779da2B13ca2581267E7C098c25F7c13d2a2",
+      "symbol": "TEQUILA",
+      "name": "Tequila",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 84,
+    "minor": 85,
     "patch": 72
   }
 }
