@@ -105875,11 +105875,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a6fbD2a9A739BE240A224842282B8D26840e26C",
+      "symbol": "NURI",
+      "name": "Nurikabe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 44,
+    "minor": 45,
     "patch": 72
   }
 }
