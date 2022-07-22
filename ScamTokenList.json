@@ -106436,11 +106436,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37a6Bf76103300cFfa3d17cBf8C078Cbef170551",
+      "symbol": "OPTIMUS",
+      "name": "OptimusPrimed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 95,
+    "minor": 96,
     "patch": 72
   }
 }
