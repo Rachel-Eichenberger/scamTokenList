@@ -106227,11 +106227,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac9d41431edaAA3A83e2338dd2a93840B3ee8448",
+      "symbol": "INISUKA",
+      "name": "Inisuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 76,
+    "minor": 77,
     "patch": 72
   }
 }
