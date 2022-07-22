@@ -106150,11 +106150,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBca4B02a7D10f182aA585b7b0444ce9ef0EeB14b",
+      "symbol": "BIGFOOT",
+      "name": "Sasquatch",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 69,
+    "minor": 70,
     "patch": 72
   }
 }
