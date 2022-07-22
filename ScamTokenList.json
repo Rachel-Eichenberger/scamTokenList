@@ -106458,11 +106458,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6183dC39E5d80723C4F25aDb58d59A2aE62213e",
+      "symbol": "D3GN",
+      "name": "TERMINAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 97,
+    "minor": 98,
     "patch": 72
   }
 }
