@@ -105897,11 +105897,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6b2F90F82cBE630e3485bC08fFde741259e7ec8",
+      "symbol": "ATRIX",
+      "name": "AtariX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 46,
+    "minor": 47,
     "patch": 72
   }
 }
