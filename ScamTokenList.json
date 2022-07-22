@@ -106326,11 +106326,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8331715fD799E78dA8F0874eC6d93f27FEbdd68",
+      "symbol": "TWD",
+      "name": "Thewalkingdead",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 85,
+    "minor": 86,
     "patch": 72
   }
 }
