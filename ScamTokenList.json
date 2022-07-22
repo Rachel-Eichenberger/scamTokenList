@@ -105985,11 +105985,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDbe9807450aC6F058C168dC992b8D68113CeD3AA",
+      "symbol": "OKI",
+      "name": "OkidokiSocial",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 54,
+    "minor": 55,
     "patch": 72
   }
 }
