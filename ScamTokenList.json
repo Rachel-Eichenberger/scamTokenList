@@ -106700,11 +106700,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDe3b2277935fc03AE983e033DeedC6581c4F10e1",
+      "symbol": "DETH",
+      "name": "DarkEthereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 19,
+    "minor": 20,
     "patch": 73
   }
 }
