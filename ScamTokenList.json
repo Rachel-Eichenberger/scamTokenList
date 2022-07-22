@@ -105996,11 +105996,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87f95A771dEb8B08F4BC7a5ffd942682C881f628",
+      "symbol": "KEKSTA",
+      "name": "DejitaruKeksta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 55,
+    "minor": 56,
     "patch": 72
   }
 }
