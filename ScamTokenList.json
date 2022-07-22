@@ -105864,11 +105864,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA1b7c2AC583aB1005F38AE3d9c03b5097bb3502",
+      "symbol": "ULTIMATE",
+      "name": "ultimate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 43,
+    "minor": 44,
     "patch": 72
   }
 }
