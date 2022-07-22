@@ -106480,11 +106480,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e0053eC30e4A23aa1bDdC0124362F03b8BCB0Bf",
+      "symbol": "SCEEMS",
+      "name": "SantaCheems",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 74,
-    "minor": 99,
-    "patch": 72
+    "major": 75,
+    "minor": 0,
+    "patch": 73
   }
 }
