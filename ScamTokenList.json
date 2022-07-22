@@ -106766,11 +106766,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6616Bb9eaf9Af3F4712DeF0DcAd3335CDa507424",
+      "symbol": "HCHIMP",
+      "name": "HOODCHIMP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 25,
+    "minor": 26,
     "patch": 73
   }
 }
