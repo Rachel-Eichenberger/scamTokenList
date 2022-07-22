@@ -106029,11 +106029,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x069402fd3BeF9FBeDb81e254D6411dA614c6B751",
+      "symbol": "TARTARUS",
+      "name": "Tartarus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 58,
+    "minor": 59,
     "patch": 72
   }
 }
