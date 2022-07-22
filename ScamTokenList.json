@@ -105908,11 +105908,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Eb8f34964Bd748a58Bf0f1471Ff24724ba14E83",
+      "symbol": "ALPHAX",
+      "name": "AlphaElites",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 74,
-    "minor": 47,
+    "minor": 48,
     "patch": 72
   }
 }
