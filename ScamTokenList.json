@@ -106491,11 +106491,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa89dBCA74D3B06c1b8BF3021335F2789Ecf6FA02",
+      "symbol": "DRAGONGIRL",
+      "name": "DRAGONGIRL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 0,
+    "minor": 1,
     "patch": 73
   }
 }
