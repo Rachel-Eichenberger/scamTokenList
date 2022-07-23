@@ -107470,11 +107470,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52C4E00c0a607750e9aeCf5a7797164e13855de8",
+      "symbol": "ARC",
+      "name": "ARCHITECTUS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 89,
+    "minor": 90,
     "patch": 73
   }
 }
