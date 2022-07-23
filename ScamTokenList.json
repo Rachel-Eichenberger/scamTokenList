@@ -107360,11 +107360,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4C311C7C1c8b0ccB3fe5fAb4a800C7561613F25",
+      "symbol": "OCCULT",
+      "name": "KABBALAH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 79,
+    "minor": 80,
     "patch": 73
   }
 }
