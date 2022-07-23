@@ -107250,11 +107250,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDa470431B42a14b88B6867Ba1FDE31793BBfD12C",
+      "symbol": "THORINU",
+      "name": "ThorInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 69,
+    "minor": 70,
     "patch": 73
   }
 }
