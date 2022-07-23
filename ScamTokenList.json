@@ -107349,11 +107349,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2007747D26d266782935bfABbDA5B0F1864Eb135",
+      "symbol": "FIDUS",
+      "name": "FIDUSFINANCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 78,
+    "minor": 79,
     "patch": 73
   }
 }
