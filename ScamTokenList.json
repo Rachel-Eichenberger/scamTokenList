@@ -107140,11 +107140,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe67558D59D91FB9882AA5Bf77055e2c98e955fe4",
+      "symbol": "SAO",
+      "name": "SwordArtOnline",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 59,
+    "minor": 60,
     "patch": 73
   }
 }
