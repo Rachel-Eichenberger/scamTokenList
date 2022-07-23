@@ -106898,11 +106898,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7aB6696f14C6c6A7A94b61f734efbAeF164fF78",
+      "symbol": "APEBIRD",
+      "name": "ApeBird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 37,
+    "minor": 38,
     "patch": 73
   }
 }
