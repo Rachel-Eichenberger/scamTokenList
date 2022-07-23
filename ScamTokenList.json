@@ -107800,11 +107800,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x306c4f926c3C9af4ef45dBE4e88F23f774930a5d",
+      "symbol": "JSM",
+      "name": "JeSuisMonte",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 20,
+    "minor": 21,
     "patch": 74
   }
 }
