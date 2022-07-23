@@ -107789,11 +107789,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0eC21bBe983CFF125Dd0e145cBE6F8a75c7c2934",
+      "symbol": "KILLERINU",
+      "name": "KillerInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 19,
+    "minor": 20,
     "patch": 74
   }
 }
