@@ -107712,11 +107712,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x783d9a0c1625a160537a479547E83207C0252FAD",
+      "symbol": "DIPS",
+      "name": "Dips",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 12,
+    "minor": 13,
     "patch": 74
   }
 }
