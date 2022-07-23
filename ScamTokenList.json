@@ -107866,11 +107866,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EBB5778E7C64c0a058CFda5e087A4B18859B39b",
+      "symbol": "KITO",
+      "name": "Kitojin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 26,
+    "minor": 27,
     "patch": 74
   }
 }
