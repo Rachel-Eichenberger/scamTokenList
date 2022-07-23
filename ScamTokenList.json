@@ -107558,11 +107558,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F7d317737b4256Fb4aC361b2162461DA6b6B667",
+      "symbol": "PASS",
+      "name": "TheGoldenPortal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 98,
+    "minor": 99,
     "patch": 73
   }
 }
