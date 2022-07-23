@@ -107547,11 +107547,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7311E2114D89AB5F85fE5013Cd33FE07297c0Fdb",
+      "symbol": "TAR",
+      "name": "TaR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 96,
+    "minor": 98,
     "patch": 73
   }
 }
