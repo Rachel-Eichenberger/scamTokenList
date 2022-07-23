@@ -107426,11 +107426,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6CE48cA77Cfd098D3B2B576dB9A96Ae9a1E1eD05",
+      "symbol": "KAREN",
+      "name": "KarensDiner",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 85,
+    "minor": 86,
     "patch": 73
   }
 }
