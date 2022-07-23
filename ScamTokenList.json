@@ -107371,11 +107371,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF61D2F806566f98A77180FCcff61c4DC37249372",
+      "symbol": "ABANDON",
+      "name": "Forlese",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 80,
+    "minor": 81,
     "patch": 73
   }
 }
