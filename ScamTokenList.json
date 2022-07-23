@@ -106887,11 +106887,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0973C6b95D093fcAf5752bff5878d396207A411",
+      "symbol": "COSMICALIEN",
+      "name": "COSMICALIEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 36,
+    "minor": 37,
     "patch": 73
   }
 }
