@@ -107283,11 +107283,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0803594cB3B85ae531721D313fb1099c168473FD",
+      "symbol": "ILLUSION",
+      "name": "Illusion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 72,
+    "minor": 73,
     "patch": 73
   }
 }
