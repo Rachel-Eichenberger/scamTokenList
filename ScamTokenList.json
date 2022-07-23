@@ -107294,11 +107294,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0afd745e7B581BFEFb2b8178Fa20a1A97Ee8a7fC",
+      "symbol": "RLTC",
+      "name": "Reluctant",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 73,
+    "minor": 74,
     "patch": 73
   }
 }
