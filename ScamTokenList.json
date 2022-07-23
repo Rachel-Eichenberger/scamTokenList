@@ -106986,11 +106986,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe8025380E69C48666c197D2EBF5D1a83669C577",
+      "symbol": "SURGE",
+      "name": "SurgeDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 45,
+    "minor": 46,
     "patch": 73
   }
 }
