@@ -107833,11 +107833,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff0dC29808D6Af5f6392f74A9Cc62D9695C581C4",
+      "symbol": "TAP",
+      "name": "TAPCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 23,
+    "minor": 24,
     "patch": 74
   }
 }
