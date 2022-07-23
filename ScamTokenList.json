@@ -107074,11 +107074,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76cacB1d83262688F51a6d79818C4e5e7cb37073",
+      "symbol": "NURE",
+      "name": "Nureonna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 53,
+    "minor": 54,
     "patch": 73
   }
 }
