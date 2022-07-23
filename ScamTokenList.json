@@ -107591,11 +107591,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7BA19b6AaF3760576618ee3db7ef35c9504F7E08",
+      "symbol": "APES",
+      "name": "ApesArmy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 1,
+    "minor": 2,
     "patch": 74
   }
 }
