@@ -106975,11 +106975,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CCbA7E0160b138137bB55a00fe9Db7057F91D9e",
+      "symbol": "DEGENDS",
+      "name": "DEGENDS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 44,
+    "minor": 45,
     "patch": 73
   }
 }
