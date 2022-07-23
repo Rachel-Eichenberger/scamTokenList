@@ -107481,11 +107481,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDf73E7fe00F3893EC33Dc59d7939d3c8603f14e8",
+      "symbol": "MARIO",
+      "name": "MarioSnipe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 90,
+    "minor": 91,
     "patch": 73
   }
 }
