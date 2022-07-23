@@ -107767,11 +107767,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Fb7289eC8C7b9f8395754c65d740d8E05763808",
+      "symbol": "HINU",
+      "name": "HEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 17,
+    "minor": 18,
     "patch": 74
   }
 }
