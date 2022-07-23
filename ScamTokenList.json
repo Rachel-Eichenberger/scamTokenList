@@ -107085,11 +107085,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33b3Bb91e74F5bb1E2C0E80E53d51Df8BB1ab921",
+      "symbol": "KGM",
+      "name": "Kagami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 54,
+    "minor": 55,
     "patch": 73
   }
 }
