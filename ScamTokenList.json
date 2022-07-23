@@ -107569,11 +107569,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eE7Dbac7757fD9513D479190F5E6852e1674Dd1",
+      "symbol": "SEND",
+      "name": "SENDETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 75,
-    "minor": 99,
-    "patch": 73
+    "major": 76,
+    "minor": 0,
+    "patch": 74
   }
 }
