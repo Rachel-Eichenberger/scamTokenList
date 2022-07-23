@@ -107822,11 +107822,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x501e58BAc1dFE777f725aBe94BBE6a80c4197d7D",
+      "symbol": "MPOX",
+      "name": "Monkeypox",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 22,
+    "minor": 23,
     "patch": 74
   }
 }
