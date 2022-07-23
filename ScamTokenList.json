@@ -106953,11 +106953,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbA3bE8DbDA2398a2069018DEbD7E67f673D3b741",
+      "symbol": "KATANA",
+      "name": "DejitaruKatana",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 42,
+    "minor": 43,
     "patch": 73
   }
 }
