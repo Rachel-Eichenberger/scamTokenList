@@ -107701,11 +107701,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E853129321349f81b34b29c0CA60F7302372BBc",
+      "symbol": "WAKAWAKAINU",
+      "name": "WAKAWAKAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 11,
+    "minor": 12,
     "patch": 74
   }
 }
