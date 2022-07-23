@@ -107041,11 +107041,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3E019ca34eD53aa6D174f40808E0162fdDf91Fb",
+      "symbol": "SLUT",
+      "name": "SLUTSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 50,
+    "minor": 51,
     "patch": 73
   }
 }
