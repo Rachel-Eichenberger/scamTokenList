@@ -107272,11 +107272,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD992eD3126721Fe6D18BF2047Ba9689F43a6B1Dd",
+      "symbol": "APEG",
+      "name": "APEGOLD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 71,
+    "minor": 72,
     "patch": 73
   }
 }
