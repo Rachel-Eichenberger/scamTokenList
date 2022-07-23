@@ -107690,11 +107690,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5eEB982ae2ec95500A3d9Cf9c3f57A034e76a40",
+      "symbol": "FISHERMAN",
+      "name": "FISHERMAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 10,
+    "minor": 11,
     "patch": 74
   }
 }
