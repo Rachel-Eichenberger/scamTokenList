@@ -107844,11 +107844,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f799C46EE8eaa7907c4D32008fcb28fCB2e2331",
+      "symbol": "ASHITA",
+      "name": "KoishikawaYuki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 24,
+    "minor": 25,
     "patch": 74
   }
 }
