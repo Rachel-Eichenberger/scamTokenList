@@ -106909,11 +106909,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f253A8B3143a705B23ba0c2093bB0566eeB45BC",
+      "symbol": "RASEN",
+      "name": "InfiniteSpiral",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 38,
+    "minor": 39,
     "patch": 73
   }
 }
