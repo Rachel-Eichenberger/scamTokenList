@@ -106931,11 +106931,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b16c677BD9c5bCC1453b8539B70c9aE1F0399b5",
+      "symbol": "CLIFF",
+      "name": "CliffTwoZero",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 40,
+    "minor": 41,
     "patch": 73
   }
 }
