@@ -107492,11 +107492,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1255561caA39ff7131F1FE8732a2Ea46a395990A",
+      "symbol": "YODIUM",
+      "name": "YODIUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 91,
+    "minor": 92,
     "patch": 73
   }
 }
