@@ -107415,11 +107415,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x802D63eeedbd511eFA84147DA8Ce2ac775f9c863",
+      "symbol": "SHARP",
+      "name": "Cheddar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 84,
+    "minor": 85,
     "patch": 73
   }
 }
