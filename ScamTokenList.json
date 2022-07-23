@@ -107745,11 +107745,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c1Ca87369a84fA80345182D60B8459605b22685",
+      "symbol": "KATSUMI",
+      "name": "Katsumi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 15,
+    "minor": 16,
     "patch": 74
   }
 }
