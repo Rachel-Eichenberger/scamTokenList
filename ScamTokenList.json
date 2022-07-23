@@ -106964,11 +106964,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFdf89A4C68E348AeCd3c2CCDb42902B184579886",
+      "symbol": "FOOKS",
+      "name": "FOOKS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 43,
+    "minor": 44,
     "patch": 73
   }
 }
