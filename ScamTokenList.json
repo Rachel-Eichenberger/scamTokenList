@@ -107811,11 +107811,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30e7605cc499C008df05A3EF95520A326247D377",
+      "symbol": "SUKEHIRO",
+      "name": "Sukehiro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 21,
+    "minor": 22,
     "patch": 74
   }
 }
