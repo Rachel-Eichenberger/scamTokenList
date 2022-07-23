@@ -107008,11 +107008,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5d98AdCdb8D0Cd3eDbC89669a4FdcF2d98dc88E",
+      "symbol": "SAM",
+      "name": "SAMURAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 47,
+    "minor": 48,
     "patch": 73
   }
 }
