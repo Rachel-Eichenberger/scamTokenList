@@ -107679,11 +107679,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5853F9402F8b4e03E2263cA6AB8568eA099E1bC4",
+      "symbol": "USHI",
+      "name": "UrashimaTaro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 9,
+    "minor": 10,
     "patch": 74
   }
 }
