@@ -107778,11 +107778,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x569615987e5126D222375514891cee0b1FFA35B4",
+      "symbol": "ENG",
+      "name": "ENIGMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 18,
+    "minor": 19,
     "patch": 74
   }
 }
