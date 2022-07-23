@@ -107613,11 +107613,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70AE7FD62D96778fc2856Ef95CbD5F1C30e1b7aD",
+      "symbol": "FSOCIETY",
+      "name": "FSOCIETY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 3,
+    "minor": 4,
     "patch": 74
   }
 }
