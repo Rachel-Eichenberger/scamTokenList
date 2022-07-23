@@ -107063,11 +107063,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3dC3508BBEEc4B6A5FAa9460C3434B0bA3d143A7",
+      "symbol": "ORPHEUS",
+      "name": "Orpheus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 52,
+    "minor": 53,
     "patch": 73
   }
 }
