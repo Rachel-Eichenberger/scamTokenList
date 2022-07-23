@@ -107437,11 +107437,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62D10c55609Ed2C91c846550264C844290dd289a",
+      "symbol": "WIND",
+      "name": "Storm",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 86,
+    "minor": 87,
     "patch": 73
   }
 }
