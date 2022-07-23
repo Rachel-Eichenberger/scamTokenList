@@ -107459,11 +107459,22 @@
       "tags": [
         "ProxyScam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a9e152aeBFCEd1ba6595548c4e09a2e10C538a2",
+      "symbol": "VAL",
+      "name": "Valand",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 88,
+    "minor": 89,
     "patch": 73
   }
 }
