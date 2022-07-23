@@ -107888,11 +107888,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa48000EE4AdB1599DC66695FF187B2c0c6138a7E",
+      "symbol": "PROTOCOL",
+      "name": "Protocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 28,
+    "minor": 29,
     "patch": 74
   }
 }
