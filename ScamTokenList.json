@@ -106942,11 +106942,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x729d56B5C541D10D9d37a11DcDb0A78a79949961",
+      "symbol": "WAX",
+      "name": "WARRIORX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 41,
+    "minor": 42,
     "patch": 73
   }
 }
