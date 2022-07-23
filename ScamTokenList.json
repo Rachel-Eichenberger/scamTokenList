@@ -107525,11 +107525,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3ae7C5Df3f41567E003cd4cc8899e9c0e787306D",
+      "symbol": "YSR",
+      "name": "Yasmere",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 94,
+    "minor": 95,
     "patch": 73
   }
 }
