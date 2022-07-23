@@ -107316,11 +107316,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5E83Dd92bB901dcCEeF05940DE4426f509E3C65",
+      "symbol": "MINU",
+      "name": "MarmadukeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 75,
+    "minor": 76,
     "patch": 73
   }
 }
