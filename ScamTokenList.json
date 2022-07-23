@@ -107107,11 +107107,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61d95cDa1e5258A7154914D7EaA5A0175a4101e6",
+      "symbol": "GIZOGE",
+      "name": "GizaDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 56,
+    "minor": 57,
     "patch": 73
   }
 }
