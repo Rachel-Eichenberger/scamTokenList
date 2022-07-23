@@ -107096,11 +107096,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83B965f383cAd2Cc23901AEd0A8aF3f1f07b9919",
+      "symbol": "GVRBANK",
+      "name": "GroveBankToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 55,
+    "minor": 56,
     "patch": 73
   }
 }
