@@ -107657,11 +107657,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB37Fd9Ed55c578f2545293F36B9168A594a8781",
+      "symbol": "SAIGETSU",
+      "name": "Saigetsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 7,
+    "minor": 8,
     "patch": 74
   }
 }
