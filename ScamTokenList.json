@@ -107448,11 +107448,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+      "symbol": "CULT",
+      "name": "CultDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "ProxyScam"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 87,
+    "minor": 88,
     "patch": 73
   }
 }
