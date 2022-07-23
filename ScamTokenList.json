@@ -107580,11 +107580,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe70Ea90718fD21471DB240F3baE343daece65f53",
+      "symbol": "USACOIN",
+      "name": "USACOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 0,
+    "minor": 1,
     "patch": 74
   }
 }
