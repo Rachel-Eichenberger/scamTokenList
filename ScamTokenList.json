@@ -107151,11 +107151,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9aC480888610061641b12b02527Cb48a3c299Fbf",
+      "symbol": "SDW",
+      "name": "SHADOWREALM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 60,
+    "minor": 61,
     "patch": 73
   }
 }
