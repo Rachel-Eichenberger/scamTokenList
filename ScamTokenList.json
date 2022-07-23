@@ -107206,11 +107206,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x568579E2be5b6BD90488D0Be49d57760cA24c5Ad",
+      "symbol": "MAXI",
+      "name": "MAXI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 65,
+    "minor": 66,
     "patch": 73
   }
 }
