@@ -107734,11 +107734,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x552BfC8837011885F2a1A45C086FA373CaC922F7",
+      "symbol": "PSYCH",
+      "name": "Psychedelic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 14,
+    "minor": 15,
     "patch": 74
   }
 }
