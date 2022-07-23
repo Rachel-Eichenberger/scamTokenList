@@ -107646,11 +107646,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9566Db3C10976f8E81b810a0b34fED4037dCBa78",
+      "symbol": "ASAMU",
+      "name": "AtomicSamurai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 6,
+    "minor": 7,
     "patch": 74
   }
 }
