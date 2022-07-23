@@ -107668,11 +107668,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6603978CFBdC954064c3c41658534d94973FF544",
+      "symbol": "KOTO",
+      "name": "Kotoamatsukami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 8,
+    "minor": 9,
     "patch": 74
   }
 }
