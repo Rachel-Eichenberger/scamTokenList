@@ -107305,11 +107305,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFecdCD5C778B5673A02Ca9962BE8c2b17f2b858b",
+      "symbol": "INFZ",
+      "name": "Influenza",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 74,
+    "minor": 75,
     "patch": 73
   }
 }
