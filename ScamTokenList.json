@@ -107338,11 +107338,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd866b9B9286DE19982d93Be6238c598D5137e66",
+      "symbol": "BURN",
+      "name": "Heat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 77,
+    "minor": 78,
     "patch": 73
   }
 }
