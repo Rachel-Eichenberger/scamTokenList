@@ -107118,11 +107118,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82b15210C746A2Cedf740D576E067Dc4bE88d8EC",
+      "symbol": "LO",
+      "name": "Tomb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 57,
+    "minor": 58,
     "patch": 73
   }
 }
