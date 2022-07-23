@@ -107228,11 +107228,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Edd7FBAEC98a65408b8c17571C44fB33eeCca94",
+      "symbol": "OUTSIDOOOOOR",
+      "name": "OUTSIDOOOOOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 75,
-    "minor": 67,
+    "minor": 68,
     "patch": 73
   }
 }
