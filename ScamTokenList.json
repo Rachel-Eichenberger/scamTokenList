@@ -107943,11 +107943,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e58cb7973cca306a315bc9bfB29D6Fd7eBc0178",
+      "symbol": "CONI",
+      "name": "ConanInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 33,
+    "minor": 34,
     "patch": 74
   }
 }
