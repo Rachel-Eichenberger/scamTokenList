@@ -107910,11 +107910,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAAE6aaFD363D6b9Cb1917f9f6A28c215847f873f",
+      "symbol": "DTMZ",
+      "name": "DegenTimez",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 30,
+    "minor": 31,
     "patch": 74
   }
 }
