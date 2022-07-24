@@ -107954,11 +107954,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9212658516e32e98AB497117b09Dfd73A1281866",
+      "symbol": "MOONMAN",
+      "name": "MoonMan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 34,
+    "minor": 35,
     "patch": 74
   }
 }
