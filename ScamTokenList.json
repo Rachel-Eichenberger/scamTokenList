@@ -107976,11 +107976,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1E7d0E0D7e5F2E574bEf0c3c18305df590C5bC9",
+      "symbol": "DUCKER",
+      "name": "Duckereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "ProxyScam"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 36,
+    "minor": 37,
     "patch": 74
   }
 }
