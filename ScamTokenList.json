@@ -107987,11 +107987,22 @@
       "tags": [
         "ProxyScam"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F62a30831841E3570A44928c10Cf1CA36562a13",
+      "symbol": "MARIO",
+      "name": "MarioInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 37,
+    "minor": 38,
     "patch": 74
   }
 }
