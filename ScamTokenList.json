@@ -107899,11 +107899,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23a8fB57E863c756C5ef362F7588b68d0DdA635D",
+      "symbol": "WALDO",
+      "name": "WaldoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 29,
+    "minor": 30,
     "patch": 74
   }
 }
