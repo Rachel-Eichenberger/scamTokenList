@@ -107921,11 +107921,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82C6c655d36034CA18463873A4b1a5CD4c4e7379",
+      "symbol": "DEEZNUTS",
+      "name": "DeezNuts",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 31,
+    "minor": 32,
     "patch": 74
   }
 }
