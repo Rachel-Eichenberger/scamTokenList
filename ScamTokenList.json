@@ -107932,11 +107932,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd4aF8B243A267d82C137B14BE87a5Ec8c82f60b",
+      "symbol": "TNZ",
+      "name": "TENZOU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 76,
-    "minor": 32,
+    "minor": 33,
     "patch": 74
   }
 }
